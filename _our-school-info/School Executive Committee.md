@@ -39,3 +39,10 @@ description: ""
 |------------------------|------------------------------|
 | Head Of Department     | Mrs Junice Tay               |
 | Level Head             | Mdm Geraldine Chua Shan Shan |
+
+
+
+| <u>Science Department</u> |                         |
+|--------------------|-------------------------|
+| Head Of Department | Mrs Bhavani Chandra     |
+| Level Head         | Mrs Teo - Ong Puay Hoon |
