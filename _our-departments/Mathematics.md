@@ -94,7 +94,14 @@ The department believes in challenging students with high abilities in Math beyo
 
 |   |   |
 |---|---|
-| ![](/images/Our%20departments/Mathematics/Math_Olympiad_1.jpg)  | ![](/images/Our%20departments/Mathematics/Math_Olympiad_2.jpg)  |
+|![](/images/Our%20departments/Mathematics/Math_Olympiad_2.jpg)   |  ![](/images/Our%20departments/Mathematics/Math_Olympiad_1.jpg) |
+
+
+Our Primary 4 and Primary 5 students represented the school in external Math Olympiad competitions. They participated in the Annual Mathlympics organised by Anglo-Chinese School and National Mathematical Olympiad of Singapore (NMOS) organised by organised by NUS High School. They had garnered impressive results of 5 Bronze and 6 Honourable Mention. Congrats to our recipients
+
+### N3 Cluster Mathematics Games Day
+
+The N3 Cluster Mathematics Games Day organised yearly by Pei Hwa Secondary School aims to provide a platform for students to develop critical and creative thinking to solve problems through fun activities and how to learn how to work in teams. Two of our Primary 6 teams participated and had garnered impressive results. One team had achieved First Position (Champion) and anther team, Top 10 Placing.
 
 |   |   |
 |---|---|
