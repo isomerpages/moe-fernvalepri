@@ -26,10 +26,8 @@ Have a balanced sense of self, form healthy relationships, be resilient when fac
 * Future Readiness  
 Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work and life; and
 
-        ●       Active Citizenship
-
-                 Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and  
-                 the future, an awareness of the reality of Singapore's vulnerabilities and constraints, and the will to act on improving                     the lives of others and building a future for our nation.
+* Active Citizenship   
+Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore's vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
 
 CCE is enacted through learning platforms such as **CCE Lessons**, **Key Student Development Experiences (SDEs),** **school-based Initiatives** and **other subjects**.
 
