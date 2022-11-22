@@ -26,3 +26,7 @@ Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong 
 |   |   |
 |---|---|
 |  ![](/images/Our%20departments/Mathematics/P2%20pupils%20activity%20on%20Area%20concept.jpg) Students learn more about the concept of Area. |![](/images/Our%20departments/Mathematics/IMG_5185.jpg) Students apply their understanding of the concept of Volume to build solids using unit cubes  |
+
+|   |   |
+|---|---|
+| ![](/images/Our%20departments/Mathematics/20160322_113620.jpg)  |  ![](/images/Our%20departments/Mathematics/20160322_134129.jpg) |
