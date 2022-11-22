@@ -40,6 +40,5 @@ Website : [www.pacificbookstores.com](https://www.pacificbookstores.com/)
 
 The School uniform, PE attire and name tag are supplied by:  
 **Chop Kong Chong**  
-604 Sembawang Road #02-12 Sembawang Shopping Centre S758459
-
+604 Sembawang Road #02-12 Sembawang Shopping Centre S758459  
 Website: [www.euniforms.com.sg/aboutus.html](http://www.euniforms.com.sg/aboutus.html)
