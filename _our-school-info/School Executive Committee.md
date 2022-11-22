@@ -29,3 +29,8 @@ description: ""
 |--------------------------------|---------------------|
 | Year Head                      | Mr Elvin Benjamin   |
 | Assistant Year Head (Internal) | Mrs Amanda Galistan |
+
+| <u>English Department</u>  |                              |
+|---------------------|------------------------------|
+| Head Of Department  |                              |
+| Level Head          | Ms Jeyananthini d/o Jeyapal  |
