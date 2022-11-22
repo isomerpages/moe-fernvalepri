@@ -53,7 +53,7 @@ description: ""
 
 |                                               |
 |-----------------------------------------------|
-| <br>**Care**                                          |
+| **Care**                                          |
 | Mdm Raman Pearmavathi<br>(Mrs Pannir Chelvam) |
 | Ms Ma Sen Loo Theresa                         |
 |  <br>**Graciousness**                             |
@@ -88,7 +88,7 @@ description: ""
 
 |                                   |
 |-----------------------------------|
-| <br>**Care**                              |
+| **Care**                              |
 | Mr Roslie Bin Buang Sidik         |
 | Mr Chen Baolai                    |
 | Mdm Liew Siew Hui Eileen          |
@@ -115,7 +115,7 @@ description: ""
 
 |                                            |
 |--------------------------------------------|
-| <br>**Care**                                       |
+| **Care**                                       |
 | Ms Nuraini Binte Hamzah                    |
 | Mdm A R Shanthi                            |
 |  <br>**Graciousness**                          |
@@ -146,7 +146,7 @@ description: ""
 
 |                                    |
 |------------------------------------|
-| <br>**Care**                               |
+| **Care**                               |
 | Mrs Mabel Soh - Ong Hui Mei        |
 | Mdm Soh Seok Khim                  |
 | Mr Lee Yong Soon Gavin             |
@@ -171,5 +171,6 @@ description: ""
 | Mrs Ang - Choo Sok Ee Eunice       |
 | Mr Zachary Ng Eu Goi               |
 
-
 ### Primary 6
+
+
