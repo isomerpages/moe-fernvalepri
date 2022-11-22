@@ -175,7 +175,7 @@ description: ""
 
 |                                      |
 |--------------------------------------|
-| Care                                 |
+| **Care**                                 |
 | Mrs Low - Phua Eileen                |
 | Mrs Chandra - Bhavani d/o Rajagopal  |
 |  <br>**Graciousness**                    |
@@ -196,3 +196,23 @@ description: ""
 | Mr Song Hwee Tong Clement            |
 | Mr Goh Tong Wee                      |
 
+
+## School Admin Team
+
+|                               |                                    |
+|-------------------------------|------------------------------------|
+| Operations Manager            | Mr Chiang Teng Luan Alvin          |
+| Administrative Manager        | Miss Diane Tiu On Ki               |
+| Administrative Manager        | Mdm Tan Mui Leng Catherine         |
+| Administrative Executive (MK) | Mdm Chong Li Ping Claudia          |
+| Administrative Executive      | Ms Siti Nursuaibah Bte Ramlan      |
+| ICT Associate                 | Mdm Adilah Bte Ramlan              |
+| Customer Service Officer      | Mdm Saniah Bte Nadin               |
+| Customer Service Officer      | Mdm Eileen Goh Guan Chew           |
+| Customer Service Officer      | Mdm Irene Oong Ai Ing              |
+| Operations Support Officer    | Mdm Elizabeth D/O Chellaiya        |
+| Operations Support Officer    | Mdm Tan Guat Beng                  |
+| Operations Support Officer    | Mdm Makasvery D/O Periakaruppan C  |
+| Operations Support Officer    | Mr Toh Kim Huat                    |
+| Operations Support Officer    | Mr Chua Leng Hock                  |
+| Operations Support Officer    | Mdm Chan Yuen Yee Kenix            |
