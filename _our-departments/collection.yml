@@ -2,11 +2,11 @@ collections:
   our-departments:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Character and Citizenship Education.md
-      - CCE/Cyberwellness.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
       - Mathematics.md
       - Aesthetics.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Cyberwellness.md
