@@ -56,10 +56,8 @@ Interactive Math Trails help Primary 1 to 6 students value Mathematics by givi
 | ![](/images/Our%20departments/Mathematics/Math_Trail_3.png)  | ![](/images/Our%20departments/Mathematics/Math_Trail_4.png)  |
 
 
-
-![](/images/Our%20departments/Mathematics/Math_Trail_5.png)
-
-![](/images/Our%20departments/Mathematics/Math_Trail_6.jpg)
+ <img src=" /images/Our%20departments/Mathematics/Math_Trail_5.png" style="width:50%; float:left; padding: 10px"> 
+ <img src="/images/Our%20departments/Mathematics/Math_Trail_6.jpg" style="width:50%; float:left; padding: 10px">
 
 
 ![](/images/Our%20departments/Mathematics/IMG_9292_Math%20Trail_1.jpeg)
