@@ -144,4 +144,32 @@ description: ""
 
 ### Primary 5
 
+|                                    |
+|------------------------------------|
+| <br>**Care**                               |
+| Mrs Mabel Soh - Ong Hui Mei        |
+| Mdm Soh Seok Khim                  |
+| Mr Lee Yong Soon Gavin             |
+|  <br>**Graciousness**                  |
+| Mrs Amanda Galistan - Lee Hui Shan |
+| Mrs Teo - Ong Puay Hoon            |
+| Ms Seng Huixian, Cheryl            |
+|  <br>**Integrity**                     |
+| Mdm Ang Chye Chen Jackie           |
+| Mr Jaron Yap Jie Han               |
+| Mr Peck Chin Hee Gregory           |
+|  <br>**Resilience**                    |
+| Ms Feng Yue                        |
+| Ms Vimala Devi d/o P Kanaran       |
+| Mr Fariz Husna Bin Sajani          |
+|  <br>**Respect**                       |
+| Ms Lim Huey Tyng Joanna            |
+| Mdm Geraldine Chua Shan Shan       |
+| Mdm Lee Bee Leng                   |
+|  <br>**Responsibility**                |
+| Ms Lim Xi Min, Shermin             |
+| Mrs Ang - Choo Sok Ee Eunice       |
+| Mr Zachary Ng Eu Goi               |
+
+
 ### Primary 6
