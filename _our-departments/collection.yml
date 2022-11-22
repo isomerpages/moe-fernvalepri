@@ -2,9 +2,9 @@ collections:
   our-departments:
     output: true
     order:
-      - CCE/Cyberwellness.md
-      - CCE/Character and Citizenship Education.md
       - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Cyberwellness.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
