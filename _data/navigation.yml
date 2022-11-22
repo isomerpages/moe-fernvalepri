@@ -2,9 +2,7 @@ logo: /images/logo.png
 links:
   - title: Our School Info
     collection: our-school-info
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Departments
+    collection: our-departments
   - title: Forms
     url: /forms
