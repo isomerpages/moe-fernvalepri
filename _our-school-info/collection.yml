@@ -2,5 +2,5 @@ collections:
   our-school-info:
     output: true
     order:
-      - Our Mission.md
       - Our Crest.md
+      - Our Mission.md
