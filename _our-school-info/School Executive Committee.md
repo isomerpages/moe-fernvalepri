@@ -14,3 +14,8 @@ description: ""
 |                        |                           |
 |------------------------|---------------------------|
 | School Staff Developer | Mrs Mabel Soh–Ong Hui Mei |
+
+|    <u>P1 & P2</u>                |                     |
+|---------------------|---------------------|
+| Year Head           | Ms Ivy Ho           |
+| Assistant Year Head | Mdm Alison Oliveiro |
