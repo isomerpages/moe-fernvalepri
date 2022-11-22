@@ -6,6 +6,84 @@ description: ""
 # Our Rules & Regulations
 ![](/images/Our%20school%20info/FVPS%20Student%20Pic.jpg)
 
+<table>
+<tbody>
+<tr>
+<td colspan="4" width="616">
+<p><strong>National Anthem and Pledge Taking</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="4">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart. </td>
+</tr>
+<tr>
+<td colspan="4"><strong>Be Present and Punctual</strong> </td>
+</tr>
+<tr>
+<td colspan="2" width="301">
+<p>Attendance</p>
+</td>
+<td width="155">
+<p>Offence</p>
+</td>
+<td width="160">
+<p>Corrective Action</p>
+</td>
+</tr>
+<tr>
+<td><br><br><br><br><br>1.1<br><br><br><br><br><br><br></td>
+<td>Students will be deemed as late for school if they arrive after 7.30am at their assembly area.</td>
+<td> Latecoming</td>
+<td>
+<p>Students will be counselled by their Form Teachers. Parents/Guardians will be informed via the Student&rsquo;s diary/phone call from the Form Teacher.&nbsp;</p>
+<p>Letter of reminder will be issued by Discipline Master (DM) informing parents/guardians of frequent latecomers.&nbsp;</p>
+<p>Parents/Guardians of frequent latecomers may be required to attend meetings with Form Teachers/DM.&nbsp;</p>
+<p>Detention Class for up to 5 days till 5pm.</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;1.2</td>
+<td>Students must be punctual for CCAs, remedial/&nbsp;supplementary classes, enrichment programmes&nbsp;and&nbsp;any other school activities.&nbsp;</td>
+<td>Latecoming&nbsp;</td>
+<td>
+<p>Students will be counselled by their Form Teachers. Parents/Guardians will be informed via the Student&rsquo;s diary/phone call from the Form Teacher.&nbsp;</p>
+<p>Letter of reminder will be issued by Discipline Master (DM) informing parents/guardians of frequent latecomers.&nbsp;</p>
+<p>Parents/Guardians of frequent latecomers may be required to attend meetings with Form Teachers/DM.&nbsp;</p>
+<p>Detention Class for up to 5 days till 5pm.</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>1.3</p>
+</td>
+<td width="266">
+<p>Students&rsquo; absence from school must be accompanied by a Medical Certificate (MC) or a letter of excuse from parent.</p>
+</td>
+<td width="155">
+<p>Truancy</p>
+</td>
+<td width="160">
+<p>Letter of Warning will be issued by the DM.&nbsp;</p>
+<p>Detention Class for up to 5 days up till 5 pm.</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>1.4</p>
+</td>
+<td width="266">Students who need to leave the school early must seek permission from the class teacher and report to the office. Parents will be called to fetch the student home.</td>
+<td width="155">
+<p>Leaving school grounds without permission</p>
+</td>
+<td width="160">
+<p>Letter of Warning will be issued by the DM.</p>
+<p><br />Detention Class for up to 5 days up till 5pm.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <table width="616">
 <tbody>
 <tr>
