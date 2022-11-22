@@ -30,3 +30,15 @@ Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong 
 |   |   |
 |---|---|
 | ![](/images/Our%20departments/Mathematics/20160322_113620.jpg) Students learn how to read and measure an angle in degrees from a protractor. |  ![](/images/Our%20departments/Mathematics/20160322_134129.jpg) Students read and write tenths, hundredths & thousandths in decimal form. |
+
+|   |   |
+|---|---|
+|![](/images/Our%20departments/Mathematics/Math_Activity_1.jpg)   | ![](/images/Our%20departments/Mathematics/Math_Activity_2.jpg)  |
+
+|   |   |
+|---|---|
+|   |   |
+
+|   |   |
+|---|---|
+|   |   |
