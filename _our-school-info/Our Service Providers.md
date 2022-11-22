@@ -27,3 +27,11 @@ Website : [www.pacificbookstores.com](https://www.pacificbookstores.com/)
 | Open To Parents   | 2:30pm to 3:00pm   |
 | Lunch Hours       | 11:30am to 12:30pm |
 | Contact No        |  63156925          |
+
+## School Buses
+
+#### Ren Quan Transport
+
+| Contact Details |          |
+|-----------------|----------|
+| Mr David Loh    | 96659336 |
