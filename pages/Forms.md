@@ -7,12 +7,12 @@ description: ""
 
 ## Fernvale Primary School Waitlist Using FormSG
 
- <img style="width:8%; float:left;padding:11px" src="/images/Forms-Icon.png"> <a target="_blank" href="https://go.gov.sg/fvps-waitlist">Click here to launch Waitlist Form</a>
+ <img src="/images/Forms-Icon.png" style="width:8%; float:left;padding:11px"> <a href="https://go.gov.sg/fvps-waitlist" target="_blank">Click here to launch Waitlist Form</a>
 
 
 ## Application Form for Leave of Absence (LOA) Using FormSG
 
- <img style="width:8%; float:left;padding:11px" src="/images/Forms-Icon.png"> <a target="_blank" href="https://go.gov.sg/fvps-loa">Click here to launch LOA FormSG</a>
+ <img src="/images/Forms-Icon.png" style="width:8%; float:left;padding:11px"> <a href="https://go.gov.sg/fvps-loa" target="_blank">Click here to launch LOA FormSG</a>
 
 ## Parent Support Group Form
 
@@ -21,8 +21,8 @@ Please use this form to sign up for PSG.
 [Click here to launch PSG Form](https://go.gov.sg/fvps-psg-signup)  
   
 
-ICT/AV Services Request Form (Form B)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Please make your bookings at least (3) days earlier.&nbsp;Availability is based on first-come-first served basis &nbsp;
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ICT/AV Services Request Form (Form B)    Please make your bookings at least (3) days earlier. Availability is based on first-come-first served basis 
+
 
 Please use this form to request services such as setup of PA System, PCs/Laptops, Mobile Cart booking and Loan of Equipment.&nbsp;&nbsp; &nbsp; &nbsp;  
 
