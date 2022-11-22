@@ -17,4 +17,15 @@ description: ""
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Confident Leaders | • Demonstrate schools values<br>• Communicate effectively<br>• Display leadership skills                                                                                                                 |
 | Lifelong Learners | • Take responsibility for their own learning<br>• Think critically and creatively to solve problems<br>• Work together as a team<br>• Pursue an active lifestyle and a sense aesthetics<br>• Learn digitally |
-| Active Citizens   | • Appreciate cultural diversity<br>• Serve the community<br>• Care for the environment                                                                                                                   |
+| Active Citizens   | • Appreciate cultural diversity<br>• Serve the community<br>• Care for the environment      |
+
+## Our Values
+
+|                |                                                                                                                                 |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Graciousness   | • Quality of being kind and gentle<br>• Excellent manners and social conduct                                                        |
+| Integrity      | • Moral soundness<br>• Quality of being honest and firm in one's moral principles                                                   |
+| Respect        | • Deference<br>• Reverence<br>• Willingness to show considerations or appreciation                                                    |
+| Responsibility | • Ability to behave properly and make the right decisions without the need to be watched or controlled<br>• Trustworthiness<br>• Duty |
+| Resilience     | • The ability to recover quickly from a setback or misfortune                                                                     |
+| Care           | • The ability to display concern through acts of kindness and compassion to oneself, others and the environment                   |
