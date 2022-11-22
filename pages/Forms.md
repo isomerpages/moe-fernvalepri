@@ -7,17 +7,13 @@ description: ""
 
 ## Fernvale Primary School Waitlist Using FormSG
 
- <img src="/images/Forms-Icon.png" style="width:8%; float:left;padding:11px"> <a href="https://go.gov.sg/fvps-waitlist" target="_blank">Click here to launch Waitlist Form</a>
+ <img style="width:8%; float:left;padding:11px" src="/images/Forms-Icon.png"> <a target="_blank" href="https://go.gov.sg/fvps-waitlist">Click here to launch Waitlist Form</a>
 
 
- 
+## Application Form for Leave of Absence (LOA) Using FormSG
 
-
-
-Application Form for Leave of Absence (LOA) Using FormSG
---------------------------------------------------------
-
-![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png)[Click here to launch LOA FormSG](https://go.gov.sg/fvps-loa)
+ <img style="width:8%; float:left;padding:11px" src="/images/Forms-Icon.png"> <a target="_blank" href="https://go.gov.sg/fvps-loa">Click here to launch LOA FormSG</a>
+![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png)[]()
 
 Parent Support Group Form
 -------------------------
