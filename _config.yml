@@ -1,8 +1,8 @@
-title: Title
+title: Fernvale Primary School
 url: https://fernvalepri.moe.edu.sg
 favicon: /images/logoFVhighres.jpg
 colors:
-  primary-color: "#6031b6"
+  primary-color: "#417505"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
