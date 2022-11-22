@@ -240,7 +240,7 @@ FT and Co FT will conduct a Uniform Check on Monday.<br><br>A. School T-Shirt to
 </td>
 <td width="284">
 <p>Detention Class for up to 5 days till 5pm</p>
-<div>A zero mark for that particular test/examination paper.<br></div>
+A zero mark for that particular test/examination paper.<br>
 </td>
 </tr>
 <tr>
