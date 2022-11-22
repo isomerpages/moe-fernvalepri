@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Information and Communication Technology.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
@@ -11,3 +10,4 @@ collections:
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Cyberwellness.md
+      - Information and Communication Technology.md
