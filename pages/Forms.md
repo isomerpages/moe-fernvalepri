@@ -7,7 +7,7 @@ description: ""
 
 ## Fernvale Primary School Waitlist Using FormSG
 
- <img style="width:5%; float:left" src="/images/Forms-Icon.png"> <a target="_blank" href="https://go.gov.sg/fvps-waitlist">Click here to launch Waitlist Form</a>
+ <img src="/images/Forms-Icon.png" style="width:8%; float:left;padding:11px"> <a href="https://go.gov.sg/fvps-waitlist" target="_blank">Click here to launch Waitlist Form</a>
 
 
  
