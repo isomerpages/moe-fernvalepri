@@ -31,20 +31,20 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 
 CCE is enacted through learning platforms such as **CCE Lessons**, **Key Student Development Experiences (SDEs),** **school-based Initiatives** and **other subjects**.
 
-CCE Lessons
+<u>CCE Lessons</u>
 
 There is emphasis on explicit teaching of social-emotional competencies in CCE (FTGP). Topics related to developing citizenship dispositions are taught in CCE (FTGP) to foster inter-ethnic understanding and appreciation for one another's culture.  
   
-Key Student Development Experiences (SDEs)
+<u>Key Student Development Experiences (SDEs)</u>
 
 Student Development Experiences (SDEs) are learning experiences beyond the classroom that are integral to the holistic development of students. Purposefully planned SDEs provide students with varied and authentic opportunities to learn, apply and demonstrate values, good character, social-emotional competencies and citizenship dispositions. Through SDEs, students are also able to apply their learning from Character and Citizenship Education (CCE) Lessons to authentic contexts. These key SDEs include: Co-Curricular Activities, Education and Career Guidance Experiences (ECG), National Education Commemorative Days, Values in Action (VIA), Student Leadership Development Programmes and Cohort Learning Journeys.   
   
-Other subjects  
+<u>Other subjects</u> 
   
 Subjects such as Art, PE, English Language and MTL provide learning opportunities and teachable moments for students to learn and apply relevant values and social-emotional competencies.
 
 In particular, Social Studies prepares our students to be informed, concerned and participative citizens. Through the contexts of understanding the interconnectedness of Singapore and the world they live in, and appreciating the complexities of the human experience, SS helps students to acquire specific values and skills for the Humanities discipline, which are key for nurturing of citizenship dispositions.
 
-Caring and Enabling School Environment
+<u><b>Caring and Enabling School Environment</b></u>
 
 For CCE to have a lasting impact on our students, the school and classroom environment need to support their learning. A caring and enabling environment has five key features that help students feel safe, accepted, empowered, and competent. We establish and sustain these features, complementing them with a positive and proactive approach to discipline and early support and intervention.
