@@ -112,6 +112,12 @@ The programme challenges students to explore the subject beyond the core curricu
 
 ![](/images/Our%20departments/Mathematics/Math_E2K_2.jpg)
 
+### Professional Development & Learning
+
+Our teachers constantly engage themselves in professional development and learning opportunities to strengthen their pedagogical skills so as to enhance the learning and achievement of the students. Discussions of Math pedagogies and assessment strategies are regularly conducted via internal platforms such as the weekly Math PETALS and school-based bite-sized sharing sessions by the Senior Teachers, as well as expertise & support received from external agencies, e.g. North Zone cluster, Academy of Teachers of Singapore, (AST), MOE CPDD Math Unit and National Institute of Education (NIE)..
+
+![](/images/Our%20departments/Mathematics/Math_Teachers_1.jpg)
+
 |   |   |
 |---|---|
 |   |   |
