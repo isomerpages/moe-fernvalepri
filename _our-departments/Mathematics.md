@@ -62,7 +62,24 @@ Interactive Math Trails help Primary 1 to 6 students value Mathematics by givi
 
 ![](/images/Our%20departments/Mathematics/IMG_9292_Math%20Trail_1.jpeg)
 
+Lower Primary students apply their knowledge of ordinal numbers to locate their teachers on the Staff Display Board.
 
+### Learning Support Programme for Primary 1 & 2
+
+Learning Support for Mathematics Programme for selected P1& P2 pupils is an early intervention effort aimed at providing support to students who do not have foundational numeracy skills and knowledge to access thecurriculum. The LSM Programme adopts the ICAN Principles and incorporates the building of fundamental concepts through hands-on activities in its delivery of lessons. Students identified were supported by a LSM-trained teacher during the Math periods.
+
+
+|   |   |
+|---|---|
+| ![](/images/Our%20departments/Mathematics/Math_LSM_1.jpg)  | ![](/images/Our%20departments/Mathematics/Math_LSM_2.jpg)  |
+
+![](/images/Our%20departments/Mathematics/Math_LSM_3.jpg)
+
+![](/images/Our%20departments/Mathematics/Math_LSM_4.jpg)
+
+|   |   |
+|---|---|
+|   |   |
 
 |   |   |
 |---|---|
