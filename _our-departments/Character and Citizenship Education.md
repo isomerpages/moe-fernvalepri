@@ -5,9 +5,7 @@ description: ""
 ---
 # Character and Citizenship Education 
 
-### Character and Citizenship Education (CCE) is at the heart of education in Singapore.  
-
-### 
+Character and Citizenship Education (CCE) is at the heart of education in Singapore.  
 
 Through CCE, students learn **values, social-emotional competencies**, and   
 develop **character and citizenship dispositions** that will enable them to grow holistically and learn for life. 
