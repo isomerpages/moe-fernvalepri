@@ -18,11 +18,10 @@ Please note that this list serves as a guide to the learning objectives for the 
 
 <a href="/files/Our%20departments/P4%20STELLAR%20learning%20objectives.pdf" target="_blank">- P4 Stellar Learning Objectives</a>
 
-[\](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P1%20STELLAR%20learning%20objectives.pdf)  
-[\- P2 Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P2%20STELLAR%20learning%20objectives.pdf)  
-[\- P3 Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P3%20STELLAR%20learning%20objectives.pdf)  
-[\- P4 Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P4%20STELLAR%20learning%20objectives.pdf)  
-[\- P5 Std Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P5Std%20STELLAR%20learning%20objectives.pdf)  
-[\- P5 Fdn Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P5Fdn%20STELLAR%20learning%20objectives.pdf)  
-[\- P6 Std Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P6Std%20STELLAR%20learning%20objectives.pdf)  
-[\- P6 Fdn Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P6Fdn%20STELLAR%20learning%20objectives.pdf)
+<a href="/files/Our%20departments/P5Std%20STELLAR%20learning%20objectives.pdf" target="_blank">- P5 Std Stellar Learning Objectives</a>
+
+<a href="/files/Our%20departments/P5Fdn%20STELLAR%20learning%20objectives.pdf" target="_blank">- P5 Fdn Stellar Learning Objectives</a>
+
+<a href="/files/Our%20departments/P6Std%20STELLAR%20learning%20objectives.pdf" target="_blank">- P6 Std Stellar Learning Objectives</a>
+
+<a href="/files/Our%20departments/P6Fdn%20STELLAR%20learning%20objectives.pdf" target="_blank">- P6 Fdn Stellar Learning Objectives</a>
