@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - English Language/.keep
-      - English Language.md
