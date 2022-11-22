@@ -29,3 +29,12 @@ description: ""
 | Responsibility | • Ability to behave properly and make the right decisions without the need to be watched or controlled<br>• Trustworthiness<br>• Duty |
 | Resilience     | • The ability to recover quickly from a setback or misfortune                                                                     |
 | Care           | • The ability to display concern through acts of kindness and compassion to oneself, others and the environment                   |
+
+## Our Motto
+
+|  Dare to Aspire, Courage to Excel      |             |
+|---------|----------------|
+| Dare    | • Be brave<br>• Have initiative<br>• Have the spirit of wanting to challenge own limits  |
+| Aspire  | • Set goals that one wants to achieve<br>• Dream big                                   |
+| Courage | • Confidence<br>• Determination                                                        |
+| Excel   | • Always seek improvement<br>• Do well in all areas<br>• Gain recognition                |
