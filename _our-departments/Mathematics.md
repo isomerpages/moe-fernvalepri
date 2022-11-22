@@ -22,3 +22,7 @@ The department believes in creating a supportive and engaging learning environme
 Students participate in a range of authentic and interesting Activity-Based tasks and construct their knowledge and learning from these experiences. These lessons help our students build strong foundation in Mathematics with the use of supporting manipulatives and materials based on the Concrete-Pictorial-Abstract (C-P-A) approach.
 
 Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong foundation in the learning of Mathematics through the use of manipulatives and differentiated activity tasks
+
+|   |   |
+|---|---|
+|  ![](/images/Our%20departments/Mathematics/P2%20pupils%20activity%20on%20Area%20concept.jpg) |![](/images/Our%20departments/Mathematics/IMG_5185.jpg)   |
