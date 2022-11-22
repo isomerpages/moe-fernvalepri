@@ -55,3 +55,51 @@ description: ""
 | <u>Information & Communications Technology</u> |              |
 |-----------------------------------------|--------------|
 | Head Of Department                      | Mr Gavin Lee |
+
+| <u>PE & CCA</u>             |                          |
+|----------------------|--------------------------|
+| Head Of Department   | Ms Phua Eileen (Mrs Low) |
+| Subject Head         | Mdm Liza Binti Ismail    |
+
+| <u>Aesthetics</u>                 |                            |
+|----------------------------|----------------------------|
+| Subject Head(Art & Craft)  | Mdm Julia Bte Mohd Rahim   |
+
+| <u>Special Project (Innovation)</u>  |                           |
+|-------------------------------|---------------------------|
+| Head Of Department            | Mr Peck Chin Hee Gregory  |
+| Subject Head                  | Mdm Teo Ying Zhi          |
+
+| <u>Student Management</u>  |                   |
+|---------------------|-------------------|
+| Head Of Department  | Mr Feroz Muhamad  |
+
+| <u>CCE Department</u>          |                      |
+|-------------------------|----------------------|
+| Head Of Department      | Mr Jaron Yap Jie Han |
+| Subject Head (Internal) | Mr Goh Si Qian       |
+
+| <u>Lead Teachers</u>  |                           |
+|----------------|---------------------------|
+| Malay Language | Mr Roslie Bin Buang Sidik |
+| Mathematics    | Mdm Lee Bee Leng          |
+
+| <u>Senior Teachers</u>         |                              |
+|-------------------------|------------------------------|
+| English                 | Mrs Eleanor Tham             |
+| Mathematics             | Mr Clement Song Hwee Tong    |
+| Science                 | Mdm Ang Chye Chen Jackie     |
+| Chinese Language        | Miss Feng Yue                |
+| PE                      | Mr Goh Tong Wee              |
+| Education Support       | Mdm Soh Seok Khim            |
+| Special Education Needs | Mrs Jacquelin Yeo Chien Ling |
+
+| <u>Operations</u>          |                 |
+|---------------------|-----------------|
+| Operations Manager  | Mr Alvin Chiang |
+
+| <u>Administration</u>    |                             |
+|-------------------|-----------------------------|
+| Admin Manager     | Miss Diane Tiu On Ki        |
+| Admin Manager     | Mdm Tan Mui Leng Catherine  |
+| Admin Executive   | Miss Chong Li Ping Claudia  |
