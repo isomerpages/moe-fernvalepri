@@ -47,4 +47,4 @@ In particular, Social Studies prepares our students to be informed, concerned an
 
 <u><b>Caring and Enabling School Environment</b></u>
 
-For CCE to have a lasting impact on our students, the school and classroom environment need to support their learning. A caring and enabling environment has five key features that help students feel safe, accepted, empowered, and competent. We establish and sustain these features, complementing them with a positive and proactive approach to discipline and early support and intervention.
+For CCE to have a lasting impact on our students, the school and classroom environment need to support their learning. A caring and enabling environment has five key features that help students feel **safe, accepted, empowered**, and **competent**. We establish and sustain these features, complementing them with a positive and proactive approach to discipline and early support and intervention.
