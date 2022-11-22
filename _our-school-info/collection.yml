@@ -2,8 +2,8 @@ collections:
   our-school-info:
     output: true
     order:
-      - School Executive Committee.md
       - Our Crest.md
       - Our Mission.md
       - Our School Song.md
       - Our Rules & Regulations.md
+      - School Executive Committee.md
