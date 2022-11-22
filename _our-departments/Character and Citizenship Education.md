@@ -20,13 +20,11 @@ We aim to develop in our students:
 * Good character  
 Have a sound moral compass and strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence;
 
-        ●       Resilience and Social-Emotional Well-Being
+* Resilience and Social-Emotional Well-Being  
+Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation;
 
-                 Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in                     life, and have a sense of gratitude and appreciation;
-
-        ●       Future Readiness
-
-                 Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to                          navigate education and career pathways purposefully and take on the challenges of the future, including the world of                  work and life; and
+* Future Readiness  
+Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work and life; and
 
         ●       Active Citizenship
 
