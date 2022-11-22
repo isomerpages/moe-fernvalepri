@@ -35,15 +35,15 @@ description: ""
 <td>Students will be deemed as late for school if they arrive after 7.30am at their assembly area.</td>
 <td> Latecoming</td>
 <td>
-<p>Students will be counselled by their Form Teachers. Parents/Guardians will be informed via the Student&rsquo;s diary/phone call from the Form Teacher.&nbsp;</p>
-<p>Letter of reminder will be issued by Discipline Master (DM) informing parents/guardians of frequent latecomers.&nbsp;</p>
-<p>Parents/Guardians of frequent latecomers may be required to attend meetings with Form Teachers/DM.&nbsp;</p>
+<p>Students will be counselled by their Form Teachers. Parents/Guardians will be informed via the Student's diary/phone call from the Form Teacher.</p>
+<p>Letter of reminder will be issued by Discipline Master (DM) informing parents/guardians of frequent latecomers.</p>
+<p>Parents/Guardians of frequent latecomers may be required to attend meetings with Form Teachers/DM.</p>
 <p>Detention Class for up to 5 days till 5pm.</p>
 </td>
 </tr>
 <tr>
 <td>&nbsp;1.2</td>
-<td>Students must be punctual for CCAs, remedial/&nbsp;supplementary classes, enrichment programmes&nbsp;and&nbsp;any other school activities.&nbsp;</td>
+<td>Students must be punctual for CCAs, remedial/supplementary classes, enrichment programmes&nbsp;and&nbsp;any other school activities.&nbsp;</td>
 <td>Latecoming&nbsp;</td>
 <td>
 <p>Students will be counselled by their Form Teachers. Parents/Guardians will be informed via the Student&rsquo;s diary/phone call from the Form Teacher.&nbsp;</p>
