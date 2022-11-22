@@ -8,39 +8,24 @@ description: ""
 ### Vision
 
 Learning takes place anytime, anywhere in an ICT-enriched environment  
-  
 
 ### Mission
 
 Enabling pupils to be self-directed and collaborative learners through the effective and responsible use  
 of technology  
-  
 
 ### Signature Programmes
 
-  
-
-#### Baseline ICT Training
-
-  
-
-#### All pupils from Primary 1 to Primary 6 in Fernvale Primary School go through ICT Baseline Training. During the 6 years, the following skills are covered:
-
-####   
+**Baseline ICT Training**  
+All pupils from Primary 1 to Primary 6 in Fernvale Primary School go through ICT Baseline Training. During the 6 years, the following skills are covered:
 
 *   Processing of word documents
-
 *   Using spreadsheet to compute simple data
-
 *   Creating presentation material
-
 *   Searching for information in the world wide web
-
 *   Stitching photographs together into short movie clips
-
 *   Recording, creating and embedding sound/music
 
-  
 
 #### **E-Learning Portal**
 
