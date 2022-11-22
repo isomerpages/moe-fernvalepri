@@ -19,32 +19,32 @@ description: ""
 
 |                                      |
 |--------------------------------------|
-| **Care**                                 |
+|<br> **Care**                                 |
 | Mdm Lim Siew Fang                    |
 | Mdm V Sulaja                         |
-| **Graciousness**                         |
+|<br> **Graciousness**                         |
 | Ms Alexandria Kirsten Tobias         |
 | Mdm Loh Swee Ling                    |
-| **Integrity**                            |
+| <br>**Integrity**                            |
 | Mdm Khalidah Goh d/o Shafie Goh      |
 | Mdm Alison Oliveiro                  |
 | Mr Iskandar Alamin Bin Salleh        |
-| **Resilience**                           |
+| <br>**Resilience**                           |
 | Mdm Nurhayati Binte Ra'ai            |
 | Mrs Ho - Soh Wei Ying                |
 | Ms Jayne Anne Jayanthi Krishnamurthi |
-| **Respect**                              |
+| <br>**Respect**                              |
 | Mdm Selvi d/o Ramasamy               |
 | Mrs Heng - Cheong Soke Hwa           |
-| **Responsibility**                       |
+| <br>**Responsibility**                       |
 | Ms Ting Wan Sin                      |
 | Mrs Khai - Siti Norhana Aris         |
-| **Joy**                                  |
+| <br>**Joy**                                  |
 | Ms Oh Haw Ling                       |
 | Mdm Siti Erliasari Binte Haroon      |
-| **Courage**                              |
+| <br>**Courage**                              |
 | Mr Aznahar Bin Baharudin             |
 | Mrs Huang - Soh Chin Yi Germaine     |
-| **Confidence**                           |
+| <br> **Confidence**                           |
 | Mdm Andrea Tee                       |
 | Mdm Chew Bee See Betsy               |
