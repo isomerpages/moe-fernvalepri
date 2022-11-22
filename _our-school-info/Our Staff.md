@@ -86,6 +86,31 @@ description: ""
 
 ### Primary 3
 
+|                                   |
+|-----------------------------------|
+| <br>**Care**                              |
+| Mr Roslie Bin Buang Sidik         |
+| Mr Chen Baolai                    |
+| Mdm Liew Siew Hui Eileen          |
+|  <br>**Graciousness**             |
+| Mdm Danamalar Kanagasabai         |
+| Mdm Toh Lee See Chloe             |
+| Ms Sun Xijia                      |
+|  <br>**Integrity**                |
+| Mr Tay Peng Cheng Eric            |
+| Mr Feroz Muhamad Bin Noor Muhamad |
+| Mr Au Jun Duan, Reuben            |
+|  <br>**Resilience**               |
+| Mdm Somasundaram Vijaya Rani      |
+| Mrs Eleanor Tham - Leong Wei Wei  |
+|  <br>**Respect**                     |
+| Mrs Ho - Audrey Tan Lee Cheng     |
+| Mr Ansar Mohamed Sali             |
+|  <br>**Responsibility**           |
+| Ms Poon Sook Fong Carolyn         |
+| Ms Maninder Kaur                  |
+
+
 ### Primary 4
 
 ### Primary 5
