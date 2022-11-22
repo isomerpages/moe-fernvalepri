@@ -37,7 +37,9 @@ There is emphasis on explicit teaching of social-emotional competencies in CCE (
   
 <u>Key Student Development Experiences (SDEs)</u>
 
-Student Development Experiences (SDEs) are learning experiences beyond the classroom that are integral to the holistic development of students. Purposefully planned SDEs provide students with varied and authentic opportunities to learn, apply and demonstrate values, good character, social-emotional competencies and citizenship dispositions. Through SDEs, students are also able to apply their learning from Character and Citizenship Education (CCE) Lessons to authentic contexts. These key SDEs include: Co-Curricular Activities, Education and Career Guidance Experiences (ECG), National Education Commemorative Days, Values in Action (VIA), Student Leadership Development Programmes and Cohort Learning Journeys.   
+Student Development Experiences (SDEs) are learning experiences beyond the classroom that are integral to the holistic development of students. **Purposefully** planned SDEs provide students with varied and authentic opportunities to learn, apply and demonstrate values, good character, social-emotional competencies and citizenship dispositions. Through SDEs, students are also able to **apply their learning** from Character and Citizenship Education (CCE) Lessons to authentic contexts. 
+
+These key SDEs include: Co-Curricular Activities, Education and Career Guidance Experiences (ECG), National Education Commemorative Days, Values in Action (VIA), Student Leadership Development Programmes and Cohort Learning Journeys.   
   
 <u>Other subjects</u> 
   
