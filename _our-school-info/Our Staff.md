@@ -51,6 +51,39 @@ description: ""
 
 ### Primary 2
 
+|                                               |
+|-----------------------------------------------|
+| <br>**Care**                                          |
+| Mdm Raman Pearmavathi<br>(Mrs Pannir Chelvam) |
+| Ms Ma Sen Loo Theresa                         |
+|  <br>**Graciousness**                             |
+| Mr Low Dong Neng Jim                          |
+| Mrs Kelly Thong - Hau Luo Ting                |
+| Mrs Jacquelin Yeo                             |
+| <br>**Integrity**                                     |
+| Ms Ong Li Ting                                |
+| Mrs Lee - Teo Khim Hoong Carol                |
+|  <br>**Resilience**                               |
+| Ms Liu Hsiang-Chun                            |
+| Mdm Mak Sock May                              |
+| Miss Nurul Fadhillah Bte Mohammed Taufik      |
+|  <br>**Respect**          |
+| Ms Wong Yu Xiang Jayler                       |
+| Mr Ng Junhao Gary                             |
+| <br>**Responsibility**                                |
+| Ms Ivy Ho                                     |
+| Mr Yew Shi Chang Jason                        |
+|  <br>**Joy**                                     |
+| Ms Cherie Ang Hui Er                          |
+| Ms Tan Yuan Lin                               |
+|  <br>**Courage**                                  |
+| Ms Neo Sian Yin                               |
+| Ms Tiong Wei Wen, Nerissa                     |
+|  <br>**Confidence**                               |
+| Mdm Julia Binte Mohamed Rahim                 |
+| Mdm Zhong Xiuyuan Diana                       |
+
+
 ### Primary 3
 
 ### Primary 4
