@@ -10,8 +10,7 @@ description: ""
 <tbody>
 <tr>
 <td colspan="4" width="616">
-<p><strong>Rule 2: Be Properly Attired</strong></p>
-<p>(Head to Toe)</p>
+<strong>Rule 2: Be Properly Attired</strong><br>(Head to Toe)
 </td>
 </tr>
 <tr>
