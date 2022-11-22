@@ -13,7 +13,7 @@ Courageous, bold and strong being the trademarks of a lion, it also symbolises t
 Encircling the stylized letters is a solid ring that signifies an all-round, holistic education that Fernvale Primary offers to every student. Enhancing that holistic feel is the use of the colour green to communicate a “nurturing” feel.
 
   
-**THE DESIRED OUTCOMES OF EDUCATION**
+<b><u>THE DESIRED OUTCOMES OF EDUCATION</u></b>
 
 At the end of primary school, pupils should:  
 
