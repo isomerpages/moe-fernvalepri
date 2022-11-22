@@ -10,3 +10,7 @@ description: ""
 | Principal           | Mdm Balakrishna Vyjanthimala |
 | Vice-Principal (EO) | Miss Yap Ai Li               |
 | Vice-Principal (EO) | Mr Samuel Yap                |
+
+|                        |                           |
+|------------------------|---------------------------|
+| School Staff Developer | Mrs Mabel Soh–Ong Hui Mei |
