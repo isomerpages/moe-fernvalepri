@@ -42,3 +42,9 @@ The School uniform, PE attire and name tag are supplied by:
 **Chop Kong Chong**  
 604 Sembawang Road #02-12 Sembawang Shopping Centre S758459  
 Website: [www.euniforms.com.sg/aboutus.html](http://www.euniforms.com.sg/aboutus.html)
+
+| Operating Hours    |                   |
+|--------------------|-------------------|
+| Monday To Saturday | 11:30am to 7:00pm |
+| Sunday             | 11:30am to 5:00pm |
+| Contact No         |  67531489         |
