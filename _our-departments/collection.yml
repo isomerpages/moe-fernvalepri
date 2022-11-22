@@ -2,8 +2,8 @@ collections:
   our-departments:
     output: true
     order:
-      - Aesthetics.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
       - Mathematics.md
+      - Aesthetics.md
