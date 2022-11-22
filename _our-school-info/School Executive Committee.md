@@ -34,3 +34,8 @@ description: ""
 |---------------------|------------------------------|
 | Head Of Department  |                              |
 | Level Head          | Ms Jeyananthini d/o Jeyapal  |
+
+| <u>Mathematics Department</u> |                              |
+|------------------------|------------------------------|
+| Head Of Department     | Mrs Junice Tay               |
+| Level Head             | Mdm Geraldine Chua Shan Shan |
