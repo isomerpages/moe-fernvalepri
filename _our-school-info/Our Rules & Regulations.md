@@ -77,7 +77,7 @@ description: ""
 </td>
 <td width="160">
 <p>Letter of Warning will be issued by the DM.</p>
-<p><br />Detention Class for up to 5 days up till 5pm.</p>
+<p>Detention Class for up to 5 days up till 5pm.</p>
 </td>
 </tr>
 </tbody>
