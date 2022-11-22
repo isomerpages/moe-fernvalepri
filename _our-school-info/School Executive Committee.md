@@ -51,3 +51,7 @@ description: ""
 |--------------------|-------------------------|
 | Head Of Department | Mrs Bhavani Chandra     |
 | Level Head         | Mrs Teo - Ong Puay Hoon |
+
+| <u>Information & Communications Technology</u> |              |
+|-----------------------------------------|--------------|
+| Head Of Department                      | Mr Gavin Lee |
