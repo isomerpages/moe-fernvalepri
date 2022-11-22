@@ -113,6 +113,35 @@ description: ""
 
 ### Primary 4
 
+|                                            |
+|--------------------------------------------|
+| <br>**Care**                                       |
+| Ms Nuraini Binte Hamzah                    |
+| Mdm A R Shanthi                            |
+|  <br>**Graciousness**                          |
+| Mdm Teo Ching Wee                          |
+| Ms Wang Shuihui Ashley                     |
+| Ms Seah Hui Shian                          |
+|  <br>**Integrity**                             |
+| Mr Jegendren s/o Tanapal                   |
+| Miss Ang Min Xin                           |
+| Ms Neo Yihui                               |
+|  <br>**Resilience**                            |
+| Mrs Kee - Tan Siok Kheng Grace             |
+| Mdm Hajjah Marlina Bte Kumar               |
+|  <br>**Respect**                               |
+| Mr Lau Peng Sheng                          |
+| Mrs Azry - Nurul Hayati Binte Abdul Rahman |
+| <br>**Responsibility**                             |
+| Mdm Fardyana Binte Abdul Aziz              |
+| Mr Tong Hock Chuan Alan                    |
+| Mdm Tan Lei Feng                           |
+| <br>**Joy**                                        |
+| Mdm Nur Fithriah Anas                      |
+| Mdm Nadhira Parveen                        |
+| Mr Tham Chor Kee                           |
+
+
 ### Primary 5
 
 ### Primary 6
