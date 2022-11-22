@@ -108,6 +108,10 @@ The N3 Cluster Mathematics Games Day organised yearly by Pei Hwa Secondary Schoo
 
 The programme challenges students to explore the subject beyond the core curriculum and its extensions, as well as build their skills to handle higher-order thinking questions. From year 2019, the E2K Math Programme was rolled out to selected Primary 4 students who had demonstrated interest and advanced ability in Mathematics. Students participated actively by sharing their ideas aloud and explored different approaches and strategies to solve the problems.
 
+![](/images/Our%20departments/Mathematics/Math_E2K_1.jpg)
+
+![](/images/Our%20departments/Mathematics/Math_E2K_2.jpg)
+
 |   |   |
 |---|---|
 |   |   |
