@@ -40,7 +40,12 @@ description: ""
 | Head Of Department     | Mrs Junice Tay               |
 | Level Head             | Mdm Geraldine Chua Shan Shan |
 
-
+| <u>Mother Tongue Languages Department</u> |                              |
+|------------------------------------|------------------------------|
+| Head Of Department                 | Mr Eric Tay                  |
+| Level Head(CL)                     | Ms Joanna Lim                |
+| Subject Head(ML)                   | Mr Aznahar Bin Baharudin     |
+| Subject Head(TL)                   | Mdm Somasundaram Vijaya Rani |
 
 | <u>Science Department</u> |                         |
 |--------------------|-------------------------|
