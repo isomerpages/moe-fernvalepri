@@ -2,5 +2,6 @@ collections:
   our-departments:
     output: true
     order:
+      - English Language/EL STELLAR Learning Objectives.md
       - English Language/English Language.md
       - English Language/.keep
