@@ -4,8 +4,9 @@ permalink: /our-school-info/our-crest/
 description: ""
 ---
 # Our Crest
-![](/images/logoFVhighres.jpg)
 
+ <img src="/images/logoFVhighres.jpg" style="width:50%">
+ 
 The stylized letters F and V that form the integral part of the school’s logo when put together represent the cross section of a fearless head of a lion.
 
 Courageous, bold and strong being the trademarks of a lion, it also symbolises the spirit of Fernvale Primary – “Daring and Courageous”.
