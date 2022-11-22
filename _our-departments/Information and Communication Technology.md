@@ -3,6 +3,8 @@ title: Information and Communication Technology
 permalink: /our-departments/information-and-communication-technology/
 description: ""
 ---
+#  Link broken for: PC-Bundle, iNSPIRE Fund scheme, Broadband-Only scheme,  Grant Scheme for Schools, IDA Website .
+
 # Information and Communication Technology
 
 ### Vision
