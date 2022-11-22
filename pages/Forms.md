@@ -5,12 +5,14 @@ description: ""
 ---
 # Forms
 
-  
-
 ## Fernvale Primary School Waitlist Using FormSG
 
+ <img style="width:5%; float:left" src="/images/Forms-Icon.png"> <a target="_blank" href="https://go.gov.sg/fvps-waitlist">Click here to launch Waitlist Form</a>
 
-![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png) [Click here to launch Waitlist Form](https://go.gov.sg/fvps-waitlist)
+
+ 
+
+
 
 Application Form for Leave of Absence (LOA) Using FormSG
 --------------------------------------------------------
@@ -25,12 +27,12 @@ Please use this form to sign up for PSG.
 ![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png)[Click here to launch PSG Form](https://go.gov.sg/fvps-psg-signup)  
   
 
-ICT/AV Services Request Form (Form B)                 Please make your bookings at least (3) days earlier. Availability is based on first-come-first served basis  
+ICT/AV Services Request Form (Form B)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Please make your bookings at least (3) days earlier.&nbsp;Availability is based on first-come-first served basis &nbsp;
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Please use this form to request services such as setup of PA System, PCs/Laptops, Mobile Cart booking and Loan of Equipment.        
+Please use this form to request services such as setup of PA System, PCs/Laptops, Mobile Cart booking and Loan of Equipment.&nbsp;&nbsp; &nbsp; &nbsp;  
 
-![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png)[Click here to launch ICT Form B](http://forms.cwp.gov.sg/fernvalepri/FormVOATA)  
+![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png)[Click here to launch ICT Form&nbsp;B](http://forms.cwp.gov.sg/fernvalepri/FormVOATA)  
 
   
 
@@ -40,7 +42,7 @@ Forms for Staff Only
 (These forms are to be used only by staff of Fernvale Primary School to report on ICT Matters)
 ----------------------------------------------------------------------------------------------
 
-ICT/AV Fault-Reporting System (Form A)
+ICT/AV Fault-Reporting System&nbsp;(Form A)
 --------------------------------------
 
 Please report observed faults related to ICT or AV Equipment
