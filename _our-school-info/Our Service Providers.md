@@ -3,7 +3,6 @@ title: Our Service Providers
 permalink: /our-school-info/our-service-providers/
 description: ""
 ---
-
 # Website: www.euniforms.com.sg/aboutus.html link broken
 # Our Service Providers
 ## Pro-Teach School Care (Fernvale)
@@ -50,3 +49,14 @@ Website: [www.euniforms.com.sg/aboutus.html](http://www.euniforms.com.sg/aboutu
 | Monday To Saturday | 11:30am to 7:00pm |
 | Sunday             | 11:30am to 5:00pm |
 | Contact No         |  67531489         |
+
+## School Dentist
+
+The School Dentist is located on Level 1, next to the Kids Workroom.
+
+| Operating Hours:              |                    |
+|-------------------------------|--------------------|
+| Monday, Tuesday and Thursday  |  8:00 am to 5:30pm |
+| Lunch Time                    |  1:00pm to 2:00pm  |
+| Contact No                    |  85224156          |
+
