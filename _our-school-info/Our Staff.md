@@ -173,4 +173,26 @@ description: ""
 
 ### Primary 6
 
+|                                      |
+|--------------------------------------|
+| Care                                 |
+| Mrs Low - Phua Eileen                |
+| Mrs Chandra - Bhavani d/o Rajagopal  |
+|  <br>**Graciousness**                    |
+| Mr Elvin Benjamin                    |
+| Mrs Tay – Seah Tech Ping Junice      |
+|  <br>**Integrity**                   |
+| Mr Goh Si Qian                       |
+| Mr Rakesh Kishin Aswani              |
+|  <br>**Resilience**                      |
+| Mr Chua Lee Guan                     |
+| Mdm Teo Ying Zhi                     |
+|  <br>**Respect**                         |
+| Mdm Low Pheck Shwan                  |
+| Mdm Liza Binti Ismail                |
+| Ms Jeyananthini d/o Jeyapal          |
+|  <br>**Responsibility**                  |
+| Ms Noorhafidah Bte Mohammad Hanafi   |
+| Mr Song Hwee Tong Clement            |
+| Mr Goh Tong Wee                      |
 
