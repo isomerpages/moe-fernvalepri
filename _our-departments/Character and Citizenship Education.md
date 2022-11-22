@@ -9,11 +9,9 @@ description: ""
 
 ### 
 
-Through CCE, students learn values, social-emotional competencies, and  
-develop character and citizenship dispositions that will enable them to grow holistically and learn for life. 
+Through CCE, students learn **values, social-emotional competencies**, and develop **character and citizenship dispositions** that will enable them to grow holistically and learn for life. 
 
-To help our students adapt to disruptions in a rapidly evolving world,  
-the knowledge, skills and values taught in CCE will help our students navigate the realities of their time. 
+To help our students adapt to disruptions in a rapidly evolving world, the **knowledge, skills and values** taught in CCE will help our students navigate the realities of their time. 
 
 We aim to develop in our students:
 
