@@ -37,7 +37,7 @@ Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong 
 
 |   |   |
 |---|---|
-|   |   |
+| ![](/images/Our%20departments/Mathematics/Math_Activity_3.jpg)  | ![](/images/Our%20departments/Mathematics/Math_Activity_4.jpg)  |
 
 |   |   |
 |---|---|
