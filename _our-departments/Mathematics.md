@@ -77,9 +77,24 @@ Learning Support for Mathematics Programme for selected P1& P2 pupils is an earl
 
 ![](/images/Our%20departments/Mathematics/Math_LSM_4.jpg)
 
+### Improving Confidence & Achieving Numeracy (ICAN) Programme
+
+ICAN Programme aims to equip students who need additional support to acquire knowledge and skills in numeracy and strategies such as Factual Fluency and dispositions to learn and achieve in Mathematics. The lessons follow the FREMC (Factual Fluency, Readiness, Engagement, Mastery & Consolidation) framework and the 8 Principles of ICAN adopted motivate students in learning Mathematics, as well as help them deal with anxiety in the subject.
+
+![](/images/Our%20departments/Mathematics/Math_ICAN_1.jpg)
+
+### Fun with Math Gym!
+
+Elements of fun, discovery & exploration and concepts of solving Math patterns are executed through ‘Fun with Math Gym’ to inject fun and curiosity and infuse logical reasoning skills in students while learning in a non-threatening environment. Questions are uploaded onto the SLS platform and students take part in monthly quizzes and winners are awarded prizes.
+
+### Math Olympiad Programme
+
+The department believes in challenging students with high abilities in Math beyond the core curriculum and its extensions. Selected Primary 3, Primary 4 & Primary 5 students take part in the Math Olympiad Programme so that they learn and explore broader and deeper mathematical concepts, as well as receive training to be equipped with skills to handle higher-order thinking questions.
+
+
 |   |   |
 |---|---|
-|   |   |
+| ![](/images/Our%20departments/Mathematics/Math_Olympiad_1.jpg)  | ![](/images/Our%20departments/Mathematics/Math_Olympiad_2.jpg)  |
 
 |   |   |
 |---|---|
