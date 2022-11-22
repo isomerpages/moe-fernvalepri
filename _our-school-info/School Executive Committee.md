@@ -19,3 +19,8 @@ description: ""
 |---------------------|---------------------|
 | Year Head           | Ms Ivy Ho           |
 | Assistant Year Head | Mdm Alison Oliveiro |
+
+|    <u>P3 & P4</u>                |                     |
+|---------------------|---------------------|
+| Year Head           | Mr Tham Chor Kee           |
+| Assistant Year Head | Mr Jegendren s/o Tanapal |
