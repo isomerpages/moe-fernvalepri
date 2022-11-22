@@ -44,6 +44,15 @@ Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong 
  <img src="/images/Our%20departments/Mathematics/Math_Numeracy_2.jpg" style="width:50%; float:left; padding: 10px"> 
  <img src="/images/Our%20departments/Mathematics/Math_Numeracy_1.png" style="width:50%; float:left; padding: 10px">
 
+### Math Trails  
+
+Interactive Math Trails help Primary 1 to 6 students value Mathematics by giving them an opportunity to discover its applications in the real world and apply skills to solve real-life problems. The activities rich in problem-solving application range from that of Whole Numbers to Money, Length, Fractions, Geometry and others. Through complementing the content of Mathematics taught in the classrooms, the trails ensure that students develop an appreciation and enjoyment of Mathematics in everyday situations.
+
+![](/images/Our%20departments/Mathematics/Math_Trail_1.png)
+![](/images/Our%20departments/Mathematics/Math_Trail_2.png)
+![](/images/Our%20departments/Mathematics/Math_Trail_3.png)
+![](/images/Our%20departments/Mathematics/Math_Trail_4.png)
+![](/images/Our%20departments/Mathematics/Math_Trail_5.png)
 
 |   |   |
 |---|---|
