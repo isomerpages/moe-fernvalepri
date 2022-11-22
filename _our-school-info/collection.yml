@@ -2,7 +2,7 @@ collections:
   our-school-info:
     output: true
     order:
-      - Our Rules & Regulations.md
       - Our Crest.md
       - Our Mission.md
       - Our School Song.md
+      - Our Rules & Regulations.md
