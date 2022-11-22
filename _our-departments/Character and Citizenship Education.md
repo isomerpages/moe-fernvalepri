@@ -29,7 +29,7 @@ Have a sense of purpose in life, develop the dispositions of adaptability and li
 * Active Citizenship   
 Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore's vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
 
-CCE is enacted through learning platforms such as **CCE Lessons**, **Key Student Development Experiences (SDEs),** **school-based Initiatives** and **other subjects**.
+CCE is enacted through learning platforms such as CCE Lessons, Key Student Development Experiences (SDEs), **school-based Initiatives** and **other subjects**.
 
 <u>CCE Lessons</u>
 
