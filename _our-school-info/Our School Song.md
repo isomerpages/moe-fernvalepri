@@ -8,28 +8,28 @@ description: ""
 
   
 
-With our hearts ever willing to serve
+With our hearts ever willing to serve<br>
 
-Our vibrant community
+Our vibrant community<br>
 
-Together as one working hand in hand
+Together as one working hand in hand<br>
 
-For peace and harmony
+For peace and harmony<br>
 
-Aiming high standing tall
+Aiming high standing tall<br>
 
-There’s nothing we can’t achieve
-
-  
-
-Fernvale Primary daring and courageous
-
-Strong and resilient are we
+There’s nothing we can’t achieve<br>
 
   
 
-Fernvale Primary responsible respectful
+Fernvale Primary daring and courageous<br>
 
-Gracious and honest we’ll be
+Strong and resilient are we<br>
+
+  
+
+Fernvale Primary responsible respectful<br>
+
+Gracious and honest we’ll be<br>
 
 Gracious and honest we’ll be
