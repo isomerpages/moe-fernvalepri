@@ -216,3 +216,24 @@ description: ""
 | Operations Support Officer    | Mr Toh Kim Huat                    |
 | Operations Support Officer    | Mr Chua Leng Hock                  |
 | Operations Support Officer    | Mdm Chan Yuen Yee Kenix            |
+
+## Allied Educators
+
+|                          |                            |
+|--------------------------|----------------------------|
+| Senior School Counsellor | Miss Sharlin Mattar        |
+| Senior AED (LBS)         | Mdm Chia Fei Lin           |
+| AED (LBS)                | Mdm Hui Soh Wai            |
+| AED (LBS)                | Mdm Suhaili Binte Selamat  |
+| AED (LBS)                | Ms Nurliyana Binte Suhaimi |
+| AED (T&L)                | Mrs Gupta                  |
+| Student Welfare Officer  | Ms Tang Ser Yun            |
+
+## Support Staff
+
+|                             |                          |
+|-----------------------------|--------------------------|
+| Technical Assistant         | Mdm Bobby                |
+| Science Lab Technician      | Mdm Pang Lay Hwee Alice  |
+| Librarian                   |                          |
+| Dental Therapist (Covering) | Ms Tan Meiru             |
