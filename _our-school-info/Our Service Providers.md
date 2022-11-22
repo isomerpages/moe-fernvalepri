@@ -14,3 +14,9 @@ description: ""
 | Email Address                      | [fernvale@pro-teach.com](mailto:fernvale@pro-teach.com) |
 | Link To Website                    |  <a href="http://www.pro-teach.com/" target="_blank">Www.pro-teach.com </a>    |
 | Link to download                   |  <a href="/files/Our%20school%20info/REQUEST%20FORM%20FNV_Yr%202022.pdf" target="_blank">Service Request Form </a>  |
+
+## School Bookshop
+
+The school bookshop is operated by Pacific Bookstores. The bookshop is located on Level 1 in the canteen. You can purchase textbooks, workbooks, exercise books, stationery, school uniform, shoes and socks from the school bookshop.
+
+Website : [www.pacificbookstores.com](https://www.pacificbookstores.com/)
