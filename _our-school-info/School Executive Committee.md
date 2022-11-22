@@ -24,3 +24,8 @@ description: ""
 |---------------------|---------------------|
 | Year Head           | Mr Tham Chor Kee           |
 | Assistant Year Head | Mr Jegendren s/o Tanapal |
+
+|    <u>P5 & P6</u>                |                     |
+|--------------------------------|---------------------|
+| Year Head                      | Mr Elvin Benjamin   |
+| Assistant Year Head (Internal) | Mrs Amanda Galistan |
