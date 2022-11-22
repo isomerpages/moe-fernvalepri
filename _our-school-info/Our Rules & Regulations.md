@@ -127,3 +127,151 @@ FT and Co FT will conduct a Uniform Check on Monday.<br><br>A. School T-Shirt to
 </tr>
 </tbody>
 </table>
+
+# School Rules & Regulations
+
+<table width="0">
+<tbody>
+<tr>
+<td colspan="4" width="841">
+<p>Be on your best behaviour</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="359">
+<p>Conduct and Behaviour</p>
+</td>
+<td width="198">
+<p>Offence</p>
+</td>
+<td width="284">
+<p>Corrective Action</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td width="320">
+<p>Students must be respectful and polite when interacting with teachers and other school support staff.</p>
+<p>Students must show respect to teachers by paying attention during lessons. </p>
+</td>
+<td width="198">
+<p>Rudeness </p>
+</td>
+<td rowspan="5" width="284">
+<p>Parents/Guardians will be invited for a meeting with the teacher to discuss the student's behaviour.</p>
+<p>Letter of warning will be issued by Discipline Master (DM).</p>
+<p>Detention Class for up to 5 days till 5pm or suspended from school for a period of not more than 5 days.</p>
+<p>Repeated offenders will be given one stroke of the cane administered by the DM and/or other authorised personnel.</p>
+<p>Unauthorised items may be confiscated.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td width="320">
+<p>Students must respect property belonging to others.</p>
+</td>
+<td width="198">
+<p>Theft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3</p>
+</td>
+<td width="320">
+<p>Students are not allowed to use physical violent on anyone.</p>
+</td>
+<td width="198">
+<p>Assault & Fighting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.4</p>
+</td>
+<td width="320">
+<p>Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</p>
+</td>
+<td width="198">
+<p>Assault & Fighting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.5</p>
+</td>
+<td width="320">
+<p>Students are not allowed to engage in repeated or persistent behaviours that have the intention to cause hurt, distress or humiliation towards others.</p>
+<p>This include posting inappropriate content online that involves the school, students or staff of the school, such as derogatory or hurtful remarks</p>
+</td>
+<td width="198">
+<p>Bullying</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.6</p>
+</td>
+<td width="320">
+<p>Toys and mobile devices, such as mobile phones and smart watches capable of recording audio or video, are not allowed during curriculum time and official school activities</p>
+</td>
+<td width="198">
+<p>Use of unauthorised items</p>
+</td>
+<td width="284">
+<p>Students will be counselled by their Form Teachers and Parents/Guardians will be informed.<br /><br />Unauthorised items may be confiscated.</p>
+<p>For repeated offenders. Letter of Warning will be issued.</p>
+<p>Detention Class for up to 5 days till 5pm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.7</p>
+</td>
+<td width="320">
+<p>Students must be honest during school -based and national examinations.</p>
+</td>
+<td width="198">
+<p>Cheating</p>
+</td>
+<td width="284">
+<p>Detention Class for up to 5 days till 5pm</p>
+<div>A zero mark for that particular test/examination paper.<br></div>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.8</p>
+</td>
+<td width="320">
+<p>Students must not forge signature of their parents/guardians.</p>
+</td>
+<td width="198">
+<p>Forgery</p>
+</td>
+<td width="284">
+<p>Detention Class for up to 5 days till 5pm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.9</p>
+</td>
+<td width="320">
+<p>Students are to refrain from destroying, removing or in any way defacing school property.</p>
+</td>
+<td width="198">
+<p>Vandalism</p>
+</td>
+<td width="284">
+<p>Letter of Warning will be issued by the DM.</p>
+<p>Students may be held responsible to clean up or to pay for the damaged property.</p>
+<p>Detention Class for up to 5 days till 5 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
