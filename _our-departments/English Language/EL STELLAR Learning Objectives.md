@@ -10,7 +10,13 @@ As part of the department's continual efforts to engage parents in the student's
   
 Please note that this list serves as a guide to the learning objectives for the whole year. For further details, you can refer to the Unit Overview which is attached to the learning sheets.
 
-<a href="/our-special-programme/ELIXiR/" target="_blank">- P1 Stellar Learning Objectives</a>
+<a href="/files/Our%20departments/P1%20STELLAR%20learning%20objectives.pdf" target="_blank">- P1 Stellar Learning Objectives</a>
+
+<a href="/files/Our%20departments/P2%20STELLAR%20learning%20objectives.pdf" target="_blank">- P2 Stellar Learning Objectives</a>
+
+<a href="/files/Our%20departments/P3%20STELLAR%20learning%20objectives.pdf" target="_blank">- P3 Stellar Learning Objectives</a>
+
+<a href="/files/Our%20departments/P4%20STELLAR%20learning%20objectives.pdf" target="_blank">- P4 Stellar Learning Objectives</a>
 
 [\](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P1%20STELLAR%20learning%20objectives.pdf)  
 [\- P2 Stellar Learning Objectives](https://fernvalepri.moe.edu.sg/qql/slot/u480/Our%20Department/English/stellar%20EL/P2%20STELLAR%20learning%20objectives.pdf)  
