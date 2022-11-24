@@ -130,17 +130,12 @@ To make the learning of Tamil fun and self-directed, we have subscribed for this
 
 Jewel Time is a yearly memorable language learning experience time for our pupils with AKT productions.  AKT professional storytellers, public speakers, puppeteers and actors bring the Tamil Language alive to our pupils through their amazing and varied talents.  The pupils go through different experiences depending on their levels, all of which give them an enriching language experience at Fernvale.
 
-1.  Primary 1 – Storytheatre
-    
-2.  Primary 2 – Storytelling
-    
-3.  Primary 3 – Villuppaatu
-    
-4.  Primary 4 – Traditional Tamil Theatres
-    
-5.  Primary 5 – Creating An Imaginary World
-    
-6.  Primary 6 -  Art of Public Speaking & Poetry Workshop
+a.  Primary 1 – Storytheatre  
+b.  Primary 2 – Storytelling  
+c.  Primary 3 – Villuppaatu  
+d.  Primary 4 – Traditional Tamil Theatres  
+e.  Primary 5 – Creating An Imaginary World      
+f.  Primary 6 -  Art of Public Speaking & Poetry Workshop  
     
 
   
