@@ -47,3 +47,7 @@ This annual sports event provide Primary 3, 4 and 5 pupils the opportunity to pa
 **3) P1 & P2 Lower Primary Games Carnival**
 
 This annual event aims to allow pupils to have a meaningful Children’s Day. Other than providing games, arts and dance stations for the pupils, the PE department engaged other community partners such as Sengkang Health to educate the pupils about healthy lifestyle through informative games. This is to promote the welfare and well-being of our pupils.
+
+|   |   |   |
+|---|---|---|
+| ![](/images/Our%20departments/Physical%20Education/Bouncing%20Castle%20Booth%20-%20Jump%20Jump%20Jump.jpg) <br> ![](/images/Our%20departments/Physical%20Education/Dance%20Booth%20-%20Just%20dance.jpg) | ![](/images/Our%20departments/Physical%20Education/Redemption%20Booth%20-%20Prizes%20for%20everyone.jpg)<br> ![](/images/Our%20departments/Physical%20Education/Art%20Booth%20-%20Dots%20Garlore.jpg) | ![](/images/Our%20departments/Physical%20Education/Sengkang%20Health%20Booth%20-%20Quick%20Reflexes.jpg)  |
