@@ -28,3 +28,10 @@ Art Club is a CCA that emphasises on character development in our students in al
 
 ### <center><u><b>Art Club Activities</b></u></center>
 
+![](/images/Cca/Art%20Club/ART%204.png)
+
+![](/images/Cca/Art%20Club/PIC%202.png)
+
+![](/images/Cca/Art%20Club/pic%203.png)
+
+![](/images/Cca/Art%20Club/art%205.png)
