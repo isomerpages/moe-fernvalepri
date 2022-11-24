@@ -30,15 +30,11 @@ The test items are:
 2.  **Standing Broad Jump: Better of two attempts**
 3.  **Sit and Reach: Better of two attempts**
 4.  **Inclined Pull-ups (for all females, and males up to the age of 14): Maximum number of repetitions in half-a-minute**
-5.  **Shuttle Run: Faster of two 4×10 metre attempts  
-    **
+5.  **Shuttle Run: Faster of two 4×10 metre attempts**
 6.  **2.4-km/1.6-km Walk-Run: Minimum time taken to complete the distance**
 
-  
-
 The teachers motivate the students with target setting strategies, and students track their performance over time in their School Diary. Students will be able to work on their own progress and performance and strive to work towards a healthier body  
-
-### 
+ 
 
 **2) P3 to P5 Inter-class Games**
 
