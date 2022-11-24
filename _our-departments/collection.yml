@@ -2,8 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Innovation & Special Projects/Innovation and Special Projects.md
-      - Innovation & Special Projects/.keep
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
@@ -16,3 +14,5 @@ collections:
       - Physical Education.md
       - Science.md
       - Mother Tongue Language.md
+      - Innovation & Special Projects/.keep
+      - Innovation & Special Projects/Innovation and Special Projects.md
