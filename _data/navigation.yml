@@ -4,7 +4,7 @@ links:
     collection: our-school-info
   - title: Our Departments
     collection: our-departments
-  - title: Forms
-    url: /forms
   - title: CCA
     collection: cca
+  - title: Forms
+    url: /forms
