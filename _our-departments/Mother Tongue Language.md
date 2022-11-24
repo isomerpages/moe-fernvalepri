@@ -136,31 +136,21 @@ c.  Primary 3 – Villuppaatu
 d.  Primary 4 – Traditional Tamil Theatres  
 e.  Primary 5 – Creating An Imaginary World      
 f.   Primary 6 -  Art of Public Speaking & Poetry Workshop  
-    
-
-  
 
 4\. Sorsuvai  
 
 To instil the joy in writing and to help our budding writers to feel a sense of  accomplishment, ‘Sorsuvai’ the Tamil Language Magazine was launched last year. We collated our pupils’ best riddles, jokes, poems and stories and compiled them into a ‘Fernvale’ made Tamil magazine at the end of the year.  This magazine served as a good holiday read for our pupils.
 
-  
-
 5\. Cultural Impressions
 
 We believe in having a strong partnership with our parents in our pupils’ educational journey. Thus, every year we invite our parents to share with our pupils their profound knowledge and expertise in the field of Tamil culture. These parents hold workshops or talks on the different aspects of our Tamil Culture, depending on the level they are assigned for. The different aspects are as follows :
 
-1.  Primary 1 – Tamil Traditional Wear
-    
-2.  Primary 2 – Tamil Musical Instruments
-    
-3.  Primary 3 – Tamil Traditional Food
-    
-4.  Primary 4 – Tamil Traditional Crafts
-    
-5.  Primary 5 – Tamil Traditional Weddings
-    
-6.  Primary 6 – Tamil Sangam Literature
+a.  Primary 1 – Tamil Traditional Wear  
+b.  Primary 2 – Tamil Musical Instruments  
+c.  Primary 3 – Tamil Traditional Food  
+d.  Primary 4 – Tamil Traditional Crafts  
+e.  Primary 5 – Tamil Traditional Weddings     
+f.  Primary 6 – Tamil Sangam Literature
     
 
   
