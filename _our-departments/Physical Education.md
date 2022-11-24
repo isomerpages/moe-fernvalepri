@@ -59,3 +59,5 @@ This annual post PSLE sports event provide the Primary 6 pupils with a ‘funfai
 |   |   |
 |---|---|
 | ![](/images/Our%20departments/Physical%20Education/20171103_115535.jpg)  | ![](/images/Our%20departments/Physical%20Education/20171103_115623.jpg)  |
+
+![](/images/Our%20departments/Physical%20Education/20171103_125944.jpg)
