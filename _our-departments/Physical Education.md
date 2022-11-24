@@ -61,3 +61,17 @@ This annual post PSLE sports event provide the Primary 6 pupils with a ‘funfai
 | ![](/images/Our%20departments/Physical%20Education/20171103_115535.jpg)  | ![](/images/Our%20departments/Physical%20Education/20171103_115623.jpg)  |
 
 ![](/images/Our%20departments/Physical%20Education/20171103_125944.jpg)
+
+**5) Play@Recess**
+
+To help pupils engage themselves more meaningfully during recess time so as to promote a healthier lifestyle.
+
+**6) P4 SwimSafer**
+
+Swimming is part of the MOE new Physical Education Syllabus. As such, our school conducts the Swimsafer Programme at Primary 4. The objective of the programme is for our pupils to gain confidence and develop independence in the water, as well as learn general and deep-end water safety.
+
+|   |   |
+|---|---|
+|![](/images/Our%20departments/Physical%20Education/IMG_0112.jpg)  |  ![](/images/Our%20departments/Physical%20Education/IMG_0111.jpg) | 
+
+![](/images/Our%20departments/Physical%20Education/IMG_01091.jpg)
