@@ -35,3 +35,15 @@ Art Club is a CCA that emphasises on character development in our students in al
 ![](/images/Cca/Art%20Club/pic%203.png)
 
 ![](/images/Cca/Art%20Club/art%205.png)
+
+### <u><b>Achievements/Successes</b></u>
+
+
+| Year  | Achievement / Successes                                                                         |
+|-------|-------------------------------------------------------------------------------------------------|
+| 2015  | Singapore Youth Festival Art Exhibition 2015 (Certificate of Recognition for Category B, 2015)  |
+| 2017  | Singapore Youth Festival Art Exhibition 2017 (Certificate of Recognition for Category B, 2017)  |
+|  2019 |  Singapore Youth Festival Art Exhibition 2019 (Certificate of Recognition for Category B, 2019) |
+|  2019 | Singapore Youth Festival Art Exhibition 2019 (Certificate of Recognition for Category C, 2019)  |
+|  2021 |  Singapore Youth Festival Art Exhibition 2021 (Certificate of Recognition for Category B, 2021) |
+|  2021 |  Singapore Youth Festival Art Exhibition 2021 (Certificate of Recognition for Category C, 2021) |
