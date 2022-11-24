@@ -50,3 +50,5 @@ book review and reflect on the learning points gleaned from the programme.
 P1 to P6 pupils learnt about Chinese culture through interactive activities during MT Fortnight Programme. The age-appropriate activities were fun and interesting. The pupils gave feedback that they had learnt to appreciate the Chinese Culture more after participating in these activities. The activities include Chinese Speech and Drama with Picture Book Making, Chinese Speech and Drama with Rod Puppet Making, Bean Portrait Making,Chinese Fan Painting, Chinese Knots – Keychain making and Chinese Kite Making.
 
 ![](/images/Our%20departments/Mother%20Tongue%20Language/ALOT%20OF%20PICTURE.jpg)
+
+* * *
