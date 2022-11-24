@@ -71,6 +71,9 @@ The E2K Science Programme is a 2 -year enrichment programme for our Primary 4 st
 
 ![](/images/Our%20departments/Science/science%20pic%207.jpg)
 
+### **Science Olympiad**  
+
+Selected P4 & P5 students are highly engaged in the Science Olympiad sessions, where they investigate scientific concepts and extend their learning with higher-order thinking skills, which prepares students for the Singapore Primary Science Olympiad (SPSO) organized by the NUS High School of Mathematics and Science.
 
 |   |   |
 |---|---|
