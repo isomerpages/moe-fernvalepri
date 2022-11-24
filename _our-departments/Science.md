@@ -21,3 +21,24 @@ The Science Department leverages on the child’s innate curiosity and subscribe
 
 ### Collaborative Inquiry  
 Students take ownership of the inquiry process as they work together to plan and investigate ideas respectfully and evaluate their results to make a conclusion.
+
+
+![](/images/Our%20departments/Science/science%20pic%201.jpg)
+
+![](/images/Our%20departments/Science/science%20pic%202.jpg)
+
+![](/images/Our%20departments/Science/sciecne%20pic%203.jpg)
+
+![](/images/Our%20departments/Science/science%20pic%204.jpg)
+
+![](/images/Our%20departments/Science/sciecne%20pic%205.png)
+
+![](/images/Our%20departments/Science/science%20pic%206.jpg)
+
+![](/images/Our%20departments/Science/science%20pic%207.jpg)
+
+
+|   |   |
+|---|---|
+|   |   |
+|   |   |
