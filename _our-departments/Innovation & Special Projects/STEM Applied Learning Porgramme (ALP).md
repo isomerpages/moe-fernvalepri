@@ -16,6 +16,14 @@ to allow students to integrate knowledge across subject disciplines. This would 
 
 ![](/images/Our%20departments/STEM%20ALP/LLP%20PIC%201.png)
 
+## National Thinkers Challenge (NTC) 2022
+
 ![](/images/Our%20departments/STEM%20ALP/LLP%20PIC%202.png)
 
 ![](/images/Our%20departments/STEM%20ALP/LLP%20PIC%203.png)
+
+## Achievements
+
+1\. NTC 2022, organised by Singapore Hokkien Huay Kuan - [Top 10 Finalists](https://www.straitstimes.com/singapore/parenting-education/competition-gets-primary-school-pupils-to-use-design-thinking-to-solve-real-world-issues)
+
+2\. Virtual Hakathon 2022, organised by Pei Hwa Secondary School - Certificate of Recognition
