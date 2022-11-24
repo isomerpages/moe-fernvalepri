@@ -13,3 +13,9 @@ Our STEM ALP aims to equip students with design thinking skills and promote the 
 to allow students to integrate knowledge across subject disciplines. This would stretch their imagination for prototyping and apply what they have learnt in STEM to solve real world problems. For example, they can design a prototype food image recognition system to reduce food wastage within the school and community or design prototype houses using clean energy such as solar and wind energy.
 
 ## Baseline ICT Training
+
+![](/images/Our%20departments/STEM%20ALP/LLP%20PIC%201.png)
+
+![](/images/Our%20departments/STEM%20ALP/LLP%20PIC%202.png)
+
+![](/images/Our%20departments/STEM%20ALP/LLP%20PIC%203.png)
