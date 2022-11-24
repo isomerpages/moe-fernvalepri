@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - Innovation & Special Projects/.keep
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
