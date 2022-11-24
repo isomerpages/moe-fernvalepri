@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Mother Tongue Language.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/EL STELLAR Learning Objectives.md
@@ -14,3 +13,4 @@ collections:
       - Information and Communication Technology.md
       - Physical Education.md
       - Science.md
+      - Mother Tongue Language.md
