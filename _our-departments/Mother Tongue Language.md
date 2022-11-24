@@ -135,7 +135,7 @@ b.  Primary 2 – Storytelling
 c.  Primary 3 – Villuppaatu  
 d.  Primary 4 – Traditional Tamil Theatres  
 e.  Primary 5 – Creating An Imaginary World      
-f.  Primary 6 -  Art of Public Speaking & Poetry Workshop  
+f.   Primary 6 -  Art of Public Speaking & Poetry Workshop  
     
 
   
