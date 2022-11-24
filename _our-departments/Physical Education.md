@@ -39,3 +39,7 @@ The teachers motivate the students with target setting strategies, and students 
 **2) P3 to P5 Inter-class Games**
 
 This annual sports event provide Primary 3, 4 and 5 pupils the opportunity to participate in modified games and sports which are aligned with the PE syllabus to showcase their level of learning and understanding. This platform provides pupils with the opportunity to display the five school values and foster the Olympic spirit of respect, friendship and excellence among our pupils.
+
+|   |   |
+|---|---|
+|![](/images/Our%20departments/Physical%20Education/20180521_112147.jpg)   | ![](/images/Our%20departments/Physical%20Education/20180522_111939.jpg) <br>![](/images/Our%20departments/Physical%20Education/20180522_113809.jpg) |
