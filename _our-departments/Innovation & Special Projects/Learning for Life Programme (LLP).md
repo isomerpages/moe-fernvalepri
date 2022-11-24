@@ -17,3 +17,21 @@ Fernvale Primary’s Learning for Life Programme, Greenova, supports the learnin
 In Fernvale Primary School, every year, we celebrate World Water Day in the month of March, to pledge our national commitment to water conservation.
 
 Students learn about the importance of water and Singapore’s efforts to conserve water through an Assembly talk by Waterways Watch Society.
+
+
+![](/images/Our%20departments/LLP/LLP%20PIC%204.png)
+
+
+![](/images/Our%20departments/LLP/LLP%20%20PIC%205.png)
+
+![](/images/Our%20departments/LLP/LLP%20PIC%206.png)
+
+![](/images/Our%20departments/LLP/LLP%20PIC%207.png)
+
+![](/images/Our%20departments/LLP/LLP%20PIC%208.png)
+
+![](/images/Our%20departments/LLP/LLP%20PIC%209.png)
+
+![](/images/Our%20departments/LLP/LLP%20PIC%2010.png)
+
+![](/images/Our%20departments/LLP/LLP%20PIC%2011.png)
