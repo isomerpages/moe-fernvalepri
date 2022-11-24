@@ -25,7 +25,25 @@ Students take ownership of the inquiry process as they work together to plan and
 
 ![](/images/Our%20departments/Science/science%20pic%201.jpg)
 
+### Joy of Learning
+
+The teaching and learning of Science extends beyond the classroom where students are given opportunities to be engaged in authentic tasks. Students are also engaged in learning through play as they learn and assess their peers’ learning.
+
+### Learning Beyond the Classroom
+
+### Eco-trail @FVPS
+
 ![](/images/Our%20departments/Science/science%20pic%202.jpg)
+
+### Learning Journeys
+
+P3 & P4 – Singapore Science Centre  
+P5 – Gardens by the Bay 
+
+### Learning through DI Games
+
+Games help to infuse the joy of learning and increase student engagement level to deepen the understanding  
+on the concepts taught. Teachers designed these games, taking into consideration the readiness level of students and including the opportunity to raise ownership in their learning.
 
 ![](/images/Our%20departments/Science/sciecne%20pic%203.jpg)
 
