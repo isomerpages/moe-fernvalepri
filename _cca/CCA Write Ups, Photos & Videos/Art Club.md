@@ -24,3 +24,7 @@ Art Club is a CCA that emphasises on character development in our students in al
 | Mdm Nuraini Binte Hamzah        | nuraini_hamzah@moe.edu.sg      |
 | Ms Wang Shuhui Ashley           | wang_shuhui_a@moe.edu.sg       |
 | Mr Zachary Bg Eu Goi            |  zachary_ng_eu_goi@moe.edu.sg  |
+
+
+### <center><u><b>Art Club Activities</b></u></center>
+
