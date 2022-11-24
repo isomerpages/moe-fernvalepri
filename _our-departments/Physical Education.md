@@ -81,3 +81,7 @@ Swimming is part of the MOE new Physical Education Syllabus. As such, our school
 As part of our school’s holistic education programme, the PE department and the Student Development Team organises a 3-day-2-night camp for the Primary 5 pupils every year. The Annual Primary 5 adventure camp is held at the MOE Dairy Farm Outdoor Adventure Learning Centre and it helps to build resilience and camaraderie amongst the pupils and teachers.  Pupils are provided with many opportunities to put on their thinking caps to solve problems and develop their leadership skills.  This is one programme that everyone looks forward to every year.
 
 ![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(5).png)
+
+|   |   |
+|---|---|
+| ![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(6).png)  | ![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(7).png)<br>![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(8).png)<br>![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(9).png)  |
