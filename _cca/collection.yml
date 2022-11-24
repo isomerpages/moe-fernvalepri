@@ -2,5 +2,5 @@ collections:
   cca:
     output: true
     order:
-      - CCA Charter, Philosophy and Goals.md
       - CCA Schedule 2022.md
+      - CCA Charter, Philosophy and Goals.md
