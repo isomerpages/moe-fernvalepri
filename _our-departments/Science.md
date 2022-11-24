@@ -49,9 +49,25 @@ on the concepts taught. Teachers designed these games, taking into consideration
 
 ![](/images/Our%20departments/Science/science%20pic%204.jpg)
 
+### Singapore Amazing Flying Machine Competition
+
+Our Primary 6 students took part in the SAFMC Challenge Category A.  In this event, organized by the DSO National Laboratories and Singapore Science Centre and  supported by Ministry of Defence (MINDEF), the teams designed and folded paper planes that aim to achieve the longest, farthest, and most unique flight. The teams learnt through play, demonstrating perseverance and teamwork.
+
 ![](/images/Our%20departments/Science/sciecne%20pic%205.png)
 
+### Sony Creative Science Award
+
+The Sony Creative Science Award (SCSA) competition provides a platform for students to create toys, demonstrating scientific principles.
+
+
 ![](/images/Our%20departments/Science/science%20pic%206.jpg)
+
+
+### Challenging our Young Inquirers
+
+### **Excellence 2000 Programme (Science)**
+
+The E2K Science Programme is a 2 -year enrichment programme for our Primary 4 students who demonstrate interest and aptitude in Science.  It serves to develop in these students the habits, attitudes and dispositions scientists possess, and gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
 ![](/images/Our%20departments/Science/science%20pic%207.jpg)
 
