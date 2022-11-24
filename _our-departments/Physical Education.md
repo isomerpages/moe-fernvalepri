@@ -43,3 +43,7 @@ This annual sports event provide Primary 3, 4 and 5 pupils the opportunity to pa
 |   |   |
 |---|---|
 |![](/images/Our%20departments/Physical%20Education/20180521_112147.jpg)   | ![](/images/Our%20departments/Physical%20Education/20180522_111939.jpg) <br>![](/images/Our%20departments/Physical%20Education/20180522_113809.jpg) |
+
+**3) P1 & P2 Lower Primary Games Carnival**
+
+This annual event aims to allow pupils to have a meaningful Children’s Day. Other than providing games, arts and dance stations for the pupils, the PE department engaged other community partners such as Sengkang Health to educate the pupils about healthy lifestyle through informative games. This is to promote the welfare and well-being of our pupils.
