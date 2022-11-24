@@ -9,6 +9,6 @@ description: ""
 
 |                 |                       |                         |                     |
 |:---------------:|:---------------------:|:-----------------------:|:-------------------:|
-|   Art Club      | Infocomm Club (Media) |  Environmental Science  |      Scouts<br>     |
+|   <a href="/our-special-programme/ELIXiR/" target="_blank">Art Club</a>      | Infocomm Club (Media) |  Environmental Science  |      Scouts<br>     |
 |    Percussion   |         Dance         |           Guzheng       | Guitar Ensemble<br> |
 |  Basketball     |        Badminton      |         Floorball       |         Wushu       |
