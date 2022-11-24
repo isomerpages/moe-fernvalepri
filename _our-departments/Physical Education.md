@@ -51,3 +51,11 @@ This annual event aims to allow pupils to have a meaningful Children’s Day. Ot
 |   |   |   |
 |---|---|---|
 | ![](/images/Our%20departments/Physical%20Education/Bouncing%20Castle%20Booth%20-%20Jump%20Jump%20Jump.jpg) <br> ![](/images/Our%20departments/Physical%20Education/Dance%20Booth%20-%20Just%20dance.jpg) | ![](/images/Our%20departments/Physical%20Education/Redemption%20Booth%20-%20Prizes%20for%20everyone.jpg)<br> ![](/images/Our%20departments/Physical%20Education/Art%20Booth%20-%20Dots%20Garlore.jpg) | ![](/images/Our%20departments/Physical%20Education/Sengkang%20Health%20Booth%20-%20Quick%20Reflexes.jpg)  |
+
+**4) P6 Games Carnival**
+
+This annual post PSLE sports event provide the Primary 6 pupils with a ‘funfair’ like carnival where they were given the ‘voice’ to participate in any activities. While having fun, the pupils were also given an opportunity to demonstrate sportsmanship.  This is also a class-bonding activity for the pupils to working closely together before they graduate and move on to their next phase of life.
+
+|   |   |
+|---|---|
+| ![](/images/Our%20departments/Physical%20Education/20171103_115535.jpg)  | ![](/images/Our%20departments/Physical%20Education/20171103_115623.jpg)  |
