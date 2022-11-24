@@ -103,7 +103,7 @@ ICT is the lifestyle of the younger generation. They are very comfortable using 
 
 ## Tamil Language
 
-> "Good teaching is one-fourth preparation and three-fourths theatre." -- Gail Goldwin
+"Good teaching is one-fourth preparation and three-fourths theatre." -- Gail Goldwin
 
 
 ### Department Vision
