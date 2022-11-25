@@ -28,4 +28,6 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
 
 ### <u><b> Teachers</b></u>
 
-
+| Overall Teacher - In-Charge  | Email                    |
+|------------------------------|--------------------------|
+| Mr Low Dong Neng Jim         | [low\_dong\_neng@moe.edu.sg](mailto:low_dong_neng@moe.edu.sg) |
