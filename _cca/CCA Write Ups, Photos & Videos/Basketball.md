@@ -31,3 +31,11 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
 | Overall Teacher - In-Charge  | Email                    |
 |------------------------------|--------------------------|
 | Mr Low Dong Neng Jim         | [low\_dong\_neng@moe.edu.sg](mailto:low_dong_neng@moe.edu.sg) |
+
+| Trainee Team                               | Email                                 |
+|--------------------------------------------|---------------------------------------|
+| Mdm Fardyana Binte Abdul Aziz              | [fardyana\_abdul\_aziz@moe.edu.sg](mailto:fardyana_abdul_aziz@moe.edu.sg)       |
+| Mrs Azry - Nurul Hayati Binte Abdul Rahman | [nurul\_hayati\_abdul\_rahman@moe.edu.sg](mailto:nurul_hayati_abdul_rahman@moe.edu.sg)  |
+| Mr Aznahar Bin Baharudin                   |  [aznahar\_baharudin@moe.edu.sg](mailto:aznahar_baharudin@moe.edu.sg)      |
+| Ms Lim Huey Tyng Joanna                    |  [lim\_huey\_tyng@moe.edu.sg](mailto:lim_huey_tyng@moe.edu.sg)         |
+| Mdm Selvi d/o Ramasamy                     |  [selvi\_ramasamy@moe.edu.sg](mailto:selvi_ramasamy@moe.edu.sg)           |
