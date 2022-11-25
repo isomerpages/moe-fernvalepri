@@ -17,3 +17,11 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
 
   
 ### <u><b> Session</b></u>
+
+| Day       | Team                     | Time                               |
+|-----------|--------------------------|------------------------------------|
+| Monday    | Junior Boys Junior Girls |  2:00pm to 3:30pm                  |
+|           | Senior Boys Senior Girls | 2:00pm to 4.30pm 2:00pm to 5:30pm  |
+| Wednesday | Junior Boys Junior Girls |  2:00pm to 3:30pm                  |
+|           | Senior Boys Senior Girls | 2:00pm to 4.30pm 2:00pm to 5:30pm  |
+| Friday    | Senior Girls             | 2:00pm to 4:30pm                   |
