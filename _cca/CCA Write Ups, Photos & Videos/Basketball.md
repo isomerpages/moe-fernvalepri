@@ -52,3 +52,7 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
 | Mdm Somasundaram Vijaya Rani | [somasundaram\_vijaya\_rani@moe.edu.sg](mailto:somasundaram_vijaya_rani@moe.edu.sg) |
 
 ##### <u><b>Senior Division Boys and Girls</b></u>
+
+![](/images/Cca/Basketball/bb%201.jpg)
+
+![](/images/Cca/Basketball/bb2.jpg)
