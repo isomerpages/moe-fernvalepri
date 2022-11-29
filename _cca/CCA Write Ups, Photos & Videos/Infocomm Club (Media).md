@@ -27,7 +27,11 @@ To provide reliable and superior photography and videography services for the be
 
 ### <b><u>Photographs</u></b>
 
+![](/images/Cca/Infocomm%20Club%20(Media)/p1.jpg)
 
+![](/images/Cca/Infocomm%20Club%20(Media)/p2.jpg)
+
+![](/images/Cca/Infocomm%20Club%20(Media)/p3.jpg)
 
 ### <b><u>Achievements/Successes</u></b>
 
