@@ -49,3 +49,9 @@ Students of any skill levels are encouraged to come and share their techniques w
 **Our 2016 SYF Team achieved the Certificate of Accomplishment for thier efforts.(For picture above)**
 
 #### <center><b><u>2016 November Annual Prize Giving (APG) Day</u></b></center>
+
+![](/images/Cca/Guitar%20Ensemble/IMG_5168.jpg)
+
+**Our Guitar Ensemble performing for prize winners and parents in our school hall.(For picture above)**
+
+#### <center><b><u>2017 August Music in the Park</u></b></center>
