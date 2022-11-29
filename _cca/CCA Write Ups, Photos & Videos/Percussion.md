@@ -53,9 +53,9 @@ We aim to develop the students to acquire strong foundation in Percussion and cu
 
 | Year  | Achievements/Sucesses                                                                                                        |
 |-------|---------------------------------------|
-| 2014  | Sengkang West Tree Planting Day <br>- GOH Mr Lam Pin Min (Minister of State for Health)<br>Samba Travao @ Gardens by the Bay |
-| 2015  | Jalan Kayu Day Event<br>- GOH Mr Lee Hsien Loong (Prime Minister)<br>SG50 Celebrations at FVPS                               |
-|  2016 |  World Watermark Day @ MacRitchie Reservoir - GOH Mr Masagos Zulkifli (Minister for the Environment and Water Resources)     |
-|  2017 |  Music in the Park @ Bishan-Ang Mo Kio Park in conjunction with NParks Live Out Loud                                         |
-| 2018  | <br> National Day Perfromance @ Fernvale                                                                                     |
-| 2019  |  Annual Prize Giving Day @ Fvps                                                                                              |
+| 2014  | • Sengkang West Tree Planting Day <br>- GOH Mr Lam Pin Min (Minister of State for Health)<br>• Samba Travao @ Gardens by the Bay |
+| 2015  | • Jalan Kayu Day Event<br>- GOH Mr Lee Hsien Loong (Prime Minister)<br>• SG50 Celebrations at FVPS                               |
+|  2016 |  • World Watermark Day @ MacRitchie Reservoir - GOH Mr Masagos Zulkifli (Minister for the Environment and Water Resources)     |
+|  2017 |  • Music in the Park @ Bishan-Ang Mo Kio Park in conjunction with NParks Live Out Loud                                         |
+| 2018  | <br> • National Day Perfromance @ Fernvale                                                                                     |
+| 2019  |  • Annual Prize Giving Day @ Fvps                                                                                              |
