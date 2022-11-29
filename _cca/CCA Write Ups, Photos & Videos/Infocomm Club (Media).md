@@ -25,8 +25,14 @@ To provide reliable and superior photography and videography services for the be
 | Mr Ansar             | [ansar\_mohamed\_sali@moe.edu.sg](mailto:ansar\_mohamed\_sali@moe.edu.sg)    |
 | Mdm Siti Erliasari   |   [siti\_erliasari\_haroon@moe.edu.sg](mailto:siti\_erliasari\_haroon@moe.edu.sg) |
 
-### <b><u>Vision</u></b>
+### <b><u>Photographs</u></b>
 
-### <b><u>Vision</u></b>
 
-### <b><u>Vision</u></b>
+
+### <b><u>Achievements/Successes</u></b>
+
+| Year  | Achievements/Successes             |
+|-------|--------------------------------------------------------|
+| 2017  |• EAS Appreciation Video<br>• Primary 5 Camp Event Video<br>• Photographs of Events (Chinese New Year, Total Defence Day, P5 Camp, National Day, P6 Dragon Boating)                                                                                                                                                                  |
+| 2018  | • EAS Appreciation Video<br>• Primary 5 Camp Event Video<br>•  Photographs of Events (Chinese New Year, Total Defence Day, P5 Hong Kong, P5 Camp)<br>• Winners of the MOE Our Schools, Our Stories Photo Contest 2018 (to be presented on 3 July 2018)                                                                             |
+|  2019 |•  Friend of Singa – Good Behaviour Video (showcased during Friend of Singa Award ceremony)<br>• Winners of the MOE Our Schools, Our Stories Photo Contest 2019<br>• Video on “Buttons of Happiness”, a student-initiated Values in Action project<br>• Photograph of Events (National Day and P5 Camp)<br>• Cover Photograph for School Magazine |
