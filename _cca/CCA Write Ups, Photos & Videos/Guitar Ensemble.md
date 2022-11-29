@@ -32,3 +32,5 @@ Students of any skill levels are encouraged to come and share their techniques w
 | Ms Vimala d/o Kanaran             |                               |
 
 ## <b><u>Programme Highlights</u></b>
+
+##### <b><u>2016 March Pre-SYF Guitar Ensemble Exchange@ Pei Hwa Presbyterian Primary School</u></b>
