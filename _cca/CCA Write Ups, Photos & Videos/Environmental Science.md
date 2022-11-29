@@ -37,7 +37,16 @@ The Environmental Science (CCA) launched the Environmental Fest 2022 this year. 
 
 ### <b><u>The Environmental Launch - Assembly Talk</u></b>
 
-### <b><u>Session</u></b>
+![](/images/Cca/Environmental%20Science/Picture7.png)
+
+
+### <b><u>Recycling Corner Competition 2022 (P1 – P6)</u></b>
+
+As part of our efforts to educate our pupils about the importance of recycling, all the classes took part in the recycling corner competition.
+
+|   |   |   |   |
+|---|---|---|---|
+| ![](/images/Cca/Environmental%20Science/Picture8.png)  | ![](/images/Cca/Environmental%20Science/Picture9.png)  |  ![](/images/Cca/Environmental%20Science/Picture11.png) | ![](/images/Cca/Environmental%20Science/Picture10.png)  |
 
 ### <b><u>Session</u></b>
 
