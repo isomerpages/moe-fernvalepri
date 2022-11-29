@@ -18,4 +18,9 @@ Fernvale Primary Guitar Ensemble provides a relaxed and open-minded environment 
 
 Students of any skill levels are encouraged to come and share their techniques with other members.
 
-### <b><u>Sessions</u></b>
+#### <b><u>Sessions</u></b>
+
+| Day    | Team                   | Time             |
+|--------|------------------------|------------------|
+| Monday | Senior Team            | 2:00pm to 4:15pm |
+| Friday | Junior and Senior Team | 2:00pm to 4:15pm |
