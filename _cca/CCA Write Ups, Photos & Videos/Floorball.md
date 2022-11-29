@@ -10,13 +10,40 @@ At Fernvale Primary School, we aim to encourage and develop the love for sports 
 
 National Primary Schools Floorball Championship and have worked our way up to attain the following achievements. We will continue to grow to achieve greater victories with continuous parents’ support.
 
-### <b><u>Sessions</b></u>
+#### <b><u>Sessions</b></u>
 
 | Day                | Time                                                                        |
 |--------------------|-----------------------------------------------------------------------------|
 | Monday and Fridays | 2:00pm to 4:15pm (non-competitive team)<br> 2:00pm to 5:00pm (competitive team) |
 
+#### <b><u>Teachers</b></u>
 
+
+| Name                  | Email                        |
+|-----------------------|------------------------------|
+| Mdm Liza Binti Ismail | [liza\_ismail@moe.edu.sg](mailto:liza_ismail@moe.edu.sg)       |
+| Mdm Chew Bee See      | [chew\_bee\_see@moe.edu.sg](mailto:chew_bee_see@moe.edu.sg)     |
+| Mdm Fithriah          | [nur\_fithriah\_anas@moe.edu.sg](mailto:nur_fithriah_anas@moe.edu.sg) |
+| Ms Foo Wei Woon       |  [foo\_wei\_woon@moe.edu.sg](mailto:foo_wei_woon@moe.edu.sg)    |
+| Mrs Grace Kee         |  [tan\_siok\_kheng@moe.edu.sg](mailto:tan_siok_kheng@moe.edu.sg)   |
+| Ms Oh Haw Ling        |   [oh\_haw\_ling@moe.edu.sg](mailto:oh_haw_ling@moe.edu.sg)     |
+
+### <b><u>Our Team goals</b></u>
+
+*   Create a respectful, positive, healthy and learning environment  
+    
+*   Foster the development of a positive mental attitude and good sportsmanship  
+    
+*   Improve each individual player’s technical skills and conditioning  
+    
+*   Improve each players understanding and appreciation of team play and field spatial designation
+
+### <b><u>Players  </b></u> 
+
+*   Bring your best attitude and effort to all practices and games  
+    
+*   Show respect for your coaches and teammates
+*   Take seriously the opportunity to learn about Floorball by listening and paying the attention to the coaches
 
 ![](/images/Cca/Floorball/floorball1.jpg)
 
