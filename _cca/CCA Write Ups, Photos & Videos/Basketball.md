@@ -66,18 +66,20 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
 |![](/images/Cca/Basketball/bb5.jpg)   | ![](/images/Cca/Basketball/bb4.jpg)
   |
 
+![](/images/Cca/Basketball/bb6.jpg)
 
+|   |   |
+|---|---|
+|![](/images/Cca/Basketball/bb7.jpg)   | ![](/images/Cca/Basketball/bb8.jpg)
+  |
 
-![](/images/Cca/Basketball/bb2.jpg)
+![](/images/Cca/Basketball/bb9.jpg)
 
-![](/images/Cca/Basketball/bb2.jpg)
+|   |   |
+|---|---|
+|![](/images/Cca/Basketball/bb10.jpg)   | ![](/images/Cca/Basketball/bb12.jpg)
+  |
 
+![](/images/Cca/Basketball/bb11.jpg)
 
-![](/images/Cca/Basketball/bb2.jpg)
-
-
-![](/images/Cca/Basketball/bb2.jpg)
-
-![](/images/Cca/Basketball/bb2.jpg)
-
-![](/images/Cca/Basketball/bb2.jpg)
+##### <u><b>Achievements/Successes</b></u>
