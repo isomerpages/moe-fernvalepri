@@ -33,4 +33,17 @@ Students of any skill levels are encouraged to come and share their techniques w
 
 ## <b><u>Programme Highlights</u></b>
 
-##### <b><u>2016 March Pre-SYF Guitar Ensemble Exchange@ Pei Hwa Presbyterian Primary School</u></b>
+#### <b><u>2016 March Pre-SYF Guitar Ensemble Exchange@ Pei Hwa Presbyterian Primary School</u></b>
+
+![](/images/Cca/Guitar%20Ensemble/IMG_4607.jpg)
+
+**Our Guitar Ensemble performing their SYF Pieces in front of other schools’ Guitar Ensembles. (For picture above)**
+
+#### <b><u>Singapore Youth Festival Arts Presentation(SYF AP)</u></b>
+
+|   |   |
+|---|---|
+|  ![](/images/Cca/Guitar%20Ensemble/IMG_5529.jpg) |  ![](/images/Cca/Guitar%20Ensemble/IMG_5527.jpg) |
+
+
+**Our 2016 SYF Team achieved the Certificate of Accomplishment for thier efforts.(For picture above)**
