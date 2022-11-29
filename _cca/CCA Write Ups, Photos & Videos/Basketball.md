@@ -61,9 +61,12 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
 ##### <u><b>National School Games Participation</b></u>
 ![](/images/Cca/Basketball/bb3.jpg)
 
-![](/images/Cca/Basketball/bb2.jpg)
+|   |   |
+|---|---|
+|![](/images/Cca/Basketball/bb5.jpg)   | ![](/images/Cca/Basketball/bb4.jpg)
+  |
 
-![](/images/Cca/Basketball/bb2.jpg)
+
 
 ![](/images/Cca/Basketball/bb2.jpg)
 
