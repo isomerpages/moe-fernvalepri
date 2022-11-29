@@ -15,8 +15,6 @@ A united team that grows, excels and inspires one another to be a better ba
 
 ### <b><u>Session</u></b>
 
-### 
-
 Every shuttler in our FVPS Badminton Team live for the love and passion for the game.
 
 At each training session, our shuttlers will grow in _knowledge, skills and attitude_ in the badminton domain. All shuttlers are also given opportunities to excel as a leader by taking up roles of organising and facilitating in warm-ups, trainings, intra-CCA and intra-school badminton competitions. More importantly, our shuttlers strives to inspire all Fernvalions by living to our mission of becoming not just “A Better Player”, but also “A Better Person”.
