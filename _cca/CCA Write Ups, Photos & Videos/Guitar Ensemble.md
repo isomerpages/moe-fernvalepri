@@ -55,3 +55,39 @@ Students of any skill levels are encouraged to come and share their techniques w
 **Our Guitar Ensemble performing for prize winners and parents in our school hall.(For picture above)**
 
 #### <center><b><u>2017 August Music in the Park</u></b></center>
+
+![](/images/Cca/Guitar%20Ensemble/IMG_2840.jpg)
+
+![](/images/Cca/Guitar%20Ensemble/IMG_2843.jpg)
+
+Our Guitar Ensemble performing for Music in the Park@BishanPark in conjunction with NParks Live Out Loud.
+
+#### <b><u> 2018 March Pre-SYF Guitar Ensemble Exchange@Pei Hwa Presbyterian Primary School</u></b>
+
+![](/images/Cca/Guitar%20Ensemble/pasted%20image%200%20(5).png)
+
+Our Guitar Ensemble performing their SYF Pieces in front of other schools’ Guitar Ensembles.(For picture above)
+
+#### <center><b><u> Singapore Youth Festival Arts Presentation(SYF AP)</u></b></center>
+
+![](/images/Cca/Guitar%20Ensemble/pasted%20image%200%20(6).png)
+
+|   |   |
+|---|---|
+| ![](/images/Cca/Guitar%20Ensemble/file3.jpg)  | ![](/images/Cca/Guitar%20Ensemble/file.jpg)  |
+
+Our 2018 SYF Team achieved the Certificate of Distinction for the first time.(For picture above)
+
+#### <b><u> 2019 Performance at Singapore Cheshire Home</u></b>
+
+![](/images/Cca/Guitar%20Ensemble/12.jpg)
+
+Our Guitar Ensemble performing for the old folks at Singapore Cheshire Home. (For picture above)
+
+#### <b><u>Achievements/Successes</u></b>
+
+| Year | Achievements/Successes            |
+|------|-----------------------------------|
+| 2014 | SYF Silver Award                  |
+| 2016 | SYF Certificate of Accomplishment |
+| 2018 | SYF Certificate of Distinction    |
