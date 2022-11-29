@@ -37,8 +37,23 @@ At each training session, our shuttlers will grow in _knowledge, skills and att
 
 #### <b><u>Our Team</u></b>
 
-<u>Developmental Team:</u>
+<b><u>Developmental Team</u></b>:
 
+![](/images/Cca/Badminton/Picture1.png)
+
+<b><u>Competition Team</u></b>:
+
+<b><u>Senior Girls (2022)</u></b>: Quarter-finalist in NSG Badminton
+
+![](/images/Cca/Badminton/Picture2.png)
+
+<b><u>Senior Boys (2022)</u></b>
+
+![](/images/Cca/Badminton/Picture3.png)
+
+<b><u>Junior Girls & Boys (2022)</u></b>
+
+![](/images/Cca/Badminton/Picture4.png)
 
 ### <b><u>Achievements/Successes</u></b>
 
@@ -48,5 +63,3 @@ At each training session, our shuttlers will grow in _knowledge, skills and att
 | 2018 |  • Senior Girls - North Zone Inter-School Championship 2018 Round 1<br> • Junior Boys - Top 8 in North Zone Inter-School Championship 2018<br> • Xin Min Invitational Challenge 2018 - Girls' Singles Champion |
 | 2019 |  • Junior Boys - Top 8 in North Zone Inter-School Championship 2019<br> • Senior Boys - Top 6 in North Zone Inter-School Championship 2019                                                                  |
 | 2020 |  • Senior Girls - North Zone Inter-School Championship 2020 Round 1 <br> • Senior Boys - North Zone Inter-School Championship 2020 Round 1                                                                  |
-
-
