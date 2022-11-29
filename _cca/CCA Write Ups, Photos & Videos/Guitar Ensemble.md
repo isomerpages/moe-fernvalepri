@@ -17,3 +17,5 @@ Fernvale Primary Guitar Ensemble was established in year 2012.  In our ensemble
 Fernvale Primary Guitar Ensemble provides a relaxed and open-minded environment for all students with a love for music and guitar to learn and play together.
 
 Students of any skill levels are encouraged to come and share their techniques with other members.
+
+### <b><u>Sessions</u></b>
