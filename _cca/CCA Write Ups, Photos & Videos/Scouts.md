@@ -46,8 +46,22 @@ The cubs hiked through Fort Canning Park, where they learnt various historical f
 |---|---|
 | ![](/images/Cca/Scouts/Picture1.png)  | ![](/images/Cca/Scouts/Picture2.jpg)  |
 
-### <b><u>Exploring Nature, Reliving History</u></b>
+### <b><u>Cooking up a storm</u></b>
 
-### <b><u>Exploring Nature, Reliving History</u></b>
+![](/images/Cca/Scouts/Picture3.png)
 
-### <b><u>Exploring Nature, Reliving History</u></b>
+![](/images/Cca/Scouts/Picture4.png)
+
+### <b><u>Sharpening our minds</u></b>
+
+When we are not having fun outdoors, our cubs  also spend time exploring the sciences. Astrology, chemical reactions, and life cycles of animals are just about some of the things we learn about.
+
+|   |   |
+|---|---|
+| ![](/images/Cca/Scouts/Picture5.png)  | ![](/images/Cca/Scouts/Picture6.png)  |
+
+### <b><u>Activities</u></b>
+
+![](/images/Cca/Scouts/2.jpg)
+
+<a href="/achievements/cca-academic-achievements/" target="_blank">Click here to view CCA Achievements</a>
