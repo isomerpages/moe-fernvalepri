@@ -10,13 +10,13 @@ At Fernvale Primary School, we aim to encourage and develop the love for sports 
 
 National Primary Schools Floorball Championship and have worked our way up to attain the following achievements. We will continue to grow to achieve greater victories with continuous parents’ support.
 
-#### <b><u>Sessions</b></u>
+#### <b><u>Sessions</u></b>
 
 | Day                | Time                                                                        |
 |--------------------|-----------------------------------------------------------------------------|
 | Monday and Fridays | 2:00pm to 4:15pm (non-competitive team)<br> 2:00pm to 5:00pm (competitive team) |
 
-#### <b><u>Teachers</b></u>
+#### <b><u>Teachers</u></b>
 
 
 | Name                  | Email                        |
@@ -28,7 +28,7 @@ National Primary Schools Floorball Championship and have worked our way up to at
 | Mrs Grace Kee         |  [tan\_siok\_kheng@moe.edu.sg](mailto:tan_siok_kheng@moe.edu.sg)   |
 | Ms Oh Haw Ling        |   [oh\_haw\_ling@moe.edu.sg](mailto:oh_haw_ling@moe.edu.sg)     |
 
-### <b><u>Our Team goals</b></u>
+### <b><u>Our Team goals</u></b>
 
 *   Create a respectful, positive, healthy and learning environment  
     
@@ -38,7 +38,7 @@ National Primary Schools Floorball Championship and have worked our way up to at
     
 *   Improve each players understanding and appreciation of team play and field spatial designation
 
-### <b><u>Players  </b></u> 
+### <b><u>Players  </u> </b>
 
 *   Bring your best attitude and effort to all practices and games  
     
@@ -58,7 +58,7 @@ National Primary Schools Floorball Championship and have worked our way up to at
 
 <center>Junior Boys -  Warning up session</center>
 
-### <b><u>Achievements/Successes</b></u>
+### <b><u>Achievements/Successes</u></b>
 
 | Year | Achievements/Successes                                                                    |
 |------|-------------------------------------------------------------------------------------------|
