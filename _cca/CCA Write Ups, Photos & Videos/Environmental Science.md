@@ -48,26 +48,64 @@ As part of our efforts to educate our pupils about the importance of recycling, 
 |---|---|---|---|
 | ![](/images/Cca/Environmental%20Science/Picture8.png)  | ![](/images/Cca/Environmental%20Science/Picture9.png)  |  ![](/images/Cca/Environmental%20Science/Picture11.png) | ![](/images/Cca/Environmental%20Science/Picture10.png)  |
 
-### <b><u>Session</u></b>
+### <b><u>Assembly Talks</u></b>
 
-### <b><u>Session</u></b>
+![](/images/Cca/Environmental%20Science/Picture12.jpg)
 
-### <b><u>Session</u></b>
 
-### <b><u>Session</u></b>
+### <b><u>Upcycling</u></b>
 
-### <b><u>Session</u></b>
+![](/images/Cca/Environmental%20Science/Capture.jpg)
 
-### <b><u>Session</u></b>
+### <b><u>Heading for Scratch Coding Project 2022</u></b>
 
-### <b><u>Session</u></b>
+![](/images/Cca/Environmental%20Science/Picture13.png)
 
-### <b><u>Session</u></b>
+<span style = "color: #38761d"><b>Raffles Institution Liveable Cities Challenge 2021 (RILCC)</b></span>
 
-### <b><u>Session</u></b>
+Two teams of Primary 5 students from the Environmental Science CCA represented our school in this challenge.
 
-### <b><u>Session</u></b>
+Synchronous Challenge Online:  
+Sustainability Escape-room - Second Runner-up (Team 1)
 
-### <b><u>Session</u></b>
+### <b><u>World Water Day 2019 Rehearsal</u></b>
 
-### <b><u>Session</u></b>
+![](/images/Cca/Environmental%20Science/1.png)
+
+### <b><u>World Water Day Celebration 2019</u></b>
+
+![](/images/Cca/Environmental%20Science/3.jpg)
+
+### <b><u>Green Club - Plastic Campaign</u></b>
+
+WWF conducted a plastic workshop for our green club members. The members brainstormed various ideas and had a clearer understanding of what campaigning is about. They also had some campaigning ideas to lead on from the brainstorming session. 
+
+Students came together to define their project more clearly and set goals and outcomes. They got into groups to brainstorm ideas about many things related to plastic waste. Pupils finally decided on having a plastic challenge in our school. After much brainstorming, they decided to reduce and refuse the use of straws both in school and out of school.
+
+<span style = "color: #38761d"><b>Pupils brainstorming ideas in groups!</b></span>
+
+![](/images/Cca/Environmental%20Science/4.jpg)
+
+### <b><u>Plastic Campaign - Pupils giving their feedback during recess!</u></b>
+
+![](/images/Cca/Environmental%20Science/5.jpg)
+
+
+### <b><u>Green Club – Learning Journey to Kok Fah Technology Farm</u></b>
+
+Pupils visited the Kok Fah farm to:
+
+1.  understand the use of different parts of the plants through real-life experience
+2.  find out how Science can be used to counter the challenges we face in Singapore
+3.  experience learning that aligns with Science and Social Studies syllabus
+4.  experience sensorial learning through five sense
+5.  earn how technology advancement helps in easing farming processes and easing farmers’ task
+
+![](/images/Cca/Environmental%20Science/6.jpg)
+
+
+### <b><u>Involvements</u></b>
+
+| Involvements                                     |
+|---------------------|
+| <br>• Worldwater Day Celebration 2015, 2016, 2017, 2018<br><br>• Earth Day Celebration 2015, 2016, 2017, 2018<br><br>• Sharing on upcycling at Sengkang Methodist Childcare 2015<br><br>• Sharing on Kokedama at Sengkang West CC Sharing 2015<br><br>• Gardening at Sengkang West Zone G- 2017<br><br>• Sharing on Food Waste Minimisation at School Green Day 2017<br><br>• Sharing on Food Waste Minimisation and Kokedama at EEA Networking 2018 |
