@@ -15,3 +15,18 @@ To be the crew any school would turn to for event media coverage and publishing.
 ### <b><u>Mission</u></b>
 
 To provide reliable and superior photography and videography services for the benefit and enjoyment of our audience.
+
+### <b><u>Teachers</u></b>
+
+| Name                 | Email                              |
+|----------------------|------------------------------------|
+| Mr Alan Tong         | [tong\_hock\_chuan@moe.edu.sg](mailto:tong_hock_chuan@moe.edu.sg)     |
+| Mr Jaron Yap         | [yap\_jie\_han\_jaron@moe.edu.sg](mailto:yap\_jie\_han\_jaron@moe.edu.sg)   |
+| Mr Ansar             | [ansar\_mohamed\_sali@moe.edu.sg](mailto:ansar\_mohamed\_sali@moe.edu.sg)    |
+| Mdm Siti Erliasari   |   [siti\_erliasari\_haroon@moe.edu.sg](mailto:siti\_erliasari\_haroon@moe.edu.sg) |
+
+### <b><u>Vision</u></b>
+
+### <b><u>Vision</u></b>
+
+### <b><u>Vision</u></b>
