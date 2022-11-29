@@ -24,3 +24,11 @@ Students of any skill levels are encouraged to come and share their techniques w
 |--------|------------------------|------------------|
 | Monday | Senior Team            | 2:00pm to 4:15pm |
 | Friday | Junior and Senior Team | 2:00pm to 4:15pm |
+
+| Teachers                          |                               |
+|-----------------------------------|-------------------------------|
+| Mdm Chloe Toh Lee See             | Mrs Ang -  Choo Sok Ee Eunice |
+| Mrs Huang -  Soh Chin Yi Germaine | Mdm Nadhira Parveen           |
+| Ms Vimala d/o Kanaran             |                               |
+
+## <b><u>Programme Highlights</u></b>
