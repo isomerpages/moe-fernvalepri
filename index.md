@@ -43,12 +43,6 @@ sections:
         Central Helpline....
       button: Button Text
   - infobar:
-      title: QUICK LINKS
-      description: Click here for quick links to the Student Learning Space (SLS),
-        Student iCON, Canteen Price List 2022
-      button: links
-      url: /quick-links/
-  - infobar:
       title: Fernvale Times  (PDF FILE>5MB)
       button: Click here to view Fernvale Times 2022
       url: /
@@ -58,4 +52,10 @@ sections:
         (Best Photo Story Award)
       button: Click here
       url: /announcements/our-schools-our-stories-photo-story-contest-junior-category-best-photo-story-award/
+  - infobar:
+      title: QUICK LINKS
+      description: Click here for quick links to the Student Learning Space (SLS),
+        Student iCON, Canteen Price List 2022
+      button: links
+      url: /quick-links/
 ---
