@@ -2,6 +2,7 @@ collections:
   parents-corner:
     output: true
     order:
+      - Edusave Awards for and Scholarships for Primary Schools.md
       - MOE Sexuality Education Information for Parents.md
       - Assessment Matters.md
       - Letters to Parents.md
