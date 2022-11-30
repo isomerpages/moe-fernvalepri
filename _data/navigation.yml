@@ -6,9 +6,11 @@ links:
     collection: our-departments
   - title: CCA
     collection: cca
-  - title: Forms
-    url: /forms
   - title: Parents' Corner
     collection: parents-corner
   - title: Achievements
     collection: achievements
+  - title: MOE Kindergarten @ Fernvale
+    collection: moe-kindergarten-at-fernvale
+  - title: Forms
+    url: /forms
