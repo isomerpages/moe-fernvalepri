@@ -22,8 +22,8 @@ description: ""
 You may <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank">click here</a> for more information on MOE Sexuality Education.  
   
 
-Overview of Fernvale Primary School’s Sexuality Education Programme For 2022
-----------------------------------------------------------------------------
+**Overview of Fernvale Primary School’s Sexuality Education Programme For 2022**
+
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools" target="_blank">click here</a> for more information on the scope of Sexuality Education in the school curriculum.  
   
@@ -39,3 +39,26 @@ Overview of Fernvale Primary School’s Sexuality Education Programme For 2022
 7\. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.  
   
 <b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2022:</u></b>
+
+## Primary 5
+
+![](/images/Parents%20Corner/pri%205.png)
+
+![](/images/Parents%20Corner/primary%205_v1.png)
+
+## Primary 6
+
+![](/images/Parents%20Corner/pri%206.png)
+
+![](/images/Parents%20Corner/pri%206_v1.png)
+
+
+<b><u>Information for Parents</u></b>
+
+8\. Parents may opt their children out of Sexuality Education lessons and/or supplementary sexuality education programmes by MOE-approved external providers.  
+  
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="/files/Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 28 Feb 2022.  
+  
+10\. Parents can contact the school at 6315 3051 or email us at [fernvale\_ps@moe.edu.sg](mailto:fernvale_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.   
+  
+11\. Parents, who wish to attend the school sexuality education lesson, should contact the school to make the necessary arrangements.
