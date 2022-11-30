@@ -35,9 +35,10 @@ sections:
       image: /images/77ae6ce82_3479.png
       alt: Artsteps
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Find out more about our MOE Kindergartens
+      subtitle: WHAT'S HAPPENING
+      button: Click here to find out more.
+      alt: Moe Kindergarten @ Fernvale
+      url: /moe-kindergarten-at-fernvale/about-us/
+      image: /images/e47416769_1883.jpg
 ---
