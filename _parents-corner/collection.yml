@@ -2,5 +2,5 @@ collections:
   parents-corner:
     output: true
     order:
-      - Assessment Matters.md
       - MOE Sexuality Education Information for Parents.md
+      - Assessment Matters.md
