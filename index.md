@@ -19,9 +19,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: COVID-19 Vaccination Exercise
+      description: (For Students in Schools and Institutes of Higher Learning.) For
+        information, please click on the links below.
       button: Button text
       url: /faq/
 ---
