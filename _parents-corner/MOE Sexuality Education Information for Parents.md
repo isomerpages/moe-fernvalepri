@@ -57,7 +57,7 @@ You may <a href="https://www.moe.gov.sg/education/programmes/social-and-emotion
 
 8\. Parents may opt their children out of Sexuality Education lessons and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="/files/Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 28 Feb 2022.  
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="/files/Parents%20Corner/Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 28 Feb 2022.  
   
 10\. Parents can contact the school at 6315 3051 or email us at [fernvale\_ps@moe.edu.sg](mailto:fernvale_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.   
   
