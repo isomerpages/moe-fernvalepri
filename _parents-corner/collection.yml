@@ -2,7 +2,6 @@ collections:
   parents-corner:
     output: true
     order:
-      - PSLE Updates.md
       - MOE Sexuality Education Information for Parents.md
       - Assessment Matters.md
       - Letters to Parents.md
@@ -10,3 +9,4 @@ collections:
       - Edusave Awards for and Scholarships for Primary Schools.md
       - Book List 2023.md
       - Pupil Calendar.md
+      - PSLE Updates.md
