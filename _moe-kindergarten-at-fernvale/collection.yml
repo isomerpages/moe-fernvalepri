@@ -2,10 +2,10 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - MK Forms.md
       - About Us.md
       - Our Staff.md
       - Our Learning Environment.md
       - Our Schedule.md
       - Collaborations.md
       - Find out more.md
+      - MK Forms.md
