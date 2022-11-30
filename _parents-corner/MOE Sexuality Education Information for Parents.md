@@ -37,4 +37,4 @@ Overview of Fernvale Primary School’s Sexuality Education Programme For 2022
   
 7\. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.  
   
-<b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2022</u>:</b>
+<b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2022:</u></b>
