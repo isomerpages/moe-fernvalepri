@@ -2,6 +2,6 @@ collections:
   parents-corner:
     output: true
     order:
-      - Letters to Parents.md
       - MOE Sexuality Education Information for Parents.md
       - Assessment Matters.md
+      - Letters to Parents.md
