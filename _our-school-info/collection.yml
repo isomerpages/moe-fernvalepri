@@ -2,8 +2,6 @@ collections:
   our-school-info:
     output: true
     order:
-      - Forms.md
-      - Contact Us.md
       - Our Crest.md
       - Our Mission.md
       - Our School Song.md
@@ -12,3 +10,5 @@ collections:
       - Our Staff.md
       - Our Service Providers.md
       - Principal's Message.md
+      - Contact Us.md
+      - Forms.md
