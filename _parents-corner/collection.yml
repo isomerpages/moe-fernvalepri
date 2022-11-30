@@ -1,4 +1,5 @@
 collections:
   parents-corner:
     output: true
-    order: []
+    order:
+      - MOE Sexuality Education Information for Parents.md
