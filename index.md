@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-      key_highlights:
-        - title: QUICK LINKS
-          description: ""
-          url: /quick-links/
   - infobar:
       title: COVID-19 Vaccination Exercise
       description: (For Students in Schools and Institutes of Higher Learning.) For
