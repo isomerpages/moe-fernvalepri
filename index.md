@@ -48,4 +48,8 @@ sections:
         Student iCON, Canteen Price List 2022
       button: links
       url: /quick-links/
+  - infobar:
+      title: Fernvale Times  (PDF FILE>5MB)
+      button: Click here to view Fernvale Times 2022
+      url: /
 ---
