@@ -9,15 +9,9 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: QUICK LINKS
+          description: ""
+          url: /quick-links/
   - infobar:
       title: COVID-19 Vaccination Exercise
       description: (For Students in Schools and Institutes of Higher Learning.) For
