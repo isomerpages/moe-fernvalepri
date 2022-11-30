@@ -41,8 +41,8 @@ sections:
       description: For SLS password, login and account issues during school operating
         hours (8am – 4pm) from Monday to Friday, please call 6315 3051. The SLS
         Central Helpline....
-      button: " helpdesk@sls.ufinity.com "
-      url: mailto:helpdesk@sls.ufinity.com "helpdesk@sls.ufinity.com"
+      button: Click here for more info
+      url: /sls-info/
   - infobar:
       title: Fernvale Times  (PDF FILE>5MB)
       button: Click here to view Fernvale Times 2022
