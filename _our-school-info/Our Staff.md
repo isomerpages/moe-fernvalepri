@@ -46,6 +46,7 @@ description: ""
 ## Teaching Staff / Form Teachers
 
 ### Primary 1
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -56,13 +57,13 @@ description: ""
 .tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 707px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1136px">
 <colgroup>
-<col style="width: 707px">
+<col style="width: 1136px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-vlif">Care<span style="font-weight:normal"> </span><br></th>
+    <th class="tg-vlif">Care<span style="font-weight:normal"> </span></th>
   </tr>
 </thead>
 <tbody>
@@ -73,7 +74,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Ma Sen Loo Theresa </span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Graciousness <span style="font-weight:normal">   </span></td>
+    <td class="tg-sna6"><br>Graciousness <span style="font-weight:normal">   </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz">Ms Cherie Ang Hui Er</td>
@@ -82,7 +83,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm V Sulaja</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Integrity <span style="font-weight:normal">  </span></td>
+    <td class="tg-sna6"><br>Integrity <span style="font-weight:normal">  </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Ho Ivy</span></td>
@@ -91,7 +92,7 @@ description: ""
     <td class="tg-lnwz">Mdm Zhong Xiuyuan Diana</td>
   </tr>
   <tr>
-    <td class="tg-sna6">Resilience <span style="font-weight:normal">   </span></td>
+    <td class="tg-sna6"><br>Resilience <span style="font-weight:normal">   </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Ong Li Ting</span></td>
@@ -100,7 +101,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Mak Sock May</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Respect   <span style="font-weight:normal"> </span></td>
+    <td class="tg-sna6"><br>Respect   <span style="font-weight:normal"> </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Mrs Jacquelin Yeo Chien Ling</span><br></td>
@@ -109,7 +110,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chew Bee See Betsy</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Responsibility   <span style="font-weight:normal"> </span></td>
+    <td class="tg-sna6"><br>Responsibility   <span style="font-weight:normal"> </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Seah Hui Shian</span></td>
@@ -118,7 +119,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Noor A'shikin Bte Osman</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Joy <span style="font-weight:normal">   </span></td>
+    <td class="tg-sna6"><br>Joy <span style="font-weight:normal">   </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Mr Goh Tong Wee</span></td>
@@ -127,7 +128,7 @@ description: ""
     <td class="tg-lnwz">Mrs Khai - Siti Norhana Aris</td>
   </tr>
   <tr>
-    <td class="tg-sna6">Courage <span style="font-weight:normal">   </span></td>
+    <td class="tg-sna6"><br>Courage <span style="font-weight:normal">   </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Neo Sian Yin</span></td>
@@ -150,13 +151,13 @@ description: ""
 .tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 692px">
+<table class="tg" style="undefined;table-layout: fixed; width: 723px">
 <colgroup>
-<col style="width: 692px">
+<col style="width: 723px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-vlif">Care</th>
+    <th class="tg-vlif">Care<br></th>
   </tr>
 </thead>
 <tbody>
@@ -167,7 +168,7 @@ description: ""
     <td class="tg-lnwz">Mrs Kelly Thong - Hau Luo Ting</td>
   </tr>
   <tr>
-    <td class="tg-sna6">Graciousness <br></td>
+    <td class="tg-sna6"> <br>Graciousness </td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Alexandria Kirsten Tobias</span></td>
@@ -176,7 +177,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mrs Chong - Loh Swee Ling</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Integrity<span style="font-weight:normal"> </span></td>
+    <td class="tg-sna6"><br>Integrity<span style="font-weight:normal"> </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Lim Huey Tyng Joanna</span></td>
@@ -188,7 +189,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Khalidah Goh d/o Shafie Goh</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Resilience<br></td>
+    <td class="tg-sna6"> <br>Resilience</td>
   </tr>
   <tr>
     <td class="tg-lnwz">Miss Lim Nien Chern Juliana</td>
@@ -197,7 +198,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Miss Jayne Anne Jayanthi Krishnamurthi</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6"> Respect </td>
+    <td class="tg-sna6"> <br>Respect </td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Nadhira Parveen</span>    </td>
@@ -206,7 +207,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mr Ng Junhao Gary</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6">Responsibility </td>
+    <td class="tg-sna6"><br>Responsibility </td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Ting Wan Sin</span></td>
@@ -218,7 +219,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mrs Heng - Cheong Soke Hwa</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6"> <span style="color:#000">J</span><span style="color:#000;background-color:initial">oy</span></td>
+    <td class="tg-sna6"> <br><span style="color:#000">J</span><span style="color:#000;background-color:initial">oy</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz">Mr Tan Chun Chiah</td>
@@ -227,7 +228,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Siti Erliasari Binte Haroon</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6"> Courage</td>
+    <td class="tg-sna6"> <br>Courage</td>
   </tr>
   <tr>
     <td class="tg-lnwz">Ms Neo Yihui</td>
@@ -239,7 +240,7 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm W.K. Vijitha Valerie Brampy</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6"> Confidence</td>
+    <td class="tg-sna6"> <br>Confidence</td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Mrs Andrea Tee</span></td>
@@ -258,89 +259,88 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-632a{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 693px">
+<table class="tg" style="undefined;table-layout: fixed; width: 726px">
 <colgroup>
-<col style="width: 693px">
+<col style="width: 726px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-vlif">Care<br></th>
+    <th class="tg-0lax"><span style="font-weight:bold">Care</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Hajjah Marlina Bte Kumar</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Mdm Hajjah Marlina Bte Kumar</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mr Au Jun Duan Reuben</td>
+    <td class="tg-0lax">Mr Au Jun Duan Reuben</td>
   </tr>
   <tr>
-    <td class="tg-sna6">Graciousness<br></td>
+    <td class="tg-0lax"> <br><span style="font-weight:bold">Graciousness</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mr Roslie Bin Buang Sidik</td>
+    <td class="tg-0lax">Mr Roslie Bin Buang Sidik</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mr Tong Hock Chuan Alan</td>
+    <td class="tg-0lax">Mr Tong Hock Chuan Alan</td>
   </tr>
   <tr>
-    <td class="tg-sna6">Integrity<br></td>
+    <td class="tg-1wig"> <br>Integrity</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mrs Poon - Liew Siew Hui Eileen</td>
+    <td class="tg-0lax">Mrs Poon - Liew Siew Hui Eileen</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Ms Noorhafidah Bte Mohammad Hanafi</td>
+    <td class="tg-0lax">Ms Noorhafidah Bte Mohammad Hanafi</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mdm Selvi d/o Ramasamy (Mrs Raja)</td>
+    <td class="tg-0lax">Mdm Selvi d/o Ramasamy (Mrs Raja)</td>
   </tr>
   <tr>
-    <td class="tg-sna6"> Resilience</td>
+    <td class="tg-0lax"> <br><span style="font-weight:bold">Resilience</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Mrs Phillida Rabini</span></td>
+    <td class="tg-0lax"><span style="font-weight:400">Mrs Phillida Rabini</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Miss Ang Min Xin</td>
+    <td class="tg-0lax">Miss Ang Min Xin</td>
   </tr>
   <tr>
-    <td class="tg-sna6"> Respect</td>
+    <td class="tg-1wig"> <br>Respect</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Ms Poon Sook Fong Carolyn</td>
+    <td class="tg-0lax">Ms Poon Sook Fong Carolyn</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mdm A R Shanthi</td>
+    <td class="tg-0lax">Mdm A R Shanthi</td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mr Feroz Muhammad Bin Noor Muhamad</td>
+    <td class="tg-0lax">Mr Feroz Muhammad Bin Noor Muhamad</td>
   </tr>
   <tr>
-    <td class="tg-sna6"> Responsibility </td>
+    <td class="tg-0lax"> <br><span style="font-weight:bold">Responsibility </span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Kee - Tan Siok Kheng Grace</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Mrs Kee - Tan Siok Kheng Grace</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Mdm Nurhayati Binte Ra'ai</td>
+    <td class="tg-0lax">Mdm Nurhayati Binte Ra'ai</td>
   </tr>
   <tr>
-    <td class="tg-632a"> Joy</td>
+    <td class="tg-yla0"> <br>Joy</td>
   </tr>
   <tr>
-    <td class="tg-lnwz"> Ms Wang Shuhui Ashley</td>
+    <td class="tg-0lax"> Ms Wang Shuhui Ashley</td>
   </tr>
   <tr>
-    <td class="tg-lnwz"> Mr Hng Jun Xun Grayson</td>
+    <td class="tg-0lax"> Mr Hng Jun Xun Grayson</td>
   </tr>
   <tr>
-    <td class="tg-lnwz"> Mr Tham Chor Kee</td>
+    <td class="tg-0lax"> Mr Tham Chor Kee</td>
   </tr>
 </tbody>
 </table>
@@ -440,9 +440,9 @@ description: ""
 .tg .tg-632a{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1546px">
+<table class="tg" style="undefined;table-layout: fixed; width: 707px">
 <colgroup>
-<col style="width: 1546px">
+<col style="width: 707px">
 </colgroup>
 <thead>
   <tr>
@@ -534,9 +534,9 @@ description: ""
 .tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1617px">
+<table class="tg" style="undefined;table-layout: fixed; width: 706px">
 <colgroup>
-<col style="width: 1617px">
+<col style="width: 706px">
 </colgroup>
 <thead>
   <tr>
@@ -612,7 +612,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-
 
 ## School Admin Team
 
