@@ -527,7 +527,94 @@ description: ""
 
 ### Primary 6
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1617px">
+<colgroup>
+<col style="width: 1617px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif">Care<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Soh Seok Khim</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal;color:#000;background-color:initial">Mrs Mabel Soh - Ong Hui Mei</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Low - Phua Eileen</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Graciousness</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Tay – Seah Teck Ping Junice</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Liza Binti Ismail</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Aznahar Bin Baharudin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Integrity<span style="font-weight:normal"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Teo Ying Zhi</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Elvin Benjamin</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Ang Chye Chen Jackie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Resilience</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Ms Vimala Devi d/o P Kanaran</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Goh Si Qian</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Hadrian Chin Chun Kiat</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Respect </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Lee Bee Leng</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Feng Yue</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Responsibility</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Ang - Choo Sok Ee Eunice</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Song Hwee Tong Clement</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Chandra - Bhavani d/o Rajagopal</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 ## School Admin Team
