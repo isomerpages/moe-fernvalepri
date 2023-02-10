@@ -628,10 +628,10 @@ description: ""
 .tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 870px">
+<table class="tg" style="undefined;table-layout: fixed; width: 694px">
 <colgroup>
-<col style="width: 421px">
-<col style="width: 449px">
+<col style="width: 305px">
+<col style="width: 389px">
 </colgroup>
 <thead>
   <tr>
@@ -697,21 +697,92 @@ description: ""
 
 ## Allied Educators
 
-|                          |                            |
-|--------------------------|----------------------------|
-| Senior School Counsellor | Miss Sharlin Mattar        |
-| Senior AED (LBS)         | Mdm Chia Fei Lin           |
-| AED (LBS)                | Mdm Hui Soh Wai            |
-| AED (LBS)                | Mdm Suhaili Binte Selamat  |
-| AED (LBS)                | Ms Nurliyana Binte Suhaimi |
-| AED (T&L)                | Mrs Gupta                  |
-| Student Welfare Officer  | Ms Tang Ser Yun            |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 702px">
+<colgroup>
+<col style="width: 307px">
+<col style="width: 395px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif"><span style="font-weight:normal">Senior School Counsellor</span></th>
+    <th class="tg-lnwz"><span style="font-weight:normal">Miss Sharlin Mattar</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Senior AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chia Fei Lin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Hui Soh Wai</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Suhaili Binte Selamat</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Nurliyana Binte Suhaimi</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED (T&amp;L)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Gupta </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Student Welfare Officer</span></td>
+    <td class="tg-lnwz">Ms Tang Ser Yun</td>
+  </tr>
+</tbody>
+</table>
 
 ## Support Staff
 
-|                             |                          |
-|-----------------------------|--------------------------|
-| Technical Assistant         | Mdm Bobby                |
-| Science Lab Technician      | Mdm Pang Lay Hwee Alice  |
-| Librarian                   |                          |
-| Dental Therapist (Covering) | Ms Tan Meiru             |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 704px">
+<colgroup>
+<col style="width: 310px">
+<col style="width: 394px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif"><span style="font-weight:normal">Technical Assistant</span></th>
+    <th class="tg-lnwz"><span style="font-weight:400">Mdm Bobby Sunil</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Technical Assistant </span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Amira</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Science Lab Technician</span></td>
+    <td class="tg-lnwz"><span style="font-weight:400">Mdm Pang Lay Hwee Al</span><span style="font-weight:normal">ice</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Librarian</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Azura</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Dental Therapist<span style="font-weight:normal"> </span>(Covering)</td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Tan Meiru </span></td>
+  </tr>
+</tbody>
+</table>
