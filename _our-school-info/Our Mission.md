@@ -5,7 +5,7 @@ description: ""
 ---
 ## Our Mission
 
-|  **Nurturing passion for learning <br><br>Developing diverse talents<br><br>Fostering hearts to serve**         |                                                                                              | 
+|  **Nurturing passion for learning <br>Developing diverse talents<br>Fostering hearts to serve**         |                                                                                              | 
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nurturing passion for learning** | The school's efforts in helping students to develop and be successful.<br>Fernvale students having the love and joy of wanting to learn.                                                                          |
 | **Developing diverse talents**     | Our Fernvale staff encourages the growth of our students' talents.<br>A wide range of special abilities and aptitude of our student.                                                                              |
