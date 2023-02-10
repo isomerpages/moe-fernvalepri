@@ -432,7 +432,98 @@ description: ""
 
 ### Primary 5
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-632a{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1546px">
+<colgroup>
+<col style="width: 1546px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif">Care   </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Nuraini Binte Hamzah</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Mr Chua Lee Guan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Geraldine Chua Shan Shan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Graciousness</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Lee Yong Soon Gavin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Mrs Neo - Ho Yik Ying</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Low Pheck Shwan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Integrity </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Kalavathi Selvarajulu</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Rakesh Kishin Aswani</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Resilience</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Peck Chin Hee Gregory</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Fardyana Binte Abdul Aziz</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Respect </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Huang Youyi)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Amanda Galistan - Lee Hui Shan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Responsibility</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Iskandar Alamin Bin Salleh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Jaron Yap Jie Han</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Teo -  Ong Puay Hoon</span></td>
+  </tr>
+  <tr>
+    <td class="tg-632a"> <br>Joy</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal"> Ms Jeyananthini d/o Jeyapal</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal"> Ms Lim Xi Min, Shermin</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### Primary 6
 
