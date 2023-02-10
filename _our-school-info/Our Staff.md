@@ -350,7 +350,85 @@ description: ""
 
 ### Primary 4
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1546px">
+<colgroup>
+<col style="width: 1546px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif"><br>Care</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz">Mr Tay Peng Cheng Eric</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Chen Baolai</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mrs Pannir Chelvam - Raman P</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"> <br><span style="font-weight:bold">Graciousness </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm Toh Lee See Chloe</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mrs Azry -  Nurul Hayati Binte Abdul Rahman</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"> <br><span style="font-weight:bold">Integrity</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm Somasundaram Vijaya Rani</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Lau Peng Sheng</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"> <br><span style="font-weight:bold">Resilience </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm Teo Ching Whee    </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mrs Eleanor Tham - Leong Wei Wei</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Respect </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Fariz Husna Bin Sajani</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Ansar Mohamed Sali</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><br><span style="font-weight:bold">Responsibility </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mrs Ho - Audrey Tan Lee Cheng</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Ms Maninder Kaur</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Jegendren s/o Tanapal</td>
+  </tr>
+</tbody>
+</table>
 
 ### Primary 5
 
