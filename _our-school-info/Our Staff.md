@@ -6,13 +6,138 @@ description: ""
 # Our Staff
 
 ## School Leaders
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i7qw{background-color:#FFF;border-color:inherit;color:#575756;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 922px">
+<colgroup>
+<col style="width: 418px">
+<col style="width: 504px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-i7qw">Principal</th>
+    <th class="tg-lnwz">Mr Enoch Lau</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz">Vice - Principal (EO)</td>
+    <td class="tg-lnwz">Ms Yap Ai Li</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Vice - Principal (EO)</td>
+    <td class="tg-lnwz">Mr Samuel Yap</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Vice -  Principal (Admin)</td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Kevin Patt</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 
 ## Teaching Staff / Form Teachers
 
 ### Primary 1
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 847px">
+<colgroup>
+<col style="width: 847px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif">Care<span style="font-weight:normal"> </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Ng Peng Yong </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Ma Sen Loo Theresa </span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Graciousness <span style="font-weight:normal">   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Ms Cherie Ang Hui Er</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm V Sulaja</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Integrity <span style="font-weight:normal">  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Ho Ivy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm Zhong Xiuyuan Diana</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Resilience <span style="font-weight:normal">   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Ong Li Ting</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Mak Sock May</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Respect   <span style="font-weight:normal"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Jacquelin Yeo Chien Ling</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chew Bee See Betsy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Responsibility   <span style="font-weight:normal"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Seah Hui Shian</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Noor A'shikin Bte Osman</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Joy <span style="font-weight:normal">   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Mr Goh Tong Wee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mrs Khai - Siti Norhana Aris</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">Courage <span style="font-weight:normal">   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Neo Sian Yin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Miss Tan Hwee Ping Elsie</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### Primary 2
 
