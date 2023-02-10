@@ -254,7 +254,98 @@ description: ""
 
 ### Primary 3
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-632a{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1546px">
+<colgroup>
+<col style="width: 1546px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif">Care</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Hajjah Marlina Bte Kumar</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Au Jun Duan Reuben</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br><br>Graciousness</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Roslie Bin Buang Sidik</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Tong Hock Chuan Alan</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Integrity</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mrs Poon - Liew Siew Hui Eileen</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Ms Noorhafidah Bte Mohammad Hanafi</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm Selvi d/o Ramasamy (Mrs Raja)</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Resilience</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Mrs Phillida Rabini</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Miss Ang Min Xin</td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"> <br>Respect</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Ms Poon Sook Fong Carolyn</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm A R Shanthi</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mr Feroz Muhammad Bin Noor Muhamad</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><br><span style="font-weight:bold">Responsibility </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Kee - Tan Siok Kheng Grace</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Mdm Nurhayati Binte Ra'ai</td>
+  </tr>
+  <tr>
+    <td class="tg-632a"> <br>Joy</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"> Ms Wang Shuhui Ashley</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"> Mr Hng Jun Xun Grayson</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"> Mr Tham Chor Kee</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Primary 4
