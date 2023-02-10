@@ -619,23 +619,81 @@ description: ""
 
 ## School Admin Team
 
-|                               |                                    |
-|-------------------------------|------------------------------------|
-| Operations Manager            | Mr Chiang Teng Luan Alvin          |
-| Administrative Manager        | Miss Diane Tiu On Ki               |
-| Administrative Manager        | Mdm Tan Mui Leng Catherine         |
-| Administrative Executive (MK) | Mdm Chong Li Ping Claudia          |
-| Administrative Executive      | Ms Siti Nursuaibah Bte Ramlan      |
-| ICT Associate                 | Mdm Adilah Bte Ramlan              |
-| Customer Service Officer      | Mdm Saniah Bte Nadin               |
-| Customer Service Officer      | Mdm Eileen Goh Guan Chew           |
-| Customer Service Officer      | Mdm Irene Oong Ai Ing              |
-| Operations Support Officer    | Mdm Elizabeth D/O Chellaiya        |
-| Operations Support Officer    | Mdm Tan Guat Beng                  |
-| Operations Support Officer    | Mdm Makasvery D/O Periakaruppan C  |
-| Operations Support Officer    | Mr Toh Kim Huat                    |
-| Operations Support Officer    | Mr Chua Leng Hock                  |
-| Operations Support Officer    | Mdm Chan Yuen Yee Kenix            |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 870px">
+<colgroup>
+<col style="width: 421px">
+<col style="width: 449px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vlif"><span style="font-weight:normal">Operations Manager</span></th>
+    <th class="tg-lnwz">Mr Chiang Teng Luan Alvin</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Administrative Manager</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Miss Diane Tiu On Ki</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Administrative Manager </td>
+    <td class="tg-lnwz">Mdm Tan Mui Leng Catherine</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Administrative Executive (MK)</td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chong Li Ping Claudia</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Administrative Executive </td>
+    <td class="tg-lnwz">Ms Siti Nursuaibah Bte Ramlan </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Customer Service Officer</td>
+    <td class="tg-lnwz">Mdm Saniah Bte Nadin</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Customer Service Officer</td>
+    <td class="tg-lnwz">Mdm Eileen Goh Guan Chew</td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Customer Service Officer<br></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Irene Oong Ai Ing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Salmah</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Tan Guat Beng </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Makasvery D/O Periakaruppan C</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Toh Kim Huat</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Chua Leng Hock</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz">Operations Support Officer<br></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chan Yuen Yee Kenix</span></td>
+  </tr>
+</tbody>
+</table>
 
 ## Allied Educators
 
