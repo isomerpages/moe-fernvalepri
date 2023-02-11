@@ -4,27 +4,24 @@ permalink: /our-departments/english-language/
 description: ""
 third_nav_title: English Language
 ---
-
 # English Language
 
 #### Vision
 
-Reflective, Eloquent and Confident Users of the English Language
+For every child to be a reflective, eloquent and confident user of the English Language
 
 #### Goal/s
 
-The English Department aims to cultivate reflective, eloquent and confident users of the English Language. Apart from learning about the technicalities of the English Language, the pupils are also encouraged to reflect critically on a multitude of local and global issues during classroom and group discussions. Students are also given many opportunities to share their thoughts with their teachers and peers through different platforms such as journalling, quick write activities, ICT-based platforms or by sharing in class.
+The English Department aims for our students to be reflective, eloquent and confident users of the English Language. Besides learning the technicalities of the English Language, students are also encouraged to reflect critically on a myriad of local and global issues during classroom and group discussions. Students are given various opportunities to share their thoughts and opinions with their teachers and peers by sharing in the classroom, through journalling, quick-write and ICT-based platforms.
 
 
 #### Signature Programmes
 
-**1\. STELLAR** 
+**1\. Strategies for English Language Learning and Reading (STELLAR)** 
 
-The teaching approaches and resources in STELLAR are designed to deliver the outcomes of the English Language Syllabus 2010. Through the effective use of engaging strategies, the teachers are empowered to teach the pupils critical life skills of listening, speaking, reading and writing in English.
+The teaching approaches in STELLAR have been designed to deliver the outcomes of the English Language Syllabus 2020. Through the effective use of strategies for reading speaking, writing and listening, teachers are empowered to build on the students’ foundational understanding of the English Language and to teach them critical life skills.
 
-| Lower Primary  | Upper Primary  |
-|---|---|
-|![](/images/Our%20departments/STELLAR_chart%20LP.png)   | ![](/images/Our%20departments/Stellar_Chart%20UP.png)  |
+
 
 
 **2\. Strategies to Activate Readings (StAR) for Primary 1 & 2**
