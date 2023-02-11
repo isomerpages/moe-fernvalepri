@@ -63,3 +63,5 @@ StAR, is an in-house programme that is conducted daily for half an hour in small
 **7\.English Fiesta**
 
 The English Fiesta is an annual celebration of the English Language. It aims to inculcate a love for the English Language and to encourage students to be involved in the learning of the language. Students are engaged in fun activities that extend beyond the classroom. It is also a platform for students to develop and showcase their communication skills. We want our students to know that the English Language can be fun and interesting!
+
+![](/images/english%205.jpg)
