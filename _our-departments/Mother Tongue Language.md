@@ -12,21 +12,21 @@ Every Fernvale Pupil an Effective ad Confident User of their Mother Tongue Langu
 
 ### Mission:
 
-**M1: To develop our pupils into avid readers, budding writers and effective speakers in their Mother Tongue Language through programmes infused with 21st Century Competency skills.**
+M1: To develop our pupils into avid readers, budding writers and effective speakers in their Mother Tongue Language through programmes infused with 21st Century Competency skills.
 
-**M2: To inculcate in our pupils a sense of love and appreciation of the Language Culture.**
+M2: To inculcate in our pupils a sense of love and appreciation of the Language Culture.
 
 ### Signature Programmes:
 
-1\. Chinese New Year Celebration
+1\. **Chinese New Year Celebration**
 
-2\. Reading Programme
+2\. **Reading Programme**
 
-3\. Mother Tongue Fortnight Programme
+3\. **Mother Tongue Fortnight Programme**
 
-4\. Cultural Programme Exposure Scheme (CPES)
+4\. **Cultural Programme Exposure Scheme (CPES)**
 
-5\. Conversational Chinese and Malay Programme (CCM)
+5\. **Conversational Chinese and Malay Programme (CCM)**
 
 #### **1\. Chinese New Year Celebration**
 
