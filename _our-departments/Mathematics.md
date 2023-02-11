@@ -37,10 +37,16 @@ Students use a 1-meter ruler to measure the length of things around them.
 |---|---|
 | ![](/images/Our%20departments/Mathematics/Math_Activity_3.jpg)  | ![](/images/Our%20departments/Mathematics/Math_Activity_4.jpg)  |
 
-![](/images/Our%20departments/Mathematics/Math_Activity_5.jpg)
-
  <img src="/images/Our%20departments/Mathematics/Math_Numeracy_2.jpg" style="width:50%; float:left; padding: 10px"> 
  <img src="/images/Our%20departments/Mathematics/Math_Numeracy_1.png" style="width:50%; float:left; padding: 10px">
+ 
+![](/images/Our%20departments/Mathematics/Maths%202.jpg)
+
+<center> Students play the Addition & Subtraction Within 10 game.</center>
+
+|   |   |
+|---|---|
+| ![](/images/Maths%203.jpg)  | ![](/images/Maths%204.jpg) |
 
 ### Math Trails  
 
