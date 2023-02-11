@@ -81,11 +81,15 @@ Learning Support for Mathematics Programme for selected P1& P2 pupils is an earl
 
 ![](/images/Our%20departments/Mathematics/Math_LSM_4.jpg)
 
+
+
 ### Improving Confidence & Achieving Numeracy (ICAN) Programme
 
 ICAN Programme aims to equip students who need additional support to acquire knowledge and skills in numeracy and strategies such as Factual Fluency and dispositions to learn and achieve in Mathematics. The lessons follow the FREMC (Factual Fluency, Readiness, Engagement, Mastery & Consolidation) framework and the 8 Principles of ICAN adopted motivate students in learning Mathematics, as well as help them deal with anxiety in the subject.
 
 ![](/images/Our%20departments/Mathematics/Math_ICAN_1.jpg)
+
+![](/images/Maths%209.jpg)
 
 ### Fun with Math Gym!
 
