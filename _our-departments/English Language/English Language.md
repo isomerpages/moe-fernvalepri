@@ -29,22 +29,37 @@ The teaching approaches in STELLAR have been designed to deliver the outcomes of
 The Extensive Reading Programme is conducted during curriculum once a week. Students are exposed to a variety of books and are given half an hour to read their storybooks or go to the library with their teachers to read and borrow their books. The programme aims to inculcate a love for reading and for our students to build on their reading proficiency.
  
  ![](/images/Our%20departments/english%202.jpg)
-	
+ 
+ 
+ ![](/images/Our%20departments/english%203.jpg)
+ 
+ 
+ ![](/images/Our%20departments/english%204.jpg)	
 
-Lessons are conducted daily for half an hour in small groups.
 
-**3\. PAL - Speech & Drama for Primary 1 & 2**
 
-As part of developing the confidence level and public speaking skills in our younger pupils, the Primary 1 and 2 pupils undergo a Speech and Drama module as part of PAL. The pupils are taught presentation skills such as speaking clearly through the proper use of their voice and expressions. The pupils will put up a mini performance for their peers.
+**3\. **Primary 1 to 3 Guided Reading Programme**
 
-**4\.  Guided Reading Programme for Primary 1 to 3**
+The Guided Reading Programme is a part of our continuous effort to encourage students to read widely and cultivate good reading habits.
 
-Through this programme, pupils are exposed to a variety of books to read during Silent Reading periods. It is part of our continuous efforts to encourage the pupils to read widely and cultivate a good reading habit.
+**4\.  P1 to P3 Literacy Programme**
 
-**5\. Little Red Dot & Online Discussions for Primary 4 to 6**
+The P1 to P3 Literacy programme aims to engage our students to learn language in a fun and interactive manner with the use of English Language games.
 
-To promote a greater awareness of current affairs, the upper primary pupils are encouraged to read the Straits Times and the Little Red Dot (LRD). After reading the LRD, the pupils will go online to take part in online discussions about what they have read. This also promotes collaboration skills amongst pupils.
+**5\. P4 and P5 Critical Thinking Programmes**
 
-**6\. EL Fest**
+To promote greater awareness of global issues and current affairs, the upper primary students are encouraged to read the Little Red Dot in Primary 4 and 5, and What’s Up in Primary 6. Students take part in online discussions and engage in classroom discussions based on the newspaper articles.
 
-The English Language Fest is an annual event where our students can participate in different activities organised for the respective levels. It is a platform for them to strengthen and showcase their communication skills. Our department aims to inculcate a love for the English language and to encourage our students to be involved in the learning of the language. The teachers are also hoping to spark our students’ interest in the language through fun and engaging activities that extend beyond the classroom. We want our students to know that English can be fun and interesting!
+**6\.Strategies to Activate Reading (StAR) for Primary 1 and 2**
+
+StAR, is an in-house programme that is conducted daily for half an hour in small groups. It aims to equip students with the skills to:
+
+\-          Master word recognition and spelling strategies
+
+\-         Read aloud in a fluent manner
+
+\-         Comprehend what they are reading
+
+**7\.English Fiesta**
+
+The English Fiesta is an annual celebration of the English Language. It aims to inculcate a love for the English Language and to encourage students to be involved in the learning of the language. Students are engaged in fun activities that extend beyond the classroom. It is also a platform for students to develop and showcase their communication skills. We want our students to know that the English Language can be fun and interesting!
