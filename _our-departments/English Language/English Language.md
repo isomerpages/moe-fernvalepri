@@ -21,7 +21,7 @@ The English Department aims for our students to be reflective, eloquent and conf
 
 The teaching approaches in STELLAR have been designed to deliver the outcomes of the English Language Syllabus 2020. Through the effective use of strategies for reading speaking, writing and listening, teachers are empowered to build on the students’ foundational understanding of the English Language and to teach them critical life skills.
 
-
+![](/images/Our%20Department_English.jpg)
 
 
 **2\. Strategies to Activate Readings (StAR) for Primary 1 & 2**
