@@ -4,7 +4,7 @@ permalink: /our-school-info/principals-message/
 description: ""
 ---
 # Principal's Message
-
+# Unable to load principal's message first image 
 Welcome! Fernvale Primary School is a home for our students where they can feel happy, enjoy learning and flourish. We are an inclusive school that embraces all learners regardless of their abilities and background.
 
 In their 6 years in Fernvale, we aim to provide our students with a holistic education through our strong school-based curriculum so that they will be
@@ -22,4 +22,3 @@ We look forward to the continued partnership as we seek to build our students to
   
 
 <img style="width: 40%;" src="/images/Mr%20Enoch%20Lau_Fernvale.jpg" />
-
