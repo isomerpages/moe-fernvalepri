@@ -4,8 +4,6 @@ permalink: /our-departments/CCE/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
-
-
 # Character and Citizenship Education 
 
 Character and Citizenship Education (CCE) is at the heart of education in Singapore.  
@@ -32,11 +30,11 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 
 CCE is enacted through learning platforms such as CCE Lessons, Key Student Development Experiences (SDEs), **school-based Initiatives** and **other subjects**.
 
-<u>CCE Lessons</u>
+<u>**CCE Lessons**</u>
 
 There is emphasis on explicit teaching of social-emotional competencies in CCE (FTGP). Topics related to developing citizenship dispositions are taught in CCE (FTGP) to foster inter-ethnic understanding and appreciation for one another's culture.  
   
-<u>Key Student Development Experiences (SDEs)</u>
+<u>**Key Student Development Experiences (SDEs)**</u>
 
 Student Development Experiences (SDEs) are learning experiences beyond the classroom that are integral to the holistic development of students. **Purposefully** planned SDEs provide students with varied and authentic opportunities to learn, apply and demonstrate values, good character, social-emotional competencies and citizenship dispositions. Through SDEs, students are also able to **apply their learning** from Character and Citizenship Education (CCE) Lessons to authentic contexts. 
 
