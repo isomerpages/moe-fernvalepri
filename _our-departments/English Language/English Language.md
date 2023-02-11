@@ -24,16 +24,12 @@ The teaching approaches in STELLAR have been designed to deliver the outcomes of
 ![](/images/Our%20Department_English.jpg)
 
 
-**2\. Strategies to Activate Readings (StAR) for Primary 1 & 2**
+**2\. Extensive Reading**
 
-StAR is a in-house programme which aims to equip pupils with the skills to:
-
-*   master word recognition and spelling strategies
-    
-*   read orally with fluency
-    
-*   understand what they are reading
-    
+The Extensive Reading Programme is conducted during curriculum once a week. Students are exposed to a variety of books and are given half an hour to read their storybooks or go to the library with their teachers to read and borrow their books. The programme aims to inculcate a love for reading and for our students to build on their reading proficiency.
+ 
+ ![](/images/Our%20departments/english%202.jpg)
+	
 
 Lessons are conducted daily for half an hour in small groups.
 
