@@ -23,17 +23,15 @@ Students participate in a range of authentic and interesting Activity-Based task
 
 Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong foundation in the learning of Mathematics through the use of manipulatives and differentiated activity tasks
 
-|   |   |
-|---|---|
-|  ![](/images/Our%20departments/Mathematics/P2%20pupils%20activity%20on%20Area%20concept.jpg) Students learn more about the concept of Area. |![](/images/Our%20departments/Mathematics/IMG_5185.jpg) Students apply their understanding of the concept of Volume to build solids using unit cubes  |
+![](/images/Our%20departments/Mathematics/P2%20pupils%20activity%20on%20Area%20concept.jpg)
 
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Mathematics/20160322_113620.jpg) Students learn how to read and measure an angle in degrees from a protractor. |  ![](/images/Our%20departments/Mathematics/20160322_134129.jpg) Students read and write tenths, hundredths & thousandths in decimal form. |
+Students learn more about the concept of Area.
 
-|   |   |
-|---|---|
-|![](/images/Our%20departments/Mathematics/Math_Activity_1.jpg)   | ![](/images/Our%20departments/Mathematics/Math_Activity_2.jpg)  |
+![](/images/Our%20departments/Mathematics/Maths1.jpg)
+
+Students use a 1-meter ruler to measure the length of things around them.
+
+![](/images/Our%20departments/Mathematics/Math_Activity_1.jpg)   
 
 |   |   |
 |---|---|
