@@ -44,9 +44,7 @@ Students use a 1-meter ruler to measure the length of things around them.
 
 <center> Students play the Addition & Subtraction Within 10 game.</center>
 
-|   |   |
-|---|---|
-| ![](/images/Maths%203.jpg)  | ![](/images/Maths%204.jpg) |
+
 
 ### Math Trails  
 
