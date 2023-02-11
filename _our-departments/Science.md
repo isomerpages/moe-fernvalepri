@@ -43,8 +43,7 @@ P5 – Gardens by the Bay 
 
 ### Learning through DI Games
 
-Games help to infuse the joy of learning and increase student engagement level to deepen the understanding  
-on the concepts taught. Teachers designed these games, taking into consideration the readiness level of students and including the opportunity to raise ownership in their learning.
+Games help to infuse the joy of learning and increase student engagement level to deepen the understanding on the concepts taught. Teachers designed these games, taking into consideration the readiness level of students and including the opportunity to raise ownership in their learning.
 
 ![](/images/Our%20departments/Science/sciecne%20pic%203.jpg)
 
