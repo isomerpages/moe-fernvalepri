@@ -19,4 +19,7 @@ In Fernvale, we have a team of caring and dedicated staff who goes the extra mil
 
 We look forward to the continued partnership as we seek to build our students to _‘Dare to Aspire’_ and have the _‘Courage to Excel’_.
 
-![](/images/Mr%20Enoch%20Lau_Fernvale.jpg)
+  
+
+<img style="width: 40%;" src="/images/Mr%20Enoch%20Lau_Fernvale.jpg" />
+
