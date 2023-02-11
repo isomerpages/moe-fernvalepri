@@ -44,7 +44,7 @@ Students use a 1-meter ruler to measure the length of things around them.
 
 <center> Students play the Addition & Subtraction Within 10 game.</center>
 
-
+![](/images/Our%20departments/Mathematics/Screenshot%20(46).png)
 
 ### Math Trails  
 
@@ -61,10 +61,12 @@ Interactive Math Trails help Primary 1 to 6 students value Mathematics by givi
  <img src=" /images/Our%20departments/Mathematics/Math_Trail_5.png" style="width:60%; float:left; padding: 10px"> 
  <img src="/images/Our%20departments/Mathematics/Math_Trail_6.jpg" style="width:40%; float:left; padding: 10px">
 
+|   |   |
+|---|---|
+| ![](/images/Maths%207.jpg)  |![](/images/Maths%208.jpg)  |
 
-![](/images/Our%20departments/Mathematics/IMG_9292_Math%20Trail_1.jpeg)
-
-Lower Primary students apply their knowledge of ordinal numbers to locate their teachers on the Staff Display Board.
+Students measure the things around them including
+the breadth of the door and their student diary with their hands and ruler.
 
 ### Learning Support Programme for Primary 1 & 2
 
