@@ -58,4 +58,3 @@ You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexualit
   
 10\. Parents can contact the school at 6315 3051 or email us at [fernvale\_ps@moe.edu.sg](mailto:fernvale_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.   
   
-11\. Parents, who wish to attend the school sexuality education lesson, should contact the school to make the necessary arrangements.
