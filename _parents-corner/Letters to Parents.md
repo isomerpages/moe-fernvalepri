@@ -6,12 +6,46 @@ description: ""
 # Letters to Parents
 
 
-| Date            | Agenda                              |     Link    |
-|-----------------|----------------------------------------------------------------------------------------------------------------------|:-----------:|
-| 27 Sept 2022    | 1. Children’s Day – Friday, 7 Oct 2022<br>School hours are as usual on the eve of Children’s Day, Thursday, 6 Oct 2022.<br>2. PSLE Marking Days – Monday, 17 Oct 2022 to Thursday, 20 Oct 2022<br>All students do not need to report to school.<br>3. Deepavali – Monday, 24 Oct 2022<br>There will be lessons as usual on Friday, 21 Oct 2022.<br>4. Results Processing Day and P1(2023) Orientation – Thursday, 10 Nov 2022<br>All students do not need to report to school on Thursday, 10 Nov 2022.<br>5. Celebration of Joyful Learning – Thursday, 17 Nov 2022                                 |  <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_088%20Letter%20to%20Parents%20Term%204.pdf" target="_blank">Click here</a> |
-| 7 Sept 2022     | Price Revision of Canteen Food                                                                                                                                                                                                                                                 | <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_073_Price%20Revision%20of%20Canteen%20Food.pdf" target="_blank">Click here</a> |
-| 2 August 2022   | E-Learning Days for P1-P5                                                                                                                                                                                                                                             | <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_079%20E-Learning%20Days%20for%20P1-P5.pdf" target="_blank">Click here</a> |
-| 8 July 2022     | 1. Public Holiday - Hari Raya Haji, Monday, 11 Jul 202<br>2. National Day Celebration<br>3. PSLE Timetable and Non-School Days for P1 to P5 Students<br>4. Teachers' Day Celebration on Thursday, 1 Sep 2022<br>5. Term 3 School Holidays (Saturday, 3 Sep to Sunday, 11 Sep 2022)<br>6. Safe Management Measure                                                                                                                                                                                                                                                                                         | <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_068_Letter_to_Parents%20-%20Term%203.pdf" target="_blank">Click here</a>  |
-| 27 April 2022   | School Health Visit for Primary 1 to 6 Students                                                                                                                                                                                                         | <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_053%20Letter_to_Parents%20-%20HPB%20Annual%20School%20Health%20Visit.pdf" target="_blank">Click here</a>  |
-| 7 April 2022    | 1. Public Holidays in Term 2<br>2. Parent-Teacher Meeting – Friday, 27 May 2022<br>3. Term 2 School Holidays                                                                                                                                               | <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_047%20Letter_to_Parents%20-%20LD_Hari%20Raya_PTM.pdf" target="_blank">Click here</a>  |
-| 13 Jan 2022     | 1. Chinese New Year Celebration<br>2. Photo-Taking Session for School Smart Card (SSC) for<br>P1 and P6 Only – Thursday, 20 Jan 2022 and Friday, 21 Jan 2022<br>3. Transport Arrangement for After-School Programmes and CCAs<br>4. Updating of Emergency Contact and Medical Information<br>5. Student Protection Plan 2022<br>6. Primary 1 and 6 Class Photo-Taking Session 2022 – Thursday, 24 Feb 2022<br>7. Road Safety and Traffic Management<br>8. Filming and Photography of School Activities and Lessons for School Publication, Outreach  Programmes and Professional Development of Teachers | <a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_007_Letter_to_Parents%20-%20Term%201%20Activities.pdf" target="_blank">Click here</a>  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ky7k{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 848px">
+<colgroup>
+<col style="width: 109px">
+<col style="width: 478px">
+<col style="width: 261px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-ky7k">Date </th>
+    <th class="tg-e14l">Agenda</th>
+    <th class="tg-a4yv">Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sna6"><br><br><br><br><br><br><br><br><br><br><br><br><br>4 Jan 2023 </td>
+    <td class="tg-sna6">1. SCHOOL EVENTS AND PROGRAMME<br><br>1.1 Home-School Partnership (Thursday, 12 January 2023 and Friday, 13 January 2023)<br><br>1.2  Chinese New Year Celebration<br><br>2. SCHOOL OPERATIONS AND SAFETY MATTERS<br><br>2.1 School Dismissal Timing<br><br>2.2  School Recess Timing<br><br>2.3  Road Safety and Traffic Management<br><br>3. ADMINISTRATIVE MATTERS<br><br>3.1 Photo-Taking Session for School Smart Card (SSC) (Tuesday, 31 January 2023 and Wednesday, 1 February 2023)<br><br>3.2 Transport Arrangement for After-School Programmes and CCAs<br><br>3.3  Updating of Emergency Contact and Medical Information (ALL parents must update online by 31 January 2023)<br><br>3.4  Student Protection Plan<br><br>3.5  Use of Videos and Photograph </td>
+    <td class="tg-0pyt"><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="https://fernvalepri.moe.edu.sg/qql/slot/u480/Parents%20Corner/2022%20LETTER%20TO%20PARENT/2023_001_Letter_to_Parents%20-%20Term%201%20Activities.pdf" target="_blank" rel="noopener noreferrer">Click here</a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-sna6">20 Dec 2022 <br></td>
+    <td class="tg-sna6"><span style="color:#000">Menu Price List 2023 </span> </td>
+    <td class="tg-0pyt"><a href="https://fernvalepri-moe-edu-sg-admin.cwp.sg/qql/slot/u480/Parents%20Corner/2022%20LETTER%20TO%20PARENT/Menu%20Price%20List%202023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click here</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-sna6"><br><br><br><br><br><br>27 Sept 2022 </td>
+    <td class="tg-sna6">1. Children’s Day – Friday, 7 Oct 2022<br>School hours are as usual on the eve of Children’s Day, Thursday, 6 Oct 2022.<br>2. PSLE Marking Days – Monday, 17 Oct 2022 to Thursday, 20 Oct 2022<br><span style="color:#000;background-color:initial">All students do not need to report to school.</span><br><span style="color:#000;background-color:initial">3. Deepavali – Monday, 24 Oct 2022</span><br><span style="color:#000;background-color:initial">There will be lessons as usual on Friday, 21 Oct 2022.</span><br><span style="color:#000;background-color:initial">4. Results Processing Day and P1(2023) Orientation – Thursday, 10 Nov 2022</span><br><span style="color:#000;background-color:initial">All students do not need to report to school on Thursday, 10 Nov 2022.</span><br><span style="color:#000;background-color:initial">5. Celebration of Joyful Learning – Thursday, 17 Nov 2022</span></td>
+    <td class="tg-0pyt"><br><br><br><br><br><br><a href="https://fernvalepri.moe.edu.sg/qql/slot/u480/Parents%20Corner/2022%20LETTER%20TO%20PARENT/2022_088%20Letter%20to%20Parents%20Term%204.pdf" target="_blank" rel="noopener noreferrer">Click here</a></td>
+  </tr>
+</tbody>
+</table>
