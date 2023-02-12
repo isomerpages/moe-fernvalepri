@@ -134,7 +134,16 @@ We aim to spark a passion for photography, videography and creative designing. W
 </tbody>
 </table>
 
-### **2022 OSOS – Best Video**  
+
+### <b>2022 OSOS – Best Video</b>  
+
+<b>Theme: What I Go To School For?</b>  
+<b>Link:</b>[**https://www.youtube.com/watch?v=w3cqfiFUWpM**](https://www.youtube.com/watch?v=w3cqfiFUWpM)  
+Credits to - Pek Qian Sheng, Charlotte M Tang Pei Ling, Nur Elly Marlisya Binte Syarul Askin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3cqfiFUWpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -179,10 +188,11 @@ We aim to spark a passion for photography, videography and creative designing. W
 </tbody>
 </table>
 
-### 
+**2021 OSOS – Video Contest (Honourable Mention)**
 
-<b>Theme: What I Go To School For?</b>  
-<b>Link:</b>[**https://www.youtube.com/watch?v=w3cqfiFUWpM**](https://www.youtube.com/watch?v=w3cqfiFUWpM)  
-Credits to - Pek Qian Sheng, Charlotte M Tang Pei Ling, Nur Elly Marlisya Binte Syarul Askin
+Theme: What Makes our school special?  
+Link: [https://www.youtube.com/watch?v=3VfG69\_SikU](https://www.youtube.com/watch?v=3VfG69_SikU)  
+Credits to - Soh Jia Xuan, Gilian, Charlotte M Tang Pei Ling
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3cqfiFUWpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3VfG69_SikU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
