@@ -6,15 +6,21 @@ third_nav_title: CCA Write Ups, Photos & Videos
 ---
 # Infocomm Club (Media)
 
-A team of 40 young journalists in Media Journalism Club, under the guidance of a team of dedicated and experienced professional photographers and videographers, document the lives of Fernvale students and capture precious moments that turn into fond memories. The team is made up of two groups, one focusing on photo-journalism and the other on short film production. It is our dream that our work will evoke fond memories and emotions in our audience.
 
-### <b><u>Vision</u></b>
+## Our Vision 
 
-To be the crew any school would turn to for event media coverage and publishing.
+To enable a community that is constantly learning about digital media literacy.
 
-### <b><u>Mission</u></b>
 
-To provide reliable and superior photography and videography services for the benefit and enjoyment of our audience.
+## Our Mission<
+
+
+To enlighten, understand and improve the students’ skills in communication in the digital media world.
+
+### <b><u> Our Aim</u></b>
+
+
+We aim to spark a passion for photography, videography and creative designing. We extend students’ learning by engaging them in workshops and in competitions to gain greater exposure. Students will be trained to use high-end equipment such as DSLRs and software to enhance post-production of their works. Students are involved in most major school events.
 
 ### <b><u>Teachers</u></b>
 
