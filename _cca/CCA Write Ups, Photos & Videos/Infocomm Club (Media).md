@@ -194,5 +194,87 @@ Theme: What Makes our school special?
 Link: [https://www.youtube.com/watch?v=3VfG69\_SikU](https://www.youtube.com/watch?v=3VfG69_SikU)  
 Credits to - Soh Jia Xuan, Gilian, Charlotte M Tang Pei Ling
 
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3VfG69_SikU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-atqo{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kiqt{background-color:#DDD;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 924px">
+<colgroup>
+<col style="width: 282px">
+<col style="width: 351px">
+<col style="width: 291px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-kiqt" colspan="3">2020: OSOS - Best Photo Story<br>Theme: Priceless Moments<br>From Old Wooden Pallets to New Furniture</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc12.jpg" alt="mjc12.jpg" width="293" height="195"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc13.jpg" alt="mjc13.jpg" width="293" height="196"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc14.jpg" alt="mjc14.jpg" width="293" height="196"></td>
+  </tr>
+  <tr>
+    <td class="tg-atqo"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc15.jpg" alt="mjc15.jpg" width="293" height="196"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc16.jpg" alt="mjc16.jpg" width="224" height="336"></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz" colspan="3">Credits to - John Davidson Pascua, Carmen Liew Kai Xin, Hridik Paldiwal     </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-atqo{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ky7k{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 911px">
+<colgroup>
+<col style="width: 285px">
+<col style="width: 333px">
+<col style="width: 293px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-ky7k" colspan="3">2022 School Event National Day Celebration</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC17.jpg" alt="MJC17.jpg" width="294" height="221"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC18.jpg" alt="MJC18.jpg" width="294" height="196"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC19.jpg" alt="MJC19.jpg" width="294" height="196"></td>
+  </tr>
+  <tr>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC20.jpg" alt="MJC20.jpg" width="294" height="196"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC21.jpg" alt="MJC21.jpg" width="294" height="196"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC22.jpg" alt="MJC22.jpg" width="294" height="196"></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz" colspan="3"><span style="font-weight:normal">Credits to - Fu Shiqi, Ng Ray Hong, Lucretius Fong Tze Tak     </span></td>
+  </tr>
+</tbody>
+</table>
+
+## <b><u>JOIN Us</u></b>
+
+#### **If you are creative and have a passion in photography & videography, join this special group of students to deepen your interest.**
