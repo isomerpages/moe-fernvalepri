@@ -37,26 +37,25 @@ You may <a href="https://www.moe.gov.sg/education/programmes/social-and-emotion
   
 7\.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.  
   
-##### <b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2022:</u></b>
+ <b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2022:</u></b>
 
 ## Primary 5
 
-![](/images/Parents%20Corner/pri%205.png)
+![](/images/primary%205%20part%201.png)
 
-![](/images/Parents%20Corner/primary%205_v1.png)
+![](/images/Primary%205%20part%202.png)
 
 ## Primary 6
 
-![](/images/Parents%20Corner/pri%206.png)
+![](/images/Primary%206%20Part%201.png)
 
-![](/images/Parents%20Corner/pri%206_v1.png)
-
+![](/images/Primary%206%20part%202.png)
 
 <b><u>Information for Parents</u></b>
 
 8\. Parents may opt their children out of Sexuality Education lessons and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="/files/Parents%20Corner/Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 28 Feb 2022.  
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="">here</a>. The completed opt-out form is to be submitted by 31/01/23
   
 10\. Parents can contact the school at 6315 3051 or email us at [fernvale\_ps@moe.edu.sg](mailto:fernvale_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.   
   
