@@ -4,7 +4,6 @@ permalink: /cca/CCA-Write-Ups-Photos-and-Videos/environmental-science/
 description: ""
 third_nav_title: CCA Write Ups, Photos & Videos
 ---
-
 #  duplicate image under "Heading for Scratch Coding Project 2022" is removed
 
 # Environmental Science
