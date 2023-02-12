@@ -4,12 +4,14 @@ permalink: /parents-corner/assessment-matters/
 description: ""
 ---
 # Assessment Matters 
-Updated as of Jan 2022
+<b>Updated as of February 2023</b>
 
-\- <a href="/files/Parents%20Corner/Assessment%20Matters/2022_019%20P1%20%20P2%20Assessment%20Letter.pdf" target="_blank">Assessments for Primary 1 & 2 - January 2022</a>  
-\- <a href="/files/Parents%20Corner/Assessment%20Matters/2022_020%20P3_Assessment%20Letter.pdf" target="_blank">Primary 3 Assessment Schedule for 2022</a>   
-\- <a href="/files/Parents%20Corner/Assessment%20Matters/2022_076%20P3_Revised%20Assessment%20Letter.pdf" target="_blank">Primary 3 Revised Assessment Schedule for 2022</a>   
-\-  <a href="/files/Parents%20Corner/Assessment%20Matters/2022_021%20P4_Assessment%20Letter.pdf" target="_blank">Primary 4 Assessment Schedule for 2022</a>   
-\- <a href="/files/Parents%20Corner/Assessment%20Matters/2022_022%20P5_Assessment%20Letter.pdf" target="_blank">Primary 5 Assessment Schedule for 2022</a>   
-\- <a href="/files/Parents%20Corner/Assessment%20Matters/2022_077%20P5_Revised%20Assessment%20Letter.pdf" target="_blank">Primary 5 Revised Assessment Schedule for 2022</a>   
-\- <a href="/files/Parents%20Corner/Assessment%20Matters/2022_023%20P6_Assessment%20Letter.pdf" target="_blank">Primary 6 Assessment Schedule for 2022</a>
+[- Primary 1 & 2 Assessment Letter](/files/Parents%20Corner/Assessment%20Matters/P1%20%20P2%20Assessment%20Letter_1%20Feb.pdf)
+
+[- Primary 3 Assessment Letter](/files/Parents%20Corner/Assessment%20Matters/P3_Assessment%20Letter_1%20Feb.pdf)
+
+[- Primary 4 Assessment Letter](/files/Parents%20Corner/Assessment%20Matters/P4_Assessment%20Letter_1%20Feb.pdf)
+
+[- Primary 5 Assessment Letter](/files/Parents%20Corner/Assessment%20Matters/P5_Assessment%20Letter_1%20Feb.pdf)
+
+[- Primary 6 Assessment Letter](/files/Parents%20Corner/Assessment%20Matters/P6_Assessment%20Letter_1%20Feb.pdf)
