@@ -136,6 +136,49 @@ We aim to spark a passion for photography, videography and creative designing. W
 
 ### **2022 OSOS – Best Video**  
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-atqo{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ky7k{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0sq8{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 805px">
+<colgroup>
+<col style="width: 269px">
+<col style="width: 245px">
+<col style="width: 291px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-ky7k" colspan="3">2021: OSOS - Best Photo Story</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sna6" colspan="3">Theme: United As One<br>Keep your distance – not forever, just for now<br><br>The effects of the Covid-19 pandemic have caused massive changes to our daily lives, forcing us to adjust to our new normal. Wearing a mask is now must! Keeping our distance helps us stay safe and healthy.</td>
+  </tr>
+  <tr>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc7.jpg" alt="mjc7.jpg" width="267" height="171"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc8.jpg" alt="mjc8.jpg" width="210" height="143"></td>
+    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc9.jpg" alt="mjc9.jpg"></td>
+  </tr>
+  <tr>
+    <td class="tg-0sq8"> </td>
+    <td class="tg-0sq8"> <img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc10.jpg" alt="mjc10.jpg"></td>
+    <td class="tg-0sq8"> <img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc%2011.jpg" alt="mjc 11.jpg"></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz" colspan="3">Credits to - Tirunagari Visisht, Charlene Goh Wei Fang, <span style="background-color:initial">Koh Kai Xin Alicia</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 
 
 <b>Theme: What I Go To School For?</b>  
