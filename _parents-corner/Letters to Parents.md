@@ -35,7 +35,7 @@ description: ""
   <tr>
     <td class="tg-sna6"><br><br><br><br><br><br><br><br><br><br><br><br><br>4 Jan 2023 </td>
     <td class="tg-sna6">1. SCHOOL EVENTS AND PROGRAMME<br><br>1.1 Home-School Partnership (Thursday, 12 January 2023 and Friday, 13 January 2023)<br><br>1.2  Chinese New Year Celebration<br><br>2. SCHOOL OPERATIONS AND SAFETY MATTERS<br><br>2.1 School Dismissal Timing<br><br>2.2  School Recess Timing<br><br>2.3  Road Safety and Traffic Management<br><br>3. ADMINISTRATIVE MATTERS<br><br>3.1 Photo-Taking Session for School Smart Card (SSC) (Tuesday, 31 January 2023 and Wednesday, 1 February 2023)<br><br>3.2 Transport Arrangement for After-School Programmes and CCAs<br><br>3.3  Updating of Emergency Contact and Medical Information (ALL parents must update online by 31 January 2023)<br><br>3.4  Student Protection Plan<br><br>3.5  Use of Videos and Photograph </td>
-    <td class="tg-0pyt"><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="https://fernvalepri.moe.edu.sg/qql/slot/u480/Parents%20Corner/2022%20LETTER%20TO%20PARENT/2023_001_Letter_to_Parents%20-%20Term%201%20Activities.pdf" target="_blank" rel="noopener noreferrer">Click here</a> <br></td>
+    <td class="tg-0pyt"><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="[]()" target="_blank" rel="noopener noreferrer">Click here</a> <br></td>
   </tr>
   <tr>
     <td class="tg-sna6">20 Dec 2022 <br></td>
