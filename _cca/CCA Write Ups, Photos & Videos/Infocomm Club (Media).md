@@ -24,12 +24,41 @@ We aim to spark a passion for photography, videography and creative designing. W
 
 ### <b><u>Teachers</u></b>
 
-| Name                 | Email                              |
-|----------------------|------------------------------------|
-| Mr Alan Tong         | [tong\_hock\_chuan@moe.edu.sg](mailto:tong_hock_chuan@moe.edu.sg)     |
-| Mr Jaron Yap         | [yap\_jie\_han\_jaron@moe.edu.sg](mailto:yap\_jie\_han\_jaron@moe.edu.sg)   |
-| Mr Ansar             | [ansar\_mohamed\_sali@moe.edu.sg](mailto:ansar\_mohamed\_sali@moe.edu.sg)    |
-| Mdm Siti Erliasari   |   [siti\_erliasari\_haroon@moe.edu.sg](mailto:siti\_erliasari\_haroon@moe.edu.sg) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3srz{background-color:#4A7247;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vqxi{background-color:#4A7247;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-3q3a{background-color:#F9EBD7;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table style="undefined;table-layout: fixed; width: 418px" class="tg">
+<colgroup>
+<col style="width: 144px">
+<col style="width: 274px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-3srz">Name</th>
+    <th class="tg-vqxi">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3q3a"><span style="font-weight:normal">Mdm Siti Erliasari</span>  </td>
+    <td class="tg-3q3a"> <a>siti_erliasari_haroon@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="font-weight:normal">Ms Nuraini</span></td>
+    <td class="tg-7zkw"><span style="font-weight:normal"> </span><a href="mailto:nuraini_hamzah@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nuraini_hamzah@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ### <b><u>Photographs</u></b>
 
