@@ -7,17 +7,17 @@ third_nav_title: CCA Write Ups, Photos & Videos
 # Infocomm Club (Media)
 
 
-## Our Vision 
+## <b><u>Our Vision</u></b> 
 
 To enable a community that is constantly learning about digital media literacy.
 
 
-## Our Mission<
+## <b><u> Our Mission</u></b>
 
 
 To enlighten, understand and improve the students’ skills in communication in the digital media world.
 
-### <b><u> Our Aim</u></b>
+## <b><u> Our Aim</u></b>
 
 
 We aim to spark a passion for photography, videography and creative designing. We extend students’ learning by engaging them in workshops and in competitions to gain greater exposure. Students will be trained to use high-end equipment such as DSLRs and software to enhance post-production of their works. Students are involved in most major school events.
