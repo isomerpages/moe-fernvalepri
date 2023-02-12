@@ -19,7 +19,7 @@ description: ""
  (iii)   Make responsible decisions for yourself, your family and society; and   
  (iv)   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.  
   
-You may <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank">click here</a> for more information on MOE Sexuality Education.  
+You may <a href="[](/files/Moe%20Sexuality%20Education%20In%20Schools%20-%20Opt%20Out%20as%20at%203%20Jan%202023%20for%20School%20website.pdf)" target="_blank">click here</a> for more information on MOE Sexuality Education.  
   
 
 **Overview of Fernvale Primary School’s Sexuality Education Programme For 2022**
@@ -55,7 +55,7 @@ You may <a href="https://www.moe.gov.sg/education/programmes/social-and-emotion
 
 8\. Parents may opt their children out of Sexuality Education lessons and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="">here</a>. The completed opt-out form is to be submitted by 31/01/23
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the year and is also downloadable <a href="[]()">here</a>. The completed opt-out form is to be submitted by 31/01/23
   
 10\. Parents can contact the school at 6315 3051 or email us at [fernvale\_ps@moe.edu.sg](mailto:fernvale_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.   
   
