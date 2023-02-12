@@ -4,7 +4,6 @@ permalink: /cca/CCA-Write-Ups-Photos-and-Videos/scouts/
 description: ""
 third_nav_title: CCA Write Ups, Photos & Videos
 ---
-
 # Scouts
 ![](/images/Cca/Scouts/1.jpg)
 
@@ -48,6 +47,7 @@ The cubs hiked through Fort Canning Park, where they learnt various historical f
 | ![](/images/Cca/Scouts/Picture1.png)  | ![](/images/Cca/Scouts/Picture2.jpg)  |
 
 ### <b><u>Cooking up a storm</u></b>
+A Scout is adept at surviving outdoors. Our cubs learn useful skills, such as outdoor cooking and tent pitching, which they get to put into practice during camp.
 
 ![](/images/Cca/Scouts/Picture3.png)
 
