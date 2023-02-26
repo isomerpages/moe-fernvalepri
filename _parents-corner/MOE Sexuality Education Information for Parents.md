@@ -36,7 +36,7 @@ You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexualit
   
 7\.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.  
   
- <b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2022:</u></b>
+ <b>At Fernvale Primary School, the following lessons from the Sexuality Education will be taught in <u>2023:</u></b>
 
 ## Primary 5
 
