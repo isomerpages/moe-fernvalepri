@@ -12,3 +12,4 @@ The creative use of available space encourages children to discover and explore 
 
 #### Let's take a look at our children in action!
 
+![](/images/Fernvale_Kindergarten.png)
