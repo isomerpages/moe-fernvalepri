@@ -2,8 +2,6 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Parent's Testimonial.md
-      - About Kcare.md
       - About Us.md
       - Our Staff.md
       - Our Learning Environment.md
@@ -12,3 +10,5 @@ collections:
       - Collaborations.md
       - Contact Us.md
       - MK Forms.md
+      - About Kcare.md
+      - Parent's Testimonial.md
