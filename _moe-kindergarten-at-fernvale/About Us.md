@@ -31,4 +31,4 @@ In line with our beliefs that young children are curious, active and compete
 | Engagement      | Be appreciative and respectful to own self and others          |
 
 ## Catch you having PRAISE!
-![](/images/MOE%20Kindergarten%20@%20Fernvale/phase.jpg)
+![](/images/MOE%20Kindergarten%20@%20Fernvale/MKFV%20Website%20Content%20pg%207.jpg)
