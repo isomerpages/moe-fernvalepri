@@ -2,11 +2,11 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Register For MOE Kindergarten.md
       - About Us.md
       - Our Staff.md
       - Our Learning Environment.md
       - Our Schedule.md
+      - Register For MOE Kindergarten.md
       - Collaborations.md
       - Find out more.md
       - MK Forms.md
