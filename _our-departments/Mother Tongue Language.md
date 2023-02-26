@@ -116,17 +116,17 @@ To develop every child into an avid reader, a budding writer and an effective sp
 
 ### **Signature Programmes:**
 
-1\. Reading Race
+1\. **Reading Race**
 
 The reading race programme aims to develop confident readers as well as inculcate in them the love for reading. The programme is conducted daily during curriculum time where pupils do five minutes of silent reading before exchanging their reading cards to bring home to read.  Through this, our pupils have opportunities to learn new vocabulary as well as hone their comprehension skills too.
 
   
 
-2\. Vaandu Portal
+2\. **Vaandu Portal**
 
 To make the learning of Tamil fun and self-directed, we have subscribed for this learning interactive portal through which our pupils are able to learn and revise their Tamil syllabus content.  The portal covers most aspects of the syllabus illustratively such that it caters to the likes of our young learners.
 
-3\. Jewel Time
+3\. **Jewel Time**
 
 Jewel Time is a yearly memorable language learning experience time for our pupils with AKT productions.  AKT professional storytellers, public speakers, puppeteers and actors bring the Tamil Language alive to our pupils through their amazing and varied talents.  The pupils go through different experiences depending on their levels, all of which give them an enriching language experience at Fernvale.
 
@@ -137,11 +137,11 @@ d.  Primary 4 – Traditional Tamil Theatres
 e.  Primary 5 – Creating An Imaginary World      
 f.   Primary 6 -  Art of Public Speaking & Poetry Workshop  
 
-4\. Sorsuvai  
+4\. **Sorsuvai**  
 
 To instil the joy in writing and to help our budding writers to feel a sense of  accomplishment, ‘Sorsuvai’ the Tamil Language Magazine was launched last year. We collated our pupils’ best riddles, jokes, poems and stories and compiled them into a ‘Fernvale’ made Tamil magazine at the end of the year.  This magazine served as a good holiday read for our pupils.
 
-5\. Cultural Impressions
+5\. **Cultural Impressions**
 
 We believe in having a strong partnership with our parents in our pupils’ educational journey. Thus, every year we invite our parents to share with our pupils their profound knowledge and expertise in the field of Tamil culture. These parents hold workshops or talks on the different aspects of our Tamil Culture, depending on the level they are assigned for. The different aspects are as follows :
 
@@ -155,18 +155,18 @@ f.  Primary 6 – Tamil Sangam Literature
 
   
 
-6\. Language cum Talent Competitions  
+6\. **Language cum Talent Competitions**  
 
 We see both the internal and external competitions as good platforms for our pupils to become confident speakers of the Tamil Language.  Hence, our pupils are strongly encouraged to take part in these competitions every year. To ensure that every Tamil child in our school gets an opportunity to take part in a competition, ‘Kavinkalai’ competitions are organised and held yearly.   Over the last few years, ‘Kavinkalai” has gained popularity among our children and it is heartwarming to see an increase in the participation rate.
 
   
 
-7\. Diwali Dazzle
+7\. **Diwali Dazzle**
 
 Our annual ‘Diwali Dazzle’ is another platform that enables our pupils to showcase their hidden talents.  ‘Diwali Dazzle’ is an annual concert which is held on the eve of Deepavali. Within a minimum time span of thirty minutes, our pupils together with our parent volunteers put up marvellous performances during this concert, making it to be the limelight of stage performances at Fernvale every year.
 
   
 
-8\. Toastmasters In Tamil
+8\. **Toastmasters In Tamil**
 
 The ‘Toastmasters In Tamil’ workshop is designed specially for our Primary 5 pupils.  We are one of the first few schools to implement this programme in Tamil for primary school pupils.  The two day programme serves as a platform for our students to overcome their fear and anxiety towards public speaking and to improve on their public speaking skills.  Pupils are mentored by our very own parent volunteer who has been trained and has several years of experience as a Tamil Toastmaster.
