@@ -15,8 +15,8 @@ With the exposure to various activities and performances we hope to enrich each 
 
 | Day    | Time                                |
 |--------|-------------------------------------|
-| Monday | 2:00pm - 4:15pm (Seniors - P4 & P5) |
-| Friday |  2:00pm - 4:15pm (Juniors - P3)     |
+| Monday | 2:00pm - 4:15pm  |
+| Friday |  2:00pm - 4:15pm    |
 
 ### <b><u>Teachers</u></b> 
 
@@ -56,5 +56,3 @@ With the exposure to various activities and performances we hope to enrich each 
 | 2014 | Certificate of Distinction |
 | 2016  |  Certificate of Distinction  |
 | 2018 | Certificate of Distinction |
-
-
