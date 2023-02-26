@@ -45,7 +45,7 @@ description: ""
   <tr>
     <td class="tg-sna6"><br><br><br><br><br><br>27 Sept 2022 </td>
     <td class="tg-sna6">1. Children’s Day – Friday, 7 Oct 2022<br>School hours are as usual on the eve of Children’s Day, Thursday, 6 Oct 2022.<br>2. PSLE Marking Days – Monday, 17 Oct 2022 to Thursday, 20 Oct 2022<br><span style="color:#000;background-color:initial">All students do not need to report to school.</span><br><span style="color:#000;background-color:initial">3. Deepavali – Monday, 24 Oct 2022</span><br><span style="color:#000;background-color:initial">There will be lessons as usual on Friday, 21 Oct 2022.</span><br><span style="color:#000;background-color:initial">4. Results Processing Day and P1(2023) Orientation – Thursday, 10 Nov 2022</span><br><span style="color:#000;background-color:initial">All students do not need to report to school on Thursday, 10 Nov 2022.</span><br><span style="color:#000;background-color:initial">5. Celebration of Joyful Learning – Thursday, 17 Nov 2022</span></td>
-    <td class="tg-0pyt"><br><br><br><br><br><br><a href="[](/files/2022_088%20Letter%20to%20Parents%20Term%204.pdf)" target="_blank" rel="noopener noreferrer">Click here</a></td>
+    <td class="tg-0pyt"><br><br><br><br><br><br><a href="[]([](/files/Parents%20Corner/Letters%20to%20Parents/2022_088%20Letter%20to%20Parents%20Term%204%20(1).pdf))" target="_blank" rel="noopener noreferrer">Click here</a></td>
   </tr>
 </tbody>
 </table>
