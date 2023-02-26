@@ -275,6 +275,6 @@ Credits to - Soh Jia Xuan, Gilian, Charlotte M Tang Pei Ling
 </tbody>
 </table>
 
-## <b><u>JOIN Us</u></b>
+### <b><u>JOIN Us</u></b>
 
 #### **If you are creative and have a passion in photography & videography, join this special group of students to deepen your interest.**
