@@ -5,11 +5,9 @@ description: ""
 ---
 # Collaborations
 
-Being part of Fernvale Primary School, we are thankful for the opportunity to be able to collaborate closely with  
+Being part of Fernvale Primary School, we are thankful for the opportunity to be able to collaborate closely with the primary school and to participate in some of the school events.
 
-the primary school and to participate in some of the school events.
 
-(Pictures taken pre-COVID)
 
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/CNY.png)
 
