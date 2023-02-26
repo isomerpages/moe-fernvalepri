@@ -34,7 +34,7 @@ Scouting’s purpose is to help young people to develop their full physical, int
 
 ## <b><u>Programme Highlights</u></b>
 
-### <b><u>Club Scout Photos 2022</u></b>
+### <b><u>Cub Scout Photos 2022</u></b>
 
 ### <b><u>Exploring Nature, Reliving History</u></b>
 
