@@ -30,17 +30,17 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 
 CCE is enacted through learning platforms such as CCE Lessons, Key Student Development Experiences (SDEs), **school-based Initiatives** and **other subjects**.
 
-<u>**CCE Lessons**</u>
+<u><b>CCE Lessons</b></u>
 
 There is emphasis on explicit teaching of social-emotional competencies in CCE (FTGP). Topics related to developing citizenship dispositions are taught in CCE (FTGP) to foster inter-ethnic understanding and appreciation for one another's culture.  
   
-<u>**Key Student Development Experiences (SDEs)**</u>
+<u><b>Key Student Development Experiences (SDEs)</b></u>
 
 Student Development Experiences (SDEs) are learning experiences beyond the classroom that are integral to the holistic development of students. **Purposefully** planned SDEs provide students with varied and authentic opportunities to learn, apply and demonstrate values, good character, social-emotional competencies and citizenship dispositions. Through SDEs, students are also able to **apply their learning** from Character and Citizenship Education (CCE) Lessons to authentic contexts. 
 
 These key SDEs include: Co-Curricular Activities, Education and Career Guidance Experiences (ECG), National Education Commemorative Days, Values in Action (VIA), Student Leadership Development Programmes and Cohort Learning Journeys.   
   
-<u>Other subjects</u> 
+<u><b>Other subjects</b></u> 
   
 Subjects such as Art, PE, English Language and MTL provide learning opportunities and teachable moments for students to learn and apply relevant values and social-emotional competencies.
 
