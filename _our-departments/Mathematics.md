@@ -73,6 +73,8 @@ Interactive Math Trails help Primary 1 to 6 students value Mathematics by givi
 |---|---|
 | ![](/images/Maths%207.jpg)  |![](/images/Maths%208.jpg)  |
 
+
+
 Students measure the things around them including
 the breadth of the door and their student diary with their hands and ruler.
 
