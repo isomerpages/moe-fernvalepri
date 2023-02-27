@@ -67,4 +67,9 @@ sections:
       description: "Theme: What makes our school special ?"
       button: Click here !
       url: https://www.youtube.com/watch?v=3VfG69_SikU
+  - infobar:
+      title: 2022 OSO - BEST VIDEO
+      subtitle: WHAT'S HAPPENING
+      description: "Theme: What Do I Go To School For?"
+      button: Button Text
 ---
