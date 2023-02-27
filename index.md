@@ -61,4 +61,10 @@ sections:
         Student iCON, Canteen Price List 2022
       button: links
       url: /quick-links/
+  - infobar:
+      title: "2021 OSO - Vid Contest (Honorable Mention) "
+      subtitle: What's happening
+      description: "Theme: What makes our school special ?"
+      button: Click here !
+      url: https://www.youtube.com/watch?v=3VfG69_SikU
 ---
