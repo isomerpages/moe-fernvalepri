@@ -46,6 +46,14 @@ Students use a 1-meter ruler to measure the length of things around them.
 
 ![](/images/Our%20departments/Mathematics/Screenshot%20(46).png)
 
+|   |   |
+|---|---|
+| ![](/images/Our%20departments/Mathematics/Fernvale_Maths%205.jpg) | ![](/images/Our%20departments/Mathematics/Fernvale_Maths%206.jpg) |
+
+<center> Students use link cubes and number discs to learn   
+
+Division with Remainder and Quotient.</center>
+
 ### Math Trails  
 
 Interactive Math Trails help Primary 1 to 6 students value Mathematics by giving them an opportunity to discover its applications in the real world and apply skills to solve real-life problems. The activities rich in problem-solving application range from that of Whole Numbers to Money, Length, Fractions, Geometry and others. Through complementing the content of Mathematics taught in the classrooms, the trails ensure that students develop an appreciation and enjoyment of Mathematics in everyday situations.
