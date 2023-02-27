@@ -19,16 +19,16 @@ description: ""
 | Lifelong Learners | • Take responsibility for their own learning<br>• Think critically and creatively to solve problems<br>• Work together as a team<br>• Pursue an active lifestyle and a sense aesthetics<br>• Learn digitally |
 | Active Citizens   | • Appreciate cultural diversity<br>• Serve the community<br>• Care for the environment      |
 
-## Our Values
+## Our Values -  GIR<sup>3</sup> C
 
-|                |                                                                                                                                 |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Graciousness   | • Quality of being kind and gentle<br>• Excellent manners and social conduct                                                        |
-| Integrity      | • Moral soundness<br>• Quality of being honest and firm in one's moral principles                                                   |
-| Respect        | • Deference<br>• Reverence<br>• Willingness to show considerations or appreciation                                                    |
-| Responsibility | • Ability to behave properly and make the right decisions without the need to be watched or controlled<br>• Trustworthiness<br>• Duty |
-| Resilience     | • The ability to recover quickly from a setback or misfortune                                                                     |
-| Care           | • The ability to display concern through acts of kindness and compassion to oneself, others and the environment                   |
+| Values         |  "I" Statements                                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Graciousness   | I behave politely. I am mindful of my words when interacting with others. I am grateful for what I have.                                   |
+| Integrity      | I am truthful in what I say and do. I keep my promise. I have the courage to stand up for what is right.                                   |
+| Respect        | I listen actively to others. I appreciate different ideas and views of others. I work well with others in a team.                          |
+| Responsibility | I take ownership of my own learning. I make responsible decisions. I accept duties readily and carry them out to the best of my abilities. |
+| Resilience     | I view challenges as opportunities to learn. I keep finding ways to make things better. I bounce back from challenges.                     |
+| Care           | I care for my well-being. I care for the environment. I serve my class, school and community.                                              |
 
 ## Our Motto
 
