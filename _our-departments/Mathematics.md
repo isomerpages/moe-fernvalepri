@@ -91,7 +91,7 @@ Learning Support for Mathematics Programme for selected P1& P2 pupils is an earl
 
 ![](/images/Our%20departments/Mathematics/Math_LSM_4.jpg)
 
-
+![](/images/Maths%209.jpg)
 
 ### Improving Confidence & Achieving Numeracy (ICAN) Programme
 
@@ -99,7 +99,8 @@ ICAN Programme aims to equip students who need additional support to acquire kno
 
 ![](/images/Our%20departments/Mathematics/Math_ICAN_1.jpg)
 
-![](/images/Maths%209.jpg)
+![](/images/Our%20departments/Mathematics/Maths%2010_ICAN.jpg)
+
 
 ### Fun with Math Gym!
 
