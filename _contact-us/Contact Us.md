@@ -154,30 +154,30 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-3srz{background-color:#4A7247;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-3q3a{background-color:#F9EBD7;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fr2s{background-color:#FFF;border-color:inherit;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6e5h{background-color:#F9EBD7;border-color:inherit;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 932px">
+<table class="tg" style="undefined;table-layout: fixed; width: 908px">
 <colgroup>
-<col style="width: 466px">
-<col style="width: 466px">
+<col style="width: 457px">
+<col style="width: 451px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-3srz" colspan="2">School Library</th>
+    <th class="tg-3srz" colspan="2"><span style="font-weight:bold;color:#FFF;background-color:#4A7247">School Library</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3q3a">Mondays To Friday</td>
-    <td class="tg-3q3a">7:45am to 3:00pm</td>
+    <td class="tg-6e5h"><span style="font-weight:bold;color:#282828;background-color:#F9EBD7">Mondays To Friday</span></td>
+    <td class="tg-6e5h"><span style="font-weight:bold;color:#282828;background-color:#F9EBD7">7:45am to 3:00pm</span></td>
   </tr>
   <tr>
-    <td class="tg-hr73">Schools Holidays</td>
-    <td class="tg-hr73">8:00am to 12:00pm</td>
+    <td class="tg-fr2s"><span style="font-weight:bold;color:#282828;background-color:#FFF">Schools Holidays</span></td>
+    <td class="tg-fr2s"><span style="font-weight:bold;color:#282828;background-color:#FFF">8:00am to 12:00pm</span></td>
   </tr>
   <tr>
-    <td class="tg-3q3a" colspan="2">Closed on Sat, Sun and Public Holidays </td>
+    <td class="tg-6e5h" colspan="2"><span style="font-weight:bold;color:#282828;background-color:#F9EBD7">Closed on Sat, Sun and Public Holidays</span></td>
   </tr>
 </tbody>
 </table>
