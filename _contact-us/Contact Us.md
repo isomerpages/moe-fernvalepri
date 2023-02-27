@@ -14,53 +14,60 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-93om{background-color:#F9EBD7;color:#21088A;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-3srz{background-color:#4A7247;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-fr2s{background-color:#FFF;border-color:inherit;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6e5h{background-color:#F9EBD7;border-color:inherit;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-3q3a{background-color:#F9EBD7;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 902px">
+<table class="tg" style="undefined;table-layout: fixed; width: 912px">
 <colgroup>
-<col style="width: 451px">
-<col style="width: 451px">
+<col style="width: 459px">
+<col style="width: 453px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-0pky" colspan="2">Operating Hours </th>
+    <th class="tg-3srz" colspan="2">Operating Hours </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">School Term (Monday To Friday) </td>
-    <td class="tg-0pky">7:30am to 6:00pm</td>
+    <td class="tg-6e5h">School Term (Monday To Friday) </td>
+    <td class="tg-6e5h">7:30am to 6:00pm</td>
   </tr>
   <tr>
-    <td class="tg-0pky">School holidays (Monday To Friday)</td>
-    <td class="tg-0pky">8:00 am to 6:00pm</td>
+    <td class="tg-fr2s">School holidays (Monday To Friday)</td>
+    <td class="tg-fr2s">8:00 am to 6:00pm</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Contact No</td>
-    <td class="tg-0pky">63153051</td>
+    <td class="tg-6e5h">Contact No</td>
+    <td class="tg-6e5h">63153051</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Fax No</td>
-    <td class="tg-0pky">63153067</td>
+    <td class="tg-hr73">Fax No</td>
+    <td class="tg-hr73">63153067</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Email Address</td>
-    <td class="tg-0pky"><a href="mailto:&#x66;&#x65;&#114;&#x6e;&#118;&#97;&#108;&#101;&#95;&#x70;&#115;&#64;&#109;&#111;&#101;&#x2e;&#101;&#100;&#117;&#46;&#115;&#103;"><span style="color:#905">fernvale_ps@moe.edu.sg</span></a></td>
+    <td class="tg-3q3a">Email Address</td>
+    <td class="tg-93om"><a href="mailto:fernvale_ps@moe.edu.sg">fernvale_ps@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">For SLS password, login and account issues during school operating hours<br>(8am – 4pm) from Monday to Friday</td>
-    <td class="tg-0pky"> 63153051</td>
+    <td class="tg-hr73">For SLS password, login and account issues during school operating hours<br>(8am – 4pm) from Monday to Friday</td>
+    <td class="tg-7zkw"><span style="font-weight:normal"> </span>63153051</td>
   </tr>
   <tr>
-    <td class="tg-0pky">The SLS Central Helpline (67026513) will operate after school operating hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).  </td>
-    <td class="tg-0pky"> 67026513</td>
+    <td class="tg-3q3a">The SLS Central Helpline (67026513) will operate after school operating hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).  </td>
+    <td class="tg-3q3a"> 67026513</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Students may email the SLS Central Helpdesk at <a href="mailto:&#x68;&#101;&#x6c;&#112;&#x64;&#101;&#115;&#x6b;&#x40;&#x73;&#x6c;&#115;&#x2e;&#x75;&#x66;&#105;&#x6e;&#105;&#x74;&#x79;&#x2e;&#99;&#111;&#x6d;"><span style="color:#905">helpdesk@sls.ufinity.com</span></a> at any time for assistance.</td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-hr73">Students may email the SLS Central Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com"><span style="font-weight:500;text-decoration:underline;color:#21088A">helpdesk@sls.ufinity.com</span></a> at any time for assistance.</td>
+    <td class="tg-hr73"> </td>
   </tr>
 </tbody>
 </table>
+
 
 
 <style type="text/css">
