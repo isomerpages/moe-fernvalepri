@@ -3,7 +3,6 @@ title: Forms
 permalink: /forms/
 description: ""
 ---
-  
 ## Forms
 
 
@@ -29,7 +28,7 @@ description: ""
 
 <b>Please use this form to request services such as setup of PA System, PCs/Laptops, Mobile Cart booking and Loan of Equipment.</b>&nbsp;&nbsp; &nbsp; &nbsp;  
 
-![Forms-Icon.png](https://fernvalepri.moe.edu.sg/qql/slot/u480/Forms-Icon.png)[Click here to launch ICT Form&nbsp;B](http://forms.cwp.gov.sg/fernvalepri/FormVOATA)  
+[Click here to launch ICT Form&nbsp;B](http://forms.cwp.gov.sg/fernvalepri/FormVOATA)  
 
   
 
@@ -39,9 +38,9 @@ description: ""
 (These forms are to be used only by staff of Fernvale Primary School to report on ICT Matters)
 
 
-ICT/AV Fault-Reporting System&nbsp;(Form A)
---------------------------------------
+### ICT/AV Fault-Reporting System&nbsp;(Form A)
 
-Please report observed faults related to ICT or AV Equipment
 
-![Forms-Icon.png](https://fernvalepri-moe-edu-sg-admin.cwp.sg/qql/slot/u480/Forms-Icon.png)[Click here to launch ICT Form A](https://forms.cwp.gov.sg/fernvalepri/FormKQOJ8)
+<b>Please report observed faults related to ICT or AV Equipment</b>
+
+[Click here to launch ICT Form A](https://forms.cwp.gov.sg/fernvalepri/FormKQOJ8)
