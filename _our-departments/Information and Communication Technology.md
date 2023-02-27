@@ -13,8 +13,7 @@ Learning takes place anytime, anywhere in an ICT-enriched environment
 
 ### Mission
 
-Enabling pupils to be self-directed and collaborative learners through the effective and responsible use  
-of technology  
+Enabling pupils to be self-directed and collaborative learners through the effective and responsible use of technology  
 
 ### Signature Programmes
 
