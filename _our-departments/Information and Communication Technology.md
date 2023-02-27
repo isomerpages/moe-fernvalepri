@@ -34,7 +34,7 @@ All pupils will have an e-learning portal access Student Learning Space. Pupils 
 The school encourages parents to submit their child(ren)'s travel declaration for the school holidays via the portal. It is part of the school's effort in taking care of the Earth by reducing the amount of papers to be printed. Details on login to the portal will be given to the pupils via the form teachers.  
 The Infocomm Development Authority of Singapore (IDA) has an on-going initiative, the NEU PC Plus Programme, that helps students from low-income families to purchase PCs and/or obtain broadband access at an affordable price.  
 
-**NeuPC Plus Scheme**
+<b>NeuPC Plus Scheme
 
 The programme provides the following schemes:
 
@@ -49,9 +49,10 @@ The programme provides the following schemes:
     
 4.  The  [Grant Scheme for Schools](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-Grant-Scheme-for-Schools)  allow interested schools to process, procure and deploy Infocomm devices, software or broadband services on behalf of their students from low-income families, so as to meet the schools' and students' learning objectives and needs.
   
-Further information about the individual scheme and the eligibility criteria can be found in the [IDA Website](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme) . Alternatively, parents may also contact the school’s general office for more details and to obtain the application forms.  
+Further information about the individual scheme and the eligibility criteria can be found in the [IDA Website](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme) . Alternatively, parents may also contact the school’s general office for more details and to obtain the application forms. </b>
 
-**Using Tablets for Teaching and Learning**  
+<b>Using Tablets for Teaching and Learning</b>
+
 The evolution of Information and Communication Technologies (ICT) necessitates new forms of pedagogy in education. Leveraging the myriad affordances of ICT, Fernvale primary has adopt mobile teaching and learning tool to enhance lessons, language proficiency, and deliver new learning experiences for his students. The programme started with equipping an experimental class of 16 with android tablets and also another 29 tablets to the Mother Tongue and PE department. 
 
 Using the tablets, students are able to watch teaching video clips, view slides, participate in quizzes and provide timely feedbacks to their teachers. The social networking functions of the tool also allow students to engage in discussion and interact with their classmates and teachers as part of an effort to integrate real life use of the language into their learning.  
