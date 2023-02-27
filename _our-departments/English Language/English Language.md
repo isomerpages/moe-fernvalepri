@@ -38,7 +38,7 @@ The Extensive Reading Programme is conducted during curriculum once a week. Stud
 
 
 
-**3\. **Primary 1 to 3 Guided Reading Programme**
+**3\. Primary 1 to 3 Guided Reading Programme**
 
 The Guided Reading Programme is a part of our continuous effort to encourage students to read widely and cultivate good reading habits.
 
