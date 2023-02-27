@@ -3,11 +3,9 @@ title: Contact Us
 permalink: /contactus/
 description: ""
 ---
+# Contact Us
 
-## Contact Us
-
-
-**General Office**
+## <u>General Office<u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
