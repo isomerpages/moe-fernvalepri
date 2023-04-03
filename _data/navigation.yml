@@ -1,15 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
+  - title: Our School Info
+    collection: our-school-info
+  - title: Our Departments
+    collection: our-departments
+  - title: CCA
+    collection: cca
+  - title: Parents' Corner
+    collection: parents-corner
+  - title: Achievements
+    collection: achievements
+  - title: MOE Kindergarten
+    collection: moe-kindergarten-at-fernvale
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contactus/
+  - title: Forms
+    url: /forms/

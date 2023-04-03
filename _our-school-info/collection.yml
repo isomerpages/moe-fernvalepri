@@ -1,0 +1,12 @@
+collections:
+  our-school-info:
+    output: true
+    order:
+      - Our Crest.md
+      - Our Mission.md
+      - Our School Song.md
+      - Our Rules & Regulations.md
+      - School Executive Committee.md
+      - Our Staff.md
+      - Our Service Providers.md
+      - Principal's Message.md

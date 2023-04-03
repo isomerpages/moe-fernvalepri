@@ -1,0 +1,8 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - Parenting Seminar Effective Parenting Approach to Raising Your Child!.md
+      - Our Schools, Our Stories photo story contest Junior Category (Best Photo
+        Story Award).md
+      - Teachers' Day.md

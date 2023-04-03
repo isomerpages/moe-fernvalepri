@@ -1,0 +1,20 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA Schedule 2023.md
+      - CCA Charter, Philosophy and Goals.md
+      - CCA Write Ups, Photos & Videos/.keep
+      - CCA Write Ups, Photos & Videos/CCA Write Ups Photos and Videos.md
+      - CCA Write Ups, Photos & Videos/Art Club.md
+      - CCA Write Ups, Photos & Videos/Basketball.md
+      - CCA Write Ups, Photos & Videos/Guitar Ensemble.md
+      - CCA Write Ups, Photos & Videos/Guzheng.md
+      - CCA Write Ups, Photos & Videos/Floorball.md
+      - CCA Write Ups, Photos & Videos/Dance.md
+      - CCA Write Ups, Photos & Videos/Percussion.md
+      - CCA Write Ups, Photos & Videos/Scouts.md
+      - CCA Write Ups, Photos & Videos/Wushu.md
+      - CCA Write Ups, Photos & Videos/Environmental Science.md
+      - CCA Write Ups, Photos & Videos/Infocomm Club (Media).md
+      - CCA Write Ups, Photos & Videos/Badminton.md

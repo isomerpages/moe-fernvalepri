@@ -1,0 +1,13 @@
+collections:
+  moe-kindergarten-at-fernvale:
+    output: true
+    order:
+      - About Us.md
+      - Our Team.md
+      - Our Learning Environment.md
+      - Register For MOE Kindergarten.md
+      - Collaborations.md
+      - Contact Us.md
+      - MK Forms.md
+      - About Kcare.md
+      - Parent's Testimonial.md
