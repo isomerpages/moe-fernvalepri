@@ -12,9 +12,10 @@ links:
     collection: achievements
   - title: MOE Kindergarten
     collection: moe-kindergarten-at-fernvale
+  - title: Quick Links
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contactus/
   - title: Forms
     url: /forms/
-  - title: Quick Links
-    url: /permalink
