@@ -89,7 +89,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mr Jegendren s/o Tanapal</span></td>
+    <td class="tg-lnwz"><span style="font-weight:400">Mrs Phillida Rabini</span></td>
   </tr>
   <tr>
     <td class="tg-sna6"><br><span style="text-decoration:underline">P5 &amp; P6 </span></td>
@@ -202,10 +202,7 @@ description: ""
     <td class="tg-biak" colspan="2"><br>Student Well-being </td>
   </tr>
   <tr>
-    <td class="tg-lnwz">Subject Head </td>
-    <td class="tg-lnwz">Mrs Phillida Rabini</td>
-  </tr>
-  <tr>
+    
     <td class="tg-lnwz" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">CCE Department</span></td>
   </tr>
   <tr>
