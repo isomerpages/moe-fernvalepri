@@ -23,3 +23,4 @@ description: ""
 7. [READ@Academy](https://readacademy.moe.edu.sg/)
 8. [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 9. [ICT / AV Booking Form](https://forms.gle/cYa128rtuCGHqtfJ7)
+10. [Venues Booking Form ](https://sites.google.com/d/1OX-b8Dpo5-EXrvcOB_8c-9iTTO4dwRB6/p/1AfsYzqu5WmIFqhryL8CAV-uF1aJZzgTX/edit?pli=1)

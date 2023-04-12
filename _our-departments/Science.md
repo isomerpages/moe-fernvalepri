@@ -3,9 +3,6 @@ title: Science
 permalink: /our-departments/science/
 description: ""
 ---
-# links broken for BBC school science clips, Discovery Kids, How does it work?, Scholastic's The Magic School Bus, Singapore Science Centre
-# Science
-
 ### Vision  
 
 Inquiring Minds, Learning Community
@@ -38,8 +35,8 @@ The teaching and learning of Science extends beyond the classroom where students
 
 ### Learning Journeys
 
-P3 & P4 – Singapore Science Centre  
-P5 – Gardens by the Bay 
+P3 &amp; P4 – Singapore Science Centre  
+P5 – Gardens by the Bay&nbsp;
 
 ### Learning through DI Games
 
@@ -49,11 +46,7 @@ Games help to infuse the joy of learning and increase student engagement level t
 
 ![](/images/Our%20departments/Science/science%20pic%204.jpg)
 
-### Singapore Amazing Flying Machine Competition
 
-Our Primary 6 students took part in the SAFMC Challenge Category A.  In this event, organized by the DSO National Laboratories and Singapore Science Centre and  supported by Ministry of Defence (MINDEF), the teams designed and folded paper planes that aim to achieve the longest, farthest, and most unique flight. The teams learnt through play, demonstrating perseverance and teamwork.
-
-![](/images/Our%20departments/Science/sciecne%20pic%205.png)
 
 ### Sony Creative Science Award
 
@@ -67,13 +60,13 @@ The Sony Creative Science Award (SCSA) competition provides a platform for stude
 
 ### **Excellence 2000 Programme (Science)**
 
-The E2K Science Programme is a 2 -year enrichment programme for our Primary 4 students who demonstrate interest and aptitude in Science.  It serves to develop in these students the habits, attitudes and dispositions scientists possess, and gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+The E2K Science Programme is a 2 -year enrichment programme for our Primary 4 students who demonstrate interest and aptitude in Science. &nbsp;It serves to develop in these students the habits, attitudes and dispositions scientists possess, and gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
 ![](/images/Our%20departments/Science/science%20pic%207.jpg)
 
 ### **Science Olympiad**  
 
-Selected P4 & P5 students are highly engaged in the Science Olympiad sessions, where they investigate scientific concepts and extend their learning with higher-order thinking skills, which prepares students for the Singapore Primary Science Olympiad (SPSO) organized by the NUS High School of Mathematics and Science.
+Selected P4 &amp; P5 students are highly engaged in the Science Olympiad sessions, where they investigate scientific concepts and extend their learning with higher-order thinking skills, which prepares students for the Singapore Primary Science Olympiad (SPSO) organized by the NUS High School of Mathematics and Science.
 
 ### Useful Links
 
