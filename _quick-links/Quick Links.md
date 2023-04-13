@@ -24,3 +24,5 @@ description: ""
 8. [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 9. [ICT / AV Booking Form](https://forms.gle/cYa128rtuCGHqtfJ7)
 10. [Venues Booking Form ](https://sites.google.com/d/1OX-b8Dpo5-EXrvcOB_8c-9iTTO4dwRB6/p/1AfsYzqu5WmIFqhryL8CAV-uF1aJZzgTX/edit?pli=1)
+11. [Music Instruments Loan Request Form](https://tinyurl.com/FVPSmusicloan)
+12. [Art Expression Wall Collaboration Request Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLScbEarYxbA8QxxtPuYxJDtIRd3snw1b4sspBSlHcczP-zlzwg/viewform?usp=send_form)
