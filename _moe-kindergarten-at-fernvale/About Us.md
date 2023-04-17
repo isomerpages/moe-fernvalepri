@@ -7,7 +7,7 @@ description: ""
 ## Our Vision and Mission  
 is to provide A Strong Start for Every Child, by providing a quality pre-school education that is affordable to Singaporeans and catalyzing quality improvements in the sector.  
 
-In line with our beliefs that young children are curious, active and competent learners. we aim to nurture children holistically, so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.
+In line with our beliefs that young children are curious, active and competent learners, we aim to nurture children holistically, so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.
 
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/PIC%206.jpg)
 
