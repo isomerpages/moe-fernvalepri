@@ -39,12 +39,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-r5au"><br><br>Art Club</td>
-    <td class="tg-r5au"><br>Friday<br><span style="font-weight:normal">(Juniors &amp; Seniors)</span></td>
-    <td class="tg-basn"><br><br><span style="font-weight:normal">2.00pm - 4.15pm</span><br><br></td>
-    <td class="tg-r5au"><br><br><span style="font-weight:normal">Art Rooms</span><br></td>
-    <td class="tg-r5au"><br><br>Art room by 2pm</td>
-    <td class="tg-vlif"><br><span style="font-weight:normal">*Ms Poon Sook Fong Carolyn (IC)</span><br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br>
+    <td class="tg-r5au">Art Club</td>
+    <td class="tg-r5au">Friday<br><span style="font-weight:normal">(Juniors &amp; Seniors)</span></td>
+    <td class="tg-basn"><span style="font-weight:normal">2.00pm - 4.15pm</span><br><br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">Art Rooms</span><br></td>
+    <td class="tg-r5au">Art room by 2pm</td>
+    <td class="tg-vlif"><span style="font-weight:normal">*Ms Poon Sook Fong Carolyn (IC)</span><br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br>
 			<span style="font-weight:normal">Mdm Julia Binte Mohamed Rahim </span>
 			<br>Ms Wang Shuhui Ashley
 
@@ -59,11 +59,11 @@ description: ""
     <td class="tg-i7qw"><span style="font-weight:normal;color:#000;background-color:initial">*Mdm Liew Hui Eileen (IC)Miss Maninder Kaur (Asst)</span><br><span style="font-weight:normal;color:#000;background-color:initial">Miss Ang Min Xin</span></td>
   </tr>
   <tr>
-    <td class="tg-r5au"><br><br><br><br>Badminton</td>
+    <td class="tg-r5au">Badminton</td>
     <td class="tg-r5au"><span style="font-weight:normal">Tuesday</span><br><span style="font-weight:normal">(Sch Team)</span><br><br><span style="font-weight:normal">Thursday</span><br><span style="font-weight:normal">(Sch Team)</span><br><br><span style="font-weight:normal">(Recreational Team)</span><br></td>
     <td class="tg-r5au"><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br></td>
     <td class="tg-r5au"><span style="font-weight:normal">School Hall</span><br><br><br><span style="font-weight:normal">School Hall</span><br><br><br> ISH<br></td>
-    <td class="tg-r5au"><br><br><br>Hall/ISH by 2pm<br></td>
+    <td class="tg-r5au">Hall/ISH by 2pm<br></td>
     <td class="tg-i7qw">*Mr Goh Tong Wee (IC)<br>Mr Hadrian Chin (Asst)<br>Mdm Choo Sok Ee Eunice<br>Ms Jayne Anne Jayanthi Krishnamurth<br>Mdm Ng Peng Yong<br>Mr Tan Chun Chiah<br>Ms Liu Hsiang-Chun<br></td>
   </tr>
   <tr>
