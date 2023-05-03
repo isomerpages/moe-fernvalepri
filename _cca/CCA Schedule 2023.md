@@ -40,12 +40,16 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-r5au"><br><br>Art Club</td>
-    <td class="tg-r5au"><br>Friday<br><br><span style="font-weight:normal">(Juniors &amp; Seniors)</span></td>
+    <td class="tg-r5au"><br>Friday<br><span style="font-weight:normal">(Juniors &amp; Seniors)</span></td>
     <td class="tg-basn"><br><br><span style="font-weight:normal">2.00pm - 4.15pm</span><br><br></td>
     <td class="tg-r5au"><br><br><span style="font-weight:normal">Art Rooms</span><br></td>
     <td class="tg-r5au"><br><br>Art room by 2pm</td>
-    <td class="tg-vlif"><br><span style="font-weight:normal">*Ms Poon Sook Fong Carolyn (IC)</span><br><br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br><span style="font-weight:normal">Mdm Julia Binte Mohamed Rahim </span><br>Ms Wang Shuhui<br>Mr Zachary Ng Eu Goi<br></td>
-  </tr>
+    <td class="tg-vlif"><br><span style="font-weight:normal">*Ms Poon Sook Fong Carolyn (IC)</span><br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br>
+			<span style="font-weight:normal">Mdm Julia Binte Mohamed Rahim </span>
+			<br>Ms Wang Shuhui Ashley
+
+
+  </td></tr>
   <tr>
     <td class="tg-basn"> <span style="font-weight:normal">Angklung</span></td>
     <td class="tg-r5au">Monday <br></td>
