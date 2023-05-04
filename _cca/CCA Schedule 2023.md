@@ -46,10 +46,10 @@ description: ""
     <td class="tg-r5au">Art room by 2pm</td>
     <td class="tg-vlif"><span style="font-weight:normal">*Ms Poon Sook Fong Carolyn (IC)</span><br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br>
 			<span style="font-weight:normal">Mdm Julia Binte Mohamed Rahim </span>
-			<br>Ms Wang Shuhui Ashley
+			<br><span style="font-weight:normal">Ms Wang Shuhui Ashley
 
 
-  </td></tr>
+  </span></td></tr>
   <tr>
     <td class="tg-basn"> <span style="font-weight:normal">Angklung</span></td>
     <td class="tg-r5au">Monday <br></td>
@@ -60,18 +60,18 @@ description: ""
   </tr>
   <tr>
     <td class="tg-r5au">Badminton</td>
-    <td class="tg-r5au"><span style="font-weight:normal">Tuesday</span><br><span style="font-weight:normal">(Sch Team)</span><br><br><span style="font-weight:normal">Thursday</span><br><span style="font-weight:normal">(Sch Team)</span><br><br><span style="font-weight:normal">(Recreational Team)</span><br></td>
-    <td class="tg-r5au"><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br></td>
-    <td class="tg-r5au"><span style="font-weight:normal">School Hall</span><br><br><br><span style="font-weight:normal">School Hall</span><br><br><br> ISH<br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">Tuesday</span><br><span style="font-weight:normal">(Sch Team)</span><br><br><span style="font-weight:normal">Thursday</span><br><span style="font-weight:normal">(Sch Team)</span><span style="font-weight:normal">(Recreational Team)</span><br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><span style="font-weight:normal">2.00pm – 4.30pm</span><br><br><br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">School Hall</span><br><br><br><span style="font-weight:normal">School Hall</span><br><br> ISH<br></td>
     <td class="tg-r5au">Hall/ISH by 2pm<br></td>
     <td class="tg-i7qw">*Mr Goh Tong Wee (IC)<br>Mr Hadrian Chin (Asst)<br>Mdm Choo Sok Ee Eunice<br>Ms Jayne Anne Jayanthi Krishnamurth<br>Mdm Ng Peng Yong<br>Mr Tan Chun Chiah<br>Ms Liu Hsiang-Chun<br></td>
   </tr>
   <tr>
-    <td class="tg-r5au"><br><br><br><br><span style="background-color:initial">Basketball Sch Team </span><br><br><br><span style="font-weight:normal"> (Juniors)</span><br><br><br><br><br><br><br><span style="font-weight:normal;background-color:initial">Basketball Sch Team </span><br><br>(Seniors )<br></td>
-    <td class="tg-r5au"><br><br><br><br>Monday (JB) <br><br>Wednesday(JB)<br><br>Friday (SG)<br><br><br><br><br><br><br><br>Monday (SG)<br><br>Wednesday (SG)<br><br><br><br><br><br></td>
-    <td class="tg-r5au"><br><br><br><br><span style="font-weight:normal">2.00pm – 5.30pm</span><br><br><span style="font-weight:normal">2.00pm – 5.30pm</span><br><br>2.00pm - 4.30pm<br><br><br><br><br><br><br><br><span style="font-weight:normal">2.00pm – 3.00pm</span><br><br>2.00pm – 3.00pm<br><br></td>
-    <td class="tg-r5au"><br><br><br><br><br><span style="color:#000;background-color:initial">School Hall</span><br><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:normal">School Hall</span></td>
-    <td class="tg-r5au"><br><br><br><br><br><br><br><br><br>Hall by 2pm</td>
+    <td class="tg-r5au"><span style="background-color:initial">Basketball Sch Team </span><span style="font-weight:normal"> (Juniors)</span><br><br><br><span style="font-weight:normal;background-color:initial">Basketball Sch Team </span>(Seniors )<br></td>
+    <td class="tg-r5au">Monday Wednesday<br>Friday <br><br><br>Monday <br>Wednesday <br><br><br><br><br><br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">2.00pm – 5.30pm</span><span style="font-weight:normal"><br>2.00pm – 5.30pm</span><br>2.00pm - 4.30pm<br><br><br><span style="font-weight:normal">2.00pm – 3.00pm</span><br>2.00pm – 3.00pm<br><br></td>
+    <td class="tg-r5au"><span style="color:#000;background-color:initial">School Hall</span><br><br><br><br><br><span style="font-weight:normal">School Hall</span></td>
+    <td class="tg-r5au">Hall by 2pm</td>
     <td class="tg-i7qw">*Mr Low Dong Neng Jim(IC)<br><span style="font-weight:400;color:#000">Mr Fariz Husna Bin Sajan (Asst)</span><span style="font-weight:normal;color:#000;background-color:initial">Mdm Lim Siew Fang</span><br>Mdm Low Pheck ShwanMr Rakesh Kishin Aswani<br>Mr Fariz Husna Bin Sajani<br>Ms Lim Huey Tyng Joanna <br>Mr Grayson Hng<br>Mrs Ho Yik Ying<br>Mr Jegendren S/O Tanapal<br>Ms W.K Vijitha Valeria Brampy<br><br></td>
   </tr>
   <tr>
@@ -164,3 +164,6 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+      
