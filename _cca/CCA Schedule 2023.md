@@ -44,7 +44,7 @@ description: ""
     <td class="tg-basn"><span style="font-weight:normal">2.00pm - 4.15pm</span><br><br></td>
     <td class="tg-r5au"><span style="font-weight:normal">Art Rooms</span><br></td>
     <td class="tg-r5au">Art room by 2pm</td>
-    <td class="tg-vlif"><span style="font-weight:normal">**Ms Poon Sook Fong Carolyn (IC)**</span><br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br>
+    <td class="tg-i7qw"> Ms Poon Sook Fong Carolyn (IC)<br><span style="font-weight:normal">Mr Zachary Ng Eu Goi (Asst)</span><br>
 			<span style="font-weight:normal">Mdm Julia Binte Mohamed Rahim </span>
 			<br><span style="font-weight:normal">Ms Wang Shuhui Ashley
 
@@ -80,7 +80,6 @@ description: ""
     <td class="tg-r5au"> 2.00pm –4.15pm</td>
     <td class="tg-r5au">Parade Sq/ Outdoor Basketball Court</td>
     <td class="tg-r5au"> Hall by 2pm</td>
-    
     <td class="tg-i7qw">**Ms Fardyana Binte Abdul Aziz (IC)**<br>Mdm Azri - Nurul Hayati Bte Abd Rahman (Asst)Mr Aznahar Bin Baharudin<br>Mrs Raja - Selvi D/O Ramasamy<br></td>
   </tr>
   <tr>
