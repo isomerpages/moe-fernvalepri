@@ -21,7 +21,6 @@ Art Club is a CCA that emphasises on character development in our students in al
 |---------------------------------|--------------------------------|
 | Ms Carolyn Poon Sook Fong (OIC) | poon_sook_fong@moe.edu.sg      |
 | Mdm Julia Binte Mohamed Rahim   | julia_mohamed_rahim@moe.edu.sg |
-| Mdm Nuraini Binte Hamzah        | nuraini_hamzah@moe.edu.sg      |
 | Ms Wang Shuhui Ashley           | wang_shuhui_a@moe.edu.sg       |
 | Mr Zachary Bg Eu Goi            |  zachary_ng_eu_goi@moe.edu.sg  |
 
