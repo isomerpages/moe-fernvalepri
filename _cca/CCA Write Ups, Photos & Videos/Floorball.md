@@ -21,12 +21,13 @@ National Primary Schools Floorball Championship and have worked our way up to at
 
 | Name                  | Email                        |
 |-----------------------|------------------------------|
+| Mdm Loh Swee Leng       |  [loh\_swee\_leng@moe.edu.sg](mailto:foo_wei_woon@moe.edu.sg)    |
+| Mr Chen Bao Lai        |  &nbsp;[chen\_bao\_lai@moe.edu.sg](mailto:oh_haw_ling@moe.edu.sg)     |
 | Mdm Liza Binti Ismail | [liza\_ismail@moe.edu.sg](mailto:liza_ismail@moe.edu.sg)       |
 | Mdm Chew Bee See      | [chew\_bee\_see@moe.edu.sg](mailto:chew_bee_see@moe.edu.sg)     |
-| Mdm Fithriah          | [nur\_fithriah\_anas@moe.edu.sg](mailto:nur_fithriah_anas@moe.edu.sg) |
-| Ms Foo Wei Woon       |  [foo\_wei\_woon@moe.edu.sg](mailto:foo_wei_woon@moe.edu.sg)    |
+| Ms Ting Wan Sin      | [ting\_wan\_sin@moe.edu.sg](mailto:chew_bee_see@moe.edu.sg)     |
 | Mrs Grace Kee         |  [tan\_siok\_kheng@moe.edu.sg](mailto:tan_siok_kheng@moe.edu.sg)   |
-| Ms Oh Haw Ling        |   [oh\_haw\_ling@moe.edu.sg](mailto:oh_haw_ling@moe.edu.sg)     |
+
 
 ### <b><u>Our Team goals</u></b>
 
@@ -51,12 +52,12 @@ National Primary Schools Floorball Championship and have worked our way up to at
 
 ![](/images/Cca/Floorball/floorball2.jpg)
 
-<center>Senior Boys -  Thanking their opponent at the end of the match</center>
+<center>Senior Boys -&nbsp; Thanking their opponent&nbsp;at the end of the match</center>
 
 
 ![](/images/Cca/Floorball/floorball3.jpg)
 
-<center>Junior Boys -  Warning up session</center>
+<center>Junior Boys -&nbsp; Warning up session</center>
 
 ### <b><u>Achievements/Successes</u></b>
 
