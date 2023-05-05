@@ -27,9 +27,9 @@ Scouting’s purpose is to help young people to develop their full physical, int
 | Name                | Email                              |
 |---------------------|------------------------------------|
 | Mdm Khalidah Goh    | [khalidah\_goh\_shafie\_goh@moe.edu.sg](mailto:khalidah_goh_shafie_goh@moe.edu.sg) |
-| Mr Goh Si Qian      | [goh\_si\_qian@moe.edu.sg](mailto:goh_si_qian@moe.edu.sg)            |
+| Mr Au Jun Duan, Reuben      | [au\_jun\_duan\_reuben@moe.edu.sg](mailto:goh_si_qian@moe.edu.sg)            |
 | Miss Seah Hui Shian | [seah\_hui\_shian@moe.edu.sg](mailto:seah_hui_shian@moe.edu.sg)          |
-| Mr Lau Peng Sheng   | [lau\_peng\_sheng@moe.edu.sg](mailto:lau_peng_sheng@moe.edu.sg)          |
+| Mr Iskandar Alamin Bin Salleh   | [iskandar\_alamin\_salleh@moe.edu.sg](mailto:lau_peng_sheng@moe.edu.sg)          |
 | Miss Neo Yihui      | [neo\_yihui@moe.edu.sg](mailto:neo_yihui@moe.edu.sg)               |
 
 ## <b><u>Programme Highlights</u></b>

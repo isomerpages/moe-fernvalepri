@@ -7,7 +7,7 @@ third_nav_title: CCA Write Ups, Photos & Videos
 # Badminton
 ### <b><u>Vision</u></b>
 
-A united team that grows, excels and inspires one another to be a better badminton player, and a better person
+A united team that&nbsp;grows,&nbsp;excels&nbsp;and&nbsp;inspires&nbsp;one another to be a better badminton player, and a better person
 
 ### <b><u>Mission</u></b>
 
@@ -17,7 +17,7 @@ A united team that grows, excels and inspires one another to be a better ba
 
 Every shuttler in our FVPS Badminton Team live for the love and passion for the game.
 
-At each training session, our shuttlers will grow in _knowledge, skills and attitude_ in the badminton domain. All shuttlers are also given opportunities to excel as a leader by taking up roles of organising and facilitating in warm-ups, trainings, intra-CCA and intra-school badminton competitions. More importantly, our shuttlers strives to inspire all Fernvalions by living to our mission of becoming not just “A Better Player”, but also “A Better Person”.
+At each training session, our shuttlers will grow in&nbsp;_knowledge, skills and attitude_&nbsp;in the badminton domain. All shuttlers are also given opportunities to excel as a leader by taking up roles of organising and facilitating in warm-ups, trainings, intra-CCA and intra-school badminton competitions. More importantly, our shuttlers strives to inspire all Fernvalions by living to our mission of becoming not just “A Better Player”, but also “A Better Person”.
 
 | Day      | Time                                                                         |
 |----------|------------------------------------------------------------------------------|
@@ -29,9 +29,9 @@ At each training session, our shuttlers will grow in _knowledge, skills and att
 | Name               |                       |
 |--------------------|-----------------------|
 | Mr Goh Tong Wee    | Mdm Liu Hsiang-Chun   |
-| Mrs Kelly Thong    | Ms Jayne Anne Khrisna |
-| Mrs Eunice Ang     | Mrs Eileen Poon       |
-| Mr Alvin Or        |                       |
+| Mr Hadrian Chin    | Ms Jayne Anne Khrisna |
+| Mrs Eunice Ang     | Mdm Ng Peng Yong       |
+| Mr Tan Chun Chiah        |                       |
 
 #### <b><u>Our Team</u></b>
 
@@ -49,7 +49,7 @@ At each training session, our shuttlers will grow in _knowledge, skills and att
 
 ![](/images/Cca/Badminton/Picture3.png)
 
-<b><u>Junior Girls & Boys (2022)</u></b>
+<b><u>Junior Girls &amp; Boys (2022)</u></b>
 
 ![](/images/Cca/Badminton/Picture4.png)
 

@@ -22,8 +22,9 @@ We aim to develop the students to acquire strong foundation in Percussion and cu
 
 | Name                    | Email                         |
 |-------------------------|-------------------------------|
-| Mdm Noor A’shikin (OIC) | noor_ashikin_osman@moe.edu.sg |
-| Ms Maninder Kaur        |  maninder_kaur@moe.edu.sg     |
+| Mdm Noorhafidah Bte Mohammad Hanafi (OIC) | noorhafidah_mohammd_hanafi@moe.edu.sg |
+| Mr Goh Si Qian       |  goh_si_qian@moe.edu.sg     |
+| Mdm Somasundaram Vijaya Rani        |  somasundaram_vijaya_rani@moe.edu.sg      |
 
 ### <b><u>Samba Travao@ Gardens by the Bay</u></b>
 

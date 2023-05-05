@@ -28,7 +28,7 @@ Wushu is considered a “performing sport”, consisting elements that are chara
 | Ms Cherie Ang (OIC)                | [cherie\_ang\_hui\_er@moe.edu.sg](mailto:cherie_ang_hui_er@moe.edu.sg)    |
 | Mr Chua Lee Guan                   | [chua\_lee\_guan@moe.edu.s](mailto:chua_lee_guan@moe.edu.sg)        |
 | Mdm Teo Ching Wee                  |[teo\_ching\_whee@moe.edu.sg](mailto:teo_ching_whee@moe.edu.sg)       |
-| Ms Jeyananthini d/o Jeyapal        | [jeyananthini\_jeyapal@moe.edu.sg](mailto:eyananthini_jeyapal@moe.edu.sg)  |
+| Mdm V Sulaja       | [v\_sulaja@moe.edu.sg](mailto:eyananthini_jeyapal@moe.edu.sg)  |
 
 ![](/images/Cca/Wushu/1.jpg)
 

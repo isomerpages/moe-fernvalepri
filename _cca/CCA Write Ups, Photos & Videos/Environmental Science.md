@@ -4,7 +4,7 @@ permalink: /cca/CCA-Write-Ups-Photos-and-Videos/environmental-science/
 description: ""
 third_nav_title: CCA Write Ups, Photos & Videos
 ---
-#  duplicate image under "Heading for Scratch Coding Project 2022" is removed
+
 
 # Environmental Science
 ### <b><u>Green Club 2019</u></b>
@@ -26,9 +26,10 @@ In term 1, our Green Club members created prototypes with microbit programming t
 
 | Name                     |
 |--------------------------|
-| Mdm Shanthi              |
+| Mdm A R Shanthi              |
 | Mdm Teo Ying Zhi         |
 | Mdm Tan Lee Cheng Audrey |
+| Mdm Hajjah Marlina Bte Kumar |
 
 
 Pupils are involved in environmental related programs and activities. Some of the programs and activities are described below.
@@ -63,7 +64,7 @@ As part of our efforts to educate our pupils about the importance of recycling, 
 
 ![](/images/Cca/Environmental%20Science/Picture13.png)
 
-<span style = "color: #38761d"><b>Raffles Institution Liveable Cities Challenge 2021 (RILCC)</b></span>
+<span style="color: #38761d"><b>Raffles Institution Liveable Cities Challenge 2021 (RILCC)</b></span>
 
 Two teams of Primary 5 students from the Environmental Science CCA represented our school in this challenge.
 
@@ -80,11 +81,11 @@ Sustainability Escape-room - Second Runner-up (Team 1)
 
 ### <b><u>Green Club - Plastic Campaign</u></b>
 
-WWF conducted a plastic workshop for our green club members. The members brainstormed various ideas and had a clearer understanding of what campaigning is about. They also had some campaigning ideas to lead on from the brainstorming session. 
+WWF conducted a plastic workshop for our green club members. The members brainstormed various ideas and had&nbsp;a clearer understanding of what campaigning is about. They also had some campaigning ideas to lead on from the brainstorming session.&nbsp;
 
-Students came together to define their project more clearly and set goals and outcomes. They got into groups to brainstorm ideas about many things related to plastic waste. Pupils finally decided on having a plastic challenge in our school. After much brainstorming, they decided to reduce and refuse the use of straws both in school and out of school.
+Students came together to define their project more clearly and set goals and outcomes. They got into groups to brainstorm ideas about many things related to plastic waste.&nbsp;Pupils finally decided on having a plastic challenge in our school. After much brainstorming, they decided to reduce and refuse the use of straws both in school and out of school.
 
-<span style = "color: #38761d"><b>Pupils brainstorming ideas in groups!</b></span>
+<span style="color: #38761d"><b>Pupils brainstorming ideas in groups!</b></span>
 
 ![](/images/Cca/Environmental%20Science/4.jpg)
 
