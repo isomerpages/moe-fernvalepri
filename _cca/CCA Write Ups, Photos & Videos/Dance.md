@@ -7,7 +7,7 @@ third_nav_title: CCA Write Ups, Photos & Videos
 # Dance
 The Dance CCA was one of the first CCAs to be set up when the school started. Through the years, we have brought pride and honour to the school, clinching four Gold with Honours Award in the Singapore Youth Festival Central Judging from 2006 to 2012. We also recently clinched the Distinction Award in the 2018 SYF Arts Presentation.
 
-Students are given the opportunity to discover and explore the various dance forms including Classical Indian and Contemporary Dance, developing them to be versatile dancers. We have a team of multiracial dancers, and it provides them an opportunity to develop cultural awareness. Dance teaches resilience and discipline alongside other school values which are regularly reinforced by our team of dedicated teachers. The Dance CCA prides itself on the strong friendships forged and rapport between the dancers and teachers.
+Students are given the opportunity to discover and explore the various dance forms including Classical Indian and Contemporary Dance, developing them to be versatile dancers. We have a team of multiracial dancers, and it provides them an opportunity to develop cultural awareness.&nbsp;Dance teaches resilience and discipline alongside other school values which are regularly reinforced by our team of dedicated teachers. The Dance CCA prides itself on the strong friendships forged and rapport between the dancers and teachers.
 
 With the exposure to various activities and performances we hope to enrich each dancer with the qualities that would carry them through their dance, academic and non-academic pursuits.
 
@@ -26,6 +26,7 @@ With the exposure to various activities and performances we hope to enrich each 
 | Ms Alexandria Kirsten Tobias  | [alexandria\_kirsten\_tobias@moe.edu.sg](mailto:alexandria_kirsten_tobias@moe.edu.sg) |
 | Mrs Amanda Galistan           |  [amanda\_lee\_hui\_shan@moe.edu.sg](mailto:amanda_lee_hui_shan@moe.edu.sg)     |
 | Mdm Nadhira Parveen           |  [nadhira\_parveen@moe.edu.sg](mailto:nadhira_parveen@moe.edu.sg)      |
+| Ms Geraldine Chua Shan Shan           |  [geraldine\_chua\_shan\_shan@moe.edu.sg](mailto:nadhira_parveen@moe.edu.sg)      |
 
 ### <center><b><u>2022 Dance Club Members</u></b></center>
 
@@ -54,5 +55,5 @@ With the exposure to various activities and performances we hope to enrich each 
 | --- | --- |
 | 2006-2012 | Gold with Honours Award |
 | 2014 | Certificate of Distinction |
-| 2016  |  Certificate of Distinction  |
+| 2016&nbsp; | &nbsp;Certificate of Distinction&nbsp; |
 | 2018 | Certificate of Distinction |
