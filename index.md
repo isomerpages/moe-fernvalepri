@@ -44,7 +44,7 @@ sections:
       button: Click here for more info
       url: /sls-info/
   - infobar:
-      title: Fernvale Times  (PDF FILE>5MB)
+      title: Fernvale Times
       button: Click here to view Fernvale Times 2022
       url: /
       subtitle: ANNOUNCEMENTS
