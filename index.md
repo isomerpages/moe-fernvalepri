@@ -47,18 +47,6 @@ sections:
       url: /moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
   - infobar:
-      title: "2021 OSO - Vid Contest (Honorable Mention) "
-      subtitle: What's happening
-      description: "Theme: What makes our school special ?"
-      button: "Click here "
-      url: https://www.youtube.com/watch?v=3VfG69_SikU
-  - infobar:
-      title: 2022 OSO - BEST VIDEO
-      subtitle: WHAT'S HAPPENING
-      description: "Theme: What Do I Go To School For?"
-      button: CLICK HERE
-      url: https://www.youtube.com/watch?v=w3cqfiFUWpM
-  - infobar:
       title: Fernvale Times
       button: Click here to view Fernvale Times 2022
       url: /
