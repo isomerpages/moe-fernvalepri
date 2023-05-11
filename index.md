@@ -8,6 +8,15 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
+      dropdown:
+        title: Site Menu
+        options:
+          - title: Our School Information
+            url: https://www.fernvalepri.moe.edu.sg/our-school-info/our-crest/
+          - title: Hero Dropdown Element Title
+            url: ""
+      title: Fernvale Primary School
+      subtitle: Dare to Aspire, Courage to Excel
   - infopic:
       title: Artsteps - Primary 4 Students' Artwork
       subtitle: WHAT'S HAPPENING
