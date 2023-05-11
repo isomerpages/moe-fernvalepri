@@ -13,4 +13,3 @@ Through World Arts@FVPS, pupils will become confident, articulate and creative, 
 
 To develop pupils’ potential for creativity and expression through the Arts by acquiring a global outlook while staying culturally rooted.  
 
-# Infographic Exceed 5MB 
