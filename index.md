@@ -10,6 +10,11 @@ sections:
       background: /images/homepage.gif
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
+      dropdown:
+        title: Website Links
+        options:
+          - title: Our School Information
+            url: https://www.fernvalepri.moe.edu.sg/our-school-info/our-crest/
   - infopic:
       title: Artsteps - Primary 4 Students' Artwork
       subtitle: WHAT'S HAPPENING
