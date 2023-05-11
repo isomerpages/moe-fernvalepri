@@ -8,25 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-      dropdown:
-        title: Site Menu
-        options:
-          - title: Our School Information
-            url: https://www.fernvalepri.moe.edu.sg/our-school-info/our-crest/
-          - title: Our Departments
-            url: https://www.fernvalepri.moe.edu.sg/our-departments/english-language/
-          - title: CCAs
-            url: https://www.fernvalepri.moe.edu.sg/cca/cca-schedule-2023/
-          - title: Parents' Corner
-            url: https://www.fernvalepri.moe.edu.sg/parents-corner/moe-sexuality-education-information-for-parents/
-          - title: Achievements
-            url: https://www.fernvalepri.moe.edu.sg/achievements/cca-academic-achievements/
-          - title: MOE Kindergarten
-            url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
-          - title: Quick Links
-            url: https://www.fernvalepri.moe.edu.sg/quick-links/
-          - title: Contact Us
-            url: https://www.fernvalepri.moe.edu.sg/contactus/
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
