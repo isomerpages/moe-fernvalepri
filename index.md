@@ -74,4 +74,11 @@ sections:
         Student iCON, Canteen Price List 2022
       button: links
       url: /quick-links/
+  - infobar:
+      title: Student Calendar
+      description: Infobar description
+      url: '<iframe
+        src="https://calendar.google.com/calendar/embed?src=c_b5c636a500fe24b26b8b2e3da391e17448a38ca2aa3e3a2edaa33e39af157ed9%40group.calendar.google.com&ctz=Asia%2FSingapore"
+        style="border: 0" width="800" height="600" frameborder="0"
+        scrolling="no"></iframe>'
 ---
