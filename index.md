@@ -23,6 +23,10 @@ sections:
             url: https://www.fernvalepri.moe.edu.sg/achievements/cca-academic-achievements/
           - title: MOE Kindergarten
             url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
+          - title: Quick Links
+            url: https://www.fernvalepri.moe.edu.sg/quick-links/
+          - title: Contact Us
+            url: https://www.fernvalepri.moe.edu.sg/contactus/
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
