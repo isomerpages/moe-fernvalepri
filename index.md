@@ -57,14 +57,6 @@ sections:
       button: CLICK HERE
       url: https://www.youtube.com/watch?v=w3cqfiFUWpM
   - infobar:
-      title: Student Learning Space (SLS) - Info
-      subtitle: ANNOUNCEMENTS
-      description: For SLS password, login and account issues during school operating
-        hours (8am – 4pm) from Monday to Friday, please call 6315 3051. The SLS
-        Central Helpline....
-      button: Click here for more info
-      url: /sls-info/
-  - infobar:
       title: Fernvale Times
       button: Click here to view Fernvale Times 2022
       url: /
