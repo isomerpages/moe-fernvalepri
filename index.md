@@ -13,8 +13,14 @@ sections:
         options:
           - title: Our School Information
             url: https://www.fernvalepri.moe.edu.sg/our-school-info/our-crest/
-          - title: Hero Dropdown Element Title
-            url: ""
+          - title: Our Departments
+            url: https://www.fernvalepri.moe.edu.sg/our-departments/english-language/
+          - title: CCAs
+            url: https://www.fernvalepri.moe.edu.sg/cca/cca-schedule-2023/
+          - title: Parents' Corner
+            url: https://www.fernvalepri.moe.edu.sg/parents-corner/moe-sexuality-education-information-for-parents/
+          - title: Achievements
+            url: https://www.fernvalepri.moe.edu.sg/achievements/cca-academic-achievements/
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
