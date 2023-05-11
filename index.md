@@ -46,24 +46,6 @@ sections:
       alt: Moe Kindergarten @ Fernvale
       url: /moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
-  - infobar:
-      title: Fernvale Times
-      button: Click here to view Fernvale Times 2022
-      url: /
-      subtitle: ANNOUNCEMENTS
-  - infobar:
-      title: “Our Schools, Our Stories”
-      description: “Our Schools, Our Stories” photo story contest - Junior Category
-        (Best Photo Story Award)
-      button: Click here
-      url: /announcements/our-schools-our-stories-photo-story-contest-junior-category-best-photo-story-award/
-      subtitle: ANNOUNCEMENTS
-  - infobar:
-      title: QUICK LINKS
-      description: Click here for quick links to the Student Learning Space (SLS),
-        Student iCON, Canteen Price List 2022
-      button: links
-      url: /quick-links/
   - resources:
       title: School Calendar & Media
 ---
