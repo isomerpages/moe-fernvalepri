@@ -203,7 +203,6 @@ description: ""
   </tr>
   <tr>
     
-    <td class="tg-lnwz" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">CCE Department</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department </span></td>
