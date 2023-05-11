@@ -21,6 +21,8 @@ sections:
             url: https://www.fernvalepri.moe.edu.sg/parents-corner/moe-sexuality-education-information-for-parents/
           - title: Achievements
             url: https://www.fernvalepri.moe.edu.sg/achievements/cca-academic-achievements/
+          - title: MOE Kindergarten
+            url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
