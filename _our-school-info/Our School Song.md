@@ -3,7 +3,6 @@ title: Our School Song
 permalink: /our-school-info/our-school-song/
 description: ""
 ---
-# upload music audio to youtube to be included
 
 <center>Fernvale Primary School Song<br>
 <i><u>Music by Iskandar Mirza Ismail<br>Lyrics by Vijitha Ranjee</u></i></center>

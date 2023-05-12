@@ -1,21 +1,19 @@
 logo: /images/logo.png
 links:
-  - title: Our School Info
+  - title: Our School
     collection: our-school-info
-  - title: Our Departments
+  - title: Departments
     collection: our-departments
-  - title: CCA
+  - title: CCAs
     collection: cca
-  - title: Parents' Corner
+  - title: For Parents
     collection: parents-corner
   - title: Achievements
     collection: achievements
   - title: MOE Kindergarten
     collection: moe-kindergarten-at-fernvale
-  - title: Quick Links
+  - title: Links
     url: /quick-links/
     sublinks: []
-  - title: Contact Us
-    url: /contactus/
   - title: Forms
     url: /forms/

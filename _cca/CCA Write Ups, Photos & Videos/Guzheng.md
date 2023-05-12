@@ -17,12 +17,12 @@ In our first attempt at the Singapore Youth Festival (SYF) Central Judging in 20
 |-----------------------------|------------------|
 | Every Monday and Wednesday  | 2:00pm to 4.00pm |
 
-| Teachers         |                 |
-|------------------|-----------------|
-| Mdm Ong Li Ting  | Ms Neo Sian Yin |
-| Mrs Pannir       |  Mrs Gupta      |
-Ms Juliana Lim
-
+Teachers    
+* Mdm Ong Li Ting
+* Ms Neo Sian Yin
+* Mrs Pannir  
+* Mrs Gupta
+* Ms Juliana Lim
 ![](/images/Cca/Guzheng/gz1.jpg)
 
 ### <b><u>Achievements/Successes</u></b>

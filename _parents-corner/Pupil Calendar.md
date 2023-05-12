@@ -3,6 +3,5 @@ title: Pupil Calendar
 permalink: /parents-corner/pupil-calendar/
 description: ""
 ---
-# Pupil Calendar
-
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border-width: 0px; width: 754px; height: 565px;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=moe.edu.sg_uqheuv4t3d505ofmevjdvv8m70%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=Asia%2FSingapore"></iframe>
+# School Calendar
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_b5c636a500fe24b26b8b2e3da391e17448a38ca2aa3e3a2edaa33e39af157ed9%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>

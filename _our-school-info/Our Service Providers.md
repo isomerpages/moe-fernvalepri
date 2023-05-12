@@ -3,7 +3,6 @@ title: Our Service Providers
 permalink: /our-school-info/our-service-providers/
 description: ""
 ---
-# Website: www.euniforms.com.sg/aboutus.html link broken
 # Our Service Providers
 ## Pro-Teach School Care (Fernvale)
 
@@ -20,7 +19,7 @@ description: ""
 
 The school bookshop is operated by Pacific Bookstores. The bookshop is located on Level 1 in the canteen. You can purchase textbooks, workbooks, exercise books, stationery, school uniform, shoes and socks from the school bookshop.
 
-Website : [www.pacificbookstores.com](https://www.pacificbookstores.com/)
+Website&nbsp;:&nbsp;[www.pacificbookstores.com](https://www.pacificbookstores.com/)
 
 | Operation Hours   |                    |
 |-------------------|--------------------|
@@ -36,12 +35,12 @@ Website : [www.pacificbookstores.com](https://www.pacificbookstores.com/)
 |-----------------|----------|
 | Mr David Loh    | 96659336 |
 
-## School Uniform, PE Attire & Name tag
+## School Uniform, PE Attire &amp; Name tag
 
 The School uniform, PE attire and name tag are supplied by:  
 **Chop Kong Chong**  
 604 Sembawang Road #02-12 Sembawang Shopping Centre S758459  
-Website: [www.euniforms.com.sg/aboutus.html](http://www.euniforms.com.sg/aboutus.html)
+Website: [https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/)
 
 | <u>Operating Hours</u>    |                   |
 |--------------------|-------------------|

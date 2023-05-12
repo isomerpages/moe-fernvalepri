@@ -34,9 +34,9 @@ The teaching and learning of Science extends beyond the classroom where students
 ![](/images/Our%20departments/Science/science%20pic%202.jpg)
 
 ### Learning Journeys
-
 P3 &amp; P4 – Singapore Science Centre  
-P5 – Gardens by the Bay&nbsp;
+P5 – Gardens by the Bay, P6 - Sungei Buloh Wetlands Reserve
+
 
 ### Learning through DI Games
 
