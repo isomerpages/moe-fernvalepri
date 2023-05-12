@@ -34,7 +34,7 @@ The programme provides the following schemes:
 
 1.  The&nbsp;&nbsp;[PC-Bundle](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-PC-Bundle-scheme)&nbsp;&nbsp;scheme provides a two-tier subsidy for applicants to own a new computer with free software and three years of free subscription to broadband services.
     
-2.  The&nbsp;&nbsp;[iNSPIRE Fund scheme](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-iNSPIRE-Fund-scheme)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.
+2.  The&nbsp;&nbsp;[iNSPIRE Fund Scheme](]https://www.imda.gov.sg/How-We-Can-Help/neu-pc-plus/inspire-fund)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.
     
 3.  The&nbsp;&nbsp;[Broadband-Only scheme](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/How-to-Apply/PC-and-Broadband-Specifications)&nbsp;&nbsp;offers broadband access, at a subsidised rate, to households that already own computers but are unable to afford broadband subscriptions.
     
