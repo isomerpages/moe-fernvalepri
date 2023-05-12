@@ -11,14 +11,6 @@ sections:
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
-      title: Artsteps - Primary 4 Students' Artwork
-      subtitle: WHAT'S HAPPENING
-      description: "Perspective: A Glimpse Into Their Memories"
-      button: Enter Gallery
-      url: https://www.artsteps.com/embed/627330b925993aac3209138d/853/480
-      image: /images/77ae6ce82_3479.png
-      alt: Artsteps
-  - infopic:
       title: Find out more about our MOE Kindergartens
       subtitle: WHAT'S HAPPENING
       button: Click here to find out more.
