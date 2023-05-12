@@ -7,30 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/img_7385.jpg
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
-      dropdown:
-        title: Website Links
-        options:
-          - title: Our School Information
-            url: https://www.fernvalepri.moe.edu.sg/our-school-info/our-crest/
-          - title: Our Departments
-            url: https://www.fernvalepri.moe.edu.sg/our-departments/english-language/
-          - title: CCAs
-            url: https://www.fernvalepri.moe.edu.sg/cca/cca-schedule-2023/
-          - title: Parents' Corner
-            url: https://www.fernvalepri.moe.edu.sg/parents-corner/moe-sexuality-education-information-for-parents/
-          - title: Achievements
-            url: https://www.fernvalepri.moe.edu.sg/achievements/cca-academic-achievements/
-          - title: MOE Kindergarten
-            url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
-          - title: Quick Links
-            url: https://www.fernvalepri.moe.edu.sg/quick-links/
-          - title: Contact Us
-            url: https://www.fernvalepri.moe.edu.sg/contactus/
-          - title: Forms
-            url: https://www.fernvalepri.moe.edu.sg/forms/
   - infopic:
       title: Artsteps - Primary 4 Students' Artwork
       subtitle: WHAT'S HAPPENING
