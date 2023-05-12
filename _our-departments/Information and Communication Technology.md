@@ -34,7 +34,7 @@ The programme provides the following schemes:
 
 1.  [DigitalAccess@Home](https://www.imda.gov.sg/How-We-Can-Help/Digital-Access-at-Home) provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
     
-2.  The&nbsp;&nbsp;[iNSPIRE Fund Scheme](]https://www.imda.gov.sg/How-We-Can-Help/neu-pc-plus/inspire-fund)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.
+2.  The&nbsp;&nbsp;[iNSPIRE Fund Scheme](https://www.imda.gov.sg/How-We-Can-Help/neu-pc-plus/inspire-fund)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.
     
 
   
