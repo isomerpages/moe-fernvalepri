@@ -3,15 +3,12 @@ title: Information and Communication Technology
 permalink: /our-departments/information-and-communication-technology/
 description: ""
 ---
-
 ### Vision
-
 Learning takes place anytime, anywhere in an ICT-enriched environment  
 
 ### Mission
 
 Enabling pupils to be self-directed and collaborative learners through the effective and responsible use of technology  
-
 ### Signature Programmes
 
 **Baseline ICT Training**  
@@ -35,16 +32,13 @@ The Infocomm Development Authority of Singapore (IDA) has an on-going initiative
 
 The programme provides the following schemes:
 
-1.  The&nbsp;&nbsp;[PC-Bundle](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-PC-Bundle-scheme)&nbsp;&nbsp;scheme provides a two-tier subsidy for applicants to own a new computer with free software and three years of free subscription to broadband services.  
-      
+1.  The&nbsp;&nbsp;[PC-Bundle](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-PC-Bundle-scheme)&nbsp;&nbsp;scheme provides a two-tier subsidy for applicants to own a new computer with free software and three years of free subscription to broadband services.
     
-2.  The&nbsp;&nbsp;[iNSPIRE Fund scheme](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-iNSPIRE-Fund-scheme)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.  
-      
+2.  The&nbsp;&nbsp;[iNSPIRE Fund scheme](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-iNSPIRE-Fund-scheme)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.
     
-3.  The&nbsp;&nbsp;[Broadband-Only scheme](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/How-to-Apply/PC-and-Broadband-Specifications)&nbsp;&nbsp;offers broadband access, at a subsidised rate, to households that already own computers but are unable to afford broadband subscriptions.  
-      
+3.  The&nbsp;&nbsp;[Broadband-Only scheme](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/How-to-Apply/PC-and-Broadband-Specifications)&nbsp;&nbsp;offers broadband access, at a subsidised rate, to households that already own computers but are unable to afford broadband subscriptions.
     
-4.  The&nbsp;&nbsp;[Grant Scheme for Schools](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-Grant-Scheme-for-Schools)&nbsp;&nbsp;allow interested schools to process, procure and deploy Infocomm devices, software or broadband services on behalf of their students from low-income families, so as to meet the schools' and students' learning objectives and needs.
+4.  The&nbsp;&nbsp;[Grant Scheme for Schools](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme/Schemes/NEU-PC-Plus-Programme-Grant-Scheme-for-Schools)&nbsp;&nbsp;allow interested schools to process, procure and deploy Infocomm devices, software or broadband services on behalf of their students from low-income families, so as to meet the schools’ and students’ learning objectives and needs.
   
 Further information about the individual scheme and the eligibility criteria can be found in the&nbsp;[IDA Website](https://www.ida.gov.sg/Learning/Community-Development/NEU-PC-Plus-Programme)&nbsp;. Alternatively, parents may also contact the school’s general office for more details and to obtain the application forms. </b>
 
