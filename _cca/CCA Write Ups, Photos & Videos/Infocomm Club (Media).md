@@ -116,17 +116,10 @@ We aim to spark a passion for photography, videography and creative designing. W
 </thead>
 <tbody>
   <tr>
-    <td class="tg-sna6" colspan="3">Theme: United As One<br>Fernvale Lion – A Reminder of Our School ValuesThis year, we unite as one to make a lion our mascot. First, we traced out the body and the mane on felt cloth. Next, we cut out the parts. We sewed the pieces together and pasted on the lion’s eyes and paws. Then we stuffed the lion with cotton wool and tied it as a keychain on our school bag. Each lion represents different core values of Fernvale Primary such as Care, Joy, Responsibility, Integrity, Graciousness, and Resilience. Our goal is to realise the values, make them our virtues, by living them in our daily lives on a regular basis.</td>
+    <td class="tg-sna6" colspan="3">Theme: United As One<br>Fernvale Lion – A Reminder of Our School ValuesThis year, we unite as one to make a lion our mascot. First, we traced out the body and the mane on felt cloth. Next, we cut out the parts. We sewed the pieces together and pasted on the lion’s eyes and paws. Then we stuffed the lion with cotton wool and tied it as a keychain on our school bag. Each lion represents different core values of Fernvale Primary such as Care, Joy, Responsibility, Integrity, Graciousness, and Resilience. Our goal is to realise the values, make them our virtues, by living them in our daily lives on a regular basis. ![Fernvale Lions]![Fernvale Lions](/images/Cca/Infocomm%20Club%20(Media)/img_5442.JPG)</td>
   </tr>
   <tr>
-    <td class="tg-ro5e"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc%201.jpg" alt="mjc 1.jpg"></td>
-    <td class="tg-ro5e"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc%202.jpg" alt="mjc 2.jpg"></td>
-    <td class="tg-ro5e"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc3.jpg" alt="mjc3.jpg"></td>
-  </tr>
-  <tr>
-    <td class="tg-91r2"> <img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc4.jpg" alt="mjc4.jpg" width="215" height="322"></td>
-    <td class="tg-ro5e"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc5.jpg" alt="mjc5.jpg"># </td>
-    <td class="tg-ro5e"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc6.jpg" alt="mjc6.jpg"></td>
+   
   </tr>
   <tr>
     <td class="tg-uy3f" colspan="3"><span style="font-weight:normal">Credits to - Teo Qiao Tian, Musfirah Binti Md Idrus, Jasmeera, Farveen Binte Abdul Wahid</span></td>
