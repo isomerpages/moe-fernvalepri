@@ -116,7 +116,7 @@ We aim to spark a passion for photography, videography and creative designing. W
 </thead>
 <tbody>
   <tr>
-    <td class="tg-sna6" colspan="3">Theme: United As One<br>Fernvale Lion – A Reminder of Our School ValuesThis year, we unite as one to make a lion our mascot. First, we traced out the body and the mane on felt cloth. Next, we cut out the parts. We sewed the pieces together and pasted on the lion’s eyes and paws. Then we stuffed the lion with cotton wool and tied it as a keychain on our school bag. Each lion represents different core values of Fernvale Primary such as Care, Joy, Responsibility, Integrity, Graciousness, and Resilience. Our goal is to realise the values, make them our virtues, by living them in our daily lives on a regular basis. ![Fernvale Lions]![Fernvale Lions](/images/Cca/Infocomm%20Club%20(Media)/img_5442.JPG)</td>
+    <td class="tg-sna6" colspan="3">Theme: United As One<br>Fernvale Lion – A Reminder of Our School ValuesThis year, we unite as one to make a lion our mascot. First, we traced out the body and the mane on felt cloth. Next, we cut out the parts. We sewed the pieces together and pasted on the lion’s eyes and paws. Then we stuffed the lion with cotton wool and tied it as a keychain on our school bag. Each lion represents different core values of Fernvale Primary such as Care, Joy, Responsibility, Integrity, Graciousness, and Resilience. Our goal is to realise the values, make them our virtues, by living them in our daily lives on a regular basis.</td>
   </tr>
   <tr>
    
@@ -166,14 +166,7 @@ Credits to -&nbsp;Pek Qian Sheng,&nbsp;Charlotte M Tang Pei Ling,&nbsp;Nur Elly 
     <td class="tg-sna6" colspan="3">Theme: United As One<br>Keep your distance – not forever, just for now<br><br>The effects of the Covid-19 pandemic have caused massive changes to our daily lives, forcing us to adjust to our new normal. Wearing a mask is now must! Keeping our distance helps us stay safe and healthy.</td>
   </tr>
   <tr>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc7.jpg" alt="mjc7.jpg" width="267" height="171"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc8.jpg" alt="mjc8.jpg" width="210" height="143"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc9.jpg" alt="mjc9.jpg"></td>
-  </tr>
-  <tr>
-    <td class="tg-0sq8"> </td>
-    <td class="tg-0sq8"> <img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc10.jpg" alt="mjc10.jpg"></td>
-    <td class="tg-0sq8"> <img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc%2011.jpg" alt="mjc 11.jpg"></td>
+   
   </tr>
   <tr>
     <td class="tg-lnwz" colspan="3">Credits to - Tirunagari Visisht, Charlene Goh Wei Fang, <span style="background-color:initial">Koh Kai Xin Alicia</span></td>
@@ -213,14 +206,7 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 </thead>
 <tbody>
   <tr>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc12.jpg" alt="mjc12.jpg" width="293" height="195"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc13.jpg" alt="mjc13.jpg" width="293" height="196"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc14.jpg" alt="mjc14.jpg" width="293" height="196"></td>
-  </tr>
-  <tr>
-    <td class="tg-atqo"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc15.jpg" alt="mjc15.jpg" width="293" height="196"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/mjc16.jpg" alt="mjc16.jpg" width="224" height="336"></td>
+    
   </tr>
   <tr>
     <td class="tg-lnwz" colspan="3">Credits to - John Davidson Pascua, Carmen Liew Kai Xin, Hridik Paldiwal     </td>
@@ -253,14 +239,7 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 </thead>
 <tbody>
   <tr>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC17.jpg" alt="MJC17.jpg" width="294" height="221"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC18.jpg" alt="MJC18.jpg" width="294" height="196"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC19.jpg" alt="MJC19.jpg" width="294" height="196"></td>
-  </tr>
-  <tr>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC20.jpg" alt="MJC20.jpg" width="294" height="196"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC21.jpg" alt="MJC21.jpg" width="294" height="196"></td>
-    <td class="tg-atqo"><img src="https://fernvalepri.moe.edu.sg/qql/slot/u480/CCA/Media%20Journalism%20Club/MJC22.jpg" alt="MJC22.jpg" width="294" height="196"></td>
+   
   </tr>
   <tr>
     <td class="tg-lnwz" colspan="3"><span style="font-weight:normal">Credits to - Fu Shiqi, Ng Ray Hong, Lucretius Fong Tze Tak     </span></td>
@@ -268,6 +247,6 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 </tbody>
 </table>
 
-### <b><u>JOIN Us</u></b>
+### <b><u>Join Us</u></b>
 
 #### **If you are creative and have a passion in photography &amp; videography, join this special group of students to deepen your interest.**
