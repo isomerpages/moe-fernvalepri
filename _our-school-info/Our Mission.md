@@ -5,7 +5,7 @@ description: ""
 ---
 ## Our Mission
 
-|  **Nurturing passion for learning <br>Developing diverse talents<br>Fostering hearts to serve**         |                                                                                              | 
+|           |                                                                                              | 
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nurturing passion for learning** | The school's efforts in helping students to develop and be successful.<br>Fernvale students having the love and joy of wanting to learn.                                                                          |
 | **Developing diverse talents**     | Our Fernvale staff encourages the growth of our students' talents.<br>A wide range of special abilities and aptitude of our student.                                                                              |
@@ -16,7 +16,7 @@ description: ""
 |       Global Learners of Tomorrow           |                                                                                                                                                                                                    |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Confident Leaders | • Demonstrate schools values<br>• Communicate effectively<br>• Display leadership skills                                                                                                                 |
-| Lifelong Learners | • Take responsibility for their own learning<br>• Think critically and creatively to solve problems<br>• Work together as a team<br>• Pursue an active lifestyle and a sense aesthetics<br>• Learn digitally |
+| Joyful Learners | • Take responsibility for their own learning<br>• Think critically and creatively to solve problems<br>• Work together as a team<br>• Pursue an active lifestyle and a sense aesthetics<br>• Learn digitally |
 | Active Citizens   | • Appreciate cultural diversity<br>• Serve the community<br>• Care for the environment      |
 
 ## Our Values -  GIR<sup>3</sup> C
