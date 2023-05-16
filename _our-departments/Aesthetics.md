@@ -38,9 +38,4 @@ To develop pupils’ potential for creativity and expression through the Arts by
 | -------- | -------- | -------- |
 |      |      |      |
 
-
-
-
-
-
-
+![](/images/aesthetics%208.jpg)
