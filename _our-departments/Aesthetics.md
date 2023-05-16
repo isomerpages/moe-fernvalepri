@@ -15,21 +15,32 @@ To develop pupils’ potential for creativity and expression through the Arts by
 
 
 
-| ![](/images/aesthetics%201.jpg) | ![](/images/aesthetics%209.jpg) | 
-| -------- | -------- | 
+| ![](/images/aesthetics%201.jpg) | ![](/images/aesthetics%209.jpg) |  |
+| -------- | -------- | -------- |
+|      |      |      |
 
 
 
-| ![](/images/aesthetics%205.jpg) |![](/images/aesthetics%202.jpg) |
-| -------- | -------- | 
+| ![](/images/aesthetics%205.jpg) | ![](/images/aesthetics%202.jpg) |  |
+| -------- | -------- | -------- |
+|      |      |      |
 
 
 
-| ![](/images/aesthetics%206.jpg) | ![](/images/aesthetics%203.jpg) |
-| -------- | -------- | 
+| ![](/images/aesthetics%206.jpg) | ![](/images/aesthetics%203.jpg) |  |
+| -------- | -------- | -------- |
+|      |      |      |
 
 
 
 
-| ![](/images/aesthetics%207.jpg) | ![](/images/aesthetics%204.jpg) | 
-| -------- | -------- |
+| ![](/images/aesthetics%207.jpg) | ![](/images/aesthetics%204.jpg) |  |
+| -------- | -------- | -------- |
+|      |      |      |
+
+
+
+
+
+
+
