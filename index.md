@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/img_7401b.jpg
+      background: /images/img_7385.jpg
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
