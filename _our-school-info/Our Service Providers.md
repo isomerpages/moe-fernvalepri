@@ -34,7 +34,7 @@ Website&nbsp;:&nbsp;[www.pacificbookstores.com](https://www.pacificbookstores.co
 | Contact Details |          |
 |-----------------|----------|
 | Mr David Loh    | 96659336 |
-
+For bus fares, [please click here.](/files/school%20bus%20fare%20information.pdf)
 ## School Uniform, PE Attire &amp; Name tag
 
 The School uniform, PE attire and name tag are supplied by:  
