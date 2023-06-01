@@ -18,5 +18,5 @@ sections:
       url: /moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
   - resources:
-      title: School Calendar & Media
+      title: Student Calendar & Media
 ---

@@ -31,10 +31,9 @@ Website&nbsp;:&nbsp;[www.pacificbookstores.com](https://www.pacificbookstores.co
 ## School Buses
 #### Ren Quan Transport
 
-| Contact Details |          |
-|-----------------|----------|
-| Mr David Loh    | 96659336 |
+Contact: Mr David Loh
 
+For bus fares, [please click here.](/files/school%20bus%20fare%20information.pdf)
 ## School Uniform, PE Attire &amp; Name tag
 
 The School uniform, PE attire and name tag are supplied by:  
