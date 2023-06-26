@@ -44,4 +44,4 @@ description: ""
   </tr>
   <tr>
   <td class="tg-sna6">27 Jun 2023 <br></td>
-    <td class="tg-sna6"><span style="color:#000">Term 3 2023 Letter to Parents </span>        [Click Here]</td> </tr></tbody></table>
+    <td class="tg-sna6"><span style="color:#000">Term 3 2023 Letter to Parents </span>        [Click Here](/files/2023_091%20letter_to_parents%20-%20term%203.pdf)</td> </tr></tbody></table>
