@@ -36,16 +36,12 @@ description: ""
     <td class="tg-sna6"><br><br><br><br><br><br><br><br><br><br><br><br><br>4 Jan 2023 </td>
     <td class="tg-sna6">1. SCHOOL EVENTS AND PROGRAMME<br><br>1.1 Home-School Partnership (Thursday, 12 January 2023 and Friday, 13 January 2023)<br><br>1.2  Chinese New Year Celebration<br><br>2. SCHOOL OPERATIONS AND SAFETY MATTERS<br><br>2.1 School Dismissal Timing<br><br>2.2  School Recess Timing<br><br>2.3  Road Safety and Traffic Management<br><br>3. ADMINISTRATIVE MATTERS<br><br>3.1 Photo-Taking Session for School Smart Card (SSC) (Tuesday, 31 January 2023 and Wednesday, 1 February 2023)<br><br>3.2 Transport Arrangement for After-School Programmes and CCAs<br><br>3.3  Updating of Emergency Contact and Medical Information (ALL parents must update online by 31 January 2023)<br><br>3.4  Student Protection Plan<br><br>3.5  Use of Videos and Photograph </td>
     <td class="tg-0pyt"><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="/files/Parents%20Corner/Letters%20to%20Parents/2023_001_Letter_to_Parents%20-%20Term%201%20Activities.pdf" target="_blank" rel="noopener noreferrer">Click here</a> <br></td>
-  </tr>
+	</tr>
   <tr>
-    <td class="tg-sna6">20 Dec 2022 <br></td>
+   <td class="tg-sna6">20 Jun 2023 <br></td>
     <td class="tg-sna6"><span style="color:#000">Menu Price List 2023 </span> </td>
     <td class="tg-0pyt"><a href="/files/Parents%20Corner/Letters%20to%20Parents/Menu%20Price%20List%202023%20(1).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click here</span></a>  </td>
   </tr>
   <tr>
-    <td class="tg-sna6"><br><br><br><br><br><br>27 Sept 2022 </td>
-    <td class="tg-sna6">1. Children’s Day – Friday, 7 Oct 2022<br>School hours are as usual on the eve of Children’s Day, Thursday, 6 Oct 2022.<br>2. PSLE Marking Days – Monday, 17 Oct 2022 to Thursday, 20 Oct 2022<br><span style="color:#000;background-color:initial">All students do not need to report to school.</span><br><span style="color:#000;background-color:initial">3. Deepavali – Monday, 24 Oct 2022</span><br><span style="color:#000;background-color:initial">There will be lessons as usual on Friday, 21 Oct 2022.</span><br><span style="color:#000;background-color:initial">4. Results Processing Day and P1(2023) Orientation – Thursday, 10 Nov 2022</span><br><span style="color:#000;background-color:initial">All students do not need to report to school on Thursday, 10 Nov 2022.</span><br><span style="color:#000;background-color:initial">5. Celebration of Joyful Learning – Thursday, 17 Nov 2022</span></td>
-    <td class="tg-0pyt"><br><br><br><br><br><br><a href="/files/Parents%20Corner/Letters%20to%20Parents/2022_088%20Letter%20to%20Parents%20Term%204%20(1).pdf" target="_blank" rel="noopener noreferrer">Click here</a></td>
-  </tr>
-</tbody>
-</table>
+  <td class="tg-sna6">27 Jun 2023 <br></td>
+    <td class="tg-sna6"><span style="color:#000">Term 3 2023 Letter to Parents </span>        [Click Here]</td> </tr></tbody></table>
