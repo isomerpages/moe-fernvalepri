@@ -70,7 +70,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-biak" colspan="2"><br><span style="color:#000;background-color:initial">P1 &amp; P2</span></td>
+    <td class="tg-biak" colspan="2"><br><span style="color:#000;background-color:initial">P1 to  P3</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
@@ -81,18 +81,13 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Alison Oliveiro</span></td>
   </tr>
   <tr>
-    <td class="tg-biak" colspan="2"><br>P3 &amp; P4</td>
+		 <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Phillida Rabini</span></td>
+		
+   
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mr Tham Chor Kee</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mrs Phillida Rabini</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"><br><span style="text-decoration:underline">P5 &amp; P6 </span></td>
+    <td class="tg-sna6"><br><span style="text-decoration:underline">P4 to P6 </span></td>
     <td class="tg-atqo"> </td>
   </tr>
   <tr>
@@ -111,7 +106,7 @@ description: ""
     <td class="tg-lnwz">Ms Jeyananthini d/o Jeyapal</td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Level Head (Internal)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Level Head</span></td>
     <td class="tg-lnwz">Mrs Azry - Nurul Hayati Binte Abdul Rahman</td>
   </tr>
   <tr>
