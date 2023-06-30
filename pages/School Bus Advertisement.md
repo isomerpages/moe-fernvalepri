@@ -15,7 +15,7 @@ Service Requirements
 
 Application Procedure
 
-1\. Complete the 
+1\. Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School’s General Office.
 
