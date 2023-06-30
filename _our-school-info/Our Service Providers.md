@@ -28,12 +28,7 @@ Website&nbsp;:&nbsp;[www.pacificbookstores.com](https://www.pacificbookstores.co
 | Lunch Hours       | 11:30am to 12:30pm |
 | Contact No        |  63156925          |
 
-## School Buses
-#### Ren Quan Transport
 
-Contact: Mr David Loh
-
-For bus fares, [please click here.](/files/school%20bus%20fare%20information.pdf)
 ## School Uniform, PE Attire &amp; Name tag
 
 The School uniform, PE attire and name tag are supplied by:  

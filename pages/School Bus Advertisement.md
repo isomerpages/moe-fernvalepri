@@ -11,7 +11,7 @@ Service Requirements
 
 1.            [Call for proposal](/files/call%20for%20proposal.pdf)
 
-2.            [Agreement for appointment of school bus operator]()
+
 
 Application Procedure
 
