@@ -9,9 +9,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 Service Requirements
 
-1.            [Call for proposal](/files/call%20for%20proposal.pdf)
+1.
 
-
+2.
 
 Application Procedure
 
