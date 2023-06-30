@@ -2,7 +2,6 @@ collections:
   our-school-info:
     output: true
     order:
-      - School Canteen and Bus Services.md
       - Principal's Message.md
       - Our Crest.md
       - Our Mission.md
@@ -12,3 +11,4 @@ collections:
       - Our Staff.md
       - Contact Us.md
       - Our Service Providers.md
+      - School Canteen and Bus Services.md
