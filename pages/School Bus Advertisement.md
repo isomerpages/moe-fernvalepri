@@ -11,13 +11,13 @@ Service Requirements
 
 1. [Call for Proposal](/files/call%20for%20proposal.pdf)
 
-2. [Agreement for appointment of school bus operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 Application Procedure
 
 1\. Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
 
-2\. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School’s General Office.
+2\. Submit the completed Call for Proposal – Annex A by closing date, 14 July 2023, to the School’s General Office.
 
 Address: 1 Fernvale Lane, S797701
 
@@ -27,7 +27,7 @@ Email: fernvale_ps@moe.edu.sg
 
 Contact Person: Ms Diane Tiu
 
-How to get there?
+How to get here:
 
 Nearest MRT: Sengkang MRT (NE16 line) – Transfer to Bus / Fernvale LRT (5 mins walk to school)
 
