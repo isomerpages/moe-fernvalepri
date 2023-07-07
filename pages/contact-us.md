@@ -2,31 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Fernvale Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 1 Fernvale Ln
+      - Singapore 797701
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com/maps/place/Fernvale+Primary+School/@1.390019,103.8716034,17z/data=!4m16!1m9!3m8!1s0x31da166483c031f5:0xebca7def59b6b6a3!2sFernvale+Primary+School!8m2!3d1.3900136!4d103.8741783!9m1!1b1!16s%2Fg%2F1twyx0wy!3m5!1s0x31da166483c031f5:0xebca7def59b6b6a3!8m2!3d1.3900136!4d103.8741783!16s%2Fg%2F1twyx0wy?entry=ttu
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6315 3051
+      - email: fernvale_ps@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
 ---
