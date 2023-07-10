@@ -72,15 +72,18 @@ description: ""
     <td class="tg-r5au"><span style="font-weight:normal">2.00pm – 5.30pm</span><span style="font-weight:normal"><br>2.00pm – 5.30pm</span><br>2.00pm - 4.30pm<br><br><br><span style="font-weight:normal">2.00pm – 3.00pm</span><br>2.00pm – 3.00pm<br><br></td>
     <td class="tg-r5au"><span style="color:#000;background-color:initial">School Hall</span><br><br><br><br><br><span style="font-weight:normal">School Hall</span></td>
     <td class="tg-r5au">Hall by 2pm</td>
-    <td class="tg-i7qw">**Mr Low Dong Neng Jim(IC)**<br><span style="font-weight:400;color:#000">Mr Fariz Husna Bin Sajan (Asst)</span><span style="font-weight:normal;color:#000;background-color:initial">Mdm Lim Siew Fang</span><br>Mdm Low Pheck ShwanMr Rakesh Kishin Aswani<br>Mr Fariz Husna Bin Sajani<br>Ms Lim Huey Tyng Joanna <br>Mr Grayson Hng<br>Mrs Ho Yik Ying<br>Mr Jegendren S/O Tanapal<br>Ms W.K Vijitha Valeria Brampy<br><br></td>
+    <td class="tg-i7qw">**Mr Low Dong Neng Jim(IC)**<br><span style="font-weight:400;color:#000">Mr Fariz Husna Bin Sajan (Asst)</span>
+			<span style="font-weight:normal;color:#000;background-color:initial">Mdm Lim Siew Fang</span><br>Mdm Low Pheck ShwanMr Rakesh Kishin Aswani<br>Mr Fariz Husna Bin Sajani<br>Ms Lim Huey Tyng Joanna <br>Mr Grayson Hng<br>Mrs Ho Yik Ying<br>Mr Jegendren S/O Tanapal<br>Ms W.K Vijitha Valeria Brampy<br><br></td>
   </tr>
   <tr>
     <td class="tg-r5au">Basketball Trainees</td>
     <td class="tg-r5au">Friday</td>
     <td class="tg-r5au"> 2.00pm –4.15pm</td>
     <td class="tg-r5au">Parade Sq/ Outdoor Basketball Court</td>
-    <td class="tg-r5au"> Hall by 2pm</td>
-    <td class="tg-i7qw">**Ms Fardyana Binte Abdul Aziz (IC)**<br>Mdm Azri - Nurul Hayati Bte Abd Rahman (Asst)Mr Aznahar Bin Baharudin<br>Mrs Raja - Selvi D/O Ramasamy<br></td>
+    <td class="tg-r5au"> Hall by 2pm</td> <td class="tg-i7qw">**Ms Fardyana Binte Abdul Aziz (IC))**<br><span style="font-weight:400;color:#000">Mdm Azri - Nurul Hayati Bte Abd Rahman (Asst)</span>
+			<span style="font-weight:normal;color:#000;background-color:initial"><br>Mr Aznahar Bin Baharudin<br>Mrs Raja - Selvi D/O Ramasamy<br></span></td>
+    <td class="tg-i7qw">****<br><b>
+<b><br><br></b></b></td>
   </tr>
   <tr>
     <td class="tg-r5au">Dance<br></td>
