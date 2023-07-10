@@ -99,7 +99,8 @@ description: ""
     <td class="tg-r5au">2.00pm – 4.00pm<br>(Recreation)<br><br>2.00pm – 5.00pm<br>(School Team) <br></td>
     <td class="tg-r5au"><span style="font-weight:normal">ISH</span><br><br><br><span style="font-weight:normal">ISH</span><br><br></td>
     <td class="tg-r5au">ISH by 2pm</td>
-    <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span>**Mdm Loh Swee Ling (IC)**<br>Mr Chen Bao Lai (Asst)<br>Mdm Liza Binti Ismail<span style="font-weight:normal;background-color:initial">Mrs Kee – Tan Siok Kheng Grace</span>Mdm Chew Bee See Betsy<br>Ms Ting Wan Sin<br></td>
+    <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span>**Mdm Loh Swee Ling (IC)**<br>Mr Chen Bao Lai (Asst)<br>Mdm Liza Binti Ismail<span style="font-weight:normal;background-color:initial">
+	<br>Mrs Kee - Tan Siok Kheng, Grace<br>Ms Ting Wan Sin<br></span></td>
   </tr>
   <tr>
     <td class="tg-r5au">Environmental Science</td>
@@ -107,7 +108,7 @@ description: ""
     <td class="tg-r5au">2.00pm – 4.00pm</td>
     <td class="tg-r5au"><span style="font-weight:400">Teaching Lab</span></td>
     <td class="tg-r5au">Teaching Lab <br>by 2 pm</td>
-    <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span><span style="font-weight:400">**Mdm A R Shanthi (IC)**<br>Mdm Tan Lee Cheng Audrey (Asst)</span><br>Mdm Teo Ying Zhi<br>Mdm Hajjah Marlina Bte Kumar<br><br><br></td>
+    <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span><span style="font-weight:400">**Mdm A R Shanthi (IC)**<br>Mdm Tan Lee Cheng Audrey (Asst)</span><br>Mdm Teo Ying Zhi<br>Mdm Hajjah Marlina Bte Kumar<br></td>
   </tr>
   <tr>
     <td class="tg-r5au">Guitar</td>
