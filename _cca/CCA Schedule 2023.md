@@ -96,7 +96,7 @@ description: ""
     <td class="tg-r5au">2.00pm – 4.00pm<br>(Recreation)<br><br>2.00pm – 5.00pm<br>(School Team) <br></td>
     <td class="tg-r5au"><span style="font-weight:normal">ISH</span><br><br><br><span style="font-weight:normal">ISH</span><br><br></td>
     <td class="tg-r5au">ISH by 2pm</td>
-    <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span>**Mdm Loh Swee Leng (IC)**<br>Mr Chen Bao Lai (Asst)<br>Mdm Liza Binti Ismail<span style="font-weight:normal;background-color:initial">Mrs Kee – Tan Siok Kheng Grace</span>Mdm Chew Bee See Betsy<br>Ms Ting Wan Sin<br></td>
+    <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span>**Mdm Loh Swee Ling (IC)**<br>Mr Chen Bao Lai (Asst)<br>Mdm Liza Binti Ismail<span style="font-weight:normal;background-color:initial">Mrs Kee – Tan Siok Kheng Grace</span>Mdm Chew Bee See Betsy<br>Ms Ting Wan Sin<br></td>
   </tr>
   <tr>
     <td class="tg-r5au">Environmental Science</td>
@@ -140,7 +140,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-r5au">Robotics <br></td>
-    <td class="tg-r5au"><span style="font-weight:normal">Monday </span></td>
+    <td class="tg-r5au"><span style="font-weight:normal">Friday </span></td>
     <td class="tg-on15"> <span style="font-weight:normal">2.00pm - 4.15pm</span></td>
     <td class="tg-r5au"><span style="font-weight:normal">Teaching Lab  </span></td>
     <td class="tg-r5au">Teaching Lab by 2pm <br></td>
