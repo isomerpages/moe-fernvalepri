@@ -95,9 +95,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-r5au">Floorball</td>
-    <td class="tg-r5au"><span style="font-weight:normal">Monday</span><br><br><br><span style="font-weight:normal">Friday</span><br><br><br></td>
-    <td class="tg-r5au">2.00pm – 4.00pm<br>(Recreation)<br><br>2.00pm – 5.00pm<br>(School Team) <br></td>
-    <td class="tg-r5au"><span style="font-weight:normal">ISH</span><br><br><br><span style="font-weight:normal">ISH</span><br><br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">Monday</span><br><br><br><br><br><span style="font-weight:normal">Friday</span><br><br><br><br><br></td>
+    <td class="tg-r5au">2.00pm – 4.00pm<br>(P3 &amp; P4)<br>2.00pm - 5.00pm<br>(P5)<br><br>2.00pm – 4.00pm<br>(P3 &amp; P4) <br>2.00pm - 5.00pm<br> (P5)<br></td>
+    <td class="tg-r5au"><span style="font-weight:normal">ISH</span><br><br><br><br><br><span style="font-weight:normal">ISH</span><br><br><br><br></td>
     <td class="tg-r5au">ISH by 2pm</td>
     <td class="tg-i7qw"><span style="font-weight:normal;background-color:initial"></span>**Mdm Loh Swee Ling (IC)**<br>Mr Chen Bao Lai (Asst)<br>Mdm Liza Binti Ismail<span style="font-weight:normal;background-color:initial">
 	<br>Mrs Kee - Tan Siok Kheng, Grace<br>Ms Ting Wan Sin<br></span></td>
