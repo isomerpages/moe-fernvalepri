@@ -50,12 +50,12 @@ Borrow and read books to exchange for attractive gifts! The loyalty card program
 ![](/images/Library/collage%202023-08-25%2023_06_05.jpg)
 
 #### **Short Story Writing Competition**
-The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -> Read -> Speak -> Write). For this competition, pupils submit their stories online (SLS) after working on them. Selected stories are published in our annual Our Stories E-book. Look out for our E-book in Term 4!
+The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -> Read -> Speak -> Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual Our Stories E-book. Look out for our E-book in Term 4!
 
 #### **Books Exchange Day**
-Let’s save our Earth! Books Exchange Day allows our pupils to exchange their already read books with ‘new’ books that will allow them to carry on reading while saving our earth.
+Let’s save our Earth! Books Exchange Day allows our students to exchange their already read books with ‘new’ books that will allow them to carry on reading while saving our earth.
 ![](/images/Library/picture21.jpg)
 
 #### **Assembly Programmes**
-The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will conduct Story Sharing sessions during assembly for the pupils. NLB will also organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. Wile Mass Borrowing sessions were temporarily stopped in the past few years, we aim to resume it soon.
+The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will conduct Story Sharing sessions during assembly for the students. NLB will also organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. While Mass Borrowing sessions were temporarily stopped in the past few years, we aim to resume it soon.
 ![](/images/Library/collage%202023-08-25%2023_18_53.jpg)
