@@ -11,6 +11,8 @@ Our school library is a vital physical space within our educational institution 
 #### **Our Vision**
 Every reader an active listener, a critical reader, an eloquent speaker, and a skilled writer.
 
+![](/images/Library/picture2.png)
 #### **Our Parents, Our Partners**
 Engaging in shared reading with our children stands out as a paramount activity that we wholeheartedly advocate. As we read to our children, we not only impart significance to the act of reading but also convey the immense value we place upon them.
 
+![](/images/Library/picture1.png)
