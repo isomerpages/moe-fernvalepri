@@ -2,8 +2,6 @@ collections:
   our-school-info:
     output: true
     order:
-      - Our Library/About our Library.md
-      - Our Library/.keep
       - Principal's Message.md
       - Our Crest.md
       - Our Mission.md
@@ -11,6 +9,8 @@ collections:
       - Our Rules & Regulations.md
       - School Executive Committee.md
       - Our Staff.md
+      - Our Library/.keep
+      - Our Library/About our Library.md
       - Contact Us.md
       - Our Service Providers.md
       - School Canteen and Bus Services.md
