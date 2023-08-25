@@ -16,3 +16,16 @@ third_nav_title: Our Library
 ![](/images/Library/picture6.png)
 
 [Cambridge English Online Dictionary](https://dictionary.cambridge.org/)
+![](/images/Library/piclink1.png)
+
+[Unite for Literacy (Lower Primary pupils)](https://www.uniteforliteracy.com/)
+![](/images/Library/piclink2.png)
+
+[Storyline Online](https://storylineonline.net/)
+![](/images/Library/piclink3.png)
+
+[National Geographic Kids](https://kids.nationalgeographic.com/)
+![](/images/Library/piclink4.png)
+
+[Fun English Games (Spelling)](https://www.funenglishgames.com/spellinggames/spidermanspelling.html)
+![](/images/Library/piclink5.png)
