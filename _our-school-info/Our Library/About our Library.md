@@ -9,7 +9,7 @@ third_nav_title: Our Library
 Our school library is a vital physical space within our educational institution that offers swift and convenient access to high-quality information and resources, benefiting both staff and students. It serves as a valuable support system for the school curriculum, providing supplementary materials that align with subjects and encourage in-depth learning. Beyond academics, our library also acts as a cultural hub by presenting diverse materials that promote an understanding of different cultures and heritage. Its tranquil and focused atmosphere encourages reading and independent learning, fostering an appreciation for knowledge and personal growth among our students.
 
 #### **Our Vision**
-Every reader an active listener, a critical reader, an eloquent speaker, and a skilled writer.
+Every student an active listener, a critical reader, an eloquent speaker, and a skilled writer.
 ![](/images/Library/picture2.png)
 
 #### **Our Parents, Our Partners**
