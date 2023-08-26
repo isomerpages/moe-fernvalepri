@@ -29,4 +29,4 @@ third_nav_title: Our Library
 
 #### **Our Library Assistant**
 ![](/images/Library/azuralib.jpg)
-Our friendly Library Assistant, Mdm Nur Azura Binte Mohamed Yusoff, is stationed at Level 1 library during school hours to welcome students and assist with selection and borrowing of books. She also carries out activities throughout the week to engage the pupils. Do say hello to her if you see her around!
+Our friendly Library Assistant, Mdm Nur Azura Binte Mohamed Yusoff, is stationed at Level 1 library during school hours to welcome students and assist them with the selection and borrowing of books. She also carries out activities throughout the week to engage the students. Do say hello to her if you see her around!
