@@ -10,6 +10,7 @@ Our school library is a vital physical space within our educational institution 
 
 #### **Our Vision**
 Every student an active listener, a critical reader, an eloquent speaker and a skilled writer.
+
 ![](/images/Library/picture2.png)
 
 #### **Our Parents, Our Partners**
