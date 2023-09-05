@@ -50,7 +50,9 @@ Borrow and read books to exchange for attractive gifts! The loyalty card program
 ![](/images/Library/collage%202023-08-25%2023_06_05.jpg)
 
 #### **Short Story Writing Competition**
-The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -> Read -> Speak -> Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Look out for our E-book in Term 4!
+The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all selected students! Do read their creative work in the Flipbook below.
+
+<a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/2ae3592282.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb" src="https://cdnc.heyzine.com/flip-book/cover/2ae3592282.jpg"></a>
 
 #### **Books Exchange Day**
 Let’s save our Earth! Books Exchange Day allows our students to exchange their already read books with ‘new’ books that will allow them to carry on reading while saving our earth.
