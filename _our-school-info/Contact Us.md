@@ -169,7 +169,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-6e5h"><span style="font-weight:bold;color:#282828;background-color:#F9EBD7">Mondays To Friday</span></td>
-    <td class="tg-6e5h"><span style="font-weight:bold;color:#282828;background-color:#F9EBD7">7:45am to 3:00pm</span></td>
+    <td class="tg-6e5h"><span style="font-weight:bold;color:#282828;background-color:#F9EBD7">7:40am to 3:00pm</span></td>
   </tr>
   <tr>
     <td class="tg-fr2s"><span style="font-weight:bold;color:#282828;background-color:#FFF">Schools Holidays</span></td>
