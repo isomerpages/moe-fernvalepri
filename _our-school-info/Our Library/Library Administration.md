@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Library
 ---
 #### **Opening Hours**
-* Mondays to Fridays (7.30am to 4.30pm) 
+* Mondays to Fridays (7.30am to 3.00pm) 
 * Closed on public/school holidays.
 
 #### **Borrowing and Renewal**
