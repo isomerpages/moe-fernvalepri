@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our Library
 ---
 #### **Opening Hours**
-* Mondays to Fridays (7.30am to 4.30pm) 
-* Closed on public/school holidays.
+* Mondays to Fridays (7.40am to 3.00pm) 
+* School holidays (8am to 12pm)
+* Closed on Saturdays, Sundays and Public Holidays.
 
 #### **Borrowing and Renewal**
 * The **original** EZ-link student pass functions as a library card.
