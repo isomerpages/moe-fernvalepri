@@ -28,7 +28,7 @@ In line with our beliefs that young children are curious, active and compete
 | Appreciation    | Be able to listen and appreciate one another’s differences     |
 | Inventiveness   | Be flexible in own thinking and way of doing things            |
 | Sense of Wonder | Be able to ask questions; shows interest to explore new things |
-| Engagement      | Be appreciative and respectful to own self and others          |
+| Engagement      | Be immersed in learning and seek new opportunities to learn          |
 
 ## Catch you having PRAISE!
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/MKFV%20Website%20Content%20pg%207.jpg)
