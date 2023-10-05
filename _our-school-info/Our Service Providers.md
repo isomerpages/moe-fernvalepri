@@ -48,7 +48,7 @@ The School Dentist is located on Level 1, next to the school foyer.
 
 
 | Operating Hours |  |  |
-| -------- | -------- | -------- |
+| -------- | -------- | ------- |
 | Alternate Weeks (please call the school at 63153051 to check   | 8.00am to 5.30pm     |  
 | Lunch Time    | 1.00pm to 2.00pm     |    
 | Contact Number    | 85224156     |      |
