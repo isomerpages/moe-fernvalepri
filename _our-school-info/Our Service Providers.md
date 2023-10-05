@@ -44,11 +44,11 @@ Website: [https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/
 
 ## School Dentist
 
-The School Dentist is located on Level 1, next to the Kids Workroom.
+The School Dentist is located on Level 1, next to the school foyer.
 
 | Operating Hours:              |                    |
 |-------------------------------|--------------------|
-| Monday, Tuesday and Thursday  |  8:00 am to 5:30pm |
+| Alternate weeks (please call the school at 63153051 to check)  |  8:00 am to 5:30pm |
 | Lunch Time                    |  1:00pm to 2:00pm  |
 | Contact No                    |  85224156          |
 
