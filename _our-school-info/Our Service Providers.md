@@ -50,13 +50,4 @@ The School Dentist is located on Level 1, next to the school foyer.
 |-------------------------------|--------------------|
 | Alternate weeks (please call the school at 63153051 to check)  |  8:00 am to 5:30pm |
 | Lunch Time                    |  1:00pm to 2:00pm  |
-| Contact No                    |  85224156          |
-
-<u>Clinic Closure Day: Wednesday and Friday (PM)</u>
-
-| Urgent case during clinic closure, please call the following dental clinic for an appt. |          |
-|-----------------------------------------------------------------------------------------|----------|
-| Hougang Primary School                                                                  | 63863025 |
-| Nan Chiau Primary School                                                                | 64897904 |
-| Compassvale Primary School                                                              | 63847759 |
-| Sengkang Green Primary School                                                           | 62418954 |
+| Contact No                    |  85224156   |
