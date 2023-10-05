@@ -4,16 +4,16 @@ permalink: /our-school-info/our-service-providers/
 description: ""
 ---
 # Our Service Providers
-## Pro-Teach School Care (Fernvale)
+## Raffles Student Care (with effect from 1 Jan 2024)
 
 | Operating Hours (Monday -  Friday) |                        |
 |------------------------------------|------------------------|
-| School Term                        | 12:00pm to 7:00pm      |
+| School Term                        | 11:00am to 7:00pm      |
 | School Holiday                     | 7:30am to 7:00pm       |
-| Contact No                         |  92471090              |
-| Email Address                      | [fernvale@pro-teach.com](mailto:fernvale@pro-teach.com) |
-| Link To Website                    |  <a href="http://www.pro-teach.com/" target="_blank">www.pro-teach.com </a>    |
-| Link to download                   |  <a href="/files/Our%20school%20info/REQUEST%20FORM%20FNV_Yr%202022.pdf" target="_blank">Service Request Form </a>  |
+| Contact No                         |  89501742              |
+| Email Address                      | [FV@rafflesstudentcare.com](mailto:FV@rafflesstudentcare.com) |
+| Link To Website                    |  [Raffles Student Care](http://www.rafflesstudentcare.com)    |
+| Registration Link                   | [Registration Form](http://www.rafflesstudentcare.com/Registration)   |
 
 ## School Bookshop
 
