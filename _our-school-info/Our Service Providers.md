@@ -4,16 +4,16 @@ permalink: /our-school-info/our-service-providers/
 description: ""
 ---
 # Our Service Providers
-## Pro-Teach School Care (Fernvale)
+## Raffles Student Care (with effect from 1 Jan 2024)
 
 | Operating Hours (Monday -  Friday) |                        |
 |------------------------------------|------------------------|
-| School Term                        | 12:00pm to 7:00pm      |
+| School Term                        | 11:00am to 7:00pm      |
 | School Holiday                     | 7:30am to 7:00pm       |
-| Contact No                         |  92471090              |
-| Email Address                      | [fernvale@pro-teach.com](mailto:fernvale@pro-teach.com) |
-| Link To Website                    |  <a href="http://www.pro-teach.com/" target="_blank">www.pro-teach.com </a>    |
-| Link to download                   |  <a href="/files/Our%20school%20info/REQUEST%20FORM%20FNV_Yr%202022.pdf" target="_blank">Service Request Form </a>  |
+| Contact No                         |  89501742              |
+| Email Address                      | [FV@rafflesstudentcare.com](mailto:FV@rafflesstudentcare.com) |
+| Link To Website                    |  [Raffles Student Care](http://www.rafflesstudentcare.com)    |
+| Registration Link                   | [Registration Form](http://www.rafflesstudentcare.com/Registration)   |
 
 ## School Bookshop
 
@@ -44,19 +44,11 @@ Website: [https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/
 
 ## School Dentist
 
-The School Dentist is located on Level 1, next to the Kids Workroom.
+The School Dentist is located on Level 1, next to the school foyer.
 
-| Operating Hours:              |                    |
-|-------------------------------|--------------------|
-| Monday, Tuesday and Thursday  |  8:00 am to 5:30pm |
-| Lunch Time                    |  1:00pm to 2:00pm  |
-| Contact No                    |  85224156          |
 
-<u>Clinic Closure Day: Wednesday and Friday (PM)</u>
-
-| Urgent case during clinic closure, please call the following dental clinic for an appt. |          |
-|-----------------------------------------------------------------------------------------|----------|
-| Hougang Primary School                                                                  | 63863025 |
-| Nan Chiau Primary School                                                                | 64897904 |
-| Compassvale Primary School                                                              | 63847759 |
-| Sengkang Green Primary School                                                           | 62418954 |
+| Operating Hours |  |  |
+| -------- | -------- | ------- |
+| Alternate Weeks (please call the school at 63153051 to check   | 8.00am to 5.30pm     |  
+| Lunch Time    | 1.00pm to 2.00pm     |    
+| Contact Number    | 85224156     |      |
