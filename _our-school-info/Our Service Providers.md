@@ -2,6 +2,7 @@
 title: Our Service Providers
 permalink: /our-school-info/our-service-providers/
 description: ""
+variant: markdown
 ---
 # Our Service Providers
 ## Raffles Student Care (with effect from 1 Jan 2024)
@@ -41,6 +42,8 @@ Website: [https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/
 | Monday To Saturday | 11:30am to 7:00pm |
 | Sunday             | 11:30am to 5:00pm |
 | Contact No         |  67531489         |
+
+[Dates when bookshop and uniform vendor are operating in school for self-collection (not walk in).](/files/dates%20where%20bookshop%20and%20uniform%20vendor%20for%20nov%20-%20dec%202023.pdf)
 
 ## School Dentist
 
