@@ -2,13 +2,22 @@
 title: Book List 2023
 permalink: /parents-corner/book-list-2023/
 description: ""
+variant: markdown
 ---
-# Book List 2023
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P1%20Booklist.pdf" target="_blank">- P1 Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P2%20Booklist.pdf" target="_blank">- P2 Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P3%20Booklist.pdf" target="_blank">- P3 Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P4%20Booklist.pdf" target="_blank">- P4 Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P5%20Booklist.pdf" target="_blank">- P5 Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P5%20FDN%20Booklist.pdf" target="_blank">- P5 FDN Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P6%20Booklist.pdf" target="_blank">- P6 Booklist</a>  
-<a href="/files/Parents%20Corner/Book%20List%202023/2023%20P6%20FDN%20Booklist.pdf" target="_blank">- P6 FDN Booklist</a>  
+# Book List 2024
+
+[2024 P1 Booklist](/files/2024%20p1%20booklist.pdf)
+
+[2024 P2 Booklist](/files/2024%20p2%20booklist.pdf)
+
+[2024 P3 Booklist](/files/2024%20p3%20booklist.pdf)
+
+[2024 P4 Booklist](/files/2024%20p4%20booklist.pdf)
+
+[2024 P5 Booklist](/files/2024%20p5%20booklist.pdf)
+
+[2024 P5 Foundation Booklist](/files/2024%20p5fdn%20booklist.pdf)
+
+[2024 P6 Booklist](/files/2024%20p6%20booklist.pdf)
+
+[2024 P6 Foundation Booklist](/files/2024%20p6fdn%20booklist.pdf)
