@@ -30,6 +30,14 @@ sections:
       image: /images/OYEA_2024_website_publicity_image.jpg
       alt: Image alt text
   - infopic:
+      title: Caring Teacher Awards (CTA)
+      id: infopic
+      description: "(Closing date: 12 January 2024)"
+      button: NOMINATE NOW!
+      url: www.cta.nie.edu.sg
+      image: /images/Poster___CTA_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Find out more about our MOE Kindergartens
       subtitle: WHAT'S HAPPENING
       button: Click here to find out more.
@@ -38,12 +46,4 @@ sections:
       image: /images/e47416769_1883.jpg
   - resources:
       title: Student Calendar & Media
-  - infopic:
-      title: Caring Teacher Awards (CTA)
-      id: infopic
-      description: "(Closing date: 12 January 2024)"
-      button: NOMINATE NOW!
-      url: www.cta.nie.edu.sg
-      image: /images/Poster___CTA_2024.jpg
-      alt: Image alt text
 ---
