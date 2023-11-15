@@ -2,6 +2,7 @@
 title: School Canteen and Bus Services
 permalink: /canteenandbus/
 description: ""
+variant: markdown
 ---
 **School Bus Services**
 
@@ -11,5 +12,4 @@ description: ""
 
 **School Canteen**
 
-[Canteen menu and price 2023](/files/canteen%20menu%20and%20price%202023.pdf)
-
+[Canteen Price List 2024](/files/Menu__Price_List_2024.pdf)
