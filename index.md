@@ -19,4 +19,13 @@ sections:
       image: /images/e47416769_1883.jpg
   - resources:
       title: Student Calendar & Media
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Nominate Now!
+      url: https://go.gov.sg/pat2024
+      image: /images/PAT_2024_website_publicity_image.gif
+      alt: Image alt text
 ---
