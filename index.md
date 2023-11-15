@@ -20,10 +20,9 @@ sections:
   - resources:
       title: Student Calendar & Media
   - infopic:
-      title: Infopic
+      title: President's Award for Teachers 2024
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
       button: Nominate Now!
       url: https://go.gov.sg/pat2024
       image: /images/PAT_2024_website_publicity_image.gif
