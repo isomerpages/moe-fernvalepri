@@ -32,4 +32,13 @@ sections:
       image: /images/e47416769_1883.jpg
   - resources:
       title: Student Calendar & Media
+  - infopic:
+      title: Outstanding Youth in Education Award (OYEA) 2024
+      id: infopic
+      description: |
+        (Closing date: 10 January 2024)
+      button: NOMINATE NOW!
+      url: https://go.gov.sg/oyea2024
+      image: /images/OYEA_2024_website_publicity_image.jpg
+      alt: Image alt text
 ---
