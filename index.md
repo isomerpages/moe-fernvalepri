@@ -34,7 +34,7 @@ sections:
       id: infopic
       description: "(Closing date: 12 January 2024)"
       button: NOMINATE NOW!
-      url: www.cta.nie.edu.sg
+      url: cta.nie.edu.sg
       image: /images/Poster___CTA_2024.jpg
       alt: Image alt text
   - infopic:
