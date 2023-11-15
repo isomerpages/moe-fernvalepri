@@ -17,6 +17,13 @@ sections:
       url: https://go.gov.sg/pat2024
       image: /images/PAT_2024_website_publicity_image.gif
       alt: Image alt text
+      description: |
+        President’s Award for Teachers (PAT) 
+        2024
+
+        (Closing date: 10 January 2024)
+
+        Nominate Now!
   - infopic:
       title: Find out more about our MOE Kindergartens
       subtitle: WHAT'S HAPPENING
