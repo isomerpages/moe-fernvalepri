@@ -39,11 +39,11 @@ sections:
   - resources:
       title: Student Calendar & Media
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Caring Teacher Awards (CTA)
       id: infopic
-      description: Infopic description
+      description: "(Closing date: 12 January 2024)"
       button: NOMINATE NOW
       url: www.cta.nie.edu.sg
+      image: /images/Poster___CTA_2024.jpg
       alt: Image alt text
 ---
