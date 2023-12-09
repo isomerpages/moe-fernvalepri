@@ -11,8 +11,8 @@ Information about the books available in our school library and your child's / w
 
 **These are some of the functions available on the online OPAC site and the mobile app.**
 
-* Search for books & e-books, check item availability and place reservations;
-* View current and past loans, check for overdue loans;
+* Search for books & e-books and check item availability;
+* View current and past loans and check for overdue loans;
 * Search for library events/activities;
 * Save list of favourite titles; and
 * “Discover” book recommendations, featured items, new arrivals and books others have read.
