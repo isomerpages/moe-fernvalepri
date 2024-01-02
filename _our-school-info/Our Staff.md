@@ -63,116 +63,16 @@ variant: markdown
 
 
 ### Primary 2
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 723px">
-<colgroup>
-<col style="width: 723px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-vlif">Care<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Lim Siew Fang</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Mrs Kelly Thong - Hau Luo Ting</td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"> <br>Graciousness </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Alexandria Kirsten Tobias</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Chong - Loh Swee Ling</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"><br>Integrity<span style="font-weight:normal"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Lim Huey Tyng Joanna</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Mdm Oliveiro Angeline Alison</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Khalidah Goh d/o Shafie Goh</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"> <br>Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Miss Lim Nien Chern Juliana</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Miss Jayne Anne Jayanthi Krishnamurthi</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"> <br>Respect </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Nadhira Parveen</span>    </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Ng Junhao Gary</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"><br>Responsibility </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Ting Wan Sin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Miss Tan Yuan Lin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Heng - Cheong Soke Hwa</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"> <br><span style="color:#000">J</span><span style="color:#000;background-color:initial">oy</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Mr Tan Chun Chiah</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Siti Erliasari Binte Haroon</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"> <br>Courage</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Ms Neo Yihui</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Julia Binte Mohamed Rahim</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm W.K. Vijitha Valerie Brampy</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6"> <br>Confidence</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Mrs Andrea Tee</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Mrs Lee -  Teo Khim Hoong Carol</span></td>
-  </tr>
-</tbody>
-</table>
+     
+<table style="border-collapse:
+ collapse;width:795pt" width="1060" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:13312;width:286pt" width="381"> <col style="mso-width-source:userset;mso-width-alt:23691;width:509pt" width="679"></colgroup><tbody><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;width:286pt" width="381" class="xl76" height="67">P2-Care</td><td style="border-left:none;width:509pt" width="679" class="xl77">Ms Ma Sen Loo Theresa<br>Mdm Ng Peng Yong</td></tr><tr style="mso-height-source:userset;height:61.5pt" height="82"><td style="height:61.5pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="82">P2-Graciousnesss</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl83">Mdm V Sulaja<br>Ms Cherie Ang Hui Er</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="67">P2-Integrity</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mr Ng Junhao Gary<br>Mdm Teo Ching Whee<br>Mdm Zhong Xiuyuan Diana<br></td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="67">P2-Resilience</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mdm W.K.Vijitha Valerie Brampy<br>Mdm Ong Li Ting</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="67">P2-Respect</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Heng - Cheong Soke Hwa<br>Mr Low Dong Neng Jim</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="67">P2-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mdm Noor A'shikin Bte Osman<br>Mr Muhammad Ridzuan Bin Osman</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="67">P2-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Mrs Khai - Siti Norhana Aris<br>Mr Goh Tong Wee<br>Mrs Jacquelin Yeo Chien Ling (Term 1)<br><br></td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
+  width:286pt" width="381" class="xl76" height="67">P2-Courage</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Neo Sian Yin<br>Ms Tan Hwee Ping Elsie</td></tr></tbody></table>
 
 ### Primary 3
 
