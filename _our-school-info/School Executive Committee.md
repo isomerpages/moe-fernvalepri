@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /our-school-info/school-executive-committee/
 description: ""
+variant: markdown
 ---
 # School Executive Committee
 
@@ -70,29 +71,42 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-biak" colspan="2"><br><span style="color:#000;background-color:initial">P1 to  P3</span></td>
+    <td class="tg-biak" colspan="2"><br><span style="color:#000;background-color:initial">P1 to  P2</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
     <td class="tg-lnwz"><span style="font-weight:400">Ms Ivy Ho</span></td>
+		  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
+    <td class="tg-lnwz"><span style="font-weight:400">Miss Puah Puay Koon Eileen</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Alison Oliveiro</span></td>
   </tr>
   <tr>
-		 <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Phillida Rabini</span></td>
-		
-   
-  </tr>
-  <tr>
-    <td class="tg-sna6"><br><span style="text-decoration:underline">P4 to P6 </span></td>
+		 
+  </tr><tr>
+    <td class="tg-sna6"><br><span style="text-decoration:underline">P3 to P4 </span></td>
     <td class="tg-atqo"> </td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
     <td class="tg-lnwz"><span style="font-weight:400">Mr Elvin Benjamin</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
+    <td class="tg-lnwz">Mrs Phillida Rabini</td>
+  </tr>  
+  
+  <tr>
+    <td class="tg-sna6"><br><span style="text-decoration:underline">P5 to P6 </span></td>
+    <td class="tg-atqo"> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
+    <td class="tg-lnwz"><span style="font-weight:400"></span>Mrs Low - Phua Eileen </td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
@@ -125,7 +139,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Eric Tay</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Carina Chua</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Level Head (CL)</span></td>
@@ -187,14 +201,14 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Teo Ying Zhi</span></td>
   </tr>
   <tr>
-    <td class="tg-sna6" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">Student Management</span></td>
+    <td class="tg-sna6" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">Special Education Needs</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department </span></td>
     <td class="tg-lnwz"><span style="font-weight:normal">Mr Feroz Muhamad </span></td>
   </tr>
   <tr>
-    <td class="tg-biak" colspan="2"><br>Student Well-being </td>
+    <td class="tg-biak" colspan="2"><br>Character &amp; Citizenship Education </td>
   </tr>
   <tr>
     
@@ -207,7 +221,13 @@ description: ""
     <td class="tg-lnwz"><span style="font-weight:normal;background-color:initial">Subject Head </span></td>
     <td class="tg-lnwz">Mr Goh Si Qian</td>
   </tr>
+  <tr><td class="tg-biak" colspan="2"><br>Master Teacher </td>
+  </tr>
   <tr>
+    <td class="tg-lnwz">Science</td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Michael Long Tian Heng</span></td>
+  </tr>
+	<tr>
     <td class="tg-biak" colspan="2"><br>Lead Teachers </td>
   </tr>
   <tr>
