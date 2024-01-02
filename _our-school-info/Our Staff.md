@@ -227,19 +227,19 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Senior AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Lead AED SEN Officer</span></td>
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chia Fei Lin</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer</span></td>
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Hui Soh Wai</span> </td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">AED (LBS)</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Suhaili Binte Selamat</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer </span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms June Tan</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">AED (LBS)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer</span></td>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms Nurliyana Binte Suhaimi</span></td>
   </tr>
   <tr>
