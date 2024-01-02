@@ -272,7 +272,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-vlif"><span style="font-weight:normal">Technical Assistant</span></th>
-    <th class="tg-lnwz"><span style="font-weight:400">Mdm Bobby Sunil</span></th>
+    <th class="tg-lnwz"><span style="font-weight:400">Mr Zuo Yutao</span></th>
   </tr>
 </thead>
 <tbody>
