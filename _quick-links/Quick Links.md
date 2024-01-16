@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /quick-links/
 description: ""
+variant: markdown
 ---
 # **For Students and Parents**
 1. [Student Learning Space](https://vle.learning.moe.edu.sg/login)
@@ -23,6 +24,6 @@ description: ""
 8. [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 9. [iEXAMS](https://iexams.seab.gov.sg/)
 10. [ICT / AV Booking Form](https://forms.gle/cYa128rtuCGHqtfJ7)
-11. [Venues Booking Form ](https://sites.google.com/d/1OX-b8Dpo5-EXrvcOB_8c-9iTTO4dwRB6/p/1AfsYzqu5WmIFqhryL8CAV-uF1aJZzgTX/edit?pli=1)
+11. [Venues Booking Form](https://sites.google.com/view/fvps-facilities-booking/home)
 12. [Music Instruments Loan Request Form](https://tinyurl.com/FVPSmusicloan)
 13. [Art Expression Wall Collaboration Request Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLScbEarYxbA8QxxtPuYxJDtIRd3snw1b4sspBSlHcczP-zlzwg/viewform?usp=send_form)
