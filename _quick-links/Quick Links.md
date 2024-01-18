@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **For Students and Parents**
 1. [Student Learning Space](https://vle.learning.moe.edu.sg/login)
-2. [Student iCON](workspace.google.com)
+2. [Student iCON](https://workspace.google.com/dashboard)
 3. [iMTL Portal](https://www.ezhishi.net/Contents/)
 4. [Education and Career Guidance](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 5. [Cyberwellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
