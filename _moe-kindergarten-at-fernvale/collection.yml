@@ -2,7 +2,6 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Open House 2024.md
       - About Us.md
       - Our Team.md
       - Our Learning Environment.md
