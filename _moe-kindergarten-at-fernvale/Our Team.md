@@ -2,9 +2,8 @@
 title: Our Team
 permalink: /moe-kindergarten-at-fernvale/our-staff/
 description: ""
+variant: markdown
 ---
-
 # Our Team
 
-![](/images/MOE%20Kindergarten%20@%20Fernvale/Fernvale_OurTeachers%20Photos%20Org%20Chart.jpg)
-
+![](/images/Staff_Organization_Chart.jpg)
