@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # Assessment Matters 
-<b>Updated as of January 2024</b>
+<b>(Updated: 18 January 2024)</b>
 <br>**Semester 1**<br>
 [Primary 1 Assessment Letter](/files/2024_P1_Semester_1_Assessment_Letter.pdf)
 
@@ -19,5 +19,5 @@ variant: markdown
 
 [Primary 6 Assessment Letter](/files/2024_P6_Term_1_Assessment_Letter.pdf)
 
-**Semester 2**
+
 
