@@ -6,4 +6,4 @@ variant: markdown
 ---
 # Our Team
 
-![](/images/Staff_Organization_Chart.jpg)
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Staff_Organization_Chart.jpg)
