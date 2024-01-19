@@ -11,11 +11,11 @@ sections:
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
   - infopic:
-      title: Find out more about our MOE Kindergartens
+      title: Find out more about our MOE Kindergarten's Open House
       subtitle: WHAT'S HAPPENING
       button: Click here to find out more.
       alt: Moe Kindergarten @ Fernvale
-      url: /moe-kindergarten-at-fernvale/about-us/
+      url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/open-house-2024/
       image: /images/e47416769_1883.jpg
   - resources:
       title: Student Calendar & Media
