@@ -2,10 +2,11 @@
 title: MK Forms
 permalink: /moe-kindergarten-at-fernvale/mk-forms/
 description: ""
+variant: markdown
 ---
 # MK Forms
 
-[Fernvale MK Waitlist Application Form](https://www.form.gov.sg/63d1eae3dd51570011b662a1)
+[Fernvale MK Waitlist Application Form](https://form.gov.sg/65b32d6325d088fcc5b26b0d)
 
 [KF1 - Enrolment and KiFAS Application](/files/kf1%20-%20enrolment%20and%20kifas%20application%20(jan%202022).pdf)
 
