@@ -3,6 +3,7 @@ title: Library Activities
 permalink: /our-school-info/our-library/activities/
 description: ""
 third_nav_title: Our Library
+variant: markdown
 ---
 #### **Library Orientation**
 
@@ -40,6 +41,10 @@ Every Monday, short stories are screened in the library for students during thei
 
 Every Wednesday, teachers come to the library during the Primary 1 and Primary 2 recess slots for a storytelling session with our students. The lower primary students enjoy these sessions as the teachers make the stories come alive right in front of them.
 ![](/images/Library/collage%202023-08-25%2022_52_58.jpg)
+
+#### **Boggle Fundays**
+Every Wednesday, our upper primary students join in an online boggle session in the library during the Primary 5 and Primary 6 recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
+![](/images/Library/Boggle.jpg)
 
 #### **Monthly Activities**
 Students come to the library to take part in various activities throughout the year. Some of the activities include Hari Raya card making, Lantern making, Festival colouring, crossword puzzles and quizzes.
