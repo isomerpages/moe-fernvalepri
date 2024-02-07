@@ -3,6 +3,7 @@ title: Library Activities
 permalink: /our-school-info/our-library/activities/
 description: ""
 third_nav_title: Our Library
+variant: markdown
 ---
 #### **Library Orientation**
 
@@ -41,6 +42,10 @@ Every Monday, short stories are screened in the library for students during thei
 Every Wednesday, teachers come to the library during the Primary 1 and Primary 2 recess slots for a storytelling session with our students. The lower primary students enjoy these sessions as the teachers make the stories come alive right in front of them.
 ![](/images/Library/collage%202023-08-25%2022_52_58.jpg)
 
+#### **Boggle Fundays**
+Every Wednesday, our upper primary students join in an online boggle session in the library during the Primary 5 and Primary 6 recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
+![](/images/Library/Boggle.jpg)
+
 #### **Monthly Activities**
 Students come to the library to take part in various activities throughout the year. Some of the activities include Hari Raya card making, Lantern making, Festival colouring, crossword puzzles and quizzes.
 ![](/images/Library/collage%202023-08-25%2022_58_31.jpg)
@@ -50,7 +55,9 @@ Borrow and read books to exchange for attractive gifts! The loyalty card program
 ![](/images/Library/collage%202023-08-25%2023_06_05.jpg)
 
 #### **Short Story Writing Competition**
-The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories have been selected this year! Do read their creative work in the Flipbook below.
+The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories had been selected last year! Do read their creative work in the Flipbook below.
+
+The Short Story Writing Competition will be launched in May this year. Do look out for more details soon.
 
 <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg"></a>
 
