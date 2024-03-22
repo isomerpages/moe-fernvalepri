@@ -23,7 +23,7 @@ variant: markdown
 
 [Primary 3 Assessment Letter - Term 2](/files/Parents%20Corner/Assessment%20Matters/2024_P3_Term_2_Assessment_Letter_20_Mar_Final.pdf)
 
-[Primary 4 Assessment Letter - Term 2](/files/Parents%20Corner/Assessment%20Matters/2024_P4_Term_2_Assessment_Letter_20_Mar_Final.pdf)
+[Primary 4 Assessment Letter - Term 2](/files/2024_P4_Term_2_Assessment_Letter.pdf)
 
 [Primary 5 Assessment Letter - Term 2](/files/Parents%20Corner/Assessment%20Matters/2024_P5_Term_2_Assessment_Letter_20_Mar_Final.pdf)
 
