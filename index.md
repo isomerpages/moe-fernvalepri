@@ -18,16 +18,7 @@ sections:
           description: "#STEMSG #STEMPLAYGROUND"
           url: https://youtu.be/q6isjlh9f9w
   - infopic:
-      title: Find out more about our MOE Kindergarten!
-      subtitle: WHAT'S HAPPENING
-      button: Click here to find out more.
-      alt: Moe Kindergarten @ Fernvale
-      url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
-      image: /images/e47416769_1883.jpg
-  - resources:
-      title: Student Calendar & Media
-  - infopic:
-      title: "Fernvale Primary School STEM Playground Challlenge "
+      title: Fernvale Primary School STEM Playground Challlenge
       id: infopic
       description: |-
         #STEMSG #STEMPLAYGROUND
@@ -36,4 +27,13 @@ sections:
       alt: Image alt text
       url: https://youtu.be/q6isjlh9f9w
       image: /images/Screenshot_2024_03_28_083657.jpg
+  - resources:
+      title: Student Calendar & Media
+  - infopic:
+      title: Find out more about our MOE Kindergarten!
+      subtitle: WHAT'S HAPPENING
+      button: Click here to find out more.
+      alt: Moe Kindergarten @ Fernvale
+      url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
+      image: /images/e47416769_1883.jpg
 ---
