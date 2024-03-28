@@ -18,7 +18,7 @@ sections:
           description: "#STEMSG #STEMPLAYGROUND"
           url: https://youtu.be/q6isjlh9f9w
   - infopic:
-      title: Fernvale Primary School STEM Playground Challlenge
+      title: Fernvale Primary School STEM Playground Challenge
       id: infopic
       description: |-
         #STEMSG #STEMPLAYGROUND
