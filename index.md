@@ -7,9 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/img_7385.jpg
+      background: /images/WhatsApp_Image_2024_03_28_at_6_59_11_AM.jpg
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
+      variant: center
+      size: sm
+      alignment: right
+      key_highlights:
+        - title: Fernvale Primary School STEM Playground Challlenge
+          description: "#STEMSG #STEMPLAYGROUND"
+          url: https://youtu.be/q6isjlh9f9w
   - infopic:
       title: Find out more about our MOE Kindergarten!
       subtitle: WHAT'S HAPPENING
@@ -19,4 +26,11 @@ sections:
       image: /images/e47416769_1883.jpg
   - resources:
       title: Student Calendar & Media
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
