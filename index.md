@@ -27,10 +27,13 @@ sections:
   - resources:
       title: Student Calendar & Media
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: "Fernvale Primary School STEM Playground Challlenge "
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: |-
+        #STEMSG #STEMPLAYGROUND
+        Please like our video for this competition!
+      button: Click here!
       alt: Image alt text
+      url: https://youtu.be/q6isjlh9f9w
+      image: /images/Screenshot_2024_03_28_083657.jpg
 ---
