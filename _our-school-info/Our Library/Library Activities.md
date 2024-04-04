@@ -43,7 +43,7 @@ Every Wednesday, teachers come to the library during the Primary 1 and Primary 2
 ![](/images/Library/collage%202023-08-25%2022_52_58.jpg)
 
 #### **Boggle Fundays**
-Every Wednesday, our upper primary students join in an online boggle session in the library during the Primary 5 and Primary 6 recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
+Every Wednesday, our Primary 3 to Primary 6 students join in a fun boggle session in the library during their recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
 ![](/images/Library/Boggle.jpg)
 
 #### **Monthly Activities**
