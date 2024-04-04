@@ -44,7 +44,7 @@ Every Wednesday, teachers come to the library during the Primary 1 and Primary 2
 
 #### **Boggle Fundays**
 Every Wednesday, our Primary 3 to Primary 6 students join in a fun boggle session in the library during their recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
-![](/images/Library/Boggle.jpg)
+![](/images/Library/boggle_p3_p6.jpg)
 
 #### **Monthly Activities**
 Students come to the library to take part in various activities throughout the year. Some of the activities include Hari Raya card making, Lantern making, Festival colouring, crossword puzzles and quizzes.
