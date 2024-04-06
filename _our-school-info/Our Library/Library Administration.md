@@ -6,7 +6,7 @@ third_nav_title: Our Library
 variant: markdown
 ---
 #### **Opening Hours**
-* Mondays to Fridays (7.40am to 3.00pm) 
+* Mondays to Fridays (7.40am to 1.30pm) 
 * School holidays (8am to 12pm)
 * Closed on Saturdays, Sundays and Public Holidays.
 
