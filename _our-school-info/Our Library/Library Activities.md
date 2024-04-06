@@ -66,9 +66,9 @@ The Short Story Writing Competition will be launched in May this year. Do look o
 
 <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg"></a>
 
-#### **Level Reading Competition**
+#### **Level/Class Reading Competition**
 The Level Reading Competition is a vibrant celebration of literacy and imagination, catering to students of all reading abilities. From picture books to chapter novels, every student has the chance to participate and shine, fostering essential skills like comprehension and critical thinking. As students immerse themselves in captivating stories, they not only sharpen their minds but also build camaraderie through shared experiences and a shared love for literature.
-
+![](/images/Library/Bar_Graph.jpg)
 
 #### **Books Exchange Day**
 Let’s save our Earth! Books Exchange Day allows our students to exchange their already read books with ‘new’ books that will allow them to carry on reading while saving our earth.
