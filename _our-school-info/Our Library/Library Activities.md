@@ -77,4 +77,4 @@ Let’s save our Earth! Books Exchange Day allows our students to exchange their
 
 #### **Assembly Programmes**
 The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will conduct Story Sharing sessions during assembly for the students. NLB will also organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. While Mass Borrowing sessions were temporarily stopped in the past few years, we aim to resume it soon.
-![](/images/Library/collage%202023-08-25%2023_18_53.jpg)
+![](/images/Library/Assembly_2024.jpg)
