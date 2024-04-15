@@ -43,8 +43,8 @@ Every Wednesday, teachers come to the library during the Primary 1 and Primary 2
 ![](/images/Library/collage%202023-08-25%2022_52_58.jpg)
 
 #### **Boggle Fundays**
-Every Wednesday, our upper primary students join in an online boggle session in the library during the Primary 5 and Primary 6 recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
-![](/images/Library/Boggle.jpg)
+Every Wednesday, our Primary 3 to Primary 6 students join in a fun boggle session in the library during their recess slots. The students have fun competing with each other to form the most number of words possible within an allocated time. 
+![](/images/Library/boggle_p3_p6.jpg)
 
 #### **Monthly Activities**
 Students come to the library to take part in various activities throughout the year. Some of the activities include Hari Raya card making, Lantern making, Festival colouring, crossword puzzles and quizzes.
@@ -54,6 +54,12 @@ Students come to the library to take part in various activities throughout the y
 Borrow and read books to exchange for attractive gifts! The loyalty card programme rewards students for borrowing and reading books available in our library. Students will need to submit a book review to complete the card and collect their gifts.
 ![](/images/Library/collage%202023-08-25%2023_06_05.jpg)
 
+#### **Storytelling Competition**
+The Storytelling Competition launched this year for Primary 1 and Primary 2 students aims to foster creativity, ignite a passion for storytelling, and enhance essential communication skills. This competition provides students with an opportunity to prepare and share short stories with their classmates, showcasing their imagination and oral communication abilities.
+
+Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
+![](/images/Library/Picture1.jpg)
+
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories had been selected last year! Do read their creative work in the Flipbook below.
 
@@ -61,10 +67,14 @@ The Short Story Writing Competition will be launched in May this year. Do look o
 
 <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg"></a>
 
+#### **Level/Class Reading Competition**
+The Level Reading Competition is a vibrant celebration of literacy and imagination, catering to students of all reading abilities. From picture books to chapter novels, every student has the chance to participate and shine, fostering essential skills like comprehension and critical thinking. As students immerse themselves in captivating stories, they not only sharpen their minds but also build camaraderie through shared experiences and a shared love for literature.
+![](/images/Library/Bar_Graph.jpg)
+
 #### **Books Exchange Day**
 Let’s save our Earth! Books Exchange Day allows our students to exchange their already read books with ‘new’ books that will allow them to carry on reading while saving our earth.
 ![](/images/Library/picture21.jpg)
 
 #### **Assembly Programmes**
 The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will conduct Story Sharing sessions during assembly for the students. NLB will also organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. While Mass Borrowing sessions were temporarily stopped in the past few years, we aim to resume it soon.
-![](/images/Library/collage%202023-08-25%2023_18_53.jpg)
+![](/images/Library/NLB_Sharing_2024.jpg)
