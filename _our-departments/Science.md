@@ -2,6 +2,7 @@
 title: Science
 permalink: /our-departments/science/
 description: ""
+variant: markdown
 ---
 ### Vision  
 
@@ -74,7 +75,5 @@ Selected P4 &amp; P5 students are highly engaged in the Science Olympiad session
 *   <a href="https://www.bbc.co.uk/schools/scienceclips/index_flash.shtml" target="_blank">BCC Schools Science Clips</a>
 *   <a href="https://kids.discovery.com/" target="_blank">Discovery Kids</a>
 *   <a href="https://www.howstuffworks.com/" target="_blank">How stuff works?</a>
-*   <a href="https://www.energyquest.ca.gov/how_it_works/" target="_blank">How does it work?</a>[]()
-*   <a href="https://www.scholastic.com/magicschoolbus/" target="_blank">Scholastic's The Magic School Bus</a>
 *   <a href="https://www.sec.org.sg/" target="_blank">Singapore Environment Council</a>
 *   <a href="https://www.science.edu.sg/Pages/SCBHome.aspx" target="_blank">Singapore Science Centre</a>
