@@ -72,8 +72,6 @@ Selected P4 &amp; P5 students are highly engaged in the Science Olympiad session
 ### Useful Links
 
 *   <a href="https://www.brainpop.com/" target="_blank">Brainpop</a>
-*   <a href="https://www.bbc.co.uk/schools/scienceclips/index_flash.shtml" target="_blank">BCC Schools Science Clips</a>
-*   <a href="https://kids.discovery.com/" target="_blank">Discovery Kids</a>
 *   <a href="https://www.howstuffworks.com/" target="_blank">How stuff works?</a>
 *   <a href="https://www.sec.org.sg/" target="_blank">Singapore Environment Council</a>
-*   <a href="https://www.science.edu.sg/Pages/SCBHome.aspx" target="_blank">Singapore Science Centre</a>
+*   <a href="https://www.science.edu.sg" target="_blank">Singapore Science Centre</a>
