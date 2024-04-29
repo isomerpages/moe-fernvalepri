@@ -2,6 +2,7 @@
 title: Science
 permalink: /our-departments/science/
 description: ""
+variant: markdown
 ---
 ### Vision  
 
@@ -15,7 +16,7 @@ To nurture and develop young scientists who aspire to innovate and invent in the
 
 The Science Department leverages on the child’s innate curiosity and subscribes to a student-centred learning in which students build their scientific understanding and process skills through active inquiry. It encourages students to explore beyond, as an inquirer – raising questions about things around them, testing their ideas and making evidence-based conclusions. Through scientific inquiry, students will develop the skills, ethics and attitudes such as responsibility and perseverance, which are essential to the Practice of Science.
 
-### **SciencExperience @ FVPS**
+### **ScienceExperience @ FVPS**
 
 ### Collaborative Inquiry  
 Students take ownership of the inquiry process as they work together to plan and investigate ideas respectfully and evaluate their results to make a conclusion.
@@ -71,10 +72,6 @@ Selected P4 &amp; P5 students are highly engaged in the Science Olympiad session
 ### Useful Links
 
 *   <a href="https://www.brainpop.com/" target="_blank">Brainpop</a>
-*   <a href="https://www.bbc.co.uk/schools/scienceclips/index_flash.shtml" target="_blank">BCC Schools Science Clips</a>
-*   <a href="https://kids.discovery.com/" target="_blank">Discovery Kids</a>
 *   <a href="https://www.howstuffworks.com/" target="_blank">How stuff works?</a>
-*   <a href="https://www.energyquest.ca.gov/how_it_works/" target="_blank">How does it work?</a>[]()
-*   <a href="https://www.scholastic.com/magicschoolbus/" target="_blank">Scholastic's The Magic School Bus</a>
 *   <a href="https://www.sec.org.sg/" target="_blank">Singapore Environment Council</a>
-*   <a href="https://www.science.edu.sg/Pages/SCBHome.aspx" target="_blank">Singapore Science Centre</a>
+*   <a href="https://www.science.edu.sg" target="_blank">Singapore Science Centre</a>
