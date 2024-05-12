@@ -15,7 +15,7 @@ description: ""
 <br>Do ensure that you set up your security questions for your MIMS.
 <br>Click HERE to find out how to setup your security questions.</p>
 <hr>
-<p><strong><u>Student Learning Space (SLS)</u></strong>
+<p><strong><u>&lt;h2&gt;Student Learning Space (SLS)&lt;/h2&gt;</u></strong>
 </p>
 <p>To login to Student Learning Space (SLS),</p>
 <p>Go to the SLS webpage, https://vle.learning.moe.edu.sg/</p>
