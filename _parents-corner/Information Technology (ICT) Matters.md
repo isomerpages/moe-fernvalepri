@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Information Technology (ICT) Matters</h3>
-<p><strong><u>Student iCON / MIMS Login</u></strong>
+<p><strong><u>Student iCON / MIMS Login</u></strong> 
 <br>
 <br>URL for Student iCON / MIMS Login: https://workspace.google.com/dashboard
 <br>MIMS ID: yourname @students.edu.sg
