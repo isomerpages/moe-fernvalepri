@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Information Technology (ICT) Matters</h3>
-<p><strong><u>&lt;h2&gt; Student iCON / MIMS Login</u></strong><u> &lt;/h2&gt;</u> 
+<p><strong><u>Student iCON / MIMS Login</u></strong>
 <br>
 <br>URL for Student iCON / MIMS Login: https://workspace.google.com/dashboard
 <br>MIMS ID: yourname @students.edu.sg
@@ -24,7 +24,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/P4_P6_Student_iCON.png">
 </div>
 <hr>
-<p><strong><u>&lt;h2&gt;Student Learning Space (SLS)&lt;/h2&gt;</u></strong>
+<p><strong><u>Student Learning Space (SLS)</u></strong>
 </p>
 <p>To login to Student Learning Space (SLS),</p>
 <p>Go to the SLS webpage, https://vle.learning.moe.edu.sg/</p>
@@ -44,8 +44,19 @@ description: ""
 <p>Enter your MIMS Password (Do check with your child's Form Teacher if you
 do not know)</p>
 <hr>
-<p><strong>Digital Access @ Home</strong>
+<p><strong>Digital Access @ Home</strong> 
 <br>
+<br>The programme provides the following schemes:</p>
+<p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
+lower-income households to support their lifestyle needs, including work
+and social activities.</p>
+<p>The iNSPIRE Fund Scheme offers financial assistance to full-time students
+(aged 25 years and below) who are unable to co-pay for the computer applied
+under the PC-Bundle scheme.</p>
+<p>Further information about the individual scheme and the eligibility criteria
+can be found in the IDA Website . Alternatively, parents may also contact
+the school’s general office for more details and to obtain the application
+forms.
 <br>
 </p>
 <p></p>
