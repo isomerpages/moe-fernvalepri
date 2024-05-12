@@ -14,6 +14,15 @@ description: ""
 <br>
 <br>Do ensure that you set up your security questions for your MIMS.
 <br>Click HERE to find out how to setup your security questions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/P1_P3_Student_iCON.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/P4_P6_Student_iCON.png">
+</div>
 <hr>
 <p><strong><u>&lt;h2&gt;Student Learning Space (SLS)&lt;/h2&gt;</u></strong>
 </p>
@@ -35,5 +44,8 @@ description: ""
 <p>Enter your MIMS Password (Do check with your child's Form Teacher if you
 do not know)</p>
 <hr>
-<p></p>
+<p><strong>Digital Access @ Home</strong>
+<br>
+<br>
+</p>
 <p></p>
