@@ -5,17 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h3>Information Technology (ICT) Matters</h3>
-<p><strong><u>Student iCON / MIMS Login</u></strong><u> </u>
+<p><strong><u>&lt;h2&gt; Student iCON / MIMS Login</u></strong><u> &lt;/h2&gt;</u>
 <br>
-<br><strong>URL for Student iCON / MIMS Login: <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong> 
-<br><strong>MIMS ID:</strong> yourname @<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a> 
-<br>(Example: <strong><em>Your name is Joe Tan, your MIMS ID will be joe_tan@students.edu.sg</em></strong>)
-<br><strong>MIMS Password:</strong> Do check in with your child's Form Teacher
-for the password
+<br>URL for Student iCON / MIMS Login: https://workspace.google.com/dashboard
+<br>MIMS ID: yourname @students.edu.sg
+<br>(Example: Your name is Joe Tan, your MIMS ID will be joe_tan@students.edu.sg)
+<br>MIMS Password: Do check in with your child's Form Teacher for the password
 <br>
 <br>Do ensure that you set up your security questions for your MIMS.
-<br>Click <a href="https://cms.isomer.gov.sg/sites/moe-fernvalepri/media/files/mediaDirectory/files%2FParents%20Corner" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
-find out how to setup your security questions.</p>
+<br>Click HERE to find out how to setup your security questions.</p>
 <hr>
 <p><strong><u>Student Learning Space (SLS)</u></strong>
 </p>
