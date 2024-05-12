@@ -56,18 +56,38 @@ Teacher if you do not know)</p>
 <p><strong>Digital Access @ Home</strong> 
 <br>
 <br>The programme provides the following schemes:</p>
-<p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
-lower-income households to support their lifestyle needs, including work
-and social activities.</p>
-<p>The iNSPIRE Fund Scheme offers financial assistance to full-time students
-(aged 25 years and below) who are unable to co-pay for the computer applied
-under the PC-Bundle scheme.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">DigitalAccess@Home</a></strong> provides
+subsidised broadband and laptops/tablets to lower-income households to
+support their lifestyle needs, including work and social activities.
+<br>
+<br><strong>Eligibility Criteria</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Eligibility_Criteria.png">
+</div>
+<p>
+<br>
+</p>
+</li>
+<li>
+<p>The <strong><a href="https://www.digitalforlife.gov.sg/About/Digital-for-Life-Movement-and-Fund" rel="noopener noreferrer nofollow" target="_blank">iNSPIRE Fund</a></strong> Scheme
+offers financial assistance to full-time students (aged 25 years and below)
+who are unable to co-pay for the computer applied under the PC-Bundle scheme.
+<br>
+</p>
+</li>
+<li>
 <p>Further information about the individual scheme and the eligibility criteria
-can be found in the IDA Website . Alternatively, parents may also contact
-the school’s general office for more details and to obtain the application
-forms.
+can be found in the <strong><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">IDA Website</a></strong> .
+Alternatively, parents may also contact the school’s general office for
+more details and to obtain the application forms.
 <br>
 <br>
 </p>
+</li>
+</ol>
 <hr>
 <p></p>
