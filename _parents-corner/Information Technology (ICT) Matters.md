@@ -18,12 +18,15 @@ find out how to setup your security questions.</p>
 <p>You can refer <strong><a href="/files/Parents Corner/MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> on
 how to <strong>Reset your Password.</strong>
 </p>
-<p></p>
+<p>
+<br><strong><em>PRIMARY 1 - PRIMARY 3</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/P1_P3_Student_iCON.png">
 </div>
 <p></p>
-<p></p>
+<p><strong><em>PRIMARY 4 - PRIMARY 6</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/P4_P6_Student_iCON.png">
 </div>
@@ -33,7 +36,7 @@ how to <strong>Reset your Password.</strong>
 <p>To login to Student Learning Space (SLS),</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to the SLS webpage, <strong><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a></strong>
+<p>Go to the SLS webpage, <strong><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a></strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
