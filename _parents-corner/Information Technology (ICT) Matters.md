@@ -4,7 +4,7 @@ permalink: /information-technology-ict-matters/
 variant: tiptap
 description: ""
 ---
-<h3>Information Technology (ICT) Matters</h3>
+<h3><strong>Information Technology (ICT) Matters</strong></h3>
 <p><strong><u>Student iCON / MIMS Login</u></strong> 
 <br>
 <br><strong>URL for Student iCON / MIMS Login:</strong>  <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard </a>
@@ -31,9 +31,18 @@ how to <strong>Reset your Password.</strong>
 <p><strong><u>Student Learning Space (SLS)</u></strong>
 </p>
 <p>To login to Student Learning Space (SLS),</p>
-<p>Go to the SLS webpage, <strong><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a></strong>
-</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>Go to the SLS webpage, <strong><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a></strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/SLS.png">
+</div>
+<p>
+<br>
+</p>
+</li>
 <li>
 <p>Click on Login with MIMS
 <br>
@@ -62,7 +71,7 @@ Teacher if you do not know)</p>
 subsidised broadband and laptops/tablets to lower-income households to
 support their lifestyle needs, including work and social activities.
 <br>
-<br><strong>Eligibility Criteria</strong>
+<br><strong>Eligibility Criteria</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
