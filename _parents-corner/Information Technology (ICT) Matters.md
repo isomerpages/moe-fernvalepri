@@ -14,7 +14,8 @@ description: ""
 for the password
 <br>
 <br>Do ensure that you set up your security questions for your MIMS.
-<br>Click HERE to find out how to setup your security questions.</p>
+<br>Click <a href="https://cms.isomer.gov.sg/sites/moe-fernvalepri/media/files/mediaDirectory/files%2FParents%20Corner" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+find out how to setup your security questions.</p>
 <hr>
 <p><strong><u>Student Learning Space (SLS)</u></strong>
 </p>
