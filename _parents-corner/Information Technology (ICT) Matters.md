@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Information Technology (ICT) Matters</h3>
-<p><strong><u>&lt;h2&gt; Student iCON / MIMS Login</u></strong><u> &lt;/h2&gt;</u>
+<p><strong><u>&lt;h2&gt; Student iCON / MIMS Login</u></strong><u> &lt;/h2&gt;</u> 
 <br>
 <br>URL for Student iCON / MIMS Login: https://workspace.google.com/dashboard
 <br>MIMS ID: yourname @students.edu.sg
@@ -25,7 +25,7 @@ description: ""
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/SLS_Login_Page.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Parents Corner/SLS_Login_Page.png">
 </div>
 </li>
 </ol>
