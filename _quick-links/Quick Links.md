@@ -70,6 +70,10 @@ required)</p>
 </p>
 </li>
 <li>
+<p><a href="https://scmobile.moe.edu.sg/home" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+</li>
+<li>
 <p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS</a>
 </p>
 </li>
