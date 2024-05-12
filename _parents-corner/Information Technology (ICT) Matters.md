@@ -23,7 +23,7 @@ for the password
 </p>
 </li>
 <li>
-<p>Click on <strong>Login with MIMS</strong>
+<p>Click on <strong>Login with MIMS</strong> 
 <br>
 </p>
 </li>
