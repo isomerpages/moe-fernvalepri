@@ -20,25 +20,22 @@ find out how to setup your security questions.</p>
 <p><strong><u>Student Learning Space (SLS)</u></strong>
 </p>
 <p>To login to Student Learning Space (SLS),</p>
+<p>Go to the SLS webpage, https://vle.learning.moe.edu.sg/</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to the SLS webpage, <a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a>
-</p>
-</li>
-<li>
-<p>Click on <strong>Login with MIMS</strong> 
+<p>Click on Login with MIMS
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/SLS_Login_Page.png">
 </div>
 </li>
-<li>
-<p>Enter your MIMS Login ID ( MIMS email is <a href="mailto:yourname@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yourname@students.edu.sg</a>)</p>
-</li>
-<li>
+</ol>
+<p>Enter your MIMS Login ID ( MIMS email is yourname@students.edu.sg)
+<br>
+</p>
 <p>Enter your MIMS Password (Do check with your child's Form Teacher if you
 do not know)</p>
-</li>
-</ol>
+<hr>
+<p></p>
 <p></p>
