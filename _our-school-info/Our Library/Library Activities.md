@@ -67,6 +67,8 @@ The Short Story Writing Competition was launched in 2023 to complete the cycle f
 
 This year, the Short Story Writing Competition was launched on 14 May. Do refer to the poster below for details of the competition.
 
+![](/images/Library/SSWC_2024.jpg)
+
 #### **Level/Class Reading Competition**
 The Level/Class Reading Competition is a vibrant celebration of literacy and imagination, catering to students of all reading abilities. From picture books to chapter novels, every student has the chance to participate and shine, fostering essential skills like comprehension and critical thinking. As students immerse themselves in captivating stories, they not only sharpen their minds but also build camaraderie through shared experiences and a shared love for literature.
 ![](/images/Library/Bar_Graph.jpg)
