@@ -36,7 +36,7 @@ We aim to spark a passion for photography, videography and creative designing. W
 .tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
 .tg .tg-3q3a{background-color:#F9EBD7;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 425px" class="tg">
+<table style="undefined;table-layout: fixed; width: 490px" class="tg">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 280px">
@@ -54,7 +54,7 @@ We aim to spark a passion for photography, videography and creative designing. W
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="font-weight:normal">Mr  Muhammad Ridzuan</span></td>
-    <td class="tg-7zkw"><span style="font-weight:normal"> </span><a href="mailto: muhammad_ridzuan_osman@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nuraini_hamzah@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="font-weight:normal"> </span><a href="mailto: muhammad_ridzuan_osman@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"> muhammad_ridzuan_osman@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -91,9 +91,8 @@ We aim to spark a passion for photography, videography and creative designing. W
 </table>
 
 ## <b><u>Our Success</u></b>
-<h4><b>2024 STEM Playground Challenge</b></h4>
-<h5><b>How Far Reel it Move? (Cotton Reel Tank)<br></b>
- <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/q6isjlh9f9w?si=DbqpbGo1QAJsnmuq" height="315" width="560"></iframe><br>Credits: FVPS Media Club
+<h4><b>2024 STEM Playground Challenge</b></h4> <h5><b>How Far Reel it Move? (Cotton Reel Tank)<br></b>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/q6isjlh9f9w?si=DbqpbGo1QAJsnmuq" height="315" width="560"></iframe><br>Credits: FVPS Media Club
 <br><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
