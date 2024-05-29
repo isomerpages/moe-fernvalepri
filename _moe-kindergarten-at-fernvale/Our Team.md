@@ -4,4 +4,9 @@ permalink: /moe-kindergarten-at-fernvale/our-staff/
 description: ""
 variant: tiptap
 ---
-<h1>Our Team</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Staff_Organization_Chart.jpg"></div><p></p>
+<h1>Our Team</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Organization_Chart__1_.jpg">
+</div>
+<p></p>
