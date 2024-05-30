@@ -180,6 +180,12 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3VfG69_SikU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+### <b>2020: MOE OSOS – Best Photo Story</b>
+Theme: Priceless Moments<br>
+From Old Wooden Pallets to New Furniture
+
+
+
 
 
 ### <b><u>Join Us</u></b>
