@@ -91,13 +91,14 @@ We aim to spark a passion for photography, videography and creative designing. W
 </table>
 
 ## <b><u>Our Success</u></b>
-<h4><b>2024 STEM Playground Challenge</b></h4> <h5><b>How Far Reel it Move? (Cotton Reel Tank)<br></b>
+## <b>2024 STEM Playground Challenge</b>
+<b>How Far Reel it Move? (Cotton Reel Tank)<br></b>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/q6isjlh9f9w?si=DbqpbGo1QAJsnmuq" height="315" width="560"></iframe><br>Credits: FVPS Media Club
 <br><br>
 
 
 
-### <b>2023: MOE OSOS – Best Photo Story</b>  
+## <b>2023: MOE OSOS – Best Photo Story</b>  
 <b>Theme: Our School Community<br>The Heart and Future of Our Community</b> <br><br>
 	"We have a team of caring and dedicated staff. They go the extra mile to help our students discover their strengths and interests," says our Principal, Mr Enoch Lau.
 Mr Lau is a sports enthusiast and an Arsenal fan. He inspires us to excel and learn new skills beyond the classroom. Mr Kevin Patt, Vice Principal, is a skillful photographer who shares his talent with us and guides us to discover our strengths. Our librarian, Ms Azura, goes the extra mile to teach us to be responsible individuals. Our security officer, Mdm Lee Geok Lan, is always vigilant and helps to create a safe environment for us. Together, we build a strong school community in Fernvale Primary.
@@ -192,4 +193,4 @@ From Old Wooden Pallets to New Furniture
 
 ### <b><u>Join Us</u></b>
 
-#### **If you are creative and have a passion in photography &amp; videography, join this special group of students to deepen your interest.**</h5>
+#### **If you are creative and have a passion in photography &amp; videography, join this special group of students to deepen your interest.**
