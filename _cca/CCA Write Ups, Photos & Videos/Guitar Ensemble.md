@@ -104,4 +104,3 @@ Students of any skill levels are encouraged to come and share their techniques w
 ![](/images/Cca/Guitar%20Ensemble/Picture2.jpg)
 
 Our 2022 SYF Team participated in the Singapore Youth Festival Arts Presentation. As it was held during post-Covid period, there was no grading for this SYF AP.
-
