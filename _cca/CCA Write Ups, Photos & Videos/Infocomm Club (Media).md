@@ -118,7 +118,7 @@ This year, we unite as one to make a lion our mascot. First, we traced out the b
 <b>Credits to:</b> Teo Qiao Tian, Musfirah Binti Md Idrus, Jasmeera Farveen Binte Abdul Wahid
 	
 
-### <b>2022 OSOS – Best Video</b>  
+## <b>2022 OSOS – Best Video</b>  
 
 <b>Theme: What I Go To School For?</b>  
 <b>Link:</b>[**https://www.youtube.com/watch?v=w3cqfiFUWpM**](https://www.youtube.com/watch?v=w3cqfiFUWpM)  
@@ -164,7 +164,7 @@ Credits to -&nbsp;Pek Qian Sheng,&nbsp;Charlotte M Tang Pei Ling,&nbsp;Nur Elly 
 </tbody>
 </table>
 
-### <b>2021 OSOS – Best Photo Story</b>
+## <b>2021 OSOS – Best Photo Story</b>
 Theme: United As One<br>
 Keep your distance - not forever, just for now<br><br>
 The effects of the Covid-19 pandemic have caused massive changes to our daily lives, forcing us to adjust to our new normal. Wearing a mask is now must! Keeping our distance helps us stay safe and healthy.
@@ -174,7 +174,7 @@ The effects of the Covid-19 pandemic have caused massive changes to our daily li
 <b>Credits to:</b> Tirunagari Visisht, Charlene Goh Wei Fang, Koh Kai Xin Alicia
 
 
-### <b>2021 OSOS – Video Contest (Honourable Mention)</b>
+## <b>2021 OSOS – Video Contest (Honourable Mention)</b>
 
 Theme: What Makes our school special?  
 Link:&nbsp;[https://www.youtube.com/watch?v=3VfG69\_SikU](https://www.youtube.com/watch?v=3VfG69_SikU)  
@@ -183,7 +183,7 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3VfG69_SikU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-### <b>2020: MOE OSOS – Best Photo Story</b>
+## <b>2020: MOE OSOS – Best Photo Story</b>
 Theme: Priceless Moments<br>
 From Old Wooden Pallets to New Furniture
 
@@ -191,6 +191,6 @@ From Old Wooden Pallets to New Furniture
 
 
 
-### <b><u>Join Us</u></b>
+## <b><u>Join Us</u></b>
 
-#### **If you are creative and have a passion in photography &amp; videography, join this special group of students to deepen your interest.**
+### **If you are creative and have a passion in photography &amp; videography, join this special group of students to deepen your interest.**
