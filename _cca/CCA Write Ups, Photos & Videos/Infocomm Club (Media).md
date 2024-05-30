@@ -107,7 +107,7 @@ Mr Lau is a sports enthusiast and an Arsenal fan. He inspires us to excel and le
 	
 <b>Credits to:</b>  Ng Ray Hong, Alexis Tan Le Xin, Lee Ci Ling Chloe<p></p>
 	
-### <b>2022: MOE OSOS – Honourable Mention</b><br>
+## <b>2022: MOE OSOS – Honourable Mention</b><br>
 Theme: United As One<br>
 Fernvale Lion - A Reminder of Our School Values<br>
 <br>
