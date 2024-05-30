@@ -187,9 +187,9 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 Theme: Priceless Moments<br>
 From Old Wooden Pallets to New Furniture
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQG-VCUDsq8EIwlUHWN8dPY-mWyD33wn7cPHe1oDoCt-Wy04M3QQ2hyhfiTOBMBkKxr6fzcio_8lWja/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-
-
+<b>Credits to:</b> Cruz John Davidson Pascua, Carmen Liew Kai Xin, Hridik Paldiwal
 
 ## <b><u>Join Us</u></b>
 
