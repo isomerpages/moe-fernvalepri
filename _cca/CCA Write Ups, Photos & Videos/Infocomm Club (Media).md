@@ -163,10 +163,15 @@ Credits to -&nbsp;Pek Qian Sheng,&nbsp;Charlotte M Tang Pei Ling,&nbsp;Nur Elly 
 </tbody>
 </table>
 
+### <b>2021 OSOS – Best Photo Story</b>
+Theme: United As One<br>
+Keep your distance - not forever, just for now<br><br>
+The effects of the Covid-19 pandemic have caused massive changes to our daily lives, forcing us to adjust to our new normal. Wearing a mask is now must! Keeping our distance helps us stay safe and healthy.
+
+<b>Credits to:</b> Tirunagari Visisht, Charlene Goh Wei Fang, Koh Kai Xin Alicia
 
 
-
-**2021 OSOS – Video Contest (Honourable Mention)**
+### <b>2021 OSOS – Video Contest (Honourable Mention)</b>
 
 Theme: What Makes our school special?  
 Link:&nbsp;[https://www.youtube.com/watch?v=3VfG69\_SikU](https://www.youtube.com/watch?v=3VfG69_SikU)  
@@ -175,69 +180,7 @@ Credits to -&nbsp;Soh Jia Xuan, Gilian,&nbsp;Charlotte M Tang Pei Ling
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3VfG69_SikU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-atqo{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-kiqt{background-color:#DDD;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 924px">
-<colgroup>
-<col style="width: 282px">
-<col style="width: 351px">
-<col style="width: 291px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-kiqt" colspan="3">2020: OSOS - Best Photo Story<br>Theme: Priceless Moments<br>From Old Wooden Pallets to New Furniture</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    
-  </tr>
-  <tr>
-    <td class="tg-lnwz" colspan="3">Credits to - John Davidson Pascua, Carmen Liew Kai Xin, Hridik Paldiwal     </td>
-  </tr>
-</tbody>
-</table>
 
-<br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-atqo{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ky7k{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 911px">
-<colgroup>
-<col style="width: 285px">
-<col style="width: 333px">
-<col style="width: 293px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-ky7k" colspan="3">2022 School Event National Day Celebration</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-   
-  </tr>
-  <tr>
-    <td class="tg-lnwz" colspan="3"><span style="font-weight:normal">Credits to - Fu Shiqi, Ng Ray Hong, Lucretius Fong Tze Tak     </span></td>
-  </tr>
-</tbody>
-</table>
 
 ### <b><u>Join Us</u></b>
 
