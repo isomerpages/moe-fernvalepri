@@ -112,7 +112,7 @@ Fernvale Lion - A Reminder of Our School Values<br>
 <br>
 This year, we unite as one to make a lion our mascot. First, we traced out the body and the mane on felt cloth. Next, we cut out the parts. We sewed the pieces together and pasted on the lion’s eyes and paws. Then we stuffed the lion with cotton wool and tied it as a keychain on our school bag. Each lion represents different core values of Fernvale Primary such as Care, Joy, Responsibility, Integrity, Graciousness, and Resilience. Our goal is to realize the values, make them our virtues, by living them in our daily lives on a regular basis.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg7lv8EMWzIeqmV_2apTCU4Y--VMYZPM8ITp0FmUy3vXyokdBuFzsZA4oBvoR2pMgq7TOwNDQEr0lr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZhowzLG3wljJ_gbB2iS-9UYid2MNj0sm4rpin-FUn6okktjzJU2Am7fR6hpIyjBoqTW0EtuzbIn5p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <b>Credits to:</b> Teo Qiao Tian, Musfirah Binti Md Idrus, Jasmeera Farveen Binte Abdul Wahid
 	
