@@ -168,6 +168,8 @@ Theme: United As One<br>
 Keep your distance - not forever, just for now<br><br>
 The effects of the Covid-19 pandemic have caused massive changes to our daily lives, forcing us to adjust to our new normal. Wearing a mask is now must! Keeping our distance helps us stay safe and healthy.
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOyJIXRdZFWEcRFhaDTcprc9lQvR4KdpgzD-5Ba-DFl2vBtLrZDFT5YbV9z76E8OnnFmyieNgpphku/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 <b>Credits to:</b> Tirunagari Visisht, Charlene Goh Wei Fang, Koh Kai Xin Alicia
 
 
