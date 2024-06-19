@@ -2,13 +2,19 @@
 title: Mother Tongue Language
 permalink: /our-departments/mother-tongue-language/
 description: ""
+variant: markdown
 ---
 # Mother Tongue Language
+
+
+## Department Goal:
+
+Joyful and active learners of the Mother Tongue Languages and Cultures
+
 ## Chinese Language
 
-## Vision:
-
-Every Fernvale Pupil an Effective ad Confident User of their Mother Tongue Language and take pride in his/her cultures
+### Vision:
+Every Fernvale Pupil an Effective and Confident User of their Mother Tongue Language and take pride in his/her cultures.
 
 ### Mission:
 
@@ -16,25 +22,17 @@ M1: To develop our pupils into avid readers, budding writers and effective speak
 
 M2: To inculcate in our pupils a sense of love and appreciation of the Language Culture.
 
-### Signature Programmes:
+### Department Programmes:
 
-1\. **Chinese New Year Celebration**
+#### **1. 2024 Chinese New Year Celebration**
 
-2\. **Reading Programme**
+On 9th February 2024, Fernvale Primary School ushered in the Year of the Dragon with a host of activities which are planned for the pupils. 
 
-3\. **Mother Tongue Fortnight Programme**
+Our school leaders kick-started the entire celebration by sharing their childhood experience of Chinese New Year, followed by the Chinese New Year Concert, where we have our very own Guzheng team that performed 2 songs “Jasmine Flower” and “Nuo Wen Ji Ya”.  In addition, we also invited Mr Joe to put up an exciting puppet show for the pupils. Besides the above, the Chinese department also organized a Lion Dance troupe and Wushu performance. Last but not least, we ended our concert on a high note with our sing-along session. After the concert, the pupils returned to class to carry out their classroom activities.
 
-4\. **Cultural Programme Exposure Scheme (CPES)**
+It is great joy to see pupils of different races, coming together to celebrate Chinese culture and traditions.
 
-5\. **Conversational Chinese and Malay Programme (CCM)**
 
-#### **1\. Chinese New Year Celebration**
-
-Chinese New Year Celebration is an event where pupils get the opportunities to learn more and appreciate Chinese traditions and culture through participating in cultural activities such as at the booths during recess in the lead-up to the Chinese New Year’s Eve as well as concert items and classroom activities on the actual day of the celebration. The activities include Chinese Calligraphy, quizzes, making of new year cards and lanterns etc.
-
-![](/images/Our%20departments/Mother%20Tongue%20Language/CNY20.jpg)
-
-![](/images/Our%20departments/Mother%20Tongue%20Language/CNY20201.jpg)
 
 #### 2\. Reading Programme  
   
