@@ -122,13 +122,13 @@ The MTL Fortnight activities provide platforms for pupils to actively learn MTL 
 Our pupils enjoyed learning and singing a traditional folk song such as “Bangau Oh Bangau!” They are also given the chance to perform on stage in front of their friends. 
 
 Learning to sing folk songs helped pupils to expand their vocabulary; and improve their pronunciation and linguistic confidence.
-<img height="5" width="10" src="/images/Our%20departments/Mother%20Tongue%20Language/P1_P2.jpg">
 
+![](/images/Our%20departments/Mother%20Tongue%20Language/P1_P2.jpg)
 
 <b><u>Primary 3 - Silat</u></b>
 Our pupils gained new experience by learning Silat, a traditional Malay martial art, which enriched their understanding of their heritage. The hands-on experience fostered a strong sense of pride and connection to their roots, making the process both enjoyable and culturally enlightening.
 
-
+<img src="/images/Our%20departments/Mother%20Tongue%20Language/P3.jpg">
 
 **Games and Cooperative Learning Strategies**
 
