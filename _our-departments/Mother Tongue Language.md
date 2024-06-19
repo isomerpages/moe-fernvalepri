@@ -45,38 +45,84 @@ book review and reflect on the learning points gleaned from the programme.
 ![](/images/Our%20departments/Mother%20Tongue%20Language/FORTHNITE.jpg)
 ![](/images/Our%20departments/Mother%20Tongue%20Language/CLReading02.jpg)
 
-#### 3\. Mother Tongue Fortnight Programme (CL)
+#### 3\. Mother Tongue Fortnight 2024 (CL)
 
-The Chinese department has implemented Chinese Reading programme 龙虎榜 since year 2021. Teachers utilised interesting reading resources through eZhishi digital platform which pupils subscribes to.
-Reading activity are conducted from Term 1 to Term 3. Pupils answer relevant questions after watching the eClassic Stories on the eZhishi platform. Pupils receive a prize if they answer 3 out of 5 questions correctly. 
-Teachers observed that pupils are highly motivated and enjoyed reading eClassic Stories. This reading programme helped pupils to cultivate good reading habits. 
+The end of Term 2 was an exciting one, with Mother Tongue Fortnight Language Fortnight activities conducted for the pupils. The pupils learnt to appreciate the Chinese Language and its culture by participating in a series of performance, competitions and a wide range of cultural activities organized for them.  The activities include hand drum painting, spinning tops painting, trying on traditional clothing, Chinese Calligraphy, Chinese idiom Rubik’s cube and carving of Chinese seal. 
+
+Through the various cultural activities, the pupils had the opportunity to make different traditional crafts and try out traditional games. Besides cultural activities, the pupils also learnt Chinese songs and poems. 
+
+The Primary 1 pupils performed Chinese songs with the hand drums they made during a showcase for the lower primary pupils in the hall. The Primary 2 and Primary 5 pupils had mini class competitions using the spinning tops and Chinese idiom Rubik’s cube they made during the activities too.
+
+Majority of the pupils feedback that they enjoyed the activities and had learnt to appreciate the Chinese Culture more after participating in these activities. 
 
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/CLReading01.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8VveFTMTW2yJbV7wagXskG9zbEaWNDse5Aw9SI-7ZHdZG0X3Hoj0ZgojCy1egZWVZ0jl0Z70Fm5WV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+#### 4\.P6 Cultural Performance Exposure Scheme 2024
+
+Our Primary 6 CL pupils went for a Learning Journey at Hokkien Huay Kuan under the Cultural Performance Exposure Scheme on 3 May 2024. 
+
+They watched a play titled《周处除三害》 (Zhou Chu Gets Rid of the 3 Evils). It is about the main character Zhou Chu and how he became a better person after getting rid of the three evil characters in the story. 
+
+For most of the pupils, it was the first time that they are watching a play, and they cherished the opportunity to watch it with their peers. The cast also did a brilliant job of engaging and interacting with the pupils and some of them also got a chance to act in one of the scenes! It is indeed a valuable experience to learn about Chinese culture in a fun and interactive way.
+
+![](/images/Our%20departments/Mother%20Tongue%20Language/CPE01.jpg)
+![](/images/Our%20departments/Mother%20Tongue%20Language/CPE02.jpg)
+![](/images/Our%20departments/Mother%20Tongue%20Language/CPE03.jpg)
+
+
 
 * * *
 
 ## Malay Language
 
-### Department Vision
-
-"To produce Arif Budiman "
-
 ### Department Goal
 
 To enable our pupils to communicate in Malay Language effectively and confidently.  
 To inculcate the love and appreciation of the Malay Heritage and culture in all pupil.  
+
+### Department Vision
+
+"To produce Arif Budiman "
   
 ### Department Programmes:  
-**INTERACTIVE HANDS ON LESSONS**  
 
-\- Cun Bahasa (Personalised Board Game)&nbsp;
 
-Fernvale ML Department very own board game! Explore Malay language and culture in fun and interactive way!
+#### 1\. Mother Tongue Language Fortnight 2024 (ML)
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/INTERACTIVE%20HANDS%20ON%20LESSONS%201.jpg)
+The MTL Fortnight activities provide platforms for pupils to actively learn MTL and the associated culture to experience MTL as ‘a living language’. The activities provide authentic opportunities for pupils to use MTL and experience the culture. Through cultural activities such as singing Folklore songs, Puppetry storytelling, Silat, the initiative fosters a deeper connection to heritage, ensuring that the rich history, values, and customs of the Malay community are continuously enhancing pupil’s learning.
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/INTERACTIVE%20HANDS%20ON%20LESSONS%202.jpg)
+<table style="border:1px solid black;border-collapse:collapse;">
+<tbody><tr><td style="border:solid black;">Primary 1 </td>
+<td style="border:solid black;">Traditional Folk Song</td>
+</tr>
+
+<tr>
+<td style="border:solid black;">Primary 2</td>
+<td style="border:solid black;">Traditional Folk Song</td>
+</tr>
+
+<tr><td style="border:solid black;">Primary 3</td>
+<td style="border:solid black;">Traditional Martial Arts (Silat)</td>
+</tr>
+
+<tr><td style="border:solid black;">Primary 4</td>
+<td style="border:solid black;">Traditional Malay Dance</td>
+</tr>
+
+<tr><td style="border:solid black;">Primary 5</td><td style="border:solid black;">Traditional Malay Dance</td>
+</tr>
+
+<tr><td style="border:solid black;">Primary 6</td><td style="border:solid black;">Traditional Malay Dance</td>
+</tr>
+</tbody></table>
+
+<b><u>Primary 1 &amp; Primary 2 - Song &amp; Dance of Folklore Songs</u></b>
+
+Our pupils enjoyed learning and singing a traditional folk song such as “Bangau Oh Bangau!” They are also given the chance to perform on stage in front of their friends. 
+
+Learning to sing folk songs helped pupils to expand their vocabulary; and improve their pronunciation and linguistic confidence.
+![](/images/Our%20departments/Mother%20Tongue%20Language/P1_P2.jpg)
 
 **Games and Cooperative Learning Strategies**
 
