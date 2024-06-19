@@ -18,9 +18,9 @@ Every Fernvale Pupil an Effective and Confident User of their Mother Tongue Lang
 
 ### Mission:
 
-M1: To develop our pupils into avid readers, budding writers and effective speakers in their Mother Tongue Language through programmes infused with 21st Century Competency skills.
+M1: To develop our pupils into avid readers, budding writers and effective speakers in their Mother Tongue Language through programmes infused with 21st&nbsp;Century Competency skills.
 
-M2: To inculcate in our pupils a sense of love and appreciation of the Language Culture.
+M2:&nbsp;To inculcate in our pupils a sense of love and appreciation of the Language Culture.
 
 ### Department Programmes:
 
@@ -32,6 +32,7 @@ Our school leaders kick-started the entire celebration by sharing their childhoo
 
 It is great joy to see pupils of different races, coming together to celebrate Chinese culture and traditions.
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTG0AV8bRCkubd0q_oNnCQ69PaWC8OjIrofEoqFxZvyOVSDaPOuOs0CHo6tODTCj2oVwpkolR6vLqQs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 #### 2\. Reading Programme  
@@ -42,12 +43,16 @@ The CL Dept Reading Programme has been rolled out this year and our target audie
 book review and reflect on the learning points gleaned from the programme.
 
 ![](/images/Our%20departments/Mother%20Tongue%20Language/FORTHNITE.jpg)
+![](/images/Our%20departments/Mother%20Tongue%20Language/CLReading02.jpg)
 
 #### 3\. Mother Tongue Fortnight Programme (CL)
 
-P1 to P6 pupils learnt about Chinese culture through interactive activities during MT Fortnight Programme. The age-appropriate activities were fun and interesting. The pupils gave feedback that they had learnt to appreciate the Chinese Culture more after participating in these activities. The activities include Chinese Speech and Drama with Picture Book Making, Chinese Speech and Drama with Rod Puppet Making, Bean Portrait Making,Chinese Fan Painting, Chinese Knots – Keychain making and Chinese Kite Making.
+The Chinese department has implemented Chinese Reading programme 龙虎榜 since year 2021. Teachers utilised interesting reading resources through eZhishi digital platform which pupils subscribes to.
+Reading activity are conducted from Term 1 to Term 3. Pupils answer relevant questions after watching the eClassic Stories on the eZhishi platform. Pupils receive a prize if they answer 3 out of 5 questions correctly. 
+Teachers observed that pupils are highly motivated and enjoyed reading eClassic Stories. This reading programme helped pupils to cultivate good reading habits. 
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/ALOT%20OF%20PICTURE.jpg)
+
+![](/images/Our%20departments/Mother%20Tongue%20Language/CLReading01.jpg)
 
 * * *
 
@@ -65,7 +70,7 @@ To inculcate the love and appreciation of the Malay Heritage and culture in all 
 ### Department Programmes:  
 **INTERACTIVE HANDS ON LESSONS**  
 
-\- Cun Bahasa (Personalised Board Game) 
+\- Cun Bahasa (Personalised Board Game)&nbsp;
 
 Fernvale ML Department very own board game! Explore Malay language and culture in fun and interactive way!
 
@@ -94,7 +99,7 @@ ICT is the lifestyle of the younger generation. They are very comfortable using 
 | Primary 3 | Kite-making                |
 | Primary 4 | Silat                      |
 | Primary 5 | Wayang Kulit               |
-| Primary 6 | Cultural Quiz & Expedition |
+| Primary 6 | Cultural Quiz &amp; Expedition |
 
 
 * * *
@@ -116,28 +121,28 @@ To develop every child into an avid reader, a budding writer and an effective sp
 
 1\. **Reading Race**
 
-The reading race programme aims to develop confident readers as well as inculcate in them the love for reading. The programme is conducted daily during curriculum time where pupils do five minutes of silent reading before exchanging their reading cards to bring home to read.  Through this, our pupils have opportunities to learn new vocabulary as well as hone their comprehension skills too.
+The reading race programme aims to develop confident readers as well as inculcate in them the love for reading. The programme is conducted daily during curriculum time where pupils do five minutes of silent reading before exchanging their reading cards to bring home to read. &nbsp;Through this, our pupils have opportunities to learn new vocabulary as well as hone their comprehension skills too.
 
   
 
 2\. **Vaandu Portal**
 
-To make the learning of Tamil fun and self-directed, we have subscribed for this learning interactive portal through which our pupils are able to learn and revise their Tamil syllabus content.  The portal covers most aspects of the syllabus illustratively such that it caters to the likes of our young learners.
+To make the learning of Tamil fun and self-directed, we have subscribed for this learning interactive portal through which our pupils are able to learn and revise their Tamil syllabus content. &nbsp;The portal covers most aspects of the syllabus illustratively such that it caters to the likes of our young learners.
 
 3\. **Jewel Time**
 
-Jewel Time is a yearly memorable language learning experience time for our pupils with AKT productions.  AKT professional storytellers, public speakers, puppeteers and actors bring the Tamil Language alive to our pupils through their amazing and varied talents.  The pupils go through different experiences depending on their levels, all of which give them an enriching language experience at Fernvale.
+Jewel Time is a yearly memorable language learning experience time for our pupils with AKT productions. &nbsp;AKT professional storytellers, public speakers, puppeteers and actors bring the Tamil Language alive to our pupils through their amazing and varied talents. &nbsp;The pupils go through different experiences depending on their levels, all of which give them an enriching language experience at Fernvale.
 
 a.  Primary 1 – Storytheatre  
 b.  Primary 2 – Storytelling  
 c.  Primary 3 – Villuppaatu  
 d.  Primary 4 – Traditional Tamil Theatres  
 e.  Primary 5 – Creating An Imaginary World      
-f.   Primary 6 -  Art of Public Speaking & Poetry Workshop  
+f.   Primary 6 - &nbsp;Art of Public Speaking &amp; Poetry Workshop  
 
 4\. **Sorsuvai**  
 
-To instil the joy in writing and to help our budding writers to feel a sense of  accomplishment, ‘Sorsuvai’ the Tamil Language Magazine was launched last year. We collated our pupils’ best riddles, jokes, poems and stories and compiled them into a ‘Fernvale’ made Tamil magazine at the end of the year.  This magazine served as a good holiday read for our pupils.
+To instil the joy in writing and to help our budding writers to feel a sense of &nbsp;accomplishment, ‘Sorsuvai’ the Tamil Language Magazine was launched last year. We collated our pupils’ best riddles, jokes, poems and stories and compiled them into a ‘Fernvale’ made Tamil magazine at the end of the year. &nbsp;This magazine served as a good holiday read for our pupils.
 
 5\. **Cultural Impressions**
 
@@ -155,16 +160,16 @@ f.  Primary 6 – Tamil Sangam Literature
 
 6\. **Language cum Talent Competitions**  
 
-We see both the internal and external competitions as good platforms for our pupils to become confident speakers of the Tamil Language.  Hence, our pupils are strongly encouraged to take part in these competitions every year. To ensure that every Tamil child in our school gets an opportunity to take part in a competition, ‘Kavinkalai’ competitions are organised and held yearly.   Over the last few years, ‘Kavinkalai” has gained popularity among our children and it is heartwarming to see an increase in the participation rate.
+We see both the internal and external competitions as good platforms for our pupils to become confident speakers of the Tamil Language. &nbsp;Hence, our pupils are strongly encouraged to take part in these competitions every year. To ensure that every Tamil child in our school gets an opportunity to take part in a competition, ‘Kavinkalai’ competitions are organised and held yearly. &nbsp;&nbsp;Over the last few years, ‘Kavinkalai” has gained popularity among our children and it is heartwarming to see an increase in the participation rate.
 
   
 
 7\. **Diwali Dazzle**
 
-Our annual ‘Diwali Dazzle’ is another platform that enables our pupils to showcase their hidden talents.  ‘Diwali Dazzle’ is an annual concert which is held on the eve of Deepavali. Within a minimum time span of thirty minutes, our pupils together with our parent volunteers put up marvellous performances during this concert, making it to be the limelight of stage performances at Fernvale every year.
+Our annual ‘Diwali Dazzle’ is another platform that enables our pupils to showcase their hidden talents. &nbsp;‘Diwali Dazzle’ is an annual concert which is held on the eve of Deepavali. Within a minimum time span of thirty minutes, our pupils together with our parent volunteers put up marvellous performances during this concert, making it to be the limelight of stage performances at Fernvale every year.
 
   
 
 8\. **Toastmasters In Tamil**
 
-The ‘Toastmasters In Tamil’ workshop is designed specially for our Primary 5 pupils.  We are one of the first few schools to implement this programme in Tamil for primary school pupils.  The two day programme serves as a platform for our students to overcome their fear and anxiety towards public speaking and to improve on their public speaking skills.  Pupils are mentored by our very own parent volunteer who has been trained and has several years of experience as a Tamil Toastmaster.
+The ‘Toastmasters In Tamil’ workshop is designed specially for our Primary 5 pupils. &nbsp;We are one of the first few schools to implement this programme in Tamil for primary school pupils. &nbsp;The two day programme serves as a platform for our students to overcome their fear and anxiety towards public speaking and to improve on their public speaking skills. &nbsp;Pupils are mentored by our very own parent volunteer who has been trained and has several years of experience as a Tamil Toastmaster.
