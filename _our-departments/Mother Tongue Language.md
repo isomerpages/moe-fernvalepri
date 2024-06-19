@@ -175,34 +175,31 @@ Pupils are encouraged to read the monthly subscribed ‘Sutti Mayil’ magazine 
 
 Twinkle Thoughts, an integral part of our CCE lessons, embodies our commitment to nurturing 21st Century Skills. Through purposeful activities focused on self-care, gratitude, and community engagement, pupils express appreciation and spread joy. From heartfelt thank-you notes to creative handicrafts made from recycled materials, pupils uplift the school community and neighbours while fostering environmental consciousness. Our surveys consistently show that 100% of participating experience genuine joy through Twinkle Thoughts.
 
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/TW01.jpg"><br>
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/Tw02.jpg">
 
+**Thamizhai Nesipom      Thamizhil Pesuvom**
 
+To foster effective communication skills, we use innovative, level-specific approaches. For Primary 1 to 4, we use the ThingLink App with custom illustrations of school activities to enhance oral engagement. For Primary 5 and 6, we use oral video stimuli with analytical rubrics to boost critical thinking and articulation. These initiatives aim to develop confident, articulate communicators ready for an ever-evolving world.  
 
-3\. **Jewel Time**
+**Collaborative Writing Strategy**  
 
-Jewel Time is a yearly memorable language learning experience time for our pupils with AKT productions. &nbsp;AKT professional storytellers, public speakers, puppeteers and actors bring the Tamil Language alive to our pupils through their amazing and varied talents. &nbsp;The pupils go through different experiences depending on their levels, all of which give them an enriching language experience at Fernvale.
+In our department, we embrace collaborative writing strategies to enhance writing proficiency amongst our pupils. By working together in groups, pupils cultivate essential communication and teamwork skills while collectively brainstorming ideas and refining their writing. This approach not only promotes a supportive learning environment but also fosters creativity and critical thinking as pupils learn from one another's perspectives. Through collaborative writing, our pupils develop confidence in their writing abilities.
 
-a.  Primary 1 – Storytheatre  
-b.  Primary 2 – Storytelling  
-c.  Primary 3 – Villuppaatu  
-d.  Primary 4 – Traditional Tamil Theatres  
-e.  Primary 5 – Creating An Imaginary World      
-f.   Primary 6 - &nbsp;Art of Public Speaking &amp; Poetry Workshop  
+**Mother Tongue Language Fortnight 2024 (TL)**
 
-4\. **Sorsuvai**  
+MTL Fortnight is a cherished tradition at Fernvale, offering Tamil pupils a journey through language with AKT Productions. Professional storytellers, speakers, puppeteers, and actors bring the Tamil Language to life, captivating our pupils with their diverse talents.
 
-To instil the joy in writing and to help our budding writers to feel a sense of &nbsp;accomplishment, ‘Sorsuvai’ the Tamil Language Magazine was launched last year. We collated our pupils’ best riddles, jokes, poems and stories and compiled them into a ‘Fernvale’ made Tamil magazine at the end of the year. &nbsp;This magazine served as a good holiday read for our pupils.
+Each year, pupils experience:
+Primary 1: Storytelling
+Primary 2: Storytelling with puppets
+Primary 3: Storytelling with songs
+Primary 4: Traditional Tamil Theatres
+Primary 5: Creating An Imaginary World with voices
+Primary 6: The art of Public Speaking 
 
-5\. **Cultural Impressions**
+These immersive experiences deepen pupils' connection to Tamil, fostering cultural appreciation and linguistic proficiency.
 
-We believe in having a strong partnership with our parents in our pupils’ educational journey. Thus, every year we invite our parents to share with our pupils their profound knowledge and expertise in the field of Tamil culture. These parents hold workshops or talks on the different aspects of our Tamil Culture, depending on the level they are assigned for. The different aspects are as follows :
-
-a.  Primary 1 – Tamil Traditional Wear  
-b.  Primary 2 – Tamil Musical Instruments  
-c.  Primary 3 – Tamil Traditional Food  
-d.  Primary 4 – Tamil Traditional Crafts  
-e.  Primary 5 – Tamil Traditional Weddings     
-f.  Primary 6 – Tamil Sangam Literature
     
 
   
