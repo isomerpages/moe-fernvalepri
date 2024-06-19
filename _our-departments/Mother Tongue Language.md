@@ -142,8 +142,7 @@ Pupils are introduced to Kompang, a traditional Malay musical instrument, learni
 
 <b><u>Primary 6 - Wayang Kulit</u></b>
 Pupils are exposed to Wayang Kulit, Malay puppetry. The pupils enjoyed crafting their own puppets and watching the show. This hands-on experience expanded their vocabulary and storytelling techniques. 
-
-![](/images/Our%20departments/Mother%20Tongue%20Language/P6.jpg)
+<img style="width:10%" src="/images/Our departments/Mother Tongue Language/P6.jpg">
 
 #### 2\\. Hari Raya Celebration
 The Hari Raya celebration, “Rasa Rasa Raya 2024”, themed around traditional kuih, significantly boosted pupils' confidence and fostered collaboration across various CCA groups and departments. Pupils from diverse backgrounds worked together to prepare and present performances significant to the traditional Malay delicacies, enhancing their teamwork and organizational skills. 
