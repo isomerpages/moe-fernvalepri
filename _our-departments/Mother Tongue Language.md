@@ -124,6 +124,12 @@ Our pupils enjoyed learning and singing a traditional folk song such as “Banga
 Learning to sing folk songs helped pupils to expand their vocabulary; and improve their pronunciation and linguistic confidence.
 ![](/images/Our%20departments/Mother%20Tongue%20Language/P1_P2.jpg)
 
+
+<b><u>Primary 3 - Silat</u></b>
+Our pupils gained new experience by learning Silat, a traditional Malay martial art, which enriched their understanding of their heritage. The hands-on experience fostered a strong sense of pride and connection to their roots, making the process both enjoyable and culturally enlightening.
+
+
+
 **Games and Cooperative Learning Strategies**
 
 Learning takes place better with cooperative learning strategies implemented in the classrooms. Techniques such as 'round robin' and 'think pair share' enable pupils to interact positively with their classmates. Group presentation enables pupils to take ownership in their own work and increase their interest in learning. Pupils learn from each other and are much more responsible and confident in their language. Learning resources and hands on activities have created a much vibrant environment during lessons.
