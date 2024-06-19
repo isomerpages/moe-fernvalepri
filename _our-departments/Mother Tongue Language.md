@@ -130,56 +130,53 @@ Our pupils gained new experience by learning Silat, a traditional Malay martial 
 
 <img src="/images/Our%20departments/Mother%20Tongue%20Language/P3.jpg">
 
-**Games and Cooperative Learning Strategies**
+<b><u>Primary 4 - Traditional Malay Dance</u></b>
+Our pupils enthusiastically engaged in learning Malay traditional dance, which enhanced their appreciation and understanding of their cultural heritage. Pupils expressed joy and pride in learning the beauty and grace in the Malay traditional dance.
 
-Learning takes place better with cooperative learning strategies implemented in the classrooms. Techniques such as 'round robin' and 'think pair share' enable pupils to interact positively with their classmates. Group presentation enables pupils to take ownership in their own work and increase their interest in learning. Pupils learn from each other and are much more responsible and confident in their language. Learning resources and hands on activities have created a much vibrant environment during lessons.
+![](/images/Our%20departments/Mother%20Tongue%20Language/P4.jpg)
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/malay%20group%20learning.jpg)
+<b><u>Primary 5 - Kompang</u></b>
+Pupils are introduced to Kompang, a traditional Malay musical instrument, learning basic beats and rhythms. The process not only fostered a stronger connection to their roots but also enhanced their musical skills, discipline, and teamwork. 
 
-**10M LESSON STUDY - SELF DIRECTED LEARNER**
+![](/images/Our%20departments/Mother%20Tongue%20Language/P5.jpg)
 
-ICT is the lifestyle of the younger generation. They are very comfortable using technology. Thus, ICT lessons are interesting and bring excitement to the pupils. Primary 2 pupils have been introduced to the 10M portal and they have been using the portal since the beginning of 2015. Pupils benefited from this portal as they can assess their own learning through recordings and assessment rubrics.
+<b><u>Primary 6 - Wayang Kulit</u></b>
+Pupils are exposed to Wayang Kulit, Malay puppetry. The pupils enjoyed crafting their own puppets and watching the show. This hands-on experience expanded their vocabulary and storytelling techniques. 
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/10M.jpg)
+![](/images/Our%20departments/Mother%20Tongue%20Language/P6.jpg)
 
-**MOTHER TONGUE FORTNIGHT 2015:**
+#### 2\\. Hari Raya Celebration
+The Hari Raya celebration, “Rasa Rasa Raya 2024”, themed around traditional kuih, significantly boosted pupils' confidence and fostered collaboration across various CCA groups and departments. Pupils from diverse backgrounds worked together to prepare and present performances significant to the traditional Malay delicacies, enhancing their teamwork and organizational skills. 
 
-|           |                            |
-|-----------|----------------------------|
-| Primary 1 | Making of Bunga Manggar    |
-| Primary 2 | Making of Bunga Rampai     |
-| Primary 3 | Kite-making                |
-| Primary 4 | Silat                      |
-| Primary 5 | Wayang Kulit               |
-| Primary 6 | Cultural Quiz &amp; Expedition |
-
+Performances, showcasing cultural dances and music, provided a platform for pupils to express their talents confidently. The event's vibrant and joyous atmosphere was a testament to their collective effort, promoting unity and cultural appreciation. This collaborative endeavor not only celebrated heritage but also created lasting memories, reinforcing the importance of teamwork, and boosting overall pupils’ morale and confidence.![](/images/Our%20departments/Mother%20Tongue%20Language/HariRaya.jpg)
 
 * * *
 
 ## Tamil Language
 
-"Good teaching is one-fourth preparation and three-fourths theatre." -- Gail Goldwin
-
-
 ### Department Vision
 
-The Tamil Language Department’s vision is for every child to take pride of their culture and to be confident and competent users of Tamil Language.
+Every Fernvale Pupil to be an Effective and Confident User of their Tamil Language and take pride of their culture. 
 
 ### Department Mission
 
-To develop every child into an avid reader, a budding writer and an effective speaker of the Tamil Language through fun and meaningful programmes. To inculcate in every child a love for the Tamil Culture.
+M1: To develop our pupils into avid readers, budding writers and effective speakers of their Mother Tongue Language through programmes infused with 21st Century Competency skills.
+
+M2: To inculcate in our pupils a sense of love and appreciation for the Tamil Language.
+.
 
 ### **Signature Programmes:**
 
-1\. **Reading Race**
+**Reading Race**
 
-The reading race programme aims to develop confident readers as well as inculcate in them the love for reading. The programme is conducted daily during curriculum time where pupils do five minutes of silent reading before exchanging their reading cards to bring home to read. &nbsp;Through this, our pupils have opportunities to learn new vocabulary as well as hone their comprehension skills too.
+Pupils are encouraged to read the monthly subscribed ‘Sutti Mayil’ magazine and take part in an online quiz. The first pupil from each level to complete the quiz with 100% accuracy will win a prize. Through this initiative, we aim to instill a love for reading in our pupils, while also providing them with opportunities to learn new vocabulary and enhance their comprehension skills.
 
-  
+**Twinkle Thoughts: Spreading Kindness, Inspiring Joy**
 
-2\. **Vaandu Portal**
+Twinkle Thoughts, an integral part of our CCE lessons, embodies our commitment to nurturing 21st Century Skills. Through purposeful activities focused on self-care, gratitude, and community engagement, pupils express appreciation and spread joy. From heartfelt thank-you notes to creative handicrafts made from recycled materials, pupils uplift the school community and neighbours while fostering environmental consciousness. Our surveys consistently show that 100% of participating experience genuine joy through Twinkle Thoughts.
 
-To make the learning of Tamil fun and self-directed, we have subscribed for this learning interactive portal through which our pupils are able to learn and revise their Tamil syllabus content. &nbsp;The portal covers most aspects of the syllabus illustratively such that it caters to the likes of our young learners.
+
+
 
 3\. **Jewel Time**
 
