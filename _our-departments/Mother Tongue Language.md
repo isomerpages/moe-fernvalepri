@@ -38,12 +38,11 @@ It is great joy to see pupils of different races, coming together to celebrate C
 #### 2\. Reading Programme  
   
 
-The CL Dept Reading Programme has been rolled out this year and our target audience is the lower primary pupils. Structured time for teachers to carry out the programme has been planned and incorporated into the Scheme of Work. The programme comprises activities such as a story-telling session conducted by our own CL teachers, the making of mini story-book, role-play as well as activity sheets where the children write a
+The CL Dept Reading Programme has been rolled out this year and our target audience is the lower primary pupils. Structured time for teachers to carry out the programme has been planned and incorporated into the Scheme of Work. The programme comprises activities such as a story-telling session conducted by our own CL teachers, the making of mini story-book, role-play as well as activity sheets where the children write a book review and reflect on the learning points gleaned from the programme.
 
-book review and reflect on the learning points gleaned from the programme.
+<img style="width:80%" src="/images/Our departments/Mother Tongue Language/FORTHNITE.jpg"><br><br>
+<img style="width:80%" src="/images/Our departments/Mother Tongue Language/CLReading02.jpg">
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/FORTHNITE.jpg)
-![](/images/Our%20departments/Mother%20Tongue%20Language/CLReading02.jpg)
 
 #### 3\. Mother Tongue Fortnight 2024 (CL)
 
@@ -66,11 +65,9 @@ They watched a play titled《周处除三害》 (Zhou Chu Gets Rid of the 3 Evil
 
 For most of the pupils, it was the first time that they are watching a play, and they cherished the opportunity to watch it with their peers. The cast also did a brilliant job of engaging and interacting with the pupils and some of them also got a chance to act in one of the scenes! It is indeed a valuable experience to learn about Chinese culture in a fun and interactive way.
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/CPE01.jpg)
-![](/images/Our%20departments/Mother%20Tongue%20Language/CPE02.jpg)
-![](/images/Our%20departments/Mother%20Tongue%20Language/CPE03.jpg)
-
-
+<img style="width:60%" src="/images/Our departments/Mother Tongue Language/CPE01.jpg">
+<img style="width:60%" src="/images/Our departments/Mother Tongue Language/CPE02.jpg">
+<img style="width:60%" src="/images/Our departments/Mother Tongue Language/CPE03.jpg">
 
 * * *
 
@@ -123,31 +120,35 @@ Our pupils enjoyed learning and singing a traditional folk song such as “Banga
 
 Learning to sing folk songs helped pupils to expand their vocabulary; and improve their pronunciation and linguistic confidence.
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/P1_P2.jpg)
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/P1_P2.jpg">
 
 <b><u>Primary 3 - Silat</u></b>
 Our pupils gained new experience by learning Silat, a traditional Malay martial art, which enriched their understanding of their heritage. The hands-on experience fostered a strong sense of pride and connection to their roots, making the process both enjoyable and culturally enlightening.
 
-<img src="/images/Our%20departments/Mother%20Tongue%20Language/P3.jpg">
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/P3.jpg">
 
 <b><u>Primary 4 - Traditional Malay Dance</u></b>
 Our pupils enthusiastically engaged in learning Malay traditional dance, which enhanced their appreciation and understanding of their cultural heritage. Pupils expressed joy and pride in learning the beauty and grace in the Malay traditional dance.
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/P4.jpg)
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/P4.jpg">
+
 
 <b><u>Primary 5 - Kompang</u></b>
 Pupils are introduced to Kompang, a traditional Malay musical instrument, learning basic beats and rhythms. The process not only fostered a stronger connection to their roots but also enhanced their musical skills, discipline, and teamwork. 
 
-![](/images/Our%20departments/Mother%20Tongue%20Language/P5.jpg)
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/P5.jpg">
+
 
 <b><u>Primary 6 - Wayang Kulit</u></b>
 Pupils are exposed to Wayang Kulit, Malay puppetry. The pupils enjoyed crafting their own puppets and watching the show. This hands-on experience expanded their vocabulary and storytelling techniques. 
-<img style="width:10%" src="/images/Our departments/Mother Tongue Language/P6.jpg">
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/P6.jpg">
 
 #### 2\\. Hari Raya Celebration
 The Hari Raya celebration, “Rasa Rasa Raya 2024”, themed around traditional kuih, significantly boosted pupils' confidence and fostered collaboration across various CCA groups and departments. Pupils from diverse backgrounds worked together to prepare and present performances significant to the traditional Malay delicacies, enhancing their teamwork and organizational skills. 
 
-Performances, showcasing cultural dances and music, provided a platform for pupils to express their talents confidently. The event's vibrant and joyous atmosphere was a testament to their collective effort, promoting unity and cultural appreciation. This collaborative endeavor not only celebrated heritage but also created lasting memories, reinforcing the importance of teamwork, and boosting overall pupils’ morale and confidence.![](/images/Our%20departments/Mother%20Tongue%20Language/HariRaya.jpg)
+Performances, showcasing cultural dances and music, provided a platform for pupils to express their talents confidently. The event's vibrant and joyous atmosphere was a testament to their collective effort, promoting unity and cultural appreciation. This collaborative endeavor not only celebrated heritage but also created lasting memories, reinforcing the importance of teamwork, and boosting overall pupils’ morale and confidence.!
+
+<img style="width:80%" src="/images/Our departments/Mother Tongue Language/HariRaya.jpg">
 
 * * *
 
