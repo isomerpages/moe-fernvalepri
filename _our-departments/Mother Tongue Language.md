@@ -32,7 +32,7 @@ Our school leaders kick-started the entire celebration by sharing their childhoo
 
 It is great joy to see pupils of different races, coming together to celebrate Chinese culture and traditions.
 
-<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTG0AV8bRCkubd0q_oNnCQ69PaWC8OjIrofEoqFxZvyOVSDaPOuOs0CHo6tODTCj2oVwpkolR6vLqQs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTG0AV8bRCkubd0q_oNnCQ69PaWC8OjIrofEoqFxZvyOVSDaPOuOs0CHo6tODTCj2oVwpkolR6vLqQs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 #### 2\. Reading Programme  
