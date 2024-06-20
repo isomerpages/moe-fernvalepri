@@ -190,32 +190,43 @@ In our department, we embrace collaborative writing strategies to enhance writin
 
 MTL Fortnight is a cherished tradition at Fernvale, offering Tamil pupils a journey through language with AKT Productions. Professional storytellers, speakers, puppeteers, and actors bring the Tamil Language to life, captivating our pupils with their diverse talents.
 
-Each year, pupils experience:
-Primary 1: Storytelling
-Primary 2: Storytelling with puppets
-Primary 3: Storytelling with songs
-Primary 4: Traditional Tamil Theatres
-Primary 5: Creating An Imaginary World with voices
+Each year, pupils experience:<br>
+Primary 1: Storytelling<br>
+Primary 2: Storytelling with puppets<br>
+Primary 3: Storytelling with songs<br>
+Primary 4: Traditional Tamil Theatres<br>
+Primary 5: Creating An Imaginary World with voices<br>
 Primary 6: The art of Public Speaking 
 
 These immersive experiences deepen pupils' connection to Tamil, fostering cultural appreciation and linguistic proficiency.
 
-    
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/TL01.jpg"><br>
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/TL02.jpg"><br>
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/TL03.jpg">
+
+**Kavinkalai Competitions**  
+
+At Fernvale, we believe in providing our pupils with opportunities to excel and showcase their talents in the Tamil Language. In line with this vision, we offer a dynamic follow-up activity to our language programs: the Kavinkalai competitions. These serve as valuable platforms for our pupils to hone their speaking skills and build confidence in the Tamil Language. In recent years, 'Kavinkalai' has garnered increasing popularity among our pupils, with a notable rise in participation rates.
+
+<img style="width:50%" src="/images/Kavinkalai01.jpg">
+  
+![](/images/Kavinkalai01.jpg)
+**Diwali Dazzle**
+
+Experience the magic of our annual 'Diwali Dazzle' concert, a celebration of talent and culture held on the eve of Deepavali. In just thirty minutes, our pupils and dedicated parent volunteers deliver captivating performances that showcase the richness of our cultural heritage. We enhance our concerts by integrating universal themes like environmental sustainability into cultural presentations. This not only ensures inclusivity but also deepens pupils' understanding of these concepts, making the concert more engaging and meaningful.
 
   
 
-6\. **Language cum Talent Competitions**  
+**Deepavali Jazz-Up : Classroom Activities**
 
-We see both the internal and external competitions as good platforms for our pupils to become confident speakers of the Tamil Language. &nbsp;Hence, our pupils are strongly encouraged to take part in these competitions every year. To ensure that every Tamil child in our school gets an opportunity to take part in a competition, ‘Kavinkalai’ competitions are organised and held yearly. &nbsp;&nbsp;Over the last few years, ‘Kavinkalai” has gained popularity among our children and it is heartwarming to see an increase in the participation rate.
+Deepavali Jazz-Up is an exciting annual event organized by the department for the entire school community. Over the course of two weeks, pupils from every level participate in specific Deepavali craft-making activities tailored to their age group. These crafts are then proudly displayed outside their classrooms, adding a festive touch to our school environment.  Through these activities, pupils not only engage in creative expression but also deepen their understanding of the festival of Deepavali and the rich tapestry of Tamil culture.
 
-  
+### **Our Pupils' Achievements in 2024 External Competitions**
 
-7\. **Diwali Dazzle**
+<b>•	Rachel Ong Challenge Trophy 2024</b><br>
+P3-RL Shaanvi Shanjana Venkstesh, P4-CA Arunkumar Siddharth, P5 Sai Kiruba, and P6 Geetha Vijay participated in the Rachel Ong Challenge Trophy 2024 organized by Telok Blangah Community Club and won consolation prizes!
 
-Our annual ‘Diwali Dazzle’ is another platform that enables our pupils to showcase their hidden talents. &nbsp;‘Diwali Dazzle’ is an annual concert which is held on the eve of Deepavali. Within a minimum time span of thirty minutes, our pupils together with our parent volunteers put up marvellous performances during this concert, making it to be the limelight of stage performances at Fernvale every year.
+<b>•	Tamil Mozhi Vizha Show &amp; Tell Competition </b><br>
+Shaanvi from Primary 3 Resilience won the first prize in Tamil Mozhi Vizha Show &amp; Tell Competition organized by Fernvale Community Club.
 
-  
 
-8\. **Toastmasters In Tamil**
-
-The ‘Toastmasters In Tamil’ workshop is designed specially for our Primary 5 pupils. &nbsp;We are one of the first few schools to implement this programme in Tamil for primary school pupils. &nbsp;The two day programme serves as a platform for our students to overcome their fear and anxiety towards public speaking and to improve on their public speaking skills. &nbsp;Pupils are mentored by our very own parent volunteer who has been trained and has several years of experience as a Tamil Toastmaster.
