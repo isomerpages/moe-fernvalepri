@@ -157,6 +157,10 @@ variant: markdown
     <td class="tg-lnwz">Mdm Tan Mui Leng Catherine</td>
   </tr>
   <tr>
+    <td class="tg-lnwz">ICT Manager </td>
+    <td class="tg-lnwz">Mr Jason Sim</td>
+  </tr>
+  <tr>
     <td class="tg-lnwz">Administrative Executive (MK)</td>
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Chong Li Ping Claudia</span></td>
   </tr>
