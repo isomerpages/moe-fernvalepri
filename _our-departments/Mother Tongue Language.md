@@ -208,25 +208,31 @@ These immersive experiences deepen pupils' connection to Tamil, fostering cultur
 
 At Fernvale, we believe in providing our pupils with opportunities to excel and showcase their talents in the Tamil Language. In line with this vision, we offer a dynamic follow-up activity to our language programs: the Kavinkalai competitions. These serve as valuable platforms for our pupils to hone their speaking skills and build confidence in the Tamil Language. In recent years, 'Kavinkalai' has garnered increasing popularity among our pupils, with a notable rise in participation rates.
 
-<img style="width:50%" src="/images/Kavinkalai01.jpg">
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/Kavinkalai01.jpg"><br><img style="width:50%" src="/images/Our departments/Mother Tongue Language/Kavinkalai02.jpg">
   
-![](/images/Kavinkalai01.jpg)
+
 **Diwali Dazzle**
 
 Experience the magic of our annual 'Diwali Dazzle' concert, a celebration of talent and culture held on the eve of Deepavali. In just thirty minutes, our pupils and dedicated parent volunteers deliver captivating performances that showcase the richness of our cultural heritage. We enhance our concerts by integrating universal themes like environmental sustainability into cultural presentations. This not only ensures inclusivity but also deepens pupils' understanding of these concepts, making the concert more engaging and meaningful.
 
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/D1.jpg">
   
-
 **Deepavali Jazz-Up : Classroom Activities**
 
 Deepavali Jazz-Up is an exciting annual event organized by the department for the entire school community. Over the course of two weeks, pupils from every level participate in specific Deepavali craft-making activities tailored to their age group. These crafts are then proudly displayed outside their classrooms, adding a festive touch to our school environment.  Through these activities, pupils not only engage in creative expression but also deepen their understanding of the festival of Deepavali and the rich tapestry of Tamil culture.
+
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/D2.jpg"><br>
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/D3.jpg"><br>
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/D4.jpg">
 
 ### **Our Pupils' Achievements in 2024 External Competitions**
 
 <b>•	Rachel Ong Challenge Trophy 2024</b><br>
 P3-RL Shaanvi Shanjana Venkstesh, P4-CA Arunkumar Siddharth, P5 Sai Kiruba, and P6 Geetha Vijay participated in the Rachel Ong Challenge Trophy 2024 organized by Telok Blangah Community Club and won consolation prizes!
 
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/RO.jpg">
+
 <b>•	Tamil Mozhi Vizha Show &amp; Tell Competition </b><br>
 Shaanvi from Primary 3 Resilience won the first prize in Tamil Mozhi Vizha Show &amp; Tell Competition organized by Fernvale Community Club.
 
-
+<img style="width:50%" src="/images/Our departments/Mother Tongue Language/MZ.jpg">
