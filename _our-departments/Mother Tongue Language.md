@@ -32,7 +32,7 @@ Our school leaders kick-started the entire celebration by sharing their childhoo
 
 It is great joy to see pupils of different races, coming together to celebrate Chinese culture and traditions.
 
-<iframe allowfullscreen="true" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTG0AV8bRCkubd0q_oNnCQ69PaWC8OjIrofEoqFxZvyOVSDaPOuOs0CHo6tODTCj2oVwpkolR6vLqQs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTG0AV8bRCkubd0q_oNnCQ69PaWC8OjIrofEoqFxZvyOVSDaPOuOs0CHo6tODTCj2oVwpkolR6vLqQs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 #### 2\. Reading Programme  
@@ -55,7 +55,7 @@ The Primary 1 pupils performed Chinese songs with the hand drums they made durin
 Majority of the pupils feedback that they enjoyed the activities and had learnt to appreciate the Chinese Culture more after participating in these activities. 
 
 
-<iframe allowfullscreen="true" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8VveFTMTW2yJbV7wagXskG9zbEaWNDse5Aw9SI-7ZHdZG0X3Hoj0ZgojCy1egZWVZ0jl0Z70Fm5WV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8VveFTMTW2yJbV7wagXskG9zbEaWNDse5Aw9SI-7ZHdZG0X3Hoj0ZgojCy1egZWVZ0jl0Z70Fm5WV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### 4\.P6 Cultural Performance Exposure Scheme 2024
 
