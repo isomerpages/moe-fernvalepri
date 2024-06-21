@@ -5,7 +5,6 @@ date: 2023-08-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-Click the link below to view our programme!
-
-[Aesthetics Week 2023](https://youtu.be/bAJRG1VBjXA)
+Click **[HERE](https://www.fernvalepri.moe.edu.sg/files/FernvaleTimes_Term1_new.pdf)** to access to Our Fernvale Times.
