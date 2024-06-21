@@ -21,7 +21,8 @@ Every Fernvalion a Confident, Thinking and Caring athlete who enjoys an active a
 
 **Inter-class Games**  
 This annual sports event provide students the opportunity to participate in modified games and sports which are aligned with the PE syllabus to showcase their level of learning and understanding. This platform provides pupils with the opportunity to display the five school values and foster the Olympic spirit of respect, friendship and excellence among our pupils.
-
+|   |   |
+|---|---|
 <div class="row">
   <div class="column">
     <img style="width:90%" alt="Snow" src="/images/Our departments/Physical Education/interclass01.jpg">
@@ -37,54 +38,37 @@ This annual sports event provide students the opportunity to participate in modi
   </div>
 </div>
 
- 
+**P1 &amp; P2 Lower Primary Games Day**
 
-**2) P3 to P5 Inter-class Games**
+This annual event is a milestone activity that our lower primary children look forward to every year.  Other than providing an opportunity for students to apply the skills and techniques they learnt during PE lessons in a fun and dynamic setting, this event encourages the students to work together in teams, promoting cooperation, communication and teamwork.  This games day is a valuable extension of PE lesson, providing a holistic approach to supporting physical social and emotional development.
 
-This annual sports event provide Primary 3, 4 and 5 pupils the opportunity to participate in modified games and sports which are aligned with the PE syllabus to showcase their level of learning and&nbsp;understanding. This platform provides pupils with the opportunity to display the five school values&nbsp;and foster the Olympic spirit of respect, friendship and excellence among our pupils.
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2qOd4fV6wntBf8IPaZRiSLAbmIom7DLkAAdPEfmtiMIEoScA34P3YM4pJRgSICktkxDFwalbpuu5q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-|   |   |
-|---|---|
-|![](/images/Our%20departments/Physical%20Education/20180521_112147.jpg)   | ![](/images/Our%20departments/Physical%20Education/20180522_111939.jpg) <br>![](/images/Our%20departments/Physical%20Education/20180522_113809.jpg) |
+**Play @ Recess**
+Unstructured recess play provides students with an opportunity to engage in physical activities, helping to improve their fitness, coordination, and motor skills. Regular physical activity is essential for maintaining a healthy lifestyle.  Play@Recess also gives students the chance to manage their emotions and develop resilience. They learn to cope with challenges, disappointments, and successes in a natural setting.  This is an important mental break from structured learning, allowing students to return to the classroom refreshed and ready to learn.
 
-**3) P1 &amp; P2 Lower Primary Games Carnival**
+<img style="width:80%" alt="Snow" src="/images/Our departments/Physical Education/play01.jpg"><br>
+<img style="width:60%" alt="Forest" src="/images/Our departments/Physical Education/play02.jpg"><br>
+<img style="width:60%" alt="Mountains" src="/images/Our departments/Physical Education/play03.jpg">
 
-This annual event aims to allow pupils to have a meaningful Children’s Day. Other than providing games, arts and dance stations for the pupils, the PE department engaged other community partners such as Sengkang Health to educate the pupils about healthy lifestyle through informative games. This is to promote the welfare and well-being of our&nbsp;pupils.
-
-|   |   |   |
-|---|---|---|
-| ![](/images/Our%20departments/Physical%20Education/Bouncing%20Castle%20Booth%20-%20Jump%20Jump%20Jump.jpg) <br> ![](/images/Our%20departments/Physical%20Education/Dance%20Booth%20-%20Just%20dance.jpg) | ![](/images/Our%20departments/Physical%20Education/Redemption%20Booth%20-%20Prizes%20for%20everyone.jpg)<br> ![](/images/Our%20departments/Physical%20Education/Art%20Booth%20-%20Dots%20Garlore.jpg) | ![](/images/Our%20departments/Physical%20Education/Sengkang%20Health%20Booth%20-%20Quick%20Reflexes.jpg)  |
-
-**4) P6 Games Carnival**
-
-This annual post PSLE sports event provide the Primary 6 pupils with a ‘funfair’ like carnival where they were given the ‘voice’ to participate in any activities. While having fun, the pupils were also given an opportunity to demonstrate sportsmanship.&nbsp; This is also a class-bonding activity for the pupils to working closely together before they graduate and move on to their next phase of life.
-
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Physical%20Education/20171103_115535.jpg)  | ![](/images/Our%20departments/Physical%20Education/20171103_115623.jpg)  |
-
-![](/images/Our%20departments/Physical%20Education/20171103_125944.jpg)
-
-**5) Play@Recess**
-
-To help pupils engage themselves more meaningfully during recess time so as to promote a healthier lifestyle.
-
-**6) P4 SwimSafer**
+**SwimSafer Programme**
 
 Swimming is part of the MOE new Physical Education Syllabus. As such, our school conducts the Swimsafer Programme at Primary 4. The objective of the programme is for our pupils to gain confidence and develop independence in the water, as well as learn general and deep-end water safety.
 
-|   |   |
-|---|---|
-|![](/images/Our%20departments/Physical%20Education/IMG_0112.jpg)  |  ![](/images/Our%20departments/Physical%20Education/IMG_0111.jpg) | 
+<img style="width:80%" alt="Snow" src="/images/Our departments/Physical Education/swim01.jpg"><br>
+<img style="width:60%" alt="Forest" src="/images/Our departments/Physical Education/swim02.jpg"><br>
+<img style="width:60%" alt="Mountains" src="/images/Our departments/Physical Education/swim03.jpg">
 
-![](/images/Our%20departments/Physical%20Education/IMG_01091.jpg)
+**P5 Outdoor Adventure Camp**
 
-**7) P5 Camp**  
+As part of our school’s holistic education programme, the PE department and the Student Development Team organises a 3-day-2-night camp for the Primary 5 pupils every year. The Annual Primary 5 Outdoor Adventure Camp helps to build resilience and camaraderie amongst the pupils and teachers.  Students are provided with many opportunities to put on their thinking caps to solve problems and develop their leadership skills.  This is one programme that everyone looks forward to every year.
 
-As part of our school’s holistic education programme, the PE department and the Student Development Team organises a 3-day-2-night camp for the Primary 5 pupils every year. The Annual Primary 5 adventure camp is held at the MOE Dairy Farm Outdoor Adventure Learning Centre and it helps to build resilience and camaraderie amongst the pupils and teachers.&nbsp; Pupils are provided with many opportunities to put on their thinking caps to solve problems and develop their leadership skills.&nbsp; This is one programme that everyone looks forward to every year.
+<iframe allowfullscreen="true" height="600" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfeQsbhCNg0w8MQkFB2qCidnMPFzKXPZekE2k69xCyl0uxm_bY48AhkVHOR4eyO3pMKxAH4PVNz5tK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(5).png)
+**Learn-To-Play Programme**
 
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(6).png)  | ![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(7).png)<br>![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(8).png)<br>![](/images/Our%20departments/Physical%20Education/pasted%20image%200%20(9).png)  |
+Our Learn-To-Play programme is designed to enrich students' physical education by introducing a variety of sports beyond the standard PE curriculum. This program offers a unique opportunity for students to explore new activities, developing important social-emotional competencies and fostering different learning dispositions. Through engaging and enjoyable sessions, students not only gain physical skills but also build resilience, teamwork, and a growth mindset. Most importantly, the Learn-To-Play programme ensures that students have a lot of fun and experience the joy of learning in a supportive and dynamic environment. Join us and discover the excitement of trying something new!
+
+<iframe allowfullscreen="true" height="600" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRltiRQgXK7vV1s7qSudUiUbJIm7c2m2XOlK6d8TgYcc_IW1MUCc9bb8luv6uanXRFWOXCY8_mfWxZo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+
