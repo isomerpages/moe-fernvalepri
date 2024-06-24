@@ -13,10 +13,6 @@ sections:
       variant: center
       size: sm
       alignment: right
-      key_highlights:
-        - title: Fernvale Primary School STEM Playground Challenge
-          description: "#STEMSG #STEMPLAYGROUND"
-          url: https://youtu.be/q6isjlh9f9w
   - infopic:
       title: Singapore Youth Festival (SYF) 2024
       id: infopic
