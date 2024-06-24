@@ -18,15 +18,14 @@ sections:
           description: "#STEMSG #STEMPLAYGROUND"
           url: https://youtu.be/q6isjlh9f9w
   - infopic:
-      title: Fernvale Primary School STEM Playground Challenge
+      title: Singapore Youth Festival (SYF) 2024
       id: infopic
-      description: |-
-        #STEMSG #STEMPLAYGROUND
-        Please like our video for this competition!
+      description: Congratulations to our Guitar Ensemble, Guzheng Ensemble & Indian
+        Dance for achieving Certificate of Distinction at SYF 2024!
       button: Click here!
       alt: Image alt text
-      url: https://youtu.be/q6isjlh9f9w
-      image: /images/Screenshot_2024_03_28_083657.jpg
+      url: https://docs.google.com/presentation/d/1gW6I2OmOyzg9Y2mevvBbWCXHXveo62rftnjcwbaprNY/edit?usp=sharing
+      image: /images/syf.png
   - resources:
       title: Student Calendar & Media
   - infopic:
