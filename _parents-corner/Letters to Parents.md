@@ -100,7 +100,8 @@ Jan; P6 - Thur, 11 Jan)</p>
 <p>5.1 POSB Smart Buddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents Corner/Letters to Parents/2024_062_Letter_to_Parents___Term_3_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Letter to Parents</a>
+</p>
 </td>
 </tr>
 </tbody>
