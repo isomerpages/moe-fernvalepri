@@ -20,7 +20,7 @@ sections:
         Dance for achieving Certificate of Distinction at SYF 2024!
       button: Click here!
       alt: Image alt text
-      url: https://docs.google.com/presentation/d/1gW6I2OmOyzg9Y2mevvBbWCXHXveo62rftnjcwbaprNY/edit?usp=sharing
+      url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000&slide=id.g2e742e01daf_0_5
       image: /images/syf.png
   - resources:
       title: Student Calendar & Media

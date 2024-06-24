@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h1>Letters to Parents</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,6 +77,30 @@ Jan; P6 - Thur, 11 Jan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Parents Corner/Letters to Parents/2024_040_Letter_to_Parents___Term_2_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 Letter to Parent</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 ANNOUNCEMENT</p>
+<p>1.1 School Achievement</p>
+<p>1.2 Staff Movement</p>
+<p>2 SCHOOL CALENDAR, EVENTS AND PROGRAMMES</p>
+<p>2.1 School Events and Public/School Holidays</p>
+<p>2.2 School Programmes</p>
+<p>2.3 Aesthetic Programme</p>
+<p>3 PARTNERSHIP MATTERS</p>
+<p>3.1 Breakfast with School Management</p>
+<p>4 SAFETY MATTERS</p>
+<p>4.1 Temperature-Taking Exercise</p>
+<p>5 ADMINISTRATIVE MATTERS</p>
+<p>5.1 POSB Smart Buddy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2024_062_Letter_to_Parents___Term_3_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Letter to Parents</a>
 </p>
 </td>
 </tr>
