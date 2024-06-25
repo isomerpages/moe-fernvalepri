@@ -8,5 +8,5 @@ variant: tiptap
 <h2>Please download <a href="/files/FernvaleTimes_Term1_new.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h2>
 <p></p>
 <h1><strong>Fernvale Times 2024 Term 2</strong></h1>
-<h2>Please download here.</h2>
+<h2>Please download <a href="/files/2024_062_FVTimes_T2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h2>
 <p></p>
