@@ -7,4 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-Click **[HERE](https://www.fernvalepri.moe.edu.sg/files/FernvaleTimes_Term1_new.pdf)** to access to Our Fernvale Times.
+Click the link below to access to Our Fernvale Times.
+
+[Edition 1](https://www.fernvalepri.moe.edu.sg/files/FernvaleTimes_Term1_new.pdf)
+
+[Edition 2 [Coming soon]]()
