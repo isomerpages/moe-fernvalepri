@@ -11,4 +11,4 @@ Click the link below to access to Our Fernvale Times.
 
 [Edition 1](https://www.fernvalepri.moe.edu.sg/files/FernvaleTimes_Term1_new.pdf)
 
-[Edition 2 [Coming soon]]()
+[Edition 2](/files/FVTimes_T2.pdf)
