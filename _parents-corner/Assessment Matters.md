@@ -31,8 +31,6 @@ variant: markdown
 
 <br>**Term 3**<br>
 
-<a target="_blank" href="files/Parents Corner/Assessment Matters/2024_P3_Term_3_Assessment_Letter.pdf">Assessment Letter - Term 3</a>
-
 [Primary 3 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P3_Term_3_Assessment_Letter.pdf)
 
 [Primary 4 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P4_Term_3_Assessment_Letter.pdf)
