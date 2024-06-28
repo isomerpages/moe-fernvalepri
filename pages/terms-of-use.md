@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-
-
 Thank you for visiting Fernvale Primary School. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site. 
 
 # General
@@ -16,7 +14,7 @@ Thank you for visiting Fernvale Primary School. By accessing and using this Web 
 4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by ***Fernvale Primary School***. 
 
 # Privacy Policy 
-5. Click **[HERE]**(https://www.fernvalepri.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
+5. Click [HERE](https://www.fernvalepri.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
 
 # Restrictions on Use of Materials 
 6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of ***Fernvale Primary School***.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
@@ -43,4 +41,4 @@ Right of Access
 17.***Fernvale Primary School***  reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. 
 18.***Fernvale Primary School***  reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. 
 Governing Law 
-19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
+19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
