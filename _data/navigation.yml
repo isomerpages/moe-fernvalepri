@@ -3,10 +3,7 @@ links:
   - title: Our School
     collection: our-school-info
   - title: Departments
-    url: /departments
-    sublinks:
-      - title: New submenu
-        url: /permalink
+    collection: our-departments
   - title: CCAs
     collection: cca
   - title: For Parents
