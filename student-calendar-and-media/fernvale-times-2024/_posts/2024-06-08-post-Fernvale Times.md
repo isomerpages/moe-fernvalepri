@@ -12,4 +12,3 @@ Click the link below to access to Our Fernvale Times.
 <a target="_blank" href="https://www.fernvalepri.moe.edu.sg/files/FernvaleTimes_Term1_new.pdf">Edition 1</a><br>
 <a target="_blank" href="/files/FVTimes_T2.pdf">Edition 2</a>
 
-[](/files/FVTimes_T2.pdf)
