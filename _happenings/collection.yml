@@ -2,4 +2,5 @@ collections:
   happenings:
     output: true
     order:
+      - Aesthetics Week.md
       - Singapore Youth Festival.md
