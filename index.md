@@ -41,10 +41,10 @@ sections:
           description: Happenings
           linktext: Learn more
           url: /aesthetics-week/
-        - title: Card
-          description: Card description
+        - title: SYF
+          description: SYF
           linktext: Learn more
-          url: ""
+          url: /aesthetics-week/
         - title: Card
           description: Card description
           linktext: Learn more
