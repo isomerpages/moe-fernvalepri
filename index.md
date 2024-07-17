@@ -21,7 +21,7 @@ sections:
         teachers to not only experience but showcase their talents through Art
         and Music.
       button: Button Text
-      url: /Aesthetics-week
+      url: /aesthetics-week/
       image: /images/Aesthetics_Week_2024_for_Website_page_0002.jpg
       alt: Image alt text
   - infopic:
