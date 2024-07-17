@@ -15,9 +15,7 @@ sections:
       alignment: right
   - textcards:
       title: Happenings
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Aesthetics Week 2024
           description: Happenings
