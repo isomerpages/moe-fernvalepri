@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Congratulations to our Guitar Ensemble, Guzheng Ensemble & Indian
         Dance for achieving Certificate of Distinction at SYF 2024!
-      button: Click to find out more
+      button: SYF begins here
       url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000&slide=id.p
       image: /images/syf.png
       alt: Image alt text
