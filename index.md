@@ -37,10 +37,10 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Aesthetics Week 2024
+          description: Happenings
           linktext: Learn more
-          url: ""
+          url: /aesthetics-week/
         - title: Card
           description: Card description
           linktext: Learn more
