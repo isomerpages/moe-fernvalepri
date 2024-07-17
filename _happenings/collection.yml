@@ -1,0 +1,5 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - Aesthetics Week.md
