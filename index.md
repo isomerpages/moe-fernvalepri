@@ -31,4 +31,22 @@ sections:
       alt: Moe Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
