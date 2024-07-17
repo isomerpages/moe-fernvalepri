@@ -24,7 +24,7 @@ sections:
         - title: SYF
           description: SYF
           linktext: Learn more
-          url: /aesthetics-week/
+          url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000&slide=id.g2769e46c709_0_64
         - title: Card
           description: Card description
           linktext: Learn more
