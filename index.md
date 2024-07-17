@@ -14,7 +14,7 @@ sections:
       size: sm
       alignment: right
   - textcards:
-      title: Text Cards
+      title: Happenings
       subtitle: Add informational text
       id: textcards
       description: Text card description
