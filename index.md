@@ -13,25 +13,6 @@ sections:
       variant: center
       size: sm
       alignment: right
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Singapore Youth Festival (SYF) 2024
-          description: Congratulations to our Guitar Ensemble, Guzheng Ensemble & Indian
-            Dance
-          linktext: Learn more
-          url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
   - infopic:
       title: Singapore Youth Festival (SYF) 2024
       id: infopic
