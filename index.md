@@ -15,7 +15,6 @@ sections:
       alignment: right
   - infopic:
       title: Aesthetics Week 2024
-      subtitle: Add an image and text
       id: infopic
       description: Aesthetics Week is a week-long programme that allows students and
         teachers to not only experience but showcase their talents through Art
@@ -26,7 +25,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Singapore Youth Festival (SYF) 2024
-      subtitle: Add an image and text
       id: infopic
       description: Congratulations to our Guitar Ensemble, Guzheng Ensemble & Indian
         Dance for achieving Certificate of Distinction at SYF 2024!
