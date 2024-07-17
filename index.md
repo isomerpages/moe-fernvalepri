@@ -13,22 +13,27 @@ sections:
       variant: center
       size: sm
       alignment: right
-  - textcards:
-      title: Happenings
-      id: textcards
-      cards:
-        - title: Aesthetics Week 2024
-          description: Happenings
-          linktext: Learn more
-          url: /aesthetics-week/
-        - title: SYF
-          description: SYF
-          linktext: Learn more
-          url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000&slide=id.g2769e46c709_0_64
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+  - infopic:
+      title: Aesthetics Week 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Aesthetics Week is a week-long programme that allows students and
+        teachers to not only experience but showcase their talents through Art
+        and Music.
+      button: Button Text
+      url: /Aesthetics-week
+      image: /images/Aesthetics_Week_2024_for_Website_page_0002.jpg
+      alt: Image alt text
+  - infopic:
+      title: Singapore Youth Festival (SYF) 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Congratulations to our Guitar Ensemble, Guzheng Ensemble & Indian
+        Dance for achieving Certificate of Distinction at SYF 2024!
+      button: Click to find out more
+      url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000&slide=id.p
+      image: /images/syf.png
+      alt: Image alt text
   - resources:
       title: Student Calendar & Media
   - infopic:
