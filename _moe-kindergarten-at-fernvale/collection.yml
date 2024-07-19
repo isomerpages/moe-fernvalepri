@@ -2,11 +2,11 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Information for Parents.md
       - About Us.md
       - Our Team.md
       - Our Learning Environment.md
       - Collaborations.md
+      - Information for Parents.md
       - Contact Us.md
       - MK Forms.md
       - Fees and Subsidies.md
