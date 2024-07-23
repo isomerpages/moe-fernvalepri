@@ -2,9 +2,9 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Our Events.md
       - About Us.md
       - Our Team.md
+      - Our Events.md
       - Our Learning Environment.md
       - Collaborations.md
       - Information for Parents.md
