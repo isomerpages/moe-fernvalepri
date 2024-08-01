@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
+      - Information for Parents/MK Forms.md
       - Information for Parents/Fees and Subsidies.md
       - Information for Parents/About KCare.md
       - Information for Parents/.keep
