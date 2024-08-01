@@ -7,8 +7,8 @@ description: ""
 <p></p>
 <h4>Valueable Programme</h4>
 <p>As part of the Assembly programme in MK@Fernvale, teachers nurture children
-about the 4 values identified by the Framework which is Respect, Responsibility,
-Care and Honesty.</p>
+about the 4 values identified by the Framework which is <strong>Respect, Responsibility, Care and Honesty.</strong>
+</p>
 <p>Each values are introduced both in the English and Mother Tongue Languages
 and through many different activities such as role-playing, quiz, storytelling
 and more!</p>
