@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us.md
-      - Ttttt/.keep
       - Our Team.md
       - Our Events.md
       - Ministers' Visits.md
