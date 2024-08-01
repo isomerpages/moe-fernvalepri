@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
-      - Our Team.md
+      - Gallery.md
       - Our Events.md
       - Ministers' Visits.md
       - Our Learning Environment.md
