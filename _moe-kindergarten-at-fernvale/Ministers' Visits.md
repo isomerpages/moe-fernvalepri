@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3>MK @ Fernvale collaboration with NIEC</h3>
-<p></p>
-<p>Watch out</p>
+<p>Watch this video to find out more as he shares about his preschool days
+and the importance of early childhood education!</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/miNYFfaSEA0?si=ZvRFA0FdUx1acWKz"></iframe>
 </div>
