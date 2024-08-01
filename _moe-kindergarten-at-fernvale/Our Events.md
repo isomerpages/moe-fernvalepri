@@ -9,9 +9,8 @@ description: ""
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBAhlzNgyDp4QuRtB3XXzyHnvVTh0Lr58Cn8vojG8DgssMilOBYIhGfl0m6goYRi-iGwDqtZBeleL4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Valueable Programme</h4>
-<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCAzLG5rNJ1pGd6ufeDvS1l4xGBHIbkzU1ZuUowzqoIKYsh4ZWhoI7LSqniRatDGjNZqHgdugDP5Fx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCAzLG5rNJ1pGd6ufeDvS1l4xGBHIbkzU1ZuUowzqoIKYsh4ZWhoI7LSqniRatDGjNZqHgdugDP5Fx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Events</h4>
 <div class="iframe-wrapper">
