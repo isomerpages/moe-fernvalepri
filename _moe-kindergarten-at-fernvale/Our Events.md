@@ -4,6 +4,10 @@ permalink: /our-events/
 variant: tiptap
 description: ""
 ---
+<h4>Testing</h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBAhlzNgyDp4QuRtB3XXzyHnvVTh0Lr58Cn8vojG8DgssMilOBYIhGfl0m6goYRi-iGwDqtZBeleL4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4>Valueable Programme</h4>
 <p></p>
 <div class="iframe-wrapper">
