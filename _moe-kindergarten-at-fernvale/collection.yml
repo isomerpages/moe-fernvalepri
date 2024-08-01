@@ -2,9 +2,9 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Happening in MK@FV/Ministers' Visits.md
-      - Happening in MK@FV/Our Events.md
-      - Happening in MK@FV/.keep
+      - Happenings in MK@FV/Ministers' Visits.md
+      - Happenings in MK@FV/Our Events.md
+      - Happenings in MK@FV/.keep
       - About Us.md
       - Our Team.md
       - Our Learning Environment.md
