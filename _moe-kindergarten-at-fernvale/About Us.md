@@ -2,6 +2,7 @@
 title: About Us
 permalink: /moe-kindergarten-at-fernvale/about-us/
 description: ""
+variant: markdown
 ---
 # About Us
 ## Our Vision and Mission  
@@ -29,6 +30,3 @@ In line with our beliefs that young children are curious, active and compete
 | Inventiveness   | Be flexible in own thinking and way of doing things            |
 | Sense of Wonder | Be able to ask questions; shows interest to explore new things |
 | Engagement      | Be immersed in learning and seek new opportunities to learn          |
-
-## Catch you having PRAISE!
-![](/images/MOE%20Kindergarten%20@%20Fernvale/MKFV%20Website%20Content%20pg%207.jpg)
