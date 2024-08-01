@@ -20,4 +20,3 @@ In line with our beliefs that young children are curious, active and compete
 | Care           |  Be caring and attentive to own and others’ needs                        |
 | Responsibility |  Be able to take ownership of own learning, develop greater independence |
 | Respect        |  Be appreciative and respectful to own self and others                   |
-
