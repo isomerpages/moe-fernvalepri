@@ -34,17 +34,17 @@ Malay and Tamil languages).</p>
 and Starlight Literacy Programme for English and Mother Tongue Language
 (MTL). In addition, each term at MK will conclude in a Weeks of Wonder
 project.</p>
-<h4>EL &amp; MTL Starlight</h4>
+<h4>English &amp; Mother Tongue Language Starlight</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgzcJwZHng6oM_r6bQVKt2lHAZk97f6AieCwSK9fj8e1-BDuM3qQLg2eO7O6yoD9W-iDlLcOUSfUrx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<h4>Hi-Light</h4>
+<h4>HI-Light</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST1KTZ-oBIX-lZE7bu02TIKO8ok2-FS4Q8NeNcdnd5OmoHgVFecDaevF9iR-05SCkWt9WxctAKtiEb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<h4>WoW Projects</h4>
+<h4>Weeks of Wonder (WoW)</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTno1LncSyc-WH0c_sRfsOu3dA4V0XKKGAjxBAv_d4htOq-AuX8C24EmInzeKnD0BFfX-OVIKGQwB8S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
