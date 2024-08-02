@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Happenings in MK@FV
 ---
-<h4>(2022) Teachers' Day special features on MOE Kindergarten Educators</h4>
+<h4>Teachers' Day special features on MOE Kindergarten Educators</h4>
 <p>Ms Ammarah was featured in Berita Harian in which she explains how her
 experience as a mother has been a springboard for her choice to become
 a preschool teacher.</p>
