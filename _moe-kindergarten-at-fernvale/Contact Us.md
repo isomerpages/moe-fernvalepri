@@ -13,8 +13,7 @@ You can find us on our&nbsp;[Instagram](https://www.instagram.com/mk_fernvale/)&
 Alternatively,&nbsp; you can visit&nbsp;[www.moe.gov.sg/moekindergarten](http://www.moe.gov.sg/moekindergarten)&nbsp;to find out more.
 
 
-# Operating Hours
-#   
+# Operating Hours  
 MK: 8 a.m. to 5 p.m.  
 KCare: 7 a.m. to 7 p.m.
 
