@@ -4,8 +4,8 @@ permalink: /moe-kindergarten-at-fernvale/contactus/
 description: ""
 variant: markdown
 ---
-
-![](/images/MOE%20Kindergarten%20@%20Fernvale/PIC%207.jpg)# Contact Us
+![](/images/MOE%20Kindergarten%20@%20Fernvale/PIC%207.jpg)
+# Contact Us
 
 For more information on MOE Kindergarten @&nbsp;Fernvale,&nbsp;please&nbsp;contact us at&nbsp;**6315 3051**,&nbsp;email&nbsp;us at&nbsp;[mk\_fernvale@moe.edu.sg](mailto:mk_fernvale@moe.edu.sg).&nbsp;
 You can find us on our&nbsp;[Instagram](https://www.instagram.com/mk_fernvale/)&nbsp;and&nbsp;[Facebook](https://www.facebook.com/mkfernvale).
