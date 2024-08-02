@@ -44,5 +44,8 @@ project.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST1KTZ-oBIX-lZE7bu02TIKO8ok2-FS4Q8NeNcdnd5OmoHgVFecDaevF9iR-05SCkWt9WxctAKtiEb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<p>WoW Projects</p>
+<h4>WoW Projects</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTno1LncSyc-WH0c_sRfsOu3dA4V0XKKGAjxBAv_d4htOq-AuX8C24EmInzeKnD0BFfX-OVIKGQwB8S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
