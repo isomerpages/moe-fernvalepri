@@ -27,11 +27,11 @@ In line with our beliefs that young children are curious, active and compete
 
 ##### Outstanding Mother Tongue Language Symposium 2023
 
-We would like to extend our congratulations to Cikgu Siti Raudhah for achieving the Merit Award for the Outstanding Preschool Mother Tongue Language Award 2023
+We would like to extend our congratulations to Cikgu Siti Raudhah for achieving the Merit Award for the Outstanding Preschool Mother Tongue Language Award 2023.
 The award recognises pre-school teachers for their passion in making the learning of MTLs interesting and in nurturing a love for languages among pre-school children. 
 
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/MTLS_2023_278.jpg)
 
 ##### 2022 MOE Innergy and Outstanding Innovator Awards
 
-Congratulations to the K1 and K2 English teachers in MK@Fernvale for getting the commendation award for the 2022 Moe Innergy and Outstanding Innovator Awards. The teachers worked on strategies to enhance children's numeracy experience through motor skills activities.
+Congratulations to the K1 English teachers in MK@Fernvale for getting the commendation award for the 2022 MOE Innergy and Outstanding Innovator Awards. The teachers worked on strategies to enhance children's numeracy experience through motor skills activities.
