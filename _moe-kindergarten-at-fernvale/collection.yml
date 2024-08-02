@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
+      - About KCare.md
       - About Us.md
       - Our Team.md
       - Our Programmes.md
