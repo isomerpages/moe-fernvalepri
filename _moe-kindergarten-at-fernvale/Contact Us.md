@@ -4,7 +4,8 @@ permalink: /moe-kindergarten-at-fernvale/contactus/
 description: ""
 variant: markdown
 ---
-# Contact Us
+
+![](/images/MOE%20Kindergarten%20@%20Fernvale/PIC%207.jpg)# Contact Us
 
 For more information on MOE Kindergarten @&nbsp;Fernvale,&nbsp;please&nbsp;contact us at&nbsp;**6315 3051**,&nbsp;email&nbsp;us at&nbsp;[mk\_fernvale@moe.edu.sg](mailto:mk_fernvale@moe.edu.sg).&nbsp;
 You can find us on our&nbsp;[Instagram](https://www.instagram.com/mk_fernvale/)&nbsp;and&nbsp;[Facebook](https://www.facebook.com/mkfernvale).
@@ -13,8 +14,7 @@ Alternatively,&nbsp; you can visit&nbsp;[www.moe.gov.sg/moekindergarten](http://
 
 
 # Operating Hours
-# 
-Our operating hours are:  
+#   
 MK: 8 a.m. to 5 p.m.  
 KCare: 7 a.m. to 7 p.m.
 
@@ -26,7 +26,7 @@ KCare: 7 a.m. to 7 p.m.
 
 # 2024 Family Handbook
 
-Please click[](/files/mk_family_handbook_2023_final.pdf) here to view our Family Handbook
+Please [click here](/files/mk_family_handbook_2023_final.pdf)  to view our Family Handbook.
 
 # Partner Early Years Centre (EYCs)
 Our MK collaborates with the PCF Sparkle Tots Early Years Centres:
