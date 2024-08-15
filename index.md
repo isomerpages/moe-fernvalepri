@@ -13,6 +13,13 @@ sections:
       variant: center
       size: sm
       alignment: right
+  - infobar:
+      title: Rays of Appreciation@FVPS
+      id: infobar
+      description: Dear Partners-in-Education,       we invite you to pen a note of
+        appreciation for our staff and affirm them for their efforts.
+      button: Submit
+      url: https://form.gov.sg/665eb6976d0909e9ec6224b1
   - infopic:
       title: Aesthetics Week 2024
       id: infopic
