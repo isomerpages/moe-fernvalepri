@@ -27,7 +27,7 @@ sections:
         follow Nur Irfan Wahyudi, a passionate young builder for STEM Playground
         Challenge 2024.'
       button: Find out more here
-      url: /stem
+      url: /stem-challenge-2024/
       image: /images/stem.png
       alt: Image alt text
   - infopic:
