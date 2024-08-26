@@ -21,6 +21,16 @@ sections:
       button: Submit
       url: https://form.gov.sg/665eb6976d0909e9ec6224b1
   - infopic:
+      title: STEM Playground Challenge 2024
+      id: infopic
+      description: 'In " Building Dreams: Transforming Cardboard into Reality," we
+        follow Nur Irfan Wahyudi, a passionate young builder for STEM Playground
+        Challenge 2024.'
+      button: Find out more here
+      url: /stem-challenge-2024/
+      image: /images/stem.png
+      alt: Image alt text
+  - infopic:
       title: Aesthetics Week 2024
       id: infopic
       description: Aesthetics Week is a week-long programme that allows students and

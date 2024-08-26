@@ -2,4 +2,5 @@ collections:
   happenings:
     output: true
     order:
+      - Stem Challenge 2024.md
       - Aesthetics Week.md
