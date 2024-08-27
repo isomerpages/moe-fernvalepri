@@ -67,6 +67,16 @@ The Short Story Writing Competition was launched in 2023 to complete the cycle f
 
 <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/6abc7e7e54.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/6abc7e7e54.jpg"></a>
 
+<div style="display: flex; gap: 60px;">
+  <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html">
+    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg">
+  </a>
+
+  <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/6abc7e7e54.html">
+    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/6abc7e7e54.jpg">
+  </a>
+</div>
+
 #### **Level/Class Reading Competition**
 The Level/Class Reading Competition is a vibrant celebration of literacy and imagination, catering to students of all reading abilities. From picture books to chapter novels, every student has the chance to participate and shine, fostering essential skills like comprehension and critical thinking. As students immerse themselves in captivating stories, they not only sharpen their minds but also build camaraderie through shared experiences and a shared love for literature.
 ![](/images/Library/Bar_Graph.jpg)
