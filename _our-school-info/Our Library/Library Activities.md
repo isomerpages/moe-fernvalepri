@@ -65,7 +65,7 @@ The Short Story Writing Competition was launched in 2023 to complete the cycle f
 
 <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg"></a>
 
- <img border="0" usemap="#green" src="/images/Library/Bookshelf2.jpg"> <area href="https://heyzine.com/flip-book/1a1705e263.html" coords="271,137,87,388" shape="rect"> <area href="https://heyzine.com/flip-book/6abc7e7e54.html" coords="588,137,401,388" shape="rect">  
+ <img border="0" usemap="#green" src="/images/Library/Bookshelf2.jpg"> <map name="green"> <area href="https://heyzine.com/flip-book/1a1705e263.html" coords="271,137,87,388" shape="rect"> <area href="https://heyzine.com/flip-book/6abc7e7e54.html" coords="588,137,401,388" shape="rect">  
 
 
 #### **Level/Class Reading Competition**
@@ -78,4 +78,4 @@ Let’s save our Earth! Books Exchange Day allows our students to exchange their
 
 #### **Assembly Programmes**
 The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will conduct Story Sharing sessions during assembly for the students. NLB will also organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. While Mass Borrowing sessions were temporarily stopped in the past few years, we aim to resume it soon.
-![](/images/Library/NLB_Sharing_2024.jpg)
+![](/images/Library/NLB_Sharing_2024.jpg)</map>
