@@ -65,7 +65,7 @@ The Short Story Writing Competition was launched in 2023 to complete the cycle f
 
 <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg"></a>
 
- <img border="0" usemap="#sswc" src="/images/Library/Bookshelf2.jpg"> <map name="#sswc"> <area href="https://heyzine.com/flip-book/1a1705e263.html" coords="271,137,87,388" shape="rect"> <area href="https://heyzine.com/flip-book/6abc7e7e54.html" coords="588,137,401,388" shape="rect">  </map>
+ <img border="0" usemap="#sswc" src="/images/Library/Bookshelf3.jpg"> <map name="#sswc"> <area href="https://heyzine.com/flip-book/1a1705e263.html" coords="271,137,87,388" shape="rect"> <area href="https://heyzine.com/flip-book/6abc7e7e54.html" coords="588,137,401,388" shape="rect">  </map>
 
 
 #### **Level/Class Reading Competition**
