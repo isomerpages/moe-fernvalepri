@@ -2,5 +2,6 @@ collections:
   happenings:
     output: true
     order:
+      - Primary 5 Outdoor Adventure Camp.md
       - Stem Challenge 2024.md
       - Aesthetics Week.md
