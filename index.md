@@ -31,6 +31,15 @@ sections:
       image: /images/stem.png
       alt: Image alt text
   - infopic:
+      title: Primary 5 Camp 2024
+      id: infopic
+      description: At this year’s Primary 5 Adventure Camp, our P5 Fernvalions
+        embarked on an unforgettable journey.
+      button: Adventure Begins here
+      url: /p5camp
+      image: /images/Announcements/P5Camp.jpg
+      alt: Image alt text
+  - infopic:
       title: Aesthetics Week 2024
       id: infopic
       description: Aesthetics Week is a week-long programme that allows students and
