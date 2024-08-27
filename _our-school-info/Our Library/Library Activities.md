@@ -63,11 +63,7 @@ Throughout the competition, students are encouraged to craft engaging narratives
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories have been selected this year! Do read their creative work in the Flipbook below.
 
-<a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg"></a>
-
-<a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/6abc7e7e54.html"><img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/6abc7e7e54.jpg"></a>
-
-<div style="display: flex; gap: 60px;">
+<div style="display: flex; justify-content: center; gap: 60px;">
   <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html">
     <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover-play/10/1a1705e263.jpg">
   </a>
