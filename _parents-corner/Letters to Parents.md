@@ -104,6 +104,31 @@ Jan; P6 - Thur, 11 Jan)</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. ANNOUNCEMENTS</p>
+<p>1.1 School Achievements</p>
+<p>1.2 Staff Achievements</p>
+<p>2 SCHOOL CALENDAR, EVENTS AND PROGRAMMES</p>
+<p>2.1 School Events and Public/School Holidays</p>
+<p>2.2 PSLE Study Break</p>
+<p>2.3 E-Learning Days</p>
+<p>2.4 Early Dismissal during End-of-Year Written Examinations</p>
+<p>2.5 School Programmes</p>
+<p>2.6 Environment Education Programme</p>
+<p>2.7 Applied Learning Programme</p>
+<p>2.8 Fernvale LEAP Programme</p>
+<p>3 PARTNERSHIP WITH PARENTS</p>
+<p>3.1 Our Short Stories eBook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2024_095_Letter_to_Parents___Term_4_final.pdf" rel="noopener nofollow" target="_blank">2024 Term 4 Letter to Parents</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
