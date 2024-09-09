@@ -125,7 +125,8 @@ Jan; P6 - Thur, 11 Jan)</p>
 <p>3.1 Our Short Stories eBook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents Corner/Letters to Parents/2024_095_Letter_to_Parents___Term_4_final.pdf" rel="noopener nofollow" target="_blank">2024 Term 4 Letter to Parents</a>
+</p>
 </td>
 </tr>
 </tbody>
