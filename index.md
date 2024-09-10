@@ -67,11 +67,4 @@ sections:
       alt: Moe Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
-  - infopic:
-      title: Announcements
-      id: infopic
-      description: Click
-      button: Button Text
-      url: /announcements/parenting-seminar-effective-parenting-approach-to-raising-your-child/
-      alt: Image alt text
 ---
