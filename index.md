@@ -72,6 +72,6 @@ sections:
       id: infopic
       description: Click
       button: Button Text
-      url: /Announcements
+      url: /announcements/parenting-seminar-effective-parenting-approach-to-raising-your-child/
       alt: Image alt text
 ---
