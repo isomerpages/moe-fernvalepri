@@ -72,6 +72,6 @@ sections:
       id: infopic
       description: Click
       button: Button Text
-      url: /announcements
+      url: /Announcements
       alt: Image alt text
 ---
