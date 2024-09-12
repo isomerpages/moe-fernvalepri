@@ -16,5 +16,5 @@ to save the Earth by adopting a more healthy, sustainable diet, committing
 to practices that protect our planet. This camp not only shaped our character
 but also ignited our passion and belief for a better world.</p>
 <p>&nbsp;</p>
-<h4><a href="https://www.youtube.com/watch?v=dWj92WdAcIw" rel="noopener nofollow" target="_blank">The Adventure Begins Here</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=sY9G5gRtXXI" rel="noopener nofollow" target="_blank">The Adventure Begins Here</a></h4>
 <p></p>
