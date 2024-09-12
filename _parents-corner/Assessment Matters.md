@@ -40,3 +40,11 @@ variant: markdown
 [Primary 5 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P5_Term_3_Assessment_Letter.pdf)
 
 [Primary 6 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P6_Term_3_Assessment_Letter.pdf)
+
+<br>**Term 4**<br>
+
+[Primary 3 Assessment Letter - Term 4](/files/Parents%20Corner/Assessment%20Matters/2024_P3_Term_4_Assessment_Letter.pdf)
+
+[Primary 4 Assessment Letter - Term 4](/files/Parents%20Corner/Assessment%20Matters/2024_P4_Term_4_Assessment_Letter.pdf)
+
+[Primary 5 Assessment Letter - Term 4](/files/Parents%20Corner/Assessment%20Matters/2024_P5_Term_4_Assessment_Letter.pdf)
