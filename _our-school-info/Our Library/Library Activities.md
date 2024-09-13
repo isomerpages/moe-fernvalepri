@@ -82,5 +82,12 @@ Let’s save our Earth! Books Exchange Day allows our students to exchange their
 ![](/images/Library/picture21.jpg)
 
 #### **Assembly Programmes**
-The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will conduct Story Sharing sessions during assembly for the students. NLB will also organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. While Mass Borrowing sessions were temporarily stopped in the past few years, we aim to resume it soon.
+Our school maintains a strong partnership with the National Library Board (NLB) to actively promote a love of reading among our students. One of the key initiatives in this collaboration is the sharing of interesting and engaging stories during assembly sessions. NLB regularly conducts storytelling programmes as part of our assemblies, designed to captivate students' imaginations and encourage a lifelong passion for reading.
+
+In addition to these enriching sessions led by NLB, our teachers also play an active role by dedicating specific assembly slots to share stories with our students. These storytelling sessions, whether conducted by NLB or our teachers, aim to foster curiosity, broaden students’ horizons, and build a vibrant reading culture within the school community.
 ![](/images/Library/NLB_Sharing_2024.jpg)
+
+#### **NLB Molly Bus**
+The NLB Molly Bus, an initiative by the National Library Board (NLB), aims to promote reading and literacy among children. As a mobile library, Molly travels to schools, offering access to books and library services.
+
+On 9 and 10 September 2024, the bus visited our school, giving our Primary 1 and 2 students the chance to explore and borrow from a diverse selection of exciting books from the National Library Board’s collection.
