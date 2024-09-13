@@ -91,3 +91,4 @@ In addition to these enriching sessions led by NLB, our teachers also play an ac
 The NLB Molly Bus, an initiative by the National Library Board (NLB), aims to promote reading and literacy among children. As a mobile library, Molly travels to schools, offering access to books and library services.
 
 On 9 and 10 September 2024, the bus visited our school, giving our Primary 1 and 2 students the chance to explore and borrow from a diverse selection of exciting books from the National Library Board’s collection.
+![](/images/Library/Molly_Bus_2024.jpg)
