@@ -24,10 +24,10 @@ Website&nbsp;:&nbsp;[www.pacificbookstores.com](https://www.pacificbookstores.co
 
 | Operation Hours   |                    |
 |-------------------|--------------------|
-| Mondays To Friday | 9:00am to 3:00pm   |
-| Open To Parents   | 2:30pm to 3:00pm   |
+| Mondays To Friday | 8:00am to 3:00pm   |
+| Open To Parents   | (Tuesday to Friday only) 2:00pm to 2:45pm   |
 | Lunch Hours       | 11:30am to 12:30pm |
-| Contact No        |  63156925          |
+| Contact No        |  94356030          |
 
 
 ## School Uniform, PE Attire &amp; Name tag
