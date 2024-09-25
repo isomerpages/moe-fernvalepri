@@ -58,7 +58,7 @@ variant: markdown
   width:286pt" width="381" class="xl76" height="67">P1-Respect</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl77">Mrs Huang - Soh Chin Yi Germaine<br>Mrs Andrea Tee</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P1-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl77">Mrs Lee - Teo Khim Hoong Carol<br>Mdm Khalidah Goh d/o Shafie Goh</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P1-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl84">Mdm Siti Erliasari Binte Haroon<br>Ms Feng Yue</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P1-Courage</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Ho - Soh Wei Ying<br>Ms Lim Nien Chern Juliana<br>Mrs Jacquelin Yeo Chien Ling</td></tr></tbody></table>
+  width:286pt" width="381" class="xl76" height="67">P1-Courage</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Ho - Soh Wei Ying<br>Ms Lim Nien Chern Juliana</td></tr></tbody></table>
 
 
 
@@ -72,7 +72,7 @@ variant: markdown
   width:286pt" width="381" class="xl76" height="67">P2-Respect</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Heng - Cheong Soke Hwa<br>Mr Low Dong Neng Jim</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P2-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mdm Noor A'shikin Bte Osman<br>Mr Muhammad Ridzuan Bin Osman</td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P2-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Mrs Khai - Siti Norhana Aris<br>Mr Goh Tong Wee<br>Mdm Muniraj Muthulakshmi<br></td></tr><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P2-Courage</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Neo Sian Yin<br>Ms Tan Hwee Ping Elsie</td></tr></tbody></table>
+  width:286pt" width="381" class="xl76" height="67">P2-Courage</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Neo Sian Yin<br>Ms Tan Hwee Ping Elsie<br>Mdm Lakshmi</td></tr></tbody></table>
 
 ### Primary 3
 
@@ -239,12 +239,16 @@ variant: markdown
     <td class="tg-lnwz"><span style="font-weight:normal">Mdm Hui Soh Wai</span> </td>
   </tr>
   <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Nurliyana Binte Suhaimi</span></td>
+  </tr>
+  <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer </span></td>
     <td class="tg-lnwz"><span style="font-weight:normal">Ms June Tan</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Nurliyana Binte Suhaimi</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">AED SEN Officer </span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Khow Wei Shuen</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">AED (T&amp;L)</span></td>
@@ -253,6 +257,10 @@ variant: markdown
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Student Welfare Officer</span></td>
     <td class="tg-lnwz">Ms Tang Ser Yun</td>
+  </tr>
+	 <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Adj School Counsellor </span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Maryati Binte M Dahim</span></td>
   </tr>
 </tbody>
 </table>
