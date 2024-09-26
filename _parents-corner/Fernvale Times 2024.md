@@ -11,6 +11,6 @@ variant: tiptap
 <h2>Please download <a href="https://heyzine.com/flip-book/e885744808.html" rel="noopener nofollow" target="_blank">HERE</a>.</h2>
 <p></p>
 <h1><strong>Fernvale Times 2024 Term 3</strong></h1>
-<h2>Please download <a href="https://heyzine.com/flip-book/80dad7fa5d.html" rel="noopener nofollow" target="_blank">HERE</a>.</h2>
+<h2>Please download <a href="https://heyzine.com/flip-book/2a5cc5ead3.html" rel="noopener nofollow" target="_blank">HERE</a>.</h2>
 <p></p>
 <p></p>
