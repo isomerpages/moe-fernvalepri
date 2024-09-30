@@ -21,3 +21,5 @@ variant: markdown
 [2024 P6 Booklist](/files/2024%20p6%20booklist.pdf)
 
 [2024 P6 Foundation Booklist](/files/2024%20p6fdn%20booklist.pdf)
+
+# Book List 2025
