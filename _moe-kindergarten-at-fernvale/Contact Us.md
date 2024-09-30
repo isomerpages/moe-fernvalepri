@@ -14,8 +14,8 @@ Alternatively,&nbsp; you can visit&nbsp;[www.moe.gov.sg/moekindergarten](http://
 
 
 # Operating Hours  
-MK: 8 a.m. to 5 p.m.  
-KCare: 7 a.m. to 7 p.m.
+MK: 8 a.m. to 5 p.m 
+KCare: 7 a.m. to 7 p.m.*
 
 
 # Locate Us
@@ -42,3 +42,5 @@ Email: PT.EY.402@pcf.org.sg
 Operating Hours:
 Monday to Friday: 7:00am - 7:00pm  
 Saturday: 7:00am - 2.00pm
+
+*Timing to be updated
