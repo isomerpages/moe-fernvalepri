@@ -22,8 +22,10 @@ The learning objectives of the KCare Programme are to support MK@FV in:
 
 ### Operating Hours
 
-KCare@Fernvale operates from Monday to Friday, 7am to 7pm, including school holidays. It is closed on public holidays and up to 6 additional days each year.
+KCare@Fernvale operates from Monday to Friday, 7am to 7pm*, including school holidays. It is closed on public holidays and up to 6 additional days each year.
 
 ### Registration
 
 The KCare service is only available for children enrolled in MOE Kindergarten @ Fernvale. For parents who are interested to enrol your child into KCare, kindly approach the MK Office for registration details.
+
+*Timing to be updated

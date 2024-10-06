@@ -12,7 +12,7 @@ develop values in our children through the explicit teaching and demonstration
 of the 4 values identified by the NEL Framework which is <strong>Respect, Responsibility, Care and Honesty.</strong>
 </p>
 <p>Each values are introduced both in the English and Mother Tongue Languages.
-Children get to learnt about the different values through many different
+Children get to learn about the different values through many different
 activities such as role-playing, quiz, storytelling and more!</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCAzLG5rNJ1pGd6ufeDvS1l4xGBHIbkzU1ZuUowzqoIKYsh4ZWhoI7LSqniRatDGjNZqHgdugDP5Fx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
