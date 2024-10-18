@@ -57,7 +57,7 @@ Borrow and read books to exchange for attractive gifts! The loyalty card program
 #### **Storytelling Competition**
 The Storytelling Competition launched this year for Primary 1 and Primary 2 students aims to foster creativity, ignite a passion for storytelling, and enhance essential communication skills. This competition provides students with an opportunity to prepare and share short stories with their classmates, showcasing their imagination and oral communication abilities.
 
-Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
+Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. Congratulations to all students whose performances have been selected this year! Do view their creative work in our YouTube channel through the link below.
 ![](/images/Library/STC_Collage.jpg)
 
 <div style="display: flex; justify-content: center;"> 
