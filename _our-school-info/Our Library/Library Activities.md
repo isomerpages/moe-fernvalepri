@@ -59,6 +59,7 @@ The Storytelling Competition launched this year for Primary 1 and Primary 2 stud
 
 Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
 ![](/images/Library/STC_Collage.jpg)
+
 <div style="display: flex; justify-content: center;"> 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?si=tPpfhX3doPRj0X9L&amp;list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A" height="315" width="560"></iframe> 
 </div>
