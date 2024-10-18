@@ -60,6 +60,29 @@ The Storytelling Competition launched this year for Primary 1 and Primary 2 stud
 Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
 ![](/images/Library/STC_Collage.jpg)
 
+
+    <title>Embedded YouTube Playlist</title>
+    <style>
+        .video-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #ffffff;
+        }
+        iframe {
+            border: 10px solid darkgreen;
+            border-radius: 50px;
+        }
+    </style>
+
+
+    <div class="video-container">
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/videoseries?list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A" height="315" width="560">
+        </iframe>
+    </div>
+
+
+
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories have been selected this year! Do read their creative work in the Flipbook below.
 ![](/images/Library/SSWC_Collage.jpg)
