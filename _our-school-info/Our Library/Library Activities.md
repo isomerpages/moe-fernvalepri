@@ -60,34 +60,16 @@ The Storytelling Competition launched this year for Primary 1 and Primary 2 stud
 Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
 ![](/images/Library/STC_Collage.jpg)
 
-
-
-    <title>Centered YouTube Video</title>
-    <style>
-        .video-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-    </style>
-
-
-    <div class="video-container">
-        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?si=3UrTUTjK06ktNpri&amp;list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A" height="315" width="560"></iframe>
-    </div>
-
-
-
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories have been selected this year! Do read their creative work in the Flipbook below.
 ![](/images/Library/SSWC_Collage.jpg)
   
 <div style="display: flex; justify-content: center; gap: 60px;">
-  <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html">
+  <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2023">
     <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/1a1705e263.jpg">
   </a>
 
-  <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/6abc7e7e54.html">
+  <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2024">
     <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/6abc7e7e54.jpg">
   </a>
 </div>
