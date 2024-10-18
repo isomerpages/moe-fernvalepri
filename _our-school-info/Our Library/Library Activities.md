@@ -57,19 +57,21 @@ Borrow and read books to exchange for attractive gifts! The loyalty card program
 #### **Storytelling Competition**
 The Storytelling Competition launched this year for Primary 1 and Primary 2 students aims to foster creativity, ignite a passion for storytelling, and enhance essential communication skills. This competition provides students with an opportunity to prepare and share short stories with their classmates, showcasing their imagination and oral communication abilities.
 
-Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
+Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. Congratulations to all students whose performances have been selected this year! Do view their creative work in our YouTube channel through the link below.
 ![](/images/Library/STC_Collage.jpg)
+
+<title>Storytelling Competition 2024</title>   <a target="_blank" href="https://go.gov.sg/stc-2024"> <img style="width:auto;height:auto;" alt="STC 2024" src="/images/Library/STC_2024.jpg"> </a>  
 
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories have been selected this year! Do read their creative work in the Flipbook below.
 ![](/images/Library/SSWC_Collage.jpg)
   
 <div style="display: flex; justify-content: center; gap: 60px;">
-  <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/1a1705e263.html">
+  <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2023">
     <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/1a1705e263.jpg">
   </a>
 
-  <a class="heyzine-link fp-link" target="_BLANK" href="https://heyzine.com/flip-book/6abc7e7e54.html">
+  <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2024">
     <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/6abc7e7e54.jpg">
   </a>
 </div>

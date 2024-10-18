@@ -1,5 +1,5 @@
 ---
-title: Book List 2024
+title: Book List 2025
 permalink: /parents-corner/book-list-2023/
 description: ""
 variant: tiptap
