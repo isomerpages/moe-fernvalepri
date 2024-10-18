@@ -59,6 +59,7 @@ The Storytelling Competition launched this year for Primary 1 and Primary 2 stud
 
 Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. Congratulations to all students whose performances have been selected this year! Do view their creative work in our YouTube channel through the link below.
 ![](/images/Library/STC_Collage.jpg)
+
    <title>Storytelling Competition 2024</title>   <a target="_blank" href="https://go.gov.sg/stc-2024"> <img style="width:auto;height:auto;" alt="STC 2024" src="/images/Library/STC_2024.jpg"> </a>  
 
 #### **Short Story Writing Competition**
