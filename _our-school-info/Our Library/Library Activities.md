@@ -62,6 +62,7 @@ Throughout the competition, students are encouraged to craft engaging narratives
 <div style="justify-content: center;">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?si=3UrTUTjK06ktNpri&amp;list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A" height="315" width="560"></iframe>
 </div>
+
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen -&gt; Read -&gt; Speak -&gt; Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories have been selected this year! Do read their creative work in the Flipbook below.
 ![](/images/Library/SSWC_Collage.jpg)
