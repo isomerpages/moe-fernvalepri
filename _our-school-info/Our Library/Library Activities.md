@@ -68,7 +68,6 @@ Throughout the competition, students are encouraged to craft engaging narratives
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
         }
     </style>
 
