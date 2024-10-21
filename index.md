@@ -67,4 +67,22 @@ sections:
       alt: Moe Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
+  - infopic:
+      title: Outstanding Youth in Education Award
+      id: infopic
+      description: Submit your nomination for Outstanding Youth in Education Award
+        Nomination by scanning the QR Code or via the link.
+      button: Click Here to submit
+      url: https://go.gov.sg/oyea2025
+      image: /images/OYEA2025.jpg
+      alt: Image alt text
+  - infopic:
+      title: President's Award for Teachers 2025
+      id: infopic
+      description: Submit your nomination for President's Award for Teachers 2025
+        Nomination by scanning the QR Code or via the link.
+      button: Click here to submit
+      url: https://go.gov.sg/pat2025
+      image: /images/PAT2025.jpg
+      alt: Image alt text
 ---
