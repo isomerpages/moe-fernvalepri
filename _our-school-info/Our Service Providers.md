@@ -176,6 +176,9 @@ bookshop.</p>
 </tbody>
 </table>
 <p></p>
+<p><a href="/files/Our school info/Dates_for_bookshop_and_uniform_2024.pdf" rel="noopener nofollow" target="_blank">Dates for Bookshop and Uniform 2024</a>
+</p>
+<p></p>
 <h2>School Dentist</h2>
 <p>The School Dentist is located on Level 1, next to the school foyer.</p>
 <table style="minWidth: 75px">
