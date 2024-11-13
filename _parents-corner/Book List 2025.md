@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents Corner/Book List 2025/P5_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">2025 P5 Booklist</a>
 </p>
-<p><a href="/files/Parents Corner/Book List 2025/P5F_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">2025 P5 Booklist (Foundation)</a>
+<p><a href="/files/Parents Corner/Book List 2025/P5F_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">2025 P5 Booklist file(Foundation)</a>
 </p>
 <p><a href="/files/Parents Corner/Book List 2025/P6_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">2025 P6 Booklist</a>
 </p>
