@@ -373,7 +373,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Librarian</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Azura</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Nur Azura Binte Mohamed Yusof</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz">Dental Therapist<span style="font-weight:normal"> </span>(Covering)</td>
