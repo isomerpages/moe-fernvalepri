@@ -241,7 +241,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lnwz">Administrative Executive </td>
-    <td class="tg-lnwz">Ms Siti Nursuaibah Bte Ramlan </td>
+    <td class="tg-lnwz">Mdm Chuah Poh Ling Penny </td>
   </tr>
   <tr>
     <td class="tg-lnwz">Customer Service Officer</td>
@@ -250,14 +250,6 @@ variant: markdown
   <tr>
     <td class="tg-lnwz">Customer Service Officer</td>
     <td class="tg-lnwz">Mdm Eileen Goh Guan Chew</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Customer Service Officer<br></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Irene Oong Ai Ing</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Salmah</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Operations Support Officer</span></td>
@@ -359,17 +351,25 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-vlif"><span style="font-weight:normal">Desktop Engineer</span></th>
-    <th class="tg-lnwz"><span style="font-weight:400">Mr Zuo Yutao</span></th>
+    <th class="tg-lnwz"><span style="font-weight:400">Mdm Amira Fazeera Binti Ataman</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Desktop Engineer</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Amira</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Muhammad Idham Bin Jasia</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Science Lab Technician</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mdm Pang Lay Hwee Al</span><span style="font-weight:normal">ice</span> </td>
+    <td class="tg-lnwz"><span style="font-weight:400">Mdm Pang Lay Hwee Ai</span><span style="font-weight:normal">ice</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Office Assistant (Admin)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Ms Nursyaidah Mohd Nasir</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lnwz"><span style="font-weight:normal">Office Assistant (Printing)</span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Khoo Cheng Khing Sally</span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Librarian</span></td>
