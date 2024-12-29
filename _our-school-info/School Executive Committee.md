@@ -21,12 +21,14 @@ variant: markdown
 <col style="width: 400px">
 <col style="width: 476px">
 </colgroup>
+	
 <thead>
   <tr>
     <th class="tg-vlif">Principal</th>
     <th class="tg-lnwz">Mr Enoch Lau</th>
   </tr>
 </thead>
+	
 <tbody>
   <tr>
     <td class="tg-sna6">Vice - Principal (EO)</td>
@@ -77,13 +79,7 @@ variant: markdown
     <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
     <td class="tg-lnwz"><span style="font-weight:400">Miss Puah Puay Koon Eileen</span></td>
   </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Alison Oliveiro</span></td>
-  </tr>
-  <tr>
-		 
-  </tr><tr>
+	<tr>
     <td class="tg-sna6"><br><span style="text-decoration:underline">P3 to P4 </span></td>
     <td class="tg-atqo"> </td>
   </tr>
