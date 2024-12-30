@@ -22,10 +22,6 @@ In line with our beliefs that young children are curious, active and compete
 | Responsibility |  Be able to take ownership of own learning, develop greater independence |
 | Respect        |  Be appreciative and respectful to own self and others                   |
 
-# Our MK Handbook
-![](/images/MOE%20Kindergarten%20@%20Fernvale/Mk_family_handbook.png)
-Click **here**[](/files/2025_MOE_Kindergarten_Family_Handbook.pdf) to access the handbook
-
 
 # Our Achievements
 
