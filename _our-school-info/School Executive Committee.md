@@ -21,12 +21,14 @@ variant: markdown
 <col style="width: 400px">
 <col style="width: 476px">
 </colgroup>
+	
 <thead>
   <tr>
     <th class="tg-vlif">Principal</th>
     <th class="tg-lnwz">Mr Enoch Lau</th>
   </tr>
 </thead>
+	
 <tbody>
   <tr>
     <td class="tg-sna6">Vice - Principal (EO)</td>
@@ -34,7 +36,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-sna6">Vice - Principal (EO)</td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Samuel Yap </span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mr Ramesh Mukundhan </span></td>
   </tr>
   <tr>
     <td class="tg-sna6">Vice - Principal (Admin)</td>
@@ -72,22 +74,12 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-biak" colspan="2"><br><span style="color:#000;background-color:initial">P1 to  P2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Ms Ivy Ho</span></td>
-		  </tr>
+	</tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
     <td class="tg-lnwz"><span style="font-weight:400">Miss Puah Puay Koon Eileen</span></td>
   </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Alison Oliveiro</span></td>
-  </tr>
-  <tr>
-		 
-  </tr><tr>
+	<tr>
     <td class="tg-sna6"><br><span style="text-decoration:underline">P3 to P4 </span></td>
     <td class="tg-atqo"> </td>
   </tr>
@@ -128,7 +120,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Junice Tay </span></td>
+    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Lim Shu Hui Jasmine </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal">Level Head</span></td>
@@ -175,11 +167,7 @@ variant: markdown
     <td class="tg-lnwz" colspan="2"><span style="font-weight:normal"> </span><br><span style="font-weight:bold;text-decoration:underline">PE &amp; CCA</span></td>
   </tr>
   <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department  </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Low - Phua Eileen</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Subject Head    </td>
+    <td class="tg-lnwz">Subject Head (Covering HOD PE/CCA)</td>
     <td class="tg-lnwz">Mdm Liza Binti Ismail</td>
   </tr>
   <tr>
@@ -190,11 +178,11 @@ variant: markdown
     <td class="tg-lnwz">Mdm Julia Bte Mohd Rahim <span style="font-weight:normal"> </span></td>
   </tr>
   <tr>
-    <td class="tg-sna6" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">Special Project (Innovation)</span><span style="font-weight:bold;text-decoration:underline;background-color:initial"> </span></td>
+    <td class="tg-sna6" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">21CC</span><span style="font-weight:bold;text-decoration:underline;background-color:initial"> </span></td>
   </tr>
   <tr>
     <td class="tg-lnwz">Head Of Department  </td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mr Peck Chin Hee Gregory</span> </td>
+    <td class="tg-lnwz"><span style="font-weight:400">Mr Huang Weijin Vincent</span> </td>
   </tr>
   <tr>
     <td class="tg-lnwz">Subject Head   </td>
@@ -220,12 +208,6 @@ variant: markdown
   <tr>
     <td class="tg-lnwz"><span style="font-weight:normal;background-color:initial">Subject Head </span></td>
     <td class="tg-lnwz">Mr Goh Si Qian</td>
-  </tr>
-  <tr><td class="tg-biak" colspan="2"><br>Master Teacher </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Science</td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Michael Long Tian Heng</span></td>
   </tr>
 	<tr>
     <td class="tg-biak" colspan="2"><br>Lead Teachers </td>
