@@ -172,9 +172,6 @@ variant: markdown
   width:286pt" width="381" class="xl76" height="67">P5-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Lim Huey Tyng Joanna<br>Mrs Neo - Ho Yik Ying</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P5-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Lim Huey Tyng Joanna<br>Mrs Neo - Ho Yik Ying</td></tr>
-
-<tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P5-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mdm Teo Ying Zhi<br>Mr Lee Oon Kee Joe</td></tr>
 </tbody></table>
 
