@@ -151,7 +151,7 @@ third_nav_title: Information for Parents
 <p>Wholemeal Buns (Assorted flavours)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sandwich (Assorted Flavours)</p>
+<p>Cheese Sandwich</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Steamed Buns</p>
@@ -166,7 +166,7 @@ third_nav_title: Information for Parents
 <p>Vanilla Milk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chocolate/ Strawberry Milk</p>
+<p>Chocolate Milk</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ribena</p>
@@ -205,7 +205,7 @@ third_nav_title: Information for Parents
 <p>Vanilla Milk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chocolate/ Strawberry Milk</p>
+<p>Chocolate Milk</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ribena</p>
@@ -214,7 +214,7 @@ third_nav_title: Information for Parents
 <p>Milo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Water</p>
 </td>
 </tr>
 </tbody>
