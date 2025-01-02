@@ -6,20 +6,13 @@ description: ""
 third_nav_title: Information for Parents
 ---
 <h2>Timetable</h2>
+<p>*This is a timetable sample of MK@Fernvale.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>7.50 am</p>
@@ -33,23 +26,23 @@ third_nav_title: Information for Parents
 <p>8 am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Circle Time/ Mass Workout (Wed)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.10 am</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Outdoor/ Play @ Field</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.30 am</p>
+<p>8.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Centre/ Mass Assembly Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.50 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Circle Time/ Toileting</p>
+<p>Learning Centre/ Outdoor Learning Centre</p>
 </td>
 </tr>
 <tr>
@@ -57,23 +50,23 @@ third_nav_title: Information for Parents
 <p>9 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Snack</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9.20 am</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>English Language Starlight</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 am</p>
+<p>9.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HI-Light</p>
+<p>Snack</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hi-Light</p>
 </td>
 </tr>
 <tr>
@@ -81,15 +74,15 @@ third_nav_title: Information for Parents
 <p>10.50 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Language Starlight</p>
+<p>Reflection &amp; Transition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.50 am</p>
+<p>11 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reflection</p>
+<p>Mother Tongue Language Starlight</p>
 </td>
 </tr>
 <tr>
@@ -103,6 +96,9 @@ third_nav_title: Information for Parents
 </tbody>
 </table>
 <h2>Snack Menu</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Snack_Menu_2025.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Mk_family_handbook.png">
 </div>
