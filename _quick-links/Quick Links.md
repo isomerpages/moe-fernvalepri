@@ -79,6 +79,7 @@ required)</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/ictequipmentloan" rel="noopener noreferrer nofollow" target="_blank">ICT/AV Booking Form</a>
+<br>For other ICT information, refer to <strong>FVPS ICT Microsite</strong>
 </p>
 </li>
 <li>
