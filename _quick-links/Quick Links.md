@@ -82,7 +82,7 @@ required)</p>
 </p>
 </li>
 <li>
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Venues Booking Form</a>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Venue Booking Form</a>
 </p>
 </li>
 <li>
