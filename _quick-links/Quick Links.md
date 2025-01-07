@@ -79,10 +79,11 @@ required)</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/ictequipmentloan" rel="noopener noreferrer nofollow" target="_blank">ICT/AV Booking Form</a>
+<br>For other ICT information, refer to <strong>FVPS ICT Microsite</strong>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/view/fvps-facilities-booking/home" rel="noopener noreferrer nofollow" target="_blank">Venues Booking Form</a>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Venue Booking Form</a>
 </p>
 </li>
 <li>
