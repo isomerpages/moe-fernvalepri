@@ -15,9 +15,9 @@ to an MOE Kindergarten (MK) if your child is:</p>
 <p>Born between 2 January 2020 and 1 January 2021, both dates inclusive.</p>
 </li>
 </ul>
-<p>If you are interested to register your <strong>SC/PR child for Kindergarten 2 (K2)</strong> admission,
-<a href="mailto:mk_fernvale@moe.edu.sg?subject=Registration%20interest%20for%20MK%40Fernvale" rel="noopener noreferrer nofollow" target="_blank">please contact us at mk_fernvale@moe.edu.sg</a>. K2 admission is subject
-to the availability of places.</p>
+<p>If you are interested to register your <strong>SC/PR child for Kindergarten 1 &amp; 2</strong>  <strong>(2025) </strong>admission,
+<a href="mailto:mk_fernvale@moe.edu.sg?subject=Registration%20interest%20for%20MK%40Fernvale" rel="noopener noreferrer nofollow" target="_blank">please contact us at mk_fernvale@moe.edu.sg</a>. K1 &amp; K2 admission
+is subject to the availability of places.</p>
 <p>For 2026 admission, kindly wait for more details.</p>
 <p></p>
 <p>Thank you.</p>
