@@ -32,7 +32,7 @@ variant: markdown
 
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) ([https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)[](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
  
          
 
@@ -58,10 +58,12 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 ## Primary 5
 
-
+![](/images/Parents%20Corner/P5sexuality_1.jpg)
+![](/images/Parents%20Corner/P5sexuality_2.jpg)
 
 ## Primary 6
 
+![](/images/Parents%20Corner/P6sexuality_1.jpg)
 
 <b><u>Information for Parents</u></b>
 
@@ -71,6 +73,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated&nbsp; to parents at the start of the year and is also downloadable [here](https://form.gov.sg/6732c2c7bcfacbcd1ddd31da). The completed opt-out form is to be submitted by 16/02/2024.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated&nbsp; to parents at the start of the year and is also downloadable [here](https://form.gov.sg/6732c2c7bcfacbcd1ddd31da). The completed opt-out form is to be submitted by **01 March 2025**.
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 63153051 or email us at fernvale\_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at ***63153051*** or email us at ***fernvaleps@moe.edu.sg*** for discussion or to seek clarification about the school’s Sexuality Education programme.
