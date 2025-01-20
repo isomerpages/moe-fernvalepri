@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
+<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
 </p>
 </li>
 <li>

@@ -5,47 +5,18 @@ description: ""
 variant: markdown
 ---
 # Assessment Matters 
-<b>(Updated: 28 June 2024)</b>
+<b>(Updated: 20 January 2025)</b>
 <br>**Semester 1**<br>
 <br>**Term 1**<br>
-[Primary 1 Assessment Letter - Semester 1](/files/2024_P1_Semester_1_Assessment_Letter.pdf)
 
-[Primary 2 Assessment Letter - Semester 1](/files/2024_P2_Semester_1__Assessment_Letter.pdf)
+[Primary 1 Assessment Letter - Semester 1](/files/Assessment/2025_P1_Semester_1_Assessment_Letter.pdf)
 
-[Primary 3 Assessment Letter - Term 1](/files/2024_P3_Term_1_Assessment_Letter.pdf)
+[Primary 2 Assessment Letter - Semester 1](/files/Assessment/2025_P2_Semester_1_Assessment_Letter.pdf)
 
-[Primary 4 Assessment Letter - Term 1](/files/2024_P4_Term_1_Assessment_Letter.pdf)
+[Primary 3 Assessment Letter - Term 1](/files/Assessment/2025_P3_Term_1_Assessment_Letter.pdf)
 
-[Primary 5 Assessment Letter - Term 1](/files/2024_P5_Term_1_Assessment_Letter.pdf)
+[Primary 4 Assessment Letter - Term 1](/files/Assessment/2025_P4_Term_1_Assessment_Letter.pdf)
 
-[Primary 6 Assessment Letter - Term 1](/files/2024_P6_Term_1_Assessment_Letter.pdf)
+[Primary 5 Assessment Letter - Term 1](/files/Assessment/2025_P5_Term_1_Assessment_Letter.pdf)
 
-<br>**Term 2**<br>
-
-[Primary 3 Assessment Letter - Term 2](/files/Parents%20Corner/Assessment%20Matters/2024_P3_Term_2_Assessment_Letter_20_Mar_Final.pdf)
-
-[Primary 4 Assessment Letter - Term 2](/files/2024_P4_Term_2_Assessment_Letter.pdf)
-
-[Primary 5 Assessment Letter - Term 2](/files/Parents%20Corner/Assessment%20Matters/2024_P5_Term_2_Assessment_Letter_20_Mar_Final.pdf)
-
-[Primary 6 Assessment Letter - Term 2](/files/Parents%20Corner/Assessment%20Matters/2024_P6_Term_2_Assessment_Letter_20_Mar_Final.pdf)
-
-<br>**Semester 2**<br>
-<br>**Term 3**<br>
-
-[Primary 3 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P3_Term_3_Assessment_Letter.pdf)
-
-[Primary 4 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P4_Term_3_Assessment_Letter.pdf)
-
-[Primary 5 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P5_Term_3_Assessment_Letter.pdf)
-
-[Primary 6 Assessment Letter - Term 3](/files/Parents%20Corner/Assessment%20Matters/2024_P6_Term_3_Assessment_Letter.pdf)
-
-<br>**Term 4**<br>
-
-[Primary 4 Assessment Letter - Term 4](/files/2024_P4_Term_4_Assessment_Letter.pdf)
-
-[Primary 5 Assessment Letter - Term 4](/files/2024_P5_Term_4_Assessment_Letter.pdf)
-
-[Primary 5 Assessment Letter - Term 4](/files/2024_P5_Term_4_Assessment_Letter.pdf)
-
+[Primary 6 Assessment Letter - Term 1](/files/Assessment/2025_P6_Term_1_Assessment_Letter.pdf)
