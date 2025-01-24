@@ -15,7 +15,6 @@ sections:
       alignment: right
   - infopic:
       title: Our E-Book
-      subtitle: Add an image and text
       id: infopic
       button: Click to view Our e-Book
       url: https://heyzine.com/flip-book/6abc7e7e54.html
