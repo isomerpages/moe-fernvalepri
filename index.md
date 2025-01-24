@@ -14,22 +14,19 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: Outstanding Youth in Education Award
+      title: Our E-Book
+      subtitle: Add an image and text
       id: infopic
-      description: Submit your nomination for Outstanding Youth in Education Award
-        Nomination by scanning the QR Code or via the link.
-      button: Click Here to submit
-      url: https://go.gov.sg/oyea2025
-      image: /images/OYEA2025.jpg
+      button: Click to view Our e-Book
+      url: https://heyzine.com/flip-book/6abc7e7e54.html
+      image: /images/Library/ourebook.jpg
       alt: Image alt text
   - infopic:
-      title: President's Award for Teachers 2025
+      title: Fernvale Primary Storytelling
       id: infopic
-      description: Submit your nomination for President's Award for Teachers 2025
-        Nomination by scanning the QR Code or via the link.
-      button: Click here to submit
-      url: https://go.gov.sg/pat2025
-      image: /images/PAT2025.jpg
+      button: Click to watch storytelling
+      url: https://www.youtube.com/playlist?list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A
+      image: /images/Library/alaric.jpg
       alt: Image alt text
   - infobar:
       title: Rays of Appreciation@FVPS
