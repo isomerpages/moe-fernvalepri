@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Fernvale Primary Storytelling
       id: infopic
-      button: Click to watch storytelling
+      button: Click to Watch
       url: https://www.youtube.com/playlist?list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A
       image: /images/Library/alaric.jpg
       alt: Image alt text
