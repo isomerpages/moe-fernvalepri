@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: Our E-Book
       id: infopic
-      button: Click to view Our e-Book
+      button: Click to View
       url: https://heyzine.com/flip-book/6abc7e7e54.html
       image: /images/Library/ourebook.jpg
       alt: Image alt text
