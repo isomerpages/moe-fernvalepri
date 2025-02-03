@@ -16,15 +16,15 @@ sections:
   - infopic:
       title: Our E-Book
       id: infopic
-      button: Click to view Our e-Book
-      url: https://heyzine.com/flip-book/6abc7e7e54.html
+      button: Read our students stories
+      url: https://go.gov.sg/sswc-2024
       image: /images/Library/ourebook.jpg
       alt: Image alt text
   - infopic:
       title: Fernvale Primary Storytelling
       id: infopic
-      button: Click to watch storytelling
-      url: https://www.youtube.com/playlist?list=PL14zOTDb6RXb_InL7hU-u-DTAhmCMQI1A
+      button: Watch our students in action
+      url: https://go.gov.sg/stc-2024
       image: /images/Library/alaric.jpg
       alt: Image alt text
   - infobar:
