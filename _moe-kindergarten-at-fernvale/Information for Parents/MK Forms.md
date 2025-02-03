@@ -9,9 +9,9 @@ third_nav_title: Information for Parents
 
 [Fernvale MK Waitlist Application Form](https://form.gov.sg/65b32d6325d088fcc5b26b0d)
 
-[KF1 - Enrolment and KiFAS Application](/files/kf1%20-%20enrolment%20and%20kifas%20application%20(jan%202022).pdf)
+[KF1 - Enrolment and KiFAS Application](/files/MK/KF1.pdf)
 
-[KF2 - KiFAS update and SA Application](/files/kf2%20-%20kifas%20update%20and%20sa%20application%20(jan%202022).pdf)
+[KF2 - KiFAS update and SA Application](/files/MK/KF2.pdf)
 
 [GIRO Form](/files/giro%20form.pdf)
 
