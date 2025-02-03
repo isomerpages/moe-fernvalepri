@@ -16,8 +16,8 @@ sections:
   - infopic:
       title: Our E-Book
       id: infopic
-      button: Click to View
-      url: https://heyzine.com/flip-book/6abc7e7e54.html
+      button: Read our students stories
+      url: https://go.gov.sg/sswc-2024
       image: /images/Library/ourebook.jpg
       alt: Image alt text
   - infopic:
