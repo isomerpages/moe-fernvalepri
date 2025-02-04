@@ -14,6 +14,15 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: MK@Fernvale Open House
+      subtitle: Our Happy Place
+      id: infopic
+      description: "Date: 15 February 2025, Saturday            Time: 8.30am - 12.30pm"
+      button: Click here to register your interest
+      url: https://form.gov.sg/67440d2352ba8c426f31566e
+      image: /images/MOE Kindergarten @ Fernvale/MK_OPEN_HOUSE_2025_POSTER.jpg
+      alt: Image alt text
+  - infopic:
       title: Our E-Book
       id: infopic
       button: Read our students stories
