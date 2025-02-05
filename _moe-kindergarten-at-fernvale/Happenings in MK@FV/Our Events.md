@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Happenings in MK@FV
 ---
 <p></p>
-<h4>Valueable Programme</h4>
+<h4>Valuable Programme</h4>
 <p>As part of the MK Total Curriculum, teachers in MK@Fernvale nurture and
 develop values in our children through the explicit teaching and demonstration
 of the 4 values identified by the NEL Framework which is <strong>Respect, Responsibility, Care and Honesty.</strong>
