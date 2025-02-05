@@ -17,9 +17,9 @@ sections:
       title: MK@FV Open House 2025
       subtitle: Our Happy Place
       id: infopic
-      description: "Date: 15 February 2025, Saturday  Time: 8.30am -
-        12.30pm   Explore, learn and play! Discover our programmes and enjoy fun
-        activities for the children."
+      description: "Date: 15 February 2025, Saturday  Time: 8.30am - 12.30pm  Explore,
+        learn and play! Discover our programmes and enjoy fun activities for the
+        children."
       button: Click here to register your interest
       url: https://form.gov.sg/67440d2352ba8c426f31566e
       image: /images/MOE Kindergarten @ Fernvale/MK_OPEN_HOUSE_2025_POSTER.jpg
