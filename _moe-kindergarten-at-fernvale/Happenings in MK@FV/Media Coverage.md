@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Happenings in MK@FV
 ---
-<h4>Opening of Fernvale Community Club and Fernvale Hawker Centre and Market 2022 </h4>
+<h4>Opening of Fernvale Community Club and Fernvale Hawker Centre and Market 2022</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/WhatsApp_Image_2025_02_10_at_4_13_53_PM.jpg">
