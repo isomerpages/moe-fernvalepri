@@ -14,10 +14,12 @@ third_nav_title: Happenings in MK@FV
 Community Club and Fernvale Hawker Centre and Market on 25 Sep 2022. Prime
 Minister Lee Hsien Loong and Grassroots Adviser Mr Gan Thiam Poh, MP for
 Ang Mo Kio GRC graced the event.</p>
-<hr>
+<p><a href="https://www.facebook.com/watch/?mibextid=rS40aB7S9Ucbxw6v&amp;v=2949859518743919" rel="noopener nofollow" target="_blank">Performance by MK@FV</a>
+</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FFernvale.RN.G%2Fvideos%2F2949859518743919%2F&amp;show_text=true&amp;width=560&amp;t=0"></iframe>
+<iframe style="border:none;overflow:hidden" height="394" width="700" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FFernvale.RN.G%2Fvideos%2F2949859518743919%2F&amp;width=700&amp;show_text=false&amp;height=394&amp;appId"></iframe>
 </div>
+<hr>
 <p></p>
 <h4>Teachers' Day special features on MOE Kindergarten Educators</h4>
 <p>Ms Ammarah was featured in Berita Harian in which she explains how her
