@@ -27,11 +27,12 @@ In line with our beliefs that young children are curious, active and compete
 The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.
 
 We are proud to present 4 of our teachers who have received the award. 
-
+![](/images/MOE%20Kindergarten%20@%20Fernvale/MSEA.png)
 
 
 ##### Civil Service Long Service Award
 The Civil Service Long Service recognizes teachers who have completed 5, 10, 20, 30 and 40 years of continuous service.
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Long_Service.png)
 
 
 
