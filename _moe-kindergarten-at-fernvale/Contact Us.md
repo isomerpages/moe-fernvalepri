@@ -34,8 +34,6 @@ Singapore 790402
 
 **Operating Hours:**              
 Monday to Friday: 7:00am - 7:00pm
-<br>Saturday: 7:00am - 2.00pm
 
-*Timing to be updated
 
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/MOE_sticker_2023_for_MKs_04.jpg)
