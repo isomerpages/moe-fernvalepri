@@ -47,7 +47,7 @@ The award recognises pre-school teachers for their passion in making the learnin
 
 ##### National Awards - The COVID-19 Resilience Medal
 The National Awards (COVID-19) recognise individuals and teams who have made outstanding contributions to Singapore’s fight during the COVID-19 pandemic. Our heartiest congratulations to our Deputy Centre Head, Ms Arlene Tan for receiving the award. 
-![](/images/MOE%20Kindergarten%20@%20Fernvale/4.svg)
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Untitled_design__3_.png)
 
 ##### ECDA Training Award
 The Early Childhood Development Agency (ECDA) offers a range of Scholarships and Training Awards that support potential and existing Early Childhood educators in their professional development journey.
