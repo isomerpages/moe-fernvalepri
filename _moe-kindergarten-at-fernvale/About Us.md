@@ -40,10 +40,6 @@ The Civil Service Long Service recognizes teachers who have completed 5, 10, 20,
 The Outstanding Contribution Awards (OCA) are given by MOE in recognition of significant value-added contributions by staff who have made an impact on the school.
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/Oustanding_Contribution_award.svg)
 
-##### MOE Training Sponsorship
-![](/images/MOE%20Kindergarten%20@%20Fernvale/5.svg)
-
-
 ##### Outstanding Mother Tongue Language Symposium 202
 We would like to extend our congratulations to Cikgu Siti Raudhah for achieving the Merit Award for the Outstanding Preschool Mother Tongue Language Award 2023.
 The award recognises pre-school teachers for their passion in making the learning of MTLs interesting and in nurturing a love for languages among pre-school children. 
@@ -57,7 +53,8 @@ The National Awards (COVID-19) recognise individuals and teams who have made out
 The Early Childhood Development Agency (ECDA) offers a range of Scholarships and Training Awards that support potential and existing Early Childhood educators in their professional development journey.
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/6.svg)
 
-
+##### MOE Training Sponsorship
+![](/images/MOE%20Kindergarten%20@%20Fernvale/5.svg)
 
 ##### 2022 MOE Innergy and Outstanding Innovator Awards
 Congratulations to the K1 English teachers in MK@Fernvale for getting the commendation award for the 2022 MOE Innergy and Outstanding Innovator Awards. The teachers worked on strategies to enhance children's numeracy experience through motor skills activities.
