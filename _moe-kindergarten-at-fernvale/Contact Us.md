@@ -4,18 +4,17 @@ permalink: /moe-kindergarten-at-fernvale/contactus/
 description: ""
 variant: markdown
 ---
-![](/images/MOE%20Kindergarten%20@%20Fernvale/PIC%207.jpg)
 # Contact Us
 
-For more information on MOE Kindergarten Fernvale, contact us at&nbsp;**63153051**,&nbsp;email&nbsp;us at&nbsp;[mk\_fernvale@moe.edu.sg](mailto:mk_fernvale@moe.edu.sg).&nbsp;
-You can find us on our&nbsp;[Instagram](https://www.instagram.com/mk_fernvale/)&nbsp;and&nbsp;[Facebook](https://www.facebook.com/mkfernvale).
+For more information on MOE Kindergarten Fernvale, <br>contact us at&nbsp;**63153051**,&nbsp;email&nbsp;us at&nbsp;[mk\_fernvale@moe.edu.sg](mailto:mk_fernvale@moe.edu.sg)&nbsp;
+<br>You can find us on our&nbsp;[Instagram](https://www.instagram.com/mk_fernvale/)&nbsp;and&nbsp;[Facebook](https://www.facebook.com/mkfernvale).
 
-Alternatively,&nbsp; you can visit&nbsp;[www.moe.gov.sg/moekindergarten](http://www.moe.gov.sg/moekindergarten)&nbsp;to find out more.
+Alternatively, you can visit&nbsp;[www.moe.gov.sg/moekindergarten](http://www.moe.gov.sg/moekindergarten)&nbsp;to find out more.
 
 
 # Operating Hours  
-MK: 8 a.m. to 5 p.m 
-KCare: 7 a.m. to 7 p.m.*
+**MK**: 8 a.m. to 5 p.m 
+<br>**KCare**: 7 a.m. to 7 p.m.*
 
 
 # Locate Us
@@ -30,12 +29,11 @@ Our MK collaborates with the PCF Sparkle Tots Early Years Centres:
 **Address:**     
 Blk 402 Fernvale Lane #01-01 (MSCP)  
 Singapore 790402  
-
-**Contact number:** +65 6016 4300      
+<br>**Contact Number:** +65 6016 4300      
 **Email:** PT.EY.402@pcf.org.sg
 
 **Operating Hours:**              
-Monday to Friday: 7:00am - 7:00pm  
-Saturday: 7:00am - 2.00pm
+Monday to Friday: 7:00am - 7:00pm
 
-*Timing to be updated
+
+![](/images/MOE%20Kindergarten%20@%20Fernvale/MOE_sticker_2023_for_MKs_04.jpg)
