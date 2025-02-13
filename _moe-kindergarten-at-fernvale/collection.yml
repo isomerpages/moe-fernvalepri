@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Team.md
-      - Our Achievements/.keep
       - About Us.md
       - Our Programmes.md
       - Information for Parents/Register for MK@Fernvale.md
