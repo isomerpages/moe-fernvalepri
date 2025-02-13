@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - About Us.md
-      - Our Team/.keep
-      - Our Team/Our Team.md
-      - Our Team/Our Achievements.md
+      - MK@FV Team/.keep
+      - MK@FV Team/Our Team.md
+      - MK@FV Team/Our Achievements.md
       - Our Programmes.md
       - Information for Parents/.keep
       - Information for Parents/Register for MK@Fernvale.md
