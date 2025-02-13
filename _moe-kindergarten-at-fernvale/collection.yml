@@ -2,9 +2,9 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - Our Team/Our Achievements.md
-      - Our Team/Our Team.md
       - Our Team/.keep
+      - Our Team/Our Team.md
+      - Our Team/Our Achievements.md
       - About Us.md
       - Our Programmes.md
       - Information for Parents/Register for MK@Fernvale.md
