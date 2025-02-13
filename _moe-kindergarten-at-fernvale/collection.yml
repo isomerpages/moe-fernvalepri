@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Team.md
-      - Our Achievements/Our Achievements.md
       - Our Achievements/.keep
       - About Us.md
       - Our Programmes.md
