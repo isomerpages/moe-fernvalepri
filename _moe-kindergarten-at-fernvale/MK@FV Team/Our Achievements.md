@@ -17,7 +17,7 @@ and inspire their colleagues to do likewise.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/MSEA.png">
 </div>
 <h4>Civil Service Long Service Award</h4>
-<p>The Civil Service Long Service recognizes teachers who have completed
+<p>The Civil Service Long Service recognises teachers who have completed
 5, 10, 20, 30 and 40 years of continuous service.</p>
 <p></p>
 <div class="isomer-image-wrapper">
