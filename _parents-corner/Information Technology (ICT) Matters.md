@@ -15,7 +15,7 @@ description: ""
 <br>Do ensure that you set up your security questions for your MIMS.
 <br>Click <strong><a href="/files/Parents Corner/Guide_to_setup_Security_Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> to
 find out how to setup your security questions.</p>
-<p>You can refer <strong><a href="/files/Parents Corner/MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> on
+<p>You can refer <strong><a href="/files/Parents Corner/MIMS_Self_Help.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong> on
 how to <strong>Reset your Password.</strong>
 </p>
 <p>
