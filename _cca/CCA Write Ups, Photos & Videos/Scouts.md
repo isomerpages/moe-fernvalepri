@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/CCA-Write-Ups-Photos-and-Videos/scouts/
 description: ""
 third_nav_title: CCA Write Ups, Photos & Videos
+variant: markdown
 ---
 # Scouts
 ![](/images/Cca/Scouts/1.jpg)
@@ -22,15 +23,44 @@ Scouting’s purpose is to help young people to develop their full physical, int
 |--------|------------------|
 | Monday | 2:00pm to 4:15pm |
 
-### <b><u>Teachers</u></b>
+### **Teachers**
 
-| Name                | Email                              |
-|---------------------|------------------------------------|
-| Mdm Khalidah Goh    | [khalidah\_goh\_shafie\_goh@moe.edu.sg](mailto:khalidah_goh_shafie_goh@moe.edu.sg) |
-| Mr Au Jun Duan, Reuben      | [au\_jun\_duan\_reuben@moe.edu.sg](mailto:goh_si_qian@moe.edu.sg)            |
-| Miss Seah Hui Shian | [seah\_hui\_shian@moe.edu.sg](mailto:seah_hui_shian@moe.edu.sg)          |
-| Mr Iskandar Alamin Bin Salleh   | [iskandar\_alamin\_salleh@moe.edu.sg](mailto:lau_peng_sheng@moe.edu.sg)          |
-| Miss Neo Yihui      | [neo\_yihui@moe.edu.sg](mailto:neo_yihui@moe.edu.sg)               |
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Name</span></b></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Khalidah Goh (OIC)</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">khalidah_goh_shafie_goh@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mr Goh Si Qian</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">goh_si_qian@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Teoh Hai Wei</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">teoh_hai_wei@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Teo Ying Zhi</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">teo_ying_zhi@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Ms Leong Si Jie Ervinna</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">leong_si_jie_ervinna@moe.edu.sg</span></p></td></tr>
+</tbody></table>
 
 ## <b><u>Programme Highlights</u></b>
 
