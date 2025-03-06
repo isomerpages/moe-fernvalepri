@@ -23,16 +23,42 @@ Wushu is considered a “performing sport”, consisting elements that are chara
 | Monday | 2:00pm to 4:00pm (School Team &amp; Recreational Team) |
 
 
-| Name                               | Emailing                         |
-|------------------------------------|----------------------------------|
-| Ms Cherie Ang (OIC)                | [cherie\_ang\_hui\_er@moe.edu.sg](mailto:cherie_ang_hui_er@moe.edu.sg)    |
-| Mdm Teo Ching Wee                  |[teo\_ching\_whee@moe.edu.sg](mailto:teo_ching_whee@moe.edu.sg)       |
-| Mdm V Sulaja       | [v\_sulaja@moe.edu.sg](mailto:eyananthini_jeyapal@moe.edu.sg)  |
+### **Teachers**
 
-![](/images/Cca/Wushu/Picture4.png)
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Name</span></b></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Teo Ching Whee (OIC)</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">teo_ching_whee@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Ms Lim Xi Min Shermin</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">lim_xi_min_shermin@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm V Sulaja</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">v_sulaja@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mrs Chong-Loh Swee Ling</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">loh_swee_ling@moe.edu.sg</span></p></td></tr>
+</tbody></table>
 
 ### <b><u>Achievements/Successes</u></b>
 
+![](/images/Cca/Wushu/Picture4.png)
 
 | Year | Achievements/Successes                       |
 |------|----------------------------------------------------------------------------------------------------------------|
