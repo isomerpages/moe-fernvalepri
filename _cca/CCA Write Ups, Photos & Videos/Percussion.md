@@ -31,13 +31,7 @@ We aim to develop the students to acquire strong foundation in Percussion and cu
   height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Ms Noorhafidah Bte Mohammad Hanafi (OIC)</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
   mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">noorhafidah_mohammd_hanafi@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
-  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mr Chan Bao Lai</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
-  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">chan_bao_lai@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">noorhafidah_mohammd_hanafi@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
   mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
   height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Somasundaram Vijaya Rani</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
