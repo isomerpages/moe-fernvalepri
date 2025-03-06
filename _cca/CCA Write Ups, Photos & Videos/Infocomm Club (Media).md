@@ -25,17 +25,9 @@ We aim to spark a passion for photography, videography and creative designing. W
 
 ### **Sessions**
 
-<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#323232">Day</span></b></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#323232">Timing</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
-  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Monday</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
-  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">2.00pm - 4.30pm</span></p></td></tr></tbody></table>
+| Day  | Time | Venue |
+|-------|----|-----------|
+| Monday  | 2pm - 4pm | Teaching Lab |
 
 
 ### **Teachers**
