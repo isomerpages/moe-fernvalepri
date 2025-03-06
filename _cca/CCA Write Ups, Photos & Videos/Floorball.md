@@ -17,17 +17,74 @@ National Primary Schools Floorball Championship and have worked our way up to at
 |--------------------|-----------------------------------------------------------------------------|
 | Monday and Fridays | 2:00pm to 4:00pm (P3, P4)<br> 2:00pm to 5:00pm (P4 School Team, P5 &amp; P6) |
 
-#### <b><u>Teachers</u></b>
+# Basketball
+### <u>Vision</u>
+
+To be a passionate, dedicated and life-long learning team of unique individuals.  
+
+### <u> Mission</u>
+
+To inspire and help pupils to attain a higher level of proficiency of Basketball Skills through understanding and guidance by the coaches. 
+
+FVPS Basketball CCA comprises of school teams and trainees team. Our trainee team is made up of primary 4 to 6 pupils (boys &amp; girls) who are interested and passionate towards the game. The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience. Our school team is made up of players from the trainees group that are selected by the teachers and coaches. It is supported by teachers who emphasize on self-discipline and character development, in alignment to our school Values, for all Basketball CCA members.
+
+  
+### <u><b> Session</b></u>
+
+| Day       | Team                     | Time                               |
+|-----------|--------------------------|------------------------------------|
+| Monday    | Junior Boys<br> Junior Girls |  2:00pm to 3:30pm                  |
+|           | Senior Boys <br>Senior Girls | 2:00pm to 4.30pm <br>2:00pm to 5:30pm  |
+| Wednesday | Junior Boys<br> Junior Girls |  2:00pm to 3:30pm                  |
+|           | Senior Boys<br> Senior Girls | 2:00pm to 4.30pm<br> 2:00pm to 5:30pm  |
+| Friday    | Senior Girls             | 2:00pm to 4:30pm                   |
+
+### **Teachers**
+
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Name</span></b></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mr Iskandar Alamin Bin Salleh (OIC)</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">iskandar_alamin_salleh@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mr Chan Bao Lai</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">chan_bao_lai@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mrs Kelly Thong-Hau Luo Ting</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">kelly_thong@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Soh Seok Khim</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">soh_seok_khim@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mrs Azry-Nurul Hayati Binte Abdul Rahman</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">nurul_hayati_abdul_rahman@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mdm Puvaneswary d/o Balakrishnan</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">puvaneswary_balakrishnan@moe.edu.sg</span></p></td></tr>
+</tbody></table>
 
 
-| Name                  | Email                        |
-|-----------------------|------------------------------|
-| Mrs Chong-Loh Swee Ling      |  [loh\_swee\_ling@moe.edu.sg](mailto:loh_swee_ling@moe.edu.sg)    |
-| Mr Chen Bao Lai        |  &nbsp;[chen\_bao\_lai@moe.edu.sg](mailto:chen_bao_lai@moe.edu.sg)     |
-| Mr Iskandar Alamin Bin Salleh |[iskandar_alamin_salleh@moe.edu.sg](iskandar_alamin_salleh@moe.edu.sg)|
-| Ms Tan Hwee Ping Elsie   | [tan_hwee_ping_elsie@moe.edu.sg](tan_hwee_ping_elsie@moe.edu.sg)     |
-| Mdm Soh Seok Khim     |[soh_seok_khim@moe.edu.sg](soh_seok_khim@moe.edu.sg)|
-| Mdm Puvaneswary d/o Balakrishnan      |  [puvaneswary_balakrishnan@moe.edu.sg](puvaneswary_balakrishnan@moe.edu.sg)   |
 
 
 ### <b><u>Our Team goals</u></b>
