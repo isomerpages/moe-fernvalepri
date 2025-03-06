@@ -82,10 +82,6 @@ FVPS Basketball CCA comprises of school teams and trainees team. Our trainee tea
   mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
   mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
   height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">andrea_tee@moe.edu.sg</span></p></td></tr>
-
-
-	
-
 </tbody></table>
 
 
