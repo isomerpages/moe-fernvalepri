@@ -21,7 +21,7 @@ Scouting’s purpose is to help young people to develop their full physical, int
 
 | Day    | Time             |
 |--------|------------------|
-| Monday | 2:00pm to 4:15pm |
+| Friday | 2:00pm to 4:30pm |
 
 ### **Teachers**
 
