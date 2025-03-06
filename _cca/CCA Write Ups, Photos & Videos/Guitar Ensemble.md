@@ -42,41 +42,45 @@ Students of any skill levels are encouraged to come and share their techniques w
   </tr>
 </tbody></table>
 
+
 ## <b><u>Teachers</u></b>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3srz{background-color:#4A7247;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-vqxi{background-color:#4A7247;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-3q3a{background-color:#F9EBD7;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 417px">
-<colgroup>
-<col style="width: 143px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-3srz">Mdm Toh Lee See Chloe   </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3q3a">Ms Tan Yuan Lin       </td>
-  </tr>
-</tbody><thead>
-  <tr>
-    <th class="tg-3srz">Ms Vimala Devi d/o P Kanaran   </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3q3a">Mrs Kalavathi Selvarajulu        </td>
-  </tr>
-</tbody>
-</table>
+
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Name</span></b></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:27.0pt" valign="top"><p style="margin:0in"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#323232">Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.0pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mr Lee Oon Kee Joe (OIC)</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.5pt;mso-border-top-alt:solid #D6D6D6 1.5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">lee_oon_kee@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Ms Vimala Devi d/o P Kanaran</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">vimala_devi@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mrs Kalavathi Selvarajulu</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">kalavathi_selvarajulu@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Miss Tan Yuan Lin</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">tan_yuan_lin@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:26.25pt"><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">Mrs Ho-Soh Wei Ying</span></p></td><td style="border:none;border-bottom:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .5pt;mso-border-top-alt:solid #D6D6D6 .5pt;
+  mso-border-bottom-alt:solid #D6D6D6 .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.25pt" valign="top"><p style="margin:0in"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#484848">soh_wei_ying@moe.edu.sg</span></p></td></tr>
+</tbody></table>
 
 ## <b><u>Achievements/Successes</u></b>
 
