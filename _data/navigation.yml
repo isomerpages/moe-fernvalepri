@@ -9,9 +9,13 @@ links:
   - title: For Parents
     collection: parents-corner
   - title: MOE Kindergarten
-    collection: moe-kindergarten-at-fernvale
+    collection: achievements
   - title: Links
     url: /quick-links/
-    sublinks: []
+    sublinks:
+      - title: Staff
+        url: /permalink
+      - title: Parents & Students
+        url: /permalink
   - title: Forms
     url: /forms/
