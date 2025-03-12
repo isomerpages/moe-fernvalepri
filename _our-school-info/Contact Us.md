@@ -94,10 +94,11 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.644239484286!2d103.87160337567893!3d1.3900189614439562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da166483c031f5%3A0xebca7def59b6b6a3!2sFernvale%20Primary%20School!5e0!3m2!1sen!2ssg!4v1741757796034!5m2!1sen!2ssg"></iframe>
 </div>
+<p></p>
+<hr>
 <h3><strong><u>School Gate Operating Hours</u></strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -143,8 +144,8 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 <p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 am to 7.30 am</p>
-<p>1.30 pm to 2.00 pm</p>
+<p>6.45 am to 7.30 am
+<br>1.30 pm to 2.00 pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Closed</p>
@@ -160,7 +161,8 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </tr>
 </tbody>
 </table>
-<h3><strong><u>Other Facilities</u></strong></h3>
+<hr>
+<h3><strong><u>School Library</u></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -169,33 +171,32 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong><u>School Library</u></strong>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mondays To Friday</u></strong>
+<p><strong>Mondays To Friday</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>7:40 am to 3:00 pm</u></strong>
+<p><strong>7:40 am to 3:00 pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Schools Holidays</u></strong>
+<p><strong>Schools Holidays</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>8:00 am to 12:00 pm</u></strong>
+<p><strong>8:00 am to 12:00 pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Closed on Sat, Sun and Public Holidays</u></strong>
+<p><strong>Closed on Sat, Sun and Public Holidays</strong>
 </p>
 </td>
 </tr>
