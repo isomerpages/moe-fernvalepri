@@ -23,7 +23,7 @@ variant: tiptap
 <p>School Term (Monday To Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>7:30am to 6:00pm</u>
+<p><u>7:30 am to 6:00 pm</u>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>School holidays (Monday To Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>8:00 am to 5:00pm</u>
+<p><u>8:00 am to 5:00 pm</u>
 </p>
 </td>
 </tr>
@@ -129,10 +129,10 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 <p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 a.m. to 6.00 p.m.</p>
+<p>6.45 am to 6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 a.m. to 6.00 p.m.</p>
+<p>7.00 am to 6.00 pm</p>
 </td>
 </tr>
 <tr>
@@ -143,8 +143,8 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 <p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 a.m. to 7.30 a.m.</p>
-<p>1.30 p.m. to 2.00 p.m.</p>
+<p>6.45 am to 7.30 am</p>
+<p>1.30 pm to 2.00 pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Closed</p>
@@ -155,7 +155,7 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 <p>Monday, Tuesday, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00 p.m. to 3.45 p.m.</p>
+<p>3.00 pm to 3.45 pm</p>
 </td>
 </tr>
 </tbody>
@@ -181,7 +181,7 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>7:40am to 3:00pm</u></strong>
+<p><strong><u>7:40 am to 3:00 pm</u></strong>
 </p>
 </td>
 </tr>
@@ -191,7 +191,7 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>8:00am to 12:00pm</u></strong>
+<p><strong><u>8:00 am to 12:00 pm</u></strong>
 </p>
 </td>
 </tr>
