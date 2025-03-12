@@ -4,8 +4,8 @@ permalink: /contactus/
 description: ""
 variant: tiptap
 ---
-<h1>Contact Us</h1>
-<h2><u>General Office</u></h2>
+<h1><strong>Contact Us</strong></h1>
+<h2><strong><u>General Office</u></strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -98,7 +98,7 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.644239484286!2d103.87160337567893!3d1.3900189614439562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da166483c031f5%3A0xebca7def59b6b6a3!2sFernvale%20Primary%20School!5e0!3m2!1sen!2ssg!4v1741757796034!5m2!1sen!2ssg"></iframe>
 </div>
-<h3><u>School Gate Operating Hours</u></h3>
+<h3><strong><u>School Gate Operating Hours</u></strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -160,7 +160,7 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </tr>
 </tbody>
 </table>
-<h3><u>Other Facilities</u></h3>
+<h3><strong><u>Other Facilities</u></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
