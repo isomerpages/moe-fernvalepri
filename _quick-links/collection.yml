@@ -2,4 +2,5 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents.md
       - Quick Links.md
