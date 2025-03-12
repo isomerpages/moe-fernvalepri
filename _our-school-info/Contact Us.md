@@ -160,8 +160,6 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h3><u>Other Facilities</u></h3>
 <table style="minWidth: 50px">
 <colgroup>
