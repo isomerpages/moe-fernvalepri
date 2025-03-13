@@ -56,6 +56,6 @@ to support our children in their education journey.</div>
 </a>
 </div>
 <h1><strong>For Staff</strong></h1>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fvps.padlet.org/gavin/fvps-teachers-bookmarks-k3rynhvzqqpjf6yq" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="For Staff" src="/images/Quick Link/ICT.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Commonly Used Links for Staff</div><div class="isomer-card-description">The commonly used links for staff can be found in the link below.</div><div class="isomer-card-link">Click HERE </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fvps.padlet.org/gavin/fvps-teachers-bookmarks-k3rynhvzqqpjf6yq" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="For Staff" src="/images/Quick Link/ICT.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Commonly Used Links for Staff</div><div class="isomer-card-description">The commonly used links for staff can be found in the link below.</div><div class="isomer-card-link">Click HERE</div></div></a>
 </div>
 <p></p>
