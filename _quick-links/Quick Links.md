@@ -5,36 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>For Students and Parents</strong></h1>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
-</p>
-</li>
-<li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a>
-</p>
-</li>
-<li>
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
-</p>
-</li>
-</ol>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SLS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Learning Space (SLS)</div><div class="isomer-card-description">MIMS ID: &lt;Full Name&gt;@students.edu.sg Password: MIMS Password</div><div class="isomer-card-link">Click HERE to access to SLS</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://workspace.google.com/dashboard" class="isomer-card">
