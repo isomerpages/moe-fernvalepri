@@ -36,10 +36,10 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SLS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Learning Space (SLS)</div><div class="isomer-card-description">Do use MIMS ID and Password to login
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SLS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Learning Space (SLS)</div><div class="isomer-card-description">Do use MIMS ID and Password to login.
 
-Login ID: &lt;Full Name&gt;@students.edu.sg
-Password: MIMS Password </div><div class="isomer-card-link">Click HERE to access to SLS</div></div></a>
+MIMS ID: &lt;Full Name&gt;@students.edu.sg
+Password: MIMS Password</div><div class="isomer-card-link">Click HERE to access to SLS</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
