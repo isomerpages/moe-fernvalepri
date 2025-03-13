@@ -35,64 +35,25 @@ variant: tiptap
 </p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SLS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Learning Space (SLS)</div><div class="isomer-card-description">Do use MIMS ID and Password to login
+
+Login ID: &lt;Full Name&gt;@students.edu.sg
+Password: MIMS Password </div><div class="isomer-card-link">Click HERE to access to SLS</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <h1><strong>For Staff</strong></h1>
-<ol>
-<li>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HR Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a> (VPN
-required)</p>
-</li>
-<li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
-</p>
-</li>
-<li>
-<p><a href="https://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">READ@Academy</a>
-</p>
-</li>
-<li>
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
-</p>
-</li>
-<li>
-<p><a href="https://scmobile.moe.edu.sg/home" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
-</p>
-</li>
-<li>
-<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/ictequipmentloan" rel="noopener noreferrer nofollow" target="_blank">ICT/AV Booking Form</a>
-<br>For other ICT information, refer to <strong>FVPS ICT Microsite</strong>
-</p>
-</li>
-<li>
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Venue Booking Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://tinyurl.com/FVPSmusicloan" rel="noopener noreferrer nofollow" target="_blank">Music Instruments Loan Request Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLScbEarYxbA8QxxtPuYxJDtIRd3snw1b4sspBSlHcczP-zlzwg/viewform?usp=send_form" rel="noopener noreferrer nofollow" target="_blank">Art Expression Wall Collaboration Request Form</a>
-</p>
-</li>
-</ol>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fvps.padlet.org/gavin/fvps-teachers-bookmarks-k3rynhvzqqpjf6yq" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="For Staff" src="/images/ICT.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Commonly Used Links for Staff</div><div class="isomer-card-description">The commonly used links can be found in the link below.</div><div class="isomer-card-link">Click HERE for the commonly used links</div></div></a>
+</div>
 <p></p>
