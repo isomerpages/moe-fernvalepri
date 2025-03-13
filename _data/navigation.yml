@@ -12,10 +12,6 @@ links:
     collection: achievements
   - title: Links
     url: /quick-links/
-    sublinks:
-      - title: Staff
-        url: /permalink
-      - title: Parents & Students
-        url: /permalink
+    sublinks: []
   - title: Forms
     url: /forms/
