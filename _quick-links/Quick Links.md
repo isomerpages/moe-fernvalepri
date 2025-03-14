@@ -5,94 +5,57 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>For Students and Parents</strong></h1>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
-</p>
-</li>
-<li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a>
-</p>
-</li>
-<li>
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
-</p>
-</li>
-</ol>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Quick Link/SLS_new_blue.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Learning Space (SLS)</div><div class="isomer-card-description">MIMS ID: &lt;Full Name&gt;@students.edu.sg Password: MIMS Password</div><div class="isomer-card-link">Click HERE to access to SLS</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://workspace.google.com/dashboard" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="icon" src="/images/Quick Link/student.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Student iCON</div>
+<div class="isomer-card-description">MIMS ID: &lt;Full Name&gt;@students.edu.sg</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ezhishi.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Quick Link/ezhishi.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">eZhishi</div><div class="isomer-card-link">Click HERE to access to eZhiShi</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ECG" src="/images/Quick Link/ECG.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Education and Career Guidance (ECG)</div>
+<div class="isomer-card-link">Access to ECG HERE</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.koobits.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Koobits" src="/images/Quick Link/koobits.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KooBits</div><div class="isomer-card-link">Gain access to KooBits HERE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CW" src="/images/Quick Link/CW.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cyberwellness</div>
+<div class="isomer-card-description">Cyber Wellness education focuses on helping your child to be a responsible
+digital learner.</div>
+<div class="isomer-card-link">Your Cyber journey begins here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PG" src="/images/Quick Link/pg.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Parents Gateway is a one-stop portal that strengthens school-home partnership to support our children in their education journey.</div><div class="isomer-card-link">Access to Parents Gateway HERE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="moe" src="/images/Quick Link/moe.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MOE Website</div>
+<div class="isomer-card-link">Link to MOE Website</div>
+</div>
+</a>
+</div>
 <h1><strong>For Staff</strong></h1>
-<ol>
-<li>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HR Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a> (VPN
-required)</p>
-</li>
-<li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
-</p>
-</li>
-<li>
-<p><a href="https://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">READ@Academy</a>
-</p>
-</li>
-<li>
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
-</p>
-</li>
-<li>
-<p><a href="https://scmobile.moe.edu.sg/home" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
-</p>
-</li>
-<li>
-<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/ictequipmentloan" rel="noopener noreferrer nofollow" target="_blank">ICT/AV Booking Form</a>
-<br>For other ICT information, refer to <strong>FVPS ICT Microsite</strong>
-</p>
-</li>
-<li>
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Venue Booking Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://tinyurl.com/FVPSmusicloan" rel="noopener noreferrer nofollow" target="_blank">Music Instruments Loan Request Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLScbEarYxbA8QxxtPuYxJDtIRd3snw1b4sspBSlHcczP-zlzwg/viewform?usp=send_form" rel="noopener noreferrer nofollow" target="_blank">Art Expression Wall Collaboration Request Form</a>
-</p>
-</li>
-</ol>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fvps.padlet.org/gavin/fvps-teachers-bookmarks-k3rynhvzqqpjf6yq" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="For Staff" src="/images/Quick Link/ICT.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Commonly Used Links for Staff</div><div class="isomer-card-description">The commonly used links for staff can be found in the link below.</div><div class="isomer-card-link">Click HERE</div></div></a>
+</div>
 <p></p>
