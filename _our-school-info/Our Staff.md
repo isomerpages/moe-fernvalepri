@@ -65,13 +65,13 @@ variant: markdown
 <td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P1-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mdm Teo Ching Whee<br>Mrs Azry - Nurul Hayati Binte Abdul Rahman</td></tr>
 
-<tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;  width:286pt" width="381" class="xl76" height="67">P1-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Mrs Heng - Cheong Soke Hwa<br>Ms Ervinna Leong<br></td></tr>
+<tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;  width:286pt" width="381" class="xl76" height="67">P1-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Mrs Heng - Cheong Soke Hwa<br>Mrs Jacquelin Yeo Chien Ling<br></td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P1-Courage</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Tan Hwee Ping Elsie<br>Mr Ng Junhao Gary <br>Miss Carina Chua Li Jun (Term 1)</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P1-Confidence</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Jacquelin Yeo Chien Ling<br>Mr Low Deng Neng JIm<br>Miss Tan Yuan Lin</td></tr>
+  width:286pt" width="381" class="xl76" height="67">P1-Confidence</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Miss Tan Yuan Lin<br>Mr Low Deng Neng JIm<br>Mr Jaron Yap Jie Han / Mdm Liza Binti Ismail (Term 2) <br>Mrs Ho - Soh Wei Ying (Sem 2)</td></tr>
 
 </tbody>
 </table>
@@ -88,13 +88,13 @@ variant: markdown
   width:286pt" width="381" class="xl76" height="67">P2-Graciousnesss</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Chong - Loh Swee Ling<br>Mdm Lim Siew Fang</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P2-Integrity</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Mdm Oliveiro Angeline Alison<br>Ms Poon Sook Fong Carolyn<br> Miss Puah Puay Koon Eileen (Jan - Apr)</td></tr>
+  width:286pt" width="381" class="xl76" height="67">P2-Integrity</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Mdm Oliveiro Angeline Alison<br>Ms Poon Sook Fong Carolyn<br> Mdm Wee Chui Mei</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P2-Resilience</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl83">Mrs Mabel Soh - Ong Hui Mei<br>Mr Tong Hock Chuan Alan</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P2-Respect</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl77">Mrs Huang - Soh Chin Yi Germaine<br>Mrs Andrea Tee</td></tr>
+  width:286pt" width="381" class="xl76" height="67">P2-Respect</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl77">Mrs Huang - Soh Chin Yi Germaine<br>Mrs Andrea Tee<br>Ms Tan Siow Meng</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P2-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl77">Mrs Lee - Teo Khim Hoong Carol<br>Mdm Khalidah Goh d/o Shafie Goh</td></tr>
@@ -149,12 +149,12 @@ variant: markdown
   width:286pt" width="381" class="xl76" height="67">P4-Responsibility</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl77">Mrs Kelly Thong - Hau Luo Ting<br>Mr Fariz Husna Bin Sajani</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P4-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Ms Lim Xi Min Shermin<br>Mr Iskandar Alamin Bin Salleh</td></tr></tbody></table>
+  width:286pt" width="381" class="xl76" height="67">P4-Joy</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl78">Ms Lim Xi Min Shermin<br>Mr Iskandar Alamin Bin Salleh<br>Mr Elvin Benjamin (April)</td></tr></tbody></table>
 
 ### Primary 5
 
 <table style="border-collapse:
- collapse;width:600pt" width="800" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:13312;width:286pt" width="381"> <col style="mso-width-source:userset;mso-width-alt:23691;width:509pt" width="679"></colgroup><tbody><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;width:286pt" width="381" class="xl76" height="67">P5-Care</td><td style="border-left:none;width:509pt" width="679" class="xl77">Miss Ang Min Xin<br>Mrs Audrey Ortega<br>Mrs Poon-Liew Siew Hui Eileen</td></tr>
+ collapse;width:600pt" width="800" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:13312;width:286pt" width="381"> <col style="mso-width-source:userset;mso-width-alt:23691;width:509pt" width="679"></colgroup><tbody><tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;width:286pt" width="381" class="xl76" height="67">P5-Care</td><td style="border-left:none;width:509pt" width="679" class="xl77">Miss Ang Min Xin<br>Mrs Audrey Ortega (Till Oct)<br>Mrs Poon-Liew Siew Hui Eileen</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P5-Graciousnesss</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Ting Wan Xin<br>Mdm Lee Bee Leng</td></tr>
