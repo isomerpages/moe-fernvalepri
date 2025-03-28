@@ -57,13 +57,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 ANNOUNCEMENTS</p>
+<p>1.1 Staff Movement</p>
+<p>&nbsp;</p>
+<p>2 SCHOOL CALENDAR, EVENTS AND PROGRAMMES</p>
+<p>2.1 School Events and Public/School Holidays</p>
+<p>2.2 School Programmes</p>
+<p>2.3 Learning for Life Programme (LLP)</p>
+<p>2.4 Applied Learning Programme (ALP)</p>
+<p>2.5 Internationalisation Programme</p>
+<p>&nbsp;</p>
+<p>3 PARTNERSHIP WITH PARENTS</p>
+<p>3.1 Breakfast with School Management</p>
+<p>&nbsp;</p>
+<p>4 ADMINISTRATIVE MATTERS</p>
+<p>4.1 Class Photo-Taking Session (14-15 May 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents Corner/Letters to Parents/2025_30_Letter_to_Parents_Term_2.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
 </td>
 </tr>
 </tbody>
