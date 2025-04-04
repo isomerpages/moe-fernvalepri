@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 # Assessment Matters 
-<b>(Updated: 20 January 2025)</b>
 <br>**Semester 1**<br>
 <br>**Term 2**<br>
 
