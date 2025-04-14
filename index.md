@@ -41,7 +41,7 @@ sections:
         food donation drive to provide food support to the elderly and
         lower-income families.
       button: Find out more here
-      url: /stem-challenge-2024/
+      url: /images/Parents Corner/food.jpg
       image: /images/Parents Corner/food.jpg
       alt: Image alt text
   - infopic:
