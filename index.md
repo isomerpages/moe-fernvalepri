@@ -61,7 +61,7 @@ sections:
         Primary School strengthens its commitment to environmental
         sustainability.
       button: Sustainability starts here
-      url: /aesthetics-week/
+      url: /yellow-flame-award/
       image: /images/sustainability.jpg
       alt: Image alt text
   - infopic:
