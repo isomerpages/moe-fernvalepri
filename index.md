@@ -64,15 +64,6 @@ sections:
       url: /yellow-flame-award/
       image: /images/sustainability.jpg
       alt: Image alt text
-  - infopic:
-      title: Singapore Youth Festival (SYF) 2024
-      id: infopic
-      description: Congratulations to our Guitar Ensemble, Guzheng Ensemble & Indian
-        Dance for achieving Certificate of Distinction at SYF 2024!
-      button: SYF begins here
-      url: https://docs.google.com/presentation/d/e/2PACX-1vT-HMMfy6KcVVR5HzFDr6agpKmTPPQ3rbjcj73yFBe0RGhBzzdwy--QpGSduHTaYrB32wRL5WYD-CqR/pub?start=true&loop=true&delayms=3000&slide=id.p
-      image: /images/syf.png
-      alt: Image alt text
   - resources:
       title: Student Calendar & Media
   - infopic:
