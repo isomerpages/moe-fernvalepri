@@ -35,14 +35,14 @@ sections:
       button: Submit
       url: https://form.gov.sg/665eb6976d0909e9ec6224b1
   - infopic:
-      title: STEM Playground Challenge 2024
+      title: Food Donation Drive
       id: infopic
-      description: 'In " Building Dreams: Transforming Cardboard into Reality," we
-        follow Nur Irfan Wahyudi, a passionate young builder for STEM Playground
-        Challenge 2024.'
+      description: Together with Food From The Heart, our students participated in a
+        food donation drive to provide food support to the elderly and
+        lower-income families.
       button: Find out more here
       url: /stem-challenge-2024/
-      image: /images/stem.png
+      image: /images/Parents Corner/food.jpg
       alt: Image alt text
   - infopic:
       title: Primary 5 Camp 2024
