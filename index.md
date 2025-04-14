@@ -45,23 +45,24 @@ sections:
       image: /images/Parents Corner/food.jpg
       alt: Image alt text
   - infopic:
-      title: Primary 5 Camp 2024
+      title: Fernvale Times 1
       id: infopic
-      description: At this year’s Primary 5 Adventure Camp, our P5 Fernvalions
-        embarked on an unforgettable journey.
+      description: Discover the history of our school and the heartwarming stories of
+        our students and staff contributing to the community in meaningful ways.
+        Dive in and discover
       button: Adventure Begins here
-      url: /p5camp
-      image: /images/Announcements/P5Camp.jpg
+      url: https://heyzine.com/flip-book/ba809ef96a.html
+      image: /images/Parents Corner/Fernvale_Times_1_2025.jpg
       alt: Image alt text
   - infopic:
-      title: Aesthetics Week 2024
+      title: School Green Award
       id: infopic
-      description: Aesthetics Week is a week-long programme that allows students and
-        teachers to not only experience but showcase their talents through Art
-        and Music.
-      button: Aesthetics Begins here
+      description: Through the combined effort of our school community, Fernvale
+        Primary School strengthens its commitment to environmental
+        sustainability.
+      button: Sustainability starts here
       url: /aesthetics-week/
-      image: /images/Aesthetics_Week_2024_for_Website_page_0002.jpg
+      image: /images/sustainability.jpg
       alt: Image alt text
   - infopic:
       title: Singapore Youth Festival (SYF) 2024
