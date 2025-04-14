@@ -62,7 +62,7 @@ sections:
         sustainability.
       button: Sustainability starts here
       url: /yellow-flame-award/
-      image: /images/sustainability.jpg
+      image: /images/Parents Corner/sustainability.jpg
       alt: Image alt text
   - resources:
       title: Student Calendar & Media
