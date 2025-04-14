@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Yellow Flame Award.md
       - CCA & Academic Achievements.md
       - Other Achievements.md
