@@ -118,7 +118,7 @@ variant: markdown
   width:286pt" width="381" class="xl76" height="67">P3-Integrity</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Noorhafidah Bte Mohammad Hanafi<br>Ms Ong Shi Hui<br>Mdm Tan Li Shin</td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
-  width:286pt" width="381" class="xl76" height="67">P3-Resilience</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Ms Neo Yihui<br>Mrs Eleanor Tham - Leong Wei Wei<br>Mrs Chandra - Bhavani d/o Rajagopal <b><i>(Term 3)</i></b></td></tr>
+  width:286pt" width="381" class="xl76" height="67">P3-Resilience</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Eleanor Tham - Leong Wei Wei<br>Mrs Chandra - Bhavani d/o Rajagopal <b><i>(Term 3)</i></b></td></tr>
 
 <tr style="mso-height-source:userset;height:50.15pt" height="67"><td style="height:50.15pt;border-top:none;
   width:286pt" width="381" class="xl76" height="67">P3-Respect</td><td style="border-top:none;border-left:none;width:509pt" width="679" class="xl76">Mrs Kalavathi Selvarajulu<br>Mr Aznahar Bin Baharudin</td></tr>
