@@ -35,14 +35,13 @@ sections:
       button: Submit
       url: https://form.gov.sg/665eb6976d0909e9ec6224b1
   - infopic:
-      title: Food Donation Drive
+      title: DSA Briefing for Parents
       id: infopic
-      description: Together with Food From The Heart, our students participated in a
-        food donation drive to provide food support to the elderly and
-        lower-income families.
-      button: Find out more here
-      url: /images/Parents Corner/food.jpg
-      image: /images/Parents Corner/food.jpg
+      description: Watch our recent DSA briefing session conducted on 2 May for P5 and
+        P6 parents.
+      button: Watch Briefing Session here
+      url: https://youtu.be/LCxURo6pOB4
+      image: /images/Parents Corner/DSA.jpg
       alt: Image alt text
   - infopic:
       title: Fernvale Times 1
@@ -53,6 +52,16 @@ sections:
       button: Adventure Begins here
       url: https://heyzine.com/flip-book/ba809ef96a.html
       image: /images/Parents Corner/Fernvale_Times_1_2025.jpg
+      alt: Image alt text
+  - infopic:
+      title: Food Donation Drive
+      id: infopic
+      description: Together with Food From The Heart, our students participated in a
+        food donation drive to provide food support to the elderly and
+        lower-income families.
+      button: Find out more here
+      url: /images/Parents Corner/food.jpg
+      image: /images/Parents Corner/food.jpg
       alt: Image alt text
   - infopic:
       title: School Green Award
