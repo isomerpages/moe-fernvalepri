@@ -24,8 +24,10 @@ sections:
       alt: Image alt text
   - infobar:
       id: infobar
-      button: Button Text
+      button: More information here
       url: DSA_Slides_Parents_Briefing_02_May_2025
+      description: Get insights on DSA application process, important dates, and
+        selection criteria to make informed decisions.
   - infopic:
       title: Our E-Book
       id: infopic
