@@ -2,7 +2,6 @@ collections:
   parents-corner:
     output: true
     order:
-      - Direct Schools Admission (DSA).md
       - Secondary Schools Information 2024.md
       - MOE Sexuality Education Information for Parents.md
       - Assessment Matters.md
@@ -14,3 +13,4 @@ collections:
       - Edusave Awards for and Scholarships for Primary Schools.md
       - Pupil Calendar.md
       - Book List 2025.md
+      - Direct Schools Admission (DSA).md
