@@ -14,6 +14,18 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: DSA Briefing for Parents
+      id: infopic
+      description: Watch our recent DSA briefing session conducted on 2 May for P5 and
+        P6 parents.
+      button: Watch Briefing Session here
+      url: https://youtu.be/LCxURo6pOB4
+      image: /images/Parents Corner/DSA.jpg
+      alt: Image alt text
+  - infobar:
+      id: infobar
+      button: Button Text
+  - infopic:
       title: Our E-Book
       id: infopic
       button: Read our students stories
@@ -34,15 +46,6 @@ sections:
         appreciation for our staff and affirm them for their efforts.
       button: Submit
       url: https://form.gov.sg/665eb6976d0909e9ec6224b1
-  - infopic:
-      title: DSA Briefing for Parents
-      id: infopic
-      description: Watch our recent DSA briefing session conducted on 2 May for P5 and
-        P6 parents.
-      button: Watch Briefing Session here
-      url: https://youtu.be/LCxURo6pOB4
-      image: /images/Parents Corner/DSA.jpg
-      alt: Image alt text
   - infopic:
       title: Fernvale Times 1
       id: infopic
