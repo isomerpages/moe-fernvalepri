@@ -25,6 +25,7 @@ sections:
   - infobar:
       id: infobar
       button: Button Text
+      url: DSA_Slides_Parents_Briefing_02_May_2025
   - infopic:
       title: Our E-Book
       id: infopic
