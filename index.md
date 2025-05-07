@@ -25,8 +25,7 @@ sections:
   - infobar:
       id: infobar
       button: More information here
-      url: "[Primary 4 Assessment Letter - Term
-        2]DSA_Slides_Parents_Briefing_02_May_2025"
+      url: /files/DSA/DSA_Slides_Parents_Briefing_02_May_2025.pdf
       description: Get insights on DSA application process, important dates, and
         selection criteria to make informed decisions.
   - infopic:
