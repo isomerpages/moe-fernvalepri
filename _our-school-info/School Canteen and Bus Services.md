@@ -14,4 +14,3 @@ variant: markdown
 
 [Canteen Price List 2025](/files/Our%20school%20info/Canteen_Price_List_2025.pdf)
 
-Canteen Vacancy
