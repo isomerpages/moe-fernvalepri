@@ -83,10 +83,8 @@ sections:
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: CCA
       id: textcards
-      description: Text card description
       cards:
         - title: National School Games
           description: Join us at the NSG Awards and Recognition Ceremony
