@@ -59,26 +59,20 @@ sections:
       url: https://heyzine.com/flip-book/ba809ef96a.html
       image: /images/Parents Corner/Fernvale_Times_1_2025.jpg
       alt: Image alt text
-  - infopic:
-      title: Food Donation Drive
-      id: infopic
-      description: Together with Food From The Heart, our students participated in a
-        food donation drive to provide food support to the elderly and
-        lower-income families.
-      button: Find out more here
-      url: /images/Parents Corner/food.jpg
-      image: /images/Parents Corner/food.jpg
-      alt: Image alt text
-  - infopic:
-      title: School Green Award
-      id: infopic
-      description: Through the combined effort of our school community, Fernvale
-        Primary School strengthens its commitment to environmental
-        sustainability.
-      button: Sustainability starts here
-      url: /yellow-flame-award/
-      image: /images/Parents Corner/sustainability.jpg
-      alt: Image alt text
+  - textcards:
+      title: Our Community Efforts
+      id: textcards
+      cards:
+        - title: Food Donation Drive
+          description: Our students participated in a food donation drive with Food from
+            the Heart
+          linktext: See our students in action
+          url: /images/Parents Corner/food.jpg
+        - title: School Green Award
+          description: We achieve the goal of caring for environment and promote
+            sustainability.
+          linktext: Learn more
+          url: /yellow-flame-award/
   - resources:
       title: Student Calendar & Media
   - infopic:
@@ -94,17 +88,12 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Food Donation Drive
-          description: Our students participated in a food donation drive with Food from
-            the Heart
-          linktext: See our students in action
-          url: /images/
-        - title: Card
-          description: Card description
+        - title: National School Games
+          description: Join us at the NSG Awards and Recognition Ceremony
+          linktext: National School Games (NSG)
+          url: https://youtu.be/HSU6Ia_OZsc
+        - title: CCA Webinar
+          description: Access the Presentation Slides used at the recent webinar.
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: https://docs.google.com/presentation/d/e/2PACX-1vSpdLSTfc-hPAIOwsY0SMouVJ9-Hqozst_92fGXRpj_XMeuI5fWq_YZzQHBY_Qidg/pub?start=true&loop=true&delayms=3000
 ---
