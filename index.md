@@ -28,6 +28,18 @@ sections:
       url: /files/DSA/DSA_Slides_Parents_Briefing_02_May_2025.pdf
       description: Get insights on DSA application process, important dates, and
         selection criteria to make informed decisions.
+  - textcards:
+      title: CCA
+      id: textcards
+      cards:
+        - title: National School Games
+          description: Join us at the NSG Awards and Recognition Ceremony
+          linktext: National School Games (NSG)
+          url: https://youtu.be/HSU6Ia_OZsc
+        - title: CCA Webinar
+          description: Access the Presentation Slides used at the recent webinar.
+          linktext: Learn more
+          url: https://docs.google.com/presentation/d/e/2PACX-1vSpdLSTfc-hPAIOwsY0SMouVJ9-Hqozst_92fGXRpj_XMeuI5fWq_YZzQHBY_Qidg/pub?start=true&loop=true&delayms=3000
   - infopic:
       title: Our E-Book
       id: infopic
@@ -82,16 +94,4 @@ sections:
       alt: Moe Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/e47416769_1883.jpg
-  - textcards:
-      title: CCA
-      id: textcards
-      cards:
-        - title: National School Games
-          description: Join us at the NSG Awards and Recognition Ceremony
-          linktext: National School Games (NSG)
-          url: https://youtu.be/HSU6Ia_OZsc
-        - title: CCA Webinar
-          description: Access the Presentation Slides used at the recent webinar.
-          linktext: Learn more
-          url: https://docs.google.com/presentation/d/e/2PACX-1vSpdLSTfc-hPAIOwsY0SMouVJ9-Hqozst_92fGXRpj_XMeuI5fWq_YZzQHBY_Qidg/pub?start=true&loop=true&delayms=3000
 ---
