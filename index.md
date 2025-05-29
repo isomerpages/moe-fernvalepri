@@ -98,7 +98,7 @@ sections:
           description: Our students participated in a food donation drive with Food from
             the Heart
           linktext: See our students in action
-          url: ""
+          url: /images/
         - title: Card
           description: Card description
           linktext: Learn more
