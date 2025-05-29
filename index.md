@@ -79,7 +79,7 @@ sections:
           description: Our students participated in a food donation drive with Food from
             the Heart
           linktext: See our students in action
-          url: /images/Parents Corner/food.jpg
+          url: https://drive.google.com/file/d/1bYTX8qeDe4KAlKvHF28dY_hKY7V4D-hq/view?usp=sharing
         - title: School Green Award
           description: We achieve the goal of caring for environment and promote
             sustainability.
