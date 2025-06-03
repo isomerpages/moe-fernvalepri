@@ -2,6 +2,7 @@ collections:
   our-school-info:
     output: true
     order:
+      - Canteen Vacancy.md
       - Principal's Message.md
       - Our Crest.md
       - Our Mission.md
