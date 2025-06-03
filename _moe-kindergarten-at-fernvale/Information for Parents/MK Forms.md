@@ -7,7 +7,7 @@ third_nav_title: Information for Parents
 ---
 # MK Forms
 
-Fernvale MK Waitlist Application Form
+<a target="_blank" href="http://go.gov.sg/fvmk-waitlist">Fernvale MK Waitlist Application Form</a>
 
 [KF1 - Enrolment and KiFAS Application](/files/MK/KF1.pdf)
 
