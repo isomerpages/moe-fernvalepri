@@ -65,7 +65,7 @@ digital learner.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Commonly Used Links for Staff</div>
-<div class="isomer-card-description">The commonly used links for staff can be found in the FVPS Staff padlet</div>
+<div class="isomer-card-description">The link to Staff Padlet is found in the Staff Broadcast WhatsApp group.</div>
 </div>
 </div>
 </div>
