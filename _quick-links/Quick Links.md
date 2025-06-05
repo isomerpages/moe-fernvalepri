@@ -16,7 +16,7 @@ variant: tiptap
 <div class="isomer-card-body">
 <div class="isomer-card-title">Student iCON</div>
 <div class="isomer-card-description">MIMS ID: &lt;Full Name&gt;@students.edu.sg</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Click Here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ezhishi.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Quick Link/ezhishi.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">eZhishi</div><div class="isomer-card-link">Click HERE to access to eZhiShi</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" class="isomer-card">
