@@ -15,7 +15,6 @@ sections:
       alignment: right
   - infopic:
       title: Open House 2025
-      subtitle: Add an image and text
       id: infopic
       description: Step into Fernvale Primary School's Open House and experience what
         makes our school special!   Register by 27 June 2025!
