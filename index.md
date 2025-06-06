@@ -14,6 +14,15 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: Open House 2025
+      id: infopic
+      description: Step into Fernvale Primary School's Open House and experience what
+        makes our school special!   Register by 27 June 2025!
+      button: Click here to register for the Open House!
+      url: https://go.gov.sg/fvpsopenhouse2025
+      image: /images/FVPS_OPEN_HOUSE_POSTER.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA Briefing for Parents
       id: infopic
       description: Watch our recent DSA briefing session conducted on 2 May for P5 and
