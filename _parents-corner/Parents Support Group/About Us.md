@@ -26,18 +26,32 @@ environment.</p>
 supporting and strengthening the school’s programmes to improve our children's
 well-being and learning</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PSG/bridge.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Bridge Between Parents and School</div>
+<div class="isomer-card-description">The PSG listens to parents’ feedback on school operations, practices and
+programmes, and provides feedback to the school. The PSG also facilitates
+the school’s communication to parents.</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PSG/magnet.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Magnet to Attract Other Parents</div>
+<div class="isomer-card-description">Parents who are actively involved in the PSG are better able to reach
+out to other parents and involve them. Over time, more parents can contribute
+to make the school environment more conducive for learning.</div>
+</div>
+</div>
 </div>
 <p></p>
