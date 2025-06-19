@@ -2,6 +2,7 @@ collections:
   parents-corner:
     output: true
     order:
+      - Parents Support Group/.keep
       - Secondary Schools Information 2024.md
       - MOE Sexuality Education Information for Parents.md
       - Assessment Matters.md
