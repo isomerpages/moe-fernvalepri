@@ -48,11 +48,18 @@ for reading and for our students to build on their reading proficiency.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFWF-EAxXsXdlclwbM5WXwqHkkNncMq1nISXZFP4fHG6ae9bnzwfYYmZiE2TOJiJFGkV2ehOTM1Rea/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>3. Primary 1 to 3 Guided Reading Programme</strong>
+<p><strong>Book Character Day</strong>
 </p>
-<p>The Guided Reading Programme is a part of our continuous effort to encourage
-students to read widely and cultivate good reading habits.</p>
-<p><strong>4. &nbsp;P1 to P3 Literacy Programme</strong>
+<p>Book Character Day is an annual celebration of the English Language. Students
+are encouraged to dress up in their favourite book characters according
+to a given theme for the year. They are also encouraged to use recycled
+materials for their costumes. The event aims to provide a fun and engaging
+atmosphere for our students to develop their love for reading. Students
+will have the opportunity to talk about their favourite books and book
+characters.
+<br>
+</p>
+<p><strong>P1 to P3 Literacy Programme</strong>
 </p>
 <p>The P1 to P3 Literacy programme aims to engage our students to learn language
 in a fun and interactive manner with the use of English Language games.</p>
@@ -62,24 +69,4 @@ in a fun and interactive manner with the use of English Language games.</p>
 upper primary students are encouraged to read the Little Red Dot in Primary
 4 and 5, and What’s Up in Primary 6. Students take part in online discussions
 and engage in classroom discussions based on the newspaper articles.</p>
-<p><strong>6.Strategies to Activate Reading (StAR) for Primary 1 and 2</strong>
-</p>
-<p>StAR, is an in-house programme that is conducted daily for half an hour
-in small groups. It aims to equip students with the skills to:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master word
-recognition and spelling strategies</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Read aloud in a
-fluent manner</p>
-<p>-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Comprehend what they are reading</p>
-<p><strong>7.English Fiesta</strong>
-</p>
-<p>The English Fiesta is an annual celebration of the English Language. It
-aims to inculcate a love for the English Language and to encourage students
-to be involved in the learning of the language. Students are engaged in
-fun activities that extend beyond the classroom. It is also a platform
-for students to develop and showcase their communication skills. We want
-our students to know that the English Language can be fun and interesting!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english%205.jpg">
-</div>
 <p></p>
