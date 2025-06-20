@@ -3,6 +3,7 @@ title: English Language
 permalink: /our-departments/english-language/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
 # English Language
 
@@ -17,7 +18,7 @@ The English Department aims for our students to be reflective, eloquent and conf
 
 #### Signature Programmes
 
-**1\. Strategies for English Language Learning and Reading (STELLAR)** 
+**1\. Strategies for English Language Learning and Reading (STELLAR)**&nbsp;
 
 The teaching approaches in STELLAR have been designed to deliver the outcomes of the English Language Syllabus 2020. Through the effective use of strategies for reading speaking, writing and listening, teachers are empowered to build on the students’ foundational understanding of the English Language and to teach them critical life skills.
 
@@ -28,13 +29,7 @@ The teaching approaches in STELLAR have been designed to deliver the outcomes of
 
 The Extensive Reading Programme is conducted during curriculum once a week. Students are exposed to a variety of books and are given half an hour to read their storybooks or go to the library with their teachers to read and borrow their books. The programme aims to inculcate a love for reading and for our students to build on their reading proficiency.
  
- ![](/images/Our%20departments/english%202.jpg)
- 
- 
- ![](/images/Our%20departments/english%203.jpg)
- 
- 
- ![](/images/Our%20departments/english%204.jpg)	
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFWF-EAxXsXdlclwbM5WXwqHkkNncMq1nISXZFP4fHG6ae9bnzwfYYmZiE2TOJiJFGkV2ehOTM1Rea/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 
@@ -42,7 +37,7 @@ The Extensive Reading Programme is conducted during curriculum once a week. Stud
 
 The Guided Reading Programme is a part of our continuous effort to encourage students to read widely and cultivate good reading habits.
 
-**4\.  P1 to P3 Literacy Programme**
+**4\. &nbsp;P1 to P3 Literacy Programme**
 
 The P1 to P3 Literacy programme aims to engage our students to learn language in a fun and interactive manner with the use of English Language games.
 
@@ -54,11 +49,11 @@ To promote greater awareness of global issues and current affairs, the upper pri
 
 StAR, is an in-house programme that is conducted daily for half an hour in small groups. It aims to equip students with the skills to:
 
-\-          Master word recognition and spelling strategies
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master word recognition and spelling strategies
 
-\-         Read aloud in a fluent manner
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Read aloud in a fluent manner
 
-\-         Comprehend what they are reading
+\-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Comprehend what they are reading
 
 **7\.English Fiesta**
 
