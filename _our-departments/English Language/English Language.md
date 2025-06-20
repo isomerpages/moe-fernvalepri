@@ -56,17 +56,27 @@ to a given theme for the year. They are also encouraged to use recycled
 materials for their costumes. The event aims to provide a fun and engaging
 atmosphere for our students to develop their love for reading. Students
 will have the opportunity to talk about their favourite books and book
-characters.
-<br>
-</p>
+characters.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaAqVh32hB9sPErMabzZkUEOzdeHjdQbaTAOXDLrV4MdZ08fXJ_wsWm-yoNl9z-Q0N2RApw5RdXn0H/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p><strong>P1 to P3 Literacy Programme</strong>
 </p>
 <p>The P1 to P3 Literacy programme aims to engage our students to learn language
 in a fun and interactive manner with the use of English Language games.</p>
-<p><strong>5. P4 and P5 Critical Thinking Programmes</strong>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPxCFdPjUaBiP9eBBdigcOHgWtQaHGiifeApcHWoCmKgFRLbDK3zV68B9CsGsl0pt-mrTHmGv4gfG1/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Creative Writing Enrichment</strong>
 </p>
-<p>To promote greater awareness of global issues and current affairs, the
-upper primary students are encouraged to read the Little Red Dot in Primary
-4 and 5, and What’s Up in Primary 6. Students take part in online discussions
-and engage in classroom discussions based on the newspaper articles.</p>
+<p>The Creative Writing Enrichment programme aims to provide extended learning
+opportunities and will enhance students’ language skills. Through engaging
+activities and focused instruction, students will develop their creative
+writing abilities.&nbsp;</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ09LbYvqe3ag-EWpBAFrqrgEBwvv3Gph-NOzYKM2sXOhoG0_1oCbZcUKNXXdsOl8QxF8Eoa8SHeuS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
