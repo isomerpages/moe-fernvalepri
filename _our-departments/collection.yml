@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - Mother Tongue Language/Mother Tongue Language.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Chinese Language.md
       - Mother Tongue Language/Tamil Language.md
