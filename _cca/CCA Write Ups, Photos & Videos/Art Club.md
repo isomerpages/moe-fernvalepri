@@ -206,11 +206,11 @@ for Category B, 2023)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Art Exhibition 2025 (Certificate of Recognition
-for Category C, 2025)</p>
+<p>Singapore Youth Festival Art Exhibition 2023 (Certificate of Recognition
+for Category C, 2023)</p>
 </td>
 </tr>
 <tr>
@@ -220,6 +220,15 @@ for Category C, 2025)</p>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival Art Exhibition 2025 (Certificate of Recognition
 for Category B, 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Art Exhibition 2025 (Certificate of Recognition
+for Category C, 2025)</p>
 </td>
 </tr>
 </tbody>
