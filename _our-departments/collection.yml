@@ -2,21 +2,21 @@ collections:
   our-departments:
     output: true
     order:
-      - Mother Tongue Language/Malay Language.md
-      - Mother Tongue Language/.keep
-      - Mother Tongue Language/Chinese Language.md
-      - Mother Tongue Language/Tamil Language.md
       - English Language/.keep
       - English Language/English Language.md
       - Mathematics.md
+      - Science.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Malay Language.md
+      - Mother Tongue Language/Chinese Language.md
+      - Mother Tongue Language/Tamil Language.md
       - Aesthetics.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Cyberwellness.md
       - CCE/NESS.md
-      - Information and Communication Technology.md
       - Physical Education.md
-      - Science.md
+      - Information and Communication Technology.md
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/Learning for Life Programme (LLP).md
