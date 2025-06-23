@@ -14,7 +14,7 @@ To nurture and develop young scientists who aspire to innovate and invent in the
 
 ### Our Approach
 
-The Science Department leverages on the child’s innate curiosity and subscribes to a student-centred learning in which students build their scientific understanding and process skills through active inquiry. It encourages students to explore beyond, as an inquirer – raising questions about things around them, testing their ideas and making evidence-based conclusions. Through scientific inquiry, students will develop the skills, ethics and attitudes such as responsibility and perseverance, which are essential to the Practice of Science.
+The Science Department taps on students’ natural curiosity and adopts an inquiry-based, student-centred approach in line with the Primary Science Curriculum Framework. Students construct their understanding of scientific concepts and develop process skills through hands-on exploration, guided questioning, and evidence-based reasoning. They are encouraged to investigate the world around them, ask meaningful questions, and test their ideas systematically. Through this process, they acquire not only scientific knowledge but also key process skills, ethics, and attitudes—such as perseverance, responsibility, and integrity—which are essential to the Practice of Science and lifelong learning.
 
 ### **ScienceExperience @ FVPS**
 
@@ -22,7 +22,6 @@ The Science Department leverages on the child’s innate curiosity and subscribe
 Students take ownership of the inquiry process as they work together to plan and investigate ideas respectfully and evaluate their results to make a conclusion.
 
 
-![](/images/Our%20departments/Science/science%20pic%201.jpg)
 
 ### Joy of Learning
 
