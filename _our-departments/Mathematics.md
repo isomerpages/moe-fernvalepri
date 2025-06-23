@@ -115,7 +115,7 @@ fun and interactive way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> Reason and communicate reasoning through whiteboarding</strong>
+<p><strong>Reason and communicate reasoning through whiteboarding</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ fun and interactive way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>                                          Purposeful play and exploration during NEP</strong>
+<p><strong>Purposeful play and exploration during NEP</strong>
 </p>
 </td>
 </tr>
