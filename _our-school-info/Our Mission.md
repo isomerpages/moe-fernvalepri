@@ -2,6 +2,7 @@
 title: Our Mission
 permalink: /our-school-info/our-mission/
 description: ""
+variant: markdown
 ---
 ## Our Mission
 
@@ -13,11 +14,11 @@ description: ""
 
 ## Our Vision
 
-|       Global Learners of Tomorrow           |                                                                                                                                                                                                    |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Confident Leaders | • Demonstrate schools values<br>• Communicate effectively<br>• Display leadership skills                                                                                                                 |
-| Joyful Learners | • Take responsibility for their own learning<br>• Think critically and creatively to solve problems<br>• Work together as a team<br>• Pursue an active lifestyle and a sense aesthetics<br>• Learn digitally |
-| Active Citizens   | • Appreciate cultural diversity<br>• Serve the community<br>• Care for the environment      |
+Global Learners of Tomorrow
+
+We recognise that the world is undergoing constant changes, driven by advancements in technology, globalization and emerging societal trends. As such, the school seeks to nurture **Global Learners of Tomorrow** (GLT) through a future-focused and holistic education that prepares them for work and challenges of tomorrow.&nbsp;&nbsp;&nbsp;
+
+GLT have the **Knowledge (Head), Values (Heart)** and **Skills (Hands)** to flourish in an increasingly complex and dynamic world.
 
 ## Our Values -  GIR<sup>3</sup> C
 
@@ -32,9 +33,4 @@ description: ""
 
 ## Our Motto
 
-|  Dare to Aspire, Courage to Excel      |             |
-|---------|----------------|
-| Dare    | • Be brave<br>• Have initiative<br>• Have the spirit of wanting to challenge own limits  |
-| Aspire  | • Set goals that one wants to achieve<br>• Dream big                                   |
-| Courage | • Confidence<br>• Determination                                                        |
-| Excel   | • Always seek improvement<br>• Do well in all areas<br>• Gain recognition                |
+At Fernvale Primary School, we encourage our students to **Dare** by being brave, taking initiative, and always challenging their own limits. We want our students to **Aspire** by setting big goals and dreaming grand dreams for what they want to achieve. We guide our students to cultivate **Courage** through confidence and unwavering determination. We motivate our students to **Excel** by consistently seeking improvement, striving to do well in all areas, and gaining recognition for their efforts.
