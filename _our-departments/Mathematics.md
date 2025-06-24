@@ -4,14 +4,8 @@ permalink: /our-departments/mathematics/
 description: ""
 variant: tiptap
 ---
-<h1>Mathematics</h1>
-<h3>Vision</h3>
-<p>Every Fernvale pupil, a logical thinker and creative problem solver nurtured
-by passionate Mathematics teachers.</p>
-<h3>Goal</h3>
-<p>We aim to develop pupils as confident, creative and competent Mathematics
-problem solvers.</p>
-<h3>Learn Mathematics by Doing</h3>
+<h1><strong>Mathematics</strong></h1>
+<h3><strong>Learn Mathematics by Doing</strong></h3>
 <p>We believe in fostering a supportive and engaging learning environment
 where students can truly enjoy and embrace learning. That's why we emphasize
 experiential learning through activity-based lessons and learning trails.
@@ -22,7 +16,7 @@ experiences encourage them to apply their critical, adaptive and inventive
 thinking, collaborative, and problem-solving skills. Students are prompted
 to think critically and reflect on their learning. We also leverage Information
 and Communications Technology (ICT) to further enhance their learning experiences.</p>
-<h3>Activity-Based Lessons</h3>
+<h3><strong>Activity-Based Lessons</strong></h3>
 <p>Fernvalelions actively participate in a variety of authentic and interesting
 activity-based tasks, allowing them to construct their own understanding
 and knowledge from these experiences. These lessons are designed to build
