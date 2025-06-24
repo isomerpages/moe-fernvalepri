@@ -27,12 +27,11 @@ objects, then visualizing them, and finally understanding their abstract
 representations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/Modern_Aesthetic_Interior_Home_Photo_Collage_Instagram_Post.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/fraction.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/Modern_Aesthetic_Interior_Home_Photo_Collage_Instagram_Post__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/picture_graph.jpg">
 </div>
 <h3><strong>Autheticate learning and application through learning trails</strong></h3>
 <p><strong>Interactive Learning Trails</strong> help our Primary 1 to 6 students
