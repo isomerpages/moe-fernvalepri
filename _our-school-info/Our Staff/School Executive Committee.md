@@ -61,10 +61,10 @@ third_nav_title: Our Staff
 .tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
 .tg .tg-biak{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1162px">
+<table class="tg" style="undefined;table-layout: fixed; width: 876px">
 <colgroup>
-<col style="width: 470px">
-<col style="width: 692px">
+<col style="width: 400px">
+<col style="width: 800px">
 </colgroup>
 <thead>
   <tr>
