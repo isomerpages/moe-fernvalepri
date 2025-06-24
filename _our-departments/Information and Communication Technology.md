@@ -11,7 +11,7 @@ This is achieved through:
 
 * **Development of Critical and Creative Thinking:** A key component involves guiding students to independently evaluate the reliability of online sources.
 
-* En**hanced Communication and Collaboration:** By leveraging diverse digital platforms, students are enabled to communicate their ideas with clarity and connect meaningfully with their peers, fostering a collaborative learning atmosphere and promoting a deeper understanding of subject matter.
+* **Enhanced Communication and Collaboration:** By leveraging diverse digital platforms, students are enabled to communicate their ideas with clarity and connect meaningfully with their peers, fostering a collaborative learning atmosphere and promoting a deeper understanding of subject matter.
 
 * **Cultivation of Digital Citizenship:** Crucially, our students receive education on positive online behaviors and develop an awareness of how to protect themselves in the digital space.
 
@@ -35,19 +35,9 @@ All pupils will have an e-learning portal access Student Learning Space. Pupils 
 The school encourages parents to submit their child(ren)'s travel declaration for the school holidays via the portal. It is part of the school's effort in taking care of the Earth by reducing the amount of papers to be printed. Details on login to the portal will be given to the pupils via the form teachers.  
 The Infocomm Development Authority of Singapore (IDA) has an on-going initiative, the NEU PC Plus Programme, that helps students from low-income families to purchase PCs and/or obtain broadband access at an affordable price.  
 
-<b>NeuPC Plus Scheme
 
-The programme provides the following schemes:
 
-1.  [DigitalAccess@Home](https://www.imda.gov.sg/How-We-Can-Help/Digital-Access-at-Home) provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
-    
-2.  The&nbsp;&nbsp;[iNSPIRE Fund Scheme](https://www.imda.gov.sg/How-We-Can-Help/neu-pc-plus/inspire-fund)&nbsp;&nbsp;offers financial assistance to full-time students (aged 25 years and below) who are unable to co-pay for the computer applied under the PC-Bundle scheme.
-    
-
-  
-Further information about the individual scheme and the eligibility criteria can be found in the&nbsp;[IDA Website](https://www.imda.gov.sg/How-We-Can-Help/Digital-Access-at-Home)&nbsp;. Alternatively, parents may also contact the school’s general office for more details and to obtain the application forms. </b>
-
-<b>Using Tablets for Teaching and Learning</b>
+<b>Using Digital Devices for Teaching and Learning</b>
 
 The evolution of Information and Communication Technologies (ICT) necessitates new forms of pedagogy in education. Leveraging the myriad affordances of ICT, Fernvale primary has adopt mobile teaching and learning tool to enhance lessons, language proficiency, and deliver new learning experiences for his students. The programme started with equipping an experimental class of 16 with android tablets and also another 29 tablets to the Mother Tongue and PE department.&nbsp;
 
@@ -59,6 +49,6 @@ Technology-rich activities can sustain high levels of student engagement and pee
 **Cyberwellness Programme**
 
 With the emphasis on raising awareness on the positive well-being of computer and Internet users, the department strives to spread the importance of Cyberwellness on various platforms. Cyberwellness is integrated in the school's CCE Curriculum to ensure that students are exposed to the Cyberwellness messages from young. Our Cyberwellness Ambassadors spread the Cyberwellness messages through assembly talks as well as indoor exhibition. In addition, we also invite Cyberwellness Ambassadors from Secondary Schools
-over to share their experiences with our pupils on safety on the internet and how to overcome gamming addiction.
+over to share their experiences with our pupils on safety on the internet and how to overcome gaming addiction.
 
 ![](/images/Our%20departments/Website%20ICT_Cyberwellness.jpg)
