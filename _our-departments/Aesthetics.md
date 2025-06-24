@@ -5,13 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Aesthetics</strong></h1>
-<h3>Vision</h3>
-<p>Through World Arts@FVPS, pupils will become confident, articulate and
-creative, and learn to integrate cultural understanding to affirm their
-identity as ‘Global Learners of tomorrow.’</p>
-<h3>Mission</h3>
-<p>To develop pupils’ potential for creativity and expression through the
-Arts by acquiring a global outlook while staying culturally rooted.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
