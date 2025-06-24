@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 876px">
 <colgroup>
-<col style="width: 400px">
+<col style="width: 300px">
 <col style="width: 400px">
 </colgroup>
 	
