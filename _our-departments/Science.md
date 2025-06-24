@@ -67,6 +67,10 @@ applied design thinking to develop creative solutions for reducing food
 waste and promoting responsible consumption. Together, these opportunities
 nurtured critical thinking, encouraged responsible action, and inspired
 students to play a part in building a more sustainable future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Science/Food_Sustainability.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20departments/Science/food.png">
 </div>
@@ -74,9 +78,12 @@ students to play a part in building a more sustainable future.</p>
 <p>The Hydroponics Programme introduces students to sustainable farming by
 growing vegetables without soil. Through hands-on activities, they explore
 how science supports food security and develop a sense of environmental
-responsibility.</p>
+responsibility.
+<br>
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20departments/Science/hydroponic.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Science/hydroponics.jpg">
 </div>
 <h3><strong>Exploring Plant Reproduction and Energy Conservation</strong></h3>
 <p>At Gardens by the Bay, Primary 5 students explored how plants reproduce
@@ -86,7 +93,13 @@ They also learned how the Supertrees demonstrate energy conservation by
 harnessing solar power and supporting sustainable ecosystems. This immersive
 experience deepened their understanding of both plant biology and environmental
 responsibility, inspiring them to adopt eco-friendly habits and contribute
-to a more sustainable future.</p>
+to a more sustainable future.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Science/Energy.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20departments/Science/energy.png">
 </div>
