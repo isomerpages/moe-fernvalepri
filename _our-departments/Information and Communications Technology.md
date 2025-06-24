@@ -1,6 +1,6 @@
 ---
-title: Information and Communication Technology
-permalink: /our-departments/information-and-communication-technology/
+title: Information and Communications Technology
+permalink: /our-departments/information-and-communications-technology/
 description: ""
 variant: markdown
 ---
