@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+<h3>Department Programmes:</h3>
 <p>At our school, the Tamil Language department nurtures a love for reading
 through our engaging Tamil Reading Chest Programme. Pupils set reading
 goals each term, and those who meet them are proudly recognized with Certificates
