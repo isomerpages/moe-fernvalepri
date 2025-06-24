@@ -2,133 +2,243 @@
 title: Mathematics
 permalink: /our-departments/mathematics/
 description: ""
+variant: tiptap
 ---
-# Mathematics
-### Vision
-
-Every Fernvale pupil, a logical thinker and creative problem solver nurtured by passionate Mathematics teachers.
-
-### Goal
-
-We aim to develop pupils as confident, creative and competent Mathematics problem solvers.
-
-### Signature Programmes
-
-Experiential Learning  
-The department believes in creating a supportive and engaging learning environment so that students love and enjoy learning. As such, learning experiences through activity-based lessons and trails are conducted to help students develop an understanding of concepts and make sense of mathematical ideas, their connections and applications to the real world. Through these experiential opportunities planned to motivate them to learn both in and beyond the classrooms, students apply their analytical, collaborative and problem solving skills to think and reflect upon their own learning. The use of ICT is leveraged to some extent to enhance students’ learning.
-
-### Activity-Based Lessons
-
-Students participate in a range of authentic and interesting Activity-Based tasks and construct their knowledge and learning from these experiences. These lessons help our students build strong foundation in Mathematics with the use of supporting manipulatives and materials based on the Concrete-Pictorial-Abstract (C-P-A) approach.
-
-Numeracy lessons engage and help our Primary 1, 2 and 3 students build a strong foundation in the learning of Mathematics through the use of manipulatives and differentiated activity tasks
-
-![](/images/Our%20departments/Mathematics/P2%20pupils%20activity%20on%20Area%20concept.jpg)
-
-Students learn more about the concept of Area.
-
-![](/images/Our%20departments/Mathematics/Maths1.jpg)
-
-Students use a 1-meter ruler to measure the length of things around them.
-
-![](/images/Our%20departments/Mathematics/Math_Activity_1.jpg)   
-
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Mathematics/Math_Activity_3.jpg)  | ![](/images/Our%20departments/Mathematics/Math_Activity_4.jpg)  |
-
- <img src="/images/Our%20departments/Mathematics/Math_Numeracy_2.jpg" style="width:50%; float:left; padding: 10px"> 
- <img src="/images/Our%20departments/Mathematics/Math_Numeracy_1.png" style="width:50%; float:left; padding: 10px">
- 
-![](/images/Our%20departments/Mathematics/Maths%202.jpg)
-
-<center> Students play the Addition & Subtraction Within 10 game.</center>
-
-![](/images/Our%20departments/Mathematics/Screenshot%20(46).png)
-
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Mathematics/Fernvale_Maths%205.jpg) | ![](/images/Our%20departments/Mathematics/Fernvale_Maths%206.jpg) |
-
-<center> Students use link cubes and number discs to learn   
-
-Division with Remainder and Quotient.</center>
-
-### Math Trails  
-
-Interactive Math Trails help Primary 1 to 6 students value Mathematics by giving them an opportunity to discover its applications in the real world and apply skills to solve real-life problems. The activities rich in problem-solving application range from that of Whole Numbers to Money, Length, Fractions, Geometry and others. Through complementing the content of Mathematics taught in the classrooms, the trails ensure that students develop an appreciation and enjoyment of Mathematics in everyday situations.
-
-![](/images/Our%20departments/Mathematics/Math_Trail_1.png)
-![](/images/Our%20departments/Mathematics/Math_Trail_2.png)
-
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Mathematics/Math_Trail_3.png)  | ![](/images/Our%20departments/Mathematics/Math_Trail_4.png)  |
-
-
- <img src=" /images/Our%20departments/Mathematics/Math_Trail_5.png" style="width:60%; float:left; padding: 10px"> 
- <img src="/images/Our%20departments/Mathematics/Math_Trail_6.jpg" style="width:40%; float:left; padding: 10px">
-
-|   |   |
-|---|---|
-| ![](/images/Maths%207.jpg)  |![](/images/Maths%208.jpg)  |
-
-
-
-Students measure the things around them including
-the breadth of the door and their student diary with their hands and ruler.
-
-### Learning Support Programme for Primary 1 & 2
-
-Learning Support for Mathematics Programme for selected P1& P2 pupils is an early intervention effort aimed at providing support to students who do not have foundational numeracy skills and knowledge to access thecurriculum. The LSM Programme adopts the ICAN Principles and incorporates the building of fundamental concepts through hands-on activities in its delivery of lessons. Students identified were supported by a LSM-trained teacher during the Math periods.
-
-
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Mathematics/Math_LSM_1.jpg)  | ![](/images/Our%20departments/Mathematics/Math_LSM_2.jpg)  |
-
-![](/images/Our%20departments/Mathematics/Math_LSM_3.jpg)
-
-![](/images/Our%20departments/Mathematics/Math_LSM_4.jpg)
-
-![](/images/Maths%209.jpg)
-
-### Improving Confidence & Achieving Numeracy (ICAN) Programme
-
-ICAN Programme aims to equip students who need additional support to acquire knowledge and skills in numeracy and strategies such as Factual Fluency and dispositions to learn and achieve in Mathematics. The lessons follow the FREMC (Factual Fluency, Readiness, Engagement, Mastery & Consolidation) framework and the 8 Principles of ICAN adopted motivate students in learning Mathematics, as well as help them deal with anxiety in the subject.
-
-![](/images/Our%20departments/Mathematics/Math_ICAN_1.jpg)
-
-![](/images/Our%20departments/Mathematics/Maths%2010_ICAN.jpg)
-
-
-### Fun with Math Gym!
-
-Elements of fun, discovery & exploration and concepts of solving Math patterns are executed through ‘Fun with Math Gym’ to inject fun and curiosity and infuse logical reasoning skills in students while learning in a non-threatening environment. Questions are uploaded onto the SLS platform and students take part in monthly quizzes and winners are awarded prizes.
-
-### Math Olympiad Programme
-
-The department believes in challenging students with high abilities in Math beyond the core curriculum and its extensions. Selected Primary 3, Primary 4 & Primary 5 students take part in the Math Olympiad Programme so that they learn and explore broader and deeper mathematical concepts, as well as receive training to be equipped with skills to handle higher-order thinking questions.
-
-
-|   |   |
-|---|---|
-|![](/images/Our%20departments/Mathematics/Math_Olympiad_2.jpg)   |  ![](/images/Our%20departments/Mathematics/Math_Olympiad_1.jpg) |
-
-Our Primary 4 and Primary 5 students represented the school in external Math Olympiad competitions. They participated in the Annual Mathlympics organised by Anglo-Chinese School and National Mathematical Olympiad of Singapore (NMOS) organised by organised by NUS High School. They had garnered impressive results of 5 Bronze and 6 Honourable Mention. Congrats to our recipients
-
-
-
-### E2K Math Programme
-
-The programme challenges students to explore the subject beyond the core curriculum and its extensions, as well as build their skills to handle higher-order thinking questions. From year 2019, the E2K Math Programme was rolled out to selected Primary 4 students who had demonstrated interest and advanced ability in Mathematics. Students participated actively by sharing their ideas aloud and explored different approaches and strategies to solve the problems.
-
-![](/images/Our%20departments/Mathematics/Math_E2K_1.jpg)
-
-![](/images/Our%20departments/Maths%2011.jpg)
-
-### Professional Development & Learning
-
-Our teachers constantly engage themselves in professional development and learning opportunities to strengthen their pedagogical skills so as to enhance the learning and achievement of the students. Discussions of Math pedagogies and assessment strategies are regularly conducted via internal platforms such as the weekly Math PETALS and school-based bite-sized sharing sessions by the Senior Teachers, as well as expertise & support received from external agencies, e.g. North Zone cluster, Academy of Teachers of Singapore, (AST), MOE CPDD Math Unit and National Institute of Education (NIE)..
-
-![](/images/Our%20departments/Mathematics/Math_Teachers_1.jpg)
+<h1>Mathematics</h1>
+<h3>Vision</h3>
+<p>Every Fernvale pupil, a logical thinker and creative problem solver nurtured
+by passionate Mathematics teachers.</p>
+<h3>Goal</h3>
+<p>We aim to develop pupils as confident, creative and competent Mathematics
+problem solvers.</p>
+<h3>Learn Mathematics by Doing</h3>
+<p>We believe in fostering a supportive and engaging learning environment
+where students can truly enjoy and embrace learning. That's why we emphasize
+experiential learning through activity-based lessons and learning trails.
+These opportunities help students grasp mathematical concepts, understand
+their connections, and see their real-world applications.</p>
+<p>Designed to motivate students both inside and outside the classroom, these
+experiences encourage them to apply their critical, adaptive and inventive
+thinking, collaborative, and problem-solving skills. Students are prompted
+to think critically and reflect on their learning. We also leverage Information
+and Communications Technology (ICT) to further enhance their learning experiences.</p>
+<h3>Activity-Based Lessons</h3>
+<p>Fernvalelions actively participate in a variety of authentic and interesting
+activity-based tasks, allowing them to construct their own understanding
+and knowledge from these experiences. These lessons are designed to build
+a strong foundation in Mathematics, utilizing supporting manipulatives
+and materials that align with the Concrete-Pictorial-Abstract (C-P-A) approach.
+This method ensures students grasp concepts by first manipulating physical
+objects, then visualizing them, and finally understanding their abstract
+representations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/Modern_Aesthetic_Interior_Home_Photo_Collage_Instagram_Post.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/Modern_Aesthetic_Interior_Home_Photo_Collage_Instagram_Post__1_.png">
+</div>
+<h3><strong>Autheticate learning and application through learning trails</strong></h3>
+<p><strong>Interactive Learning Trails</strong> help our Primary 1 to 6 students
+discover the relevance of mathematics by exploring its real-world applications.
+These trails provide opportunities for students to apply their conceptual
+knowledge and skills to solve authentic problems. By complementing classroom
+learning, these trails ensure students develop a deeper appreciation and
+enjoyment of mathematics in everyday situations.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Apply Mass, Length and Time concepts to appreciate biodiversity.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/trail_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/trail_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Primary 1 to 4 Learning Support Programme (LSM) &amp; P1 &amp; P2 LSM Numeracy Enrichment Programme (NEP)</strong></h3>
+<p>The Learning Support for Mathematics (LSM) Programme is an early intervention
+initiative designed to provide targeted support for selected Primary 1
+to Primary 4 students. It aims to help them access the Mathematics curriculum
+effectively and strengthen their numeracy skills and conceptual understanding.</p>
+<p>The programme is guided by the ICAN principles (Involvement, Collaboration,
+Assessment, and eNcouragement) and emphasizes the development of fundamental
+mathematical concepts through engaging, hands-on activities.</p>
+<p>To make the learning of Mathematics enjoyable and meaningful, a numeracy
+enrichment component is included. This enrichment leverages gamified learning
+approaches to help students concretise abstract mathematical ideas in a
+fun and interactive way.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Act it out to understand ordinal numbers (LSM)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reason and communicate reasoning through whiteboarding</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Suggest different denominations using dollar notes and coins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Purposeful play and exploration during NEP</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Fun with Math Gym!</h3>
+<p>"Fun with Math Gym" is designed to bring elements of fun, discovery, and
+exploration into Mathematics learning. Through this initiative, students
+engage with mathematical patterns in a non-threatening and stimulating
+environment that fosters curiosity and develops logical reasoning skills.
+Questions are uploaded onto the SLS platform, where students participate
+in monthly quizzes. Winners are recognized and rewarded with prizes, adding
+excitement and motivation to the learning experience.
+<br>
+</p>
+<h3>E2K Math Programme</h3>
+<p>The programme challenges students to explore Mathematics beyond the core
+curriculum and its extensions, while strengthening their ability to tackle
+higher-order thinking questions. Since 2019, the E2K Math Programme has
+been offered to Primary 4 students who demonstrate a strong interest and
+advanced aptitude in the subject. Through collaborative discussions, students
+actively share their ideas and experiment with various strategies and approaches
+to problem-solving, fostering deep mathematical thinking and confidence.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Interactive Play and Exploration (MA E2K)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Collaboative Exploration (MA E2K)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/mathe2k_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/mathe2k_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Professional Learning</h3>
+<p>Our teachers constantly engage themselves in professional development
+and learning opportunities to strengthen their pedagogical skills so as
+to enhance the learning and achievement of the students. Discussions of
+Math pedagogies and assessment strategies are regularly conducted via internal
+platforms such as the weekly Math PETALS and school-based bite-sized sharing
+sessions by the Senior Teachers, as well as expertise &amp; support received
+from external agencies, e.g. North Zone cluster, Academy of Teachers of
+Singapore, (AST), MOE CPDD Math Unit and National Institute of Education
+(NIE)..</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/PL1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/PL2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>

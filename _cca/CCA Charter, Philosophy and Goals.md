@@ -2,6 +2,7 @@
 title: CCA Charter, Philosophy and Goals
 permalink: /cca/cca-charter-philosophy-and-goals/
 description: ""
+variant: markdown
 ---
 # CCA Charter, Philosophy and Goals
 
@@ -73,4 +74,4 @@ Consent forms are issued by the CCA teachers on a per term basis.
 
 If a pupil’s attendance falls below 70% of the total number of sessions in a year, participation in the CCA would not be reflected. 
 
-Parents could also notify the school through the General Office @ 6315 3501 in cases of emergencies.
+Parents could also notify the school through the General Office @ 6315 3051 in cases of emergencies.

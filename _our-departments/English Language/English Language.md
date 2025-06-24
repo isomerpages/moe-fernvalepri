@@ -3,65 +3,80 @@ title: English Language
 permalink: /our-departments/english-language/
 description: ""
 third_nav_title: English Language
+variant: tiptap
 ---
-# English Language
-
-#### Vision
-
-For every child to be a reflective, eloquent and confident user of the English Language
-
-#### Goal/s
-
-The English Department aims for our students to be reflective, eloquent and confident users of the English Language. Besides learning the technicalities of the English Language, students are also encouraged to reflect critically on a myriad of local and global issues during classroom and group discussions. Students are given various opportunities to share their thoughts and opinions with their teachers and peers by sharing in the classroom, through journalling, quick-write and ICT-based platforms.
-
-
-#### Signature Programmes
-
-**1\. Strategies for English Language Learning and Reading (STELLAR)** 
-
-The teaching approaches in STELLAR have been designed to deliver the outcomes of the English Language Syllabus 2020. Through the effective use of strategies for reading speaking, writing and listening, teachers are empowered to build on the students’ foundational understanding of the English Language and to teach them critical life skills.
-
-![](/images/Our%20Department_English.jpg)
-
-
-**2\. Extensive Reading**
-
-The Extensive Reading Programme is conducted during curriculum once a week. Students are exposed to a variety of books and are given half an hour to read their storybooks or go to the library with their teachers to read and borrow their books. The programme aims to inculcate a love for reading and for our students to build on their reading proficiency.
- 
- ![](/images/Our%20departments/english%202.jpg)
- 
- 
- ![](/images/Our%20departments/english%203.jpg)
- 
- 
- ![](/images/Our%20departments/english%204.jpg)	
-
-
-
-**3\. Primary 1 to 3 Guided Reading Programme**
-
-The Guided Reading Programme is a part of our continuous effort to encourage students to read widely and cultivate good reading habits.
-
-**4\.  P1 to P3 Literacy Programme**
-
-The P1 to P3 Literacy programme aims to engage our students to learn language in a fun and interactive manner with the use of English Language games.
-
-**5\. P4 and P5 Critical Thinking Programmes**
-
-To promote greater awareness of global issues and current affairs, the upper primary students are encouraged to read the Little Red Dot in Primary 4 and 5, and What’s Up in Primary 6. Students take part in online discussions and engage in classroom discussions based on the newspaper articles.
-
-**6\.Strategies to Activate Reading (StAR) for Primary 1 and 2**
-
-StAR, is an in-house programme that is conducted daily for half an hour in small groups. It aims to equip students with the skills to:
-
-\-          Master word recognition and spelling strategies
-
-\-         Read aloud in a fluent manner
-
-\-         Comprehend what they are reading
-
-**7\.English Fiesta**
-
-The English Fiesta is an annual celebration of the English Language. It aims to inculcate a love for the English Language and to encourage students to be involved in the learning of the language. Students are engaged in fun activities that extend beyond the classroom. It is also a platform for students to develop and showcase their communication skills. We want our students to know that the English Language can be fun and interesting!
-
-![](/images/english%205.jpg)
+<h1>English Language</h1>
+<p>At our English Department, we strive to nurture students into reflective,
+eloquent, and confident users of the English Language. Beyond mastering
+language skills, students are encouraged to think critically about a wide
+range of local and global issues. Through class discussions, journalling,
+quick-writes, and ICT-based platforms, they are given meaningful opportunities
+to express their thoughts and engage with others in a supportive learning
+environment.</p>
+<h3><strong>Pedagogical Approach</strong></h3>
+<p><strong>Strategies for English Language Learning and Reading (STELLAR)</strong>
+</p>
+<p>The school adopts the STELLAR approach in the teaching of English Language
+and in delivering the outcomes of the English Language Syllabus 2020 (ELS
+2020). Through the effective use of strategies for reading, speaking, writing
+and listening, our teachers build on the foundational understanding of
+the English Language using stories.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Department_English.jpg">
+</div>
+<h3><strong>Key Programmes</strong></h3>
+<p><strong>kidsREAD</strong>
+<br>
+<br>kidsREAD is a nationwide reading programme by the National Library Board
+(NLB). It aims to promote the love of reading and cultivate good reading
+habits among young children. Books and activities, which are based on STEAM
+(Science, Technology, Engineering, Art and Mathematics) concepts will be
+curated by NLB. Volunteers trained by NLB in basic storytelling skills
+will conduct this programme.
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnkj8WVstk7ue_453gGALr8T_iE6fdWhu_nN_E0kVOGH_w_ClAFU-O7LwnFzN0lb7L5-X9zmOu1duM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Extensive Reading</strong>
+</p>
+<p>The Extensive Reading Programme is conducted during curriculum once a
+week. Students are exposed to a variety of books and are given half an
+hour to read their storybooks or go to the library with their teachers
+to read and borrow their books. The programme aims to inculcate a love
+for reading and for our students to build on their reading proficiency.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFWF-EAxXsXdlclwbM5WXwqHkkNncMq1nISXZFP4fHG6ae9bnzwfYYmZiE2TOJiJFGkV2ehOTM1Rea/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Book Character Day</strong>
+</p>
+<p>Book Character Day is an annual celebration of the English Language. Students
+are encouraged to dress up in their favourite book characters according
+to a given theme for the year. They are also encouraged to use recycled
+materials for their costumes. The event aims to provide a fun and engaging
+atmosphere for our students to develop their love for reading. Students
+will have the opportunity to talk about their favourite books and book
+characters.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaAqVh32hB9sPErMabzZkUEOzdeHjdQbaTAOXDLrV4MdZ08fXJ_wsWm-yoNl9z-Q0N2RApw5RdXn0H/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>P1 to P3 Literacy Programme</strong>
+</p>
+<p>The P1 to P3 Literacy programme aims to engage our students to learn language
+in a fun and interactive manner with the use of English Language games.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPxCFdPjUaBiP9eBBdigcOHgWtQaHGiifeApcHWoCmKgFRLbDK3zV68B9CsGsl0pt-mrTHmGv4gfG1/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Creative Writing Enrichment</strong>
+</p>
+<p>The Creative Writing Enrichment programme aims to provide extended learning
+opportunities and will enhance students’ language skills. Through engaging
+activities and focused instruction, students will develop their creative
+writing abilities.&nbsp;</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ09LbYvqe3ag-EWpBAFrqrgEBwvv3Gph-NOzYKM2sXOhoG0_1oCbZcUKNXXdsOl8QxF8Eoa8SHeuS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
