@@ -5,16 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: Mother Tongue Languages
 ---
-## Malay Language
-
-### Department Goal
-
-To enable our pupils to communicate in Malay Language effectively and confidently.  
-To inculcate the love and appreciation of the Malay Heritage and culture in all pupil.  
-
-### Department Vision
-
-"To produce Arif Budiman "
   
 ### Department Programmes:  
 
