@@ -17,7 +17,7 @@ collections:
       - CCE/NESS.md
       - Physical Education.md
       - Information and Communication Technology.md
-      - Special Programmes/.keep
-      - Special Programmes/Applied Learning and Learning for Life Programmes.md
-      - Special Programmes/Learning for Life Programme (LLP).md
-      - Special Programmes/STEM Applied Learning Programme (ALP).md
+      - ALP LLP/.keep
+      - ALP LLP/Applied Learning and Learning for Life Programmes.md
+      - ALP LLP/Learning for Life Programme (LLP).md
+      - ALP LLP/STEM Applied Learning Programme (ALP).md
