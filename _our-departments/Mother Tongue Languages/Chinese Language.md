@@ -3,22 +3,8 @@ title: Chinese Language
 permalink: /chinese-language/
 variant: tiptap
 description: ""
-third_nav_title: Mother Tongue Language
+third_nav_title: Mother Tongue Languages
 ---
-<h3><strong>Department Goal:</strong></h3>
-<p>Joyful and active learners of the Mother Tongue Languages and Cultures</p>
-<p></p>
-<h3><strong>Vision:</strong></h3>
-<p>Every Fernvale Pupil an Effective and Confident User of their Mother Tongue
-Language and take pride in his/her cultures.</p>
-<p>&nbsp;</p>
-<h3><strong>Mission:</strong></h3>
-<p>M1: To develop our pupils into avid readers, budding writers and effective
-speakers in their Mother Tongue Language through programmes infused with
-21st&amp;nbsp;Century Competency skills.</p>
-<p>M2: To inculcate in our pupils a sense of love and appreciation of the
-Language Culture.</p>
-<p>&nbsp;</p>
 <h3><strong>Department Programmes:</strong></h3>
 <h3><strong>1. 2025 Chinese New Year Celebration</strong></h3>
 <p></p>

@@ -2,7 +2,7 @@
 title: STEM Applied Learning Programme (ALP)
 permalink: /our-departments/Innovation-and-Special-Projects/stem-applied-learning-porgramme-alp/
 description: ""
-third_nav_title: Special Programmes
+third_nav_title: ALP LLP
 variant: tiptap
 ---
 <h1>STEM Applied Learning Programme (ALP)</h1>

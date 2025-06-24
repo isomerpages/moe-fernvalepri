@@ -6,10 +6,10 @@ collections:
       - English Language/English Language.md
       - Mathematics.md
       - Science.md
-      - Mother Tongue Language/.keep
-      - Mother Tongue Language/Chinese Language.md
-      - Mother Tongue Language/Malay Language.md
-      - Mother Tongue Language/Tamil Language.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
       - Aesthetics.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
@@ -17,7 +17,7 @@ collections:
       - CCE/NESS.md
       - Physical Education.md
       - Information and Communication Technology.md
-      - Special Programmes/.keep
-      - Special Programmes/Applied Learning and Learning for Life Programmes.md
-      - Special Programmes/Learning for Life Programme (LLP).md
-      - Special Programmes/STEM Applied Learning Programme (ALP).md
+      - ALP LLP/.keep
+      - ALP LLP/Applied Learning and Learning for Life Programmes.md
+      - ALP LLP/Learning for Life Programme (LLP).md
+      - ALP LLP/STEM Applied Learning Programme (ALP).md

@@ -2,7 +2,7 @@
 title: Learning for Life Programme (LLP)
 permalink: /our-departments/Innovation-and-Special-Projects/learning-for-life-programme-llp/
 description: ""
-third_nav_title: Special Programmes
+third_nav_title: ALP LLP
 variant: tiptap
 ---
 <h1>Learning for Life Programme (LLP)</h1>

@@ -2,7 +2,7 @@
 title: Applied Learning and Learning for Life Programmes
 permalink: /alpllp/
 description: ""
-third_nav_title: Special Programmes
+third_nav_title: ALP LLP
 variant: markdown
 ---
 # Lifelong Learning Programme (LLP) and Applied Learning Programme (ALP)

@@ -5,24 +5,46 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h1>Cyberwellness</h1>
+<h1><strong>Cyberwellness</strong></h1>
 <h3>Tips sheet for Parents - Helping your child manage Excessive Internet Use</h3>
 <p>Please click&nbsp;<a href="/files/Our%20departments/Tipsheet%20for%20Parents_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-attachment
-<br>- What is Excessive Internet Use?
-<br>- What are the sign of Excessive Internet Use?
-<br>- What can parents do to help their children manage their use of digital
-devices?
-<br>- More information on Excessive Internet Use?</p>
-<h3>Cyberwellness Tipsheet #2 for Parents - Developing your child to be a Positive&nbsp;Peer Influence online</h3>
+attachment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is Excessive Internet Use?</p>
+</li>
+<li>
+<p>What are the sign of Excessive Internet Use?</p>
+</li>
+<li>
+<p>What can parents do to help their children manage their use of digital
+devices?</p>
+</li>
+<li>
+<p>More information on Excessive Internet Use?</p>
+</li>
+</ul>
+<h3><strong>Cyberwellness Tipsheet #2 for Parents - Developing your child to be a Positive&nbsp;Peer Influence online</strong></h3>
 <p>Please click&nbsp;<a href="/files/Our%20departments/Tipsheet%20for%20Parents_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-attachment
-<br>- What is Positive Peer Influence?
-<br>-&nbsp;Why is Being a Positive Peer Influence&nbsp;Online Important?
-<br>- How can Parents Help?
-<br>- Key Messages
-<br>- Resources</p>
-<h3>Cyberwellness Tipsheet #3 for Parents -&nbsp;Helping Your Child Handle Online Content</h3>
+attachment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is Positive Peer Influence?</p>
+</li>
+<li>
+<p>Why is Being a Positive Peer Influence&nbsp;Online Important?</p>
+</li>
+<li>
+<p>How can Parents Help?</p>
+</li>
+<li>
+<p>Key Messages</p>
+</li>
+<li>
+<p>Resources</p>
+</li>
+</ul>
+<h3><strong>Cyberwellness Tipsheet #3 for Parents -&nbsp;Helping Your Child Handle Online Content</strong></h3>
 <p>Please click&nbsp;<a href="/files/Our%20departments/Tipsheet%20for%20Parents_3.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 attachment</p>
 <p></p>

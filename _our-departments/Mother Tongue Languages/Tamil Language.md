@@ -3,28 +3,8 @@ title: Tamil Language
 permalink: /tamil-language/
 variant: tiptap
 description: ""
-third_nav_title: Mother Tongue Language
+third_nav_title: Mother Tongue Languages
 ---
-<h3><strong>Department Vision</strong></h3>
-<p>Every Fernvale Pupil to be an Effective and Confident User of their Tamil
-Language and take pride of their culture.</p>
-<h3><strong>Department Mission</strong></h3>
-<p>M1: To develop our pupils into avid readers, budding writers and effective
-speakers of their Mother Tongue Language through programmes infused with
-21st Century Competency skills.</p>
-<p></p>
-<p>M2: To inculcate in our pupils a sense of love and appreciation for the
-Tamil Language.</p>
-<h3><strong>Collaborative Writing Strategy&nbsp;</strong></h3>
-<p>In our department, we embrace collaborative writing strategies to enhance
-writing proficiency amongst our pupils. By working together in groups,
-pupils cultivate essential communication and teamwork skills while collectively
-brainstorming ideas and refining their writing. This approach not only
-promotes a supportive learning environment but also fosters creativity
-and critical thinking as pupils learn from one another's perspectives.
-Through collaborative writing, our pupils develop confidence in their writing
-abilities.</p>
-<h3><strong>Tamil Reading Programme</strong></h3>
 <p>At our school, the Tamil Language department nurtures a love for reading
 through our engaging Tamil Reading Chest Programme. Pupils set reading
 goals each term, and those who meet them are proudly recognized with Certificates
