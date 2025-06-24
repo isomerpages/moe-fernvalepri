@@ -1,6 +1,6 @@
 ---
-title: Special Programmes
-permalink: /specialprogrammes/
+title: Applied Learning and Learning for Life Programmes
+permalink: /alpllp/
 description: ""
 third_nav_title: Special Programmes
 variant: markdown

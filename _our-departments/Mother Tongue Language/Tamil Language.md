@@ -91,7 +91,7 @@ Tamil readers in every child.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mother Tongue Language Fortnight Activities - Kavinkalai Tamil Language Competitions </strong></h3>
+<h3><strong>Mother Tongue Language Fortnight Activities - Kavinkalai Tamil Language Competitions</strong></h3>
 <p>As part of our annual Mother Tongue Fortnight celebrations, the Tamil
 Language department organises the Kavinkalai Internal Tamil Language Competitions—a
 signature event that has been running for the past 10 years. While the
