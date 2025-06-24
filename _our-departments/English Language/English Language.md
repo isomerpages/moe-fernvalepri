@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<h1>English Language</h1>
+<h1><strong>English Language</strong></h1>
 <p>At our English Department, we strive to nurture students into reflective,
 eloquent, and confident users of the English Language. Beyond mastering
 language skills, students are encouraged to think critically about a wide
