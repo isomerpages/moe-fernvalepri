@@ -20,7 +20,7 @@ sections:
         makes our school special!   Register by 27 June 2025!
       button: Click here to register for the Open House!
       url: https://go.gov.sg/fvpsopenhouse2025
-      image: /images/Open_House.jpg
+      image: /images/Open_Housev2.jpg
       alt: Image alt text
   - textcards:
       title: CCA
