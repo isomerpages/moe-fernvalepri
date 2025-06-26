@@ -3,7 +3,7 @@ title: Angklung and Kulintang Ensemble
 permalink: /angklungkulintangensemble/
 variant: tiptap
 description: ""
-third_nav_title: CCA Write Ups, Photos & Videos
+third_nav_title: Our CCAs
 ---
 <h3><strong>Angklung and Kulintang Ensemble</strong></h3>
 <p>The Angklung and Kulintang Ensemble offers pupils a unique opportunity

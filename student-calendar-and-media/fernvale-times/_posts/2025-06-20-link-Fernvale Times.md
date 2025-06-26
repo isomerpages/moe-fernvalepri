@@ -1,6 +1,6 @@
 ---
 title: Fernvale Times
-date: 2024-06-08
+date: 2025-06-20
 layout: link
 description: ""
 image: ""

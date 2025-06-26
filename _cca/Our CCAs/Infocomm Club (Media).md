@@ -2,7 +2,7 @@
 title: Infocomm Club (Media)
 permalink: /cca/CCA-Write-Ups-Photos-and-Videos/infocomm-club-media/
 description: ""
-third_nav_title: CCA Write Ups, Photos & Videos
+third_nav_title: Our CCAs
 variant: markdown
 ---
 # Infocomm Club (Media)

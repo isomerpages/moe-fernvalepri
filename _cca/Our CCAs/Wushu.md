@@ -2,7 +2,7 @@
 title: Wushu
 permalink: /cca/CCA-Write-Ups-Photos-and-Videos/wushu/
 description: ""
-third_nav_title: CCA Write Ups, Photos & Videos
+third_nav_title: Our CCAs
 variant: tiptap
 ---
 <h1>Wushu</h1>

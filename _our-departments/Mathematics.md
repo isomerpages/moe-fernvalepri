@@ -4,13 +4,11 @@ permalink: /our-departments/mathematics/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Mathematics</strong></h1>
-<h3><strong>Learn Mathematics by Doing</strong></h3>
-<p>We believe in fostering a supportive and engaging learning environment
-where students can truly enjoy and embrace learning. That's why we emphasize
-experiential learning through activity-based lessons and learning trails.
-These opportunities help students grasp mathematical concepts, understand
-their connections, and see their real-world applications.</p>
+<p>At our Mathematics Department, we believe in fostering a supportive and
+engaging learning environment where students can truly enjoy and embrace
+learning. That's why we emphasize experiential learning through activity-based
+lessons and learning trails. These opportunities help students grasp mathematical
+concepts, understand their connections, and see their real-world applications.</p>
 <p>Designed to motivate students both inside and outside the classroom, these
 experiences encourage them to apply their critical, adaptive and inventive
 thinking, collaborative, and problem-solving skills. Students are prompted
@@ -25,15 +23,30 @@ and materials that align with the Concrete-Pictorial-Abstract (C-P-A) approach.
 This method ensures students grasp concepts by first manipulating physical
 objects, then visualizing them, and finally understanding their abstract
 representations.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/fraction.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/picture_graph.jpg">
 </div>
-<h3><strong>Autheticate learning and application through learning trails</strong></h3>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/fraction.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3><strong>Authenticate learning and application through learning trails</strong></h3>
 <p><strong>Interactive Learning Trails</strong> help our Primary 1 to 6 students
 discover the relevance of mathematics by exploring its real-world applications.
 These trails provide opportunities for students to apply their conceptual
@@ -57,13 +70,13 @@ enjoyment of mathematics in everyday situations.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/trail_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/trail_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/trail_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/trail_1.jpg">
 </div>
 </td>
 </tr>
@@ -88,9 +101,13 @@ fun and interactive way.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>Act it out to understand ordinal numbers (LSM)</p>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>Reason and communicate reasoning through whiteboarding</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -100,15 +117,14 @@ fun and interactive way.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM3.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Reason and communicate reasoning through whiteboarding</strong>
+<p><strong>Purposeful play and exploration during NEP</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,27 +134,6 @@ fun and interactive way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Purposeful play and exploration during NEP</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM6.jpg">
 </div>
@@ -146,7 +141,7 @@ fun and interactive way.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM4.jpg">
 </div>
 </td>
 </tr>
@@ -170,68 +165,4 @@ been offered to Primary 4 students who demonstrate a strong interest and
 advanced aptitude in the subject. Through collaborative discussions, students
 actively share their ideas and experiment with various strategies and approaches
 to problem-solving, fostering deep mathematical thinking and confidence.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Interactive Play and Exploration (MA E2K)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Collaboative Exploration (MA E2K)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/mathe2k_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/mathe2k_2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>Professional Learning</h3>
-<p>Our teachers constantly engage themselves in professional development
-and learning opportunities to strengthen their pedagogical skills so as
-to enhance the learning and achievement of the students. Discussions of
-Math pedagogies and assessment strategies are regularly conducted via internal
-platforms such as the weekly Math PETALS and school-based bite-sized sharing
-sessions by the Senior Teachers, as well as expertise &amp; support received
-from external agencies, e.g. North Zone cluster, Academy of Teachers of
-Singapore, (AST), MOE CPDD Math Unit and National Institute of Education
-(NIE)..</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/PL1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/PL2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>

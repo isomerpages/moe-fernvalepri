@@ -2,286 +2,496 @@
 title: School Executive Committee
 permalink: /our-school-info/school-executive-committee/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Our Staff
 ---
-# School Executive Committee
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vlif{background-color:#FFF;border-color:inherit;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 876px">
+<h2><strong>School Executive Committee</strong></h2>
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 476px">
+<col>
+<col>
 </colgroup>
-	
-<thead>
-  <tr>
-    <th class="tg-vlif">Principal</th>
-    <th class="tg-lnwz">Mr Enoch Lau</th>
-  </tr>
-</thead>
-	
 <tbody>
-  <tr>
-    <td class="tg-sna6">Vice - Principal (EO)</td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Miss Yap Ai Li</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6">Vice - Principal (EO)</td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Ramesh Mukundhan </span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6">Vice - Principal (Admin)</td>
-    <td class="tg-lnwz"><span style="font-weight:400;color:#000">Mr Kevin Patt</span> </td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>School Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Enoch Lau</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice - Principal (EO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Yap Ai Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice - Principal (EO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ramesh Mukundhan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice - Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Patt</p>
+</td>
+</tr>
 </tbody>
 </table>
-
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Mabel Soh-Ong Hui Mei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>P1 to P2</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Puah Puay Koon Eileen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>P3 to P4</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Elvin Benjamin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Phillida Rabini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>P5 to P6</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Low - Phua Eileen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Amanda Galistan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong>English Department</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeyananthini d/o Jeyapal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Azry - Nurul Hayati Binte Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Mathematics Department</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Shu Hui Jasmine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Geraldine Chua Shan Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Mother Tongue Languages Department</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Carina Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joanna Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aznahar Bin Baharudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (TL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Somasundaram Vijaya Rani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Science Department</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Bhavani Chandra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo - Ong Puay Hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Information &amp; Communications Technology</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gavin Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>PE &amp; CCA</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Covering HOD PE/CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liza Binti Ismail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>21CC</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Huang Weijin Vincent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Ying Zhi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Special Education Needs</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Feroz Muhamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Character &amp; Citizenship Education</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jaron Yap Jie Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Si Qian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Lead Teachers</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roslie Bin Buang Sidik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Bee Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs
 <br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gi7n{background-color:#FFF;color:#575756;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-atqo{background-color:#FFF;color:#575756;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-sna6{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-i7qw{background-color:#FFF;border-color:inherit;color:#575756;text-align:left;vertical-align:top}
-.tg .tg-lnwz{background-color:#FFF;color:#575756;text-align:left;vertical-align:top}
-.tg .tg-biak{background-color:#FFF;color:#575756;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1162px">
-<colgroup>
-<col style="width: 470px">
-<col style="width: 692px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-i7qw">School Staff Developer</th>
-    <th class="tg-lnwz">Mrs Mabel<span style="background-color:transparent"> Soh–Ong Hui Mei</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-biak" colspan="2"><br><span style="color:#000;background-color:initial">P1 to  P2</span></td>
-	</tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Miss Puah Puay Koon Eileen</span></td>
-  </tr>
-	<tr>
-    <td class="tg-sna6"><br><span style="text-decoration:underline">P3 to P4 </span></td>
-    <td class="tg-atqo"> </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mr Elvin Benjamin</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz">Mrs Phillida Rabini</td>
-  </tr>  
-  
-  <tr>
-    <td class="tg-sna6"><br><span style="text-decoration:underline">P5 to P6 </span></td>
-    <td class="tg-atqo"> </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Year Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:400"></span>Mrs Low - Phua Eileen </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Assistant Year Head</span></td>
-    <td class="tg-lnwz">Mrs Amanda Galistan</td>
-  </tr>
-  <tr>
-    <td class="tg-gi7n" colspan="2"><br><span style="font-weight:bold;background-color:initial">English Department</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department </span></td>
-    <td class="tg-lnwz">Ms Jeyananthini d/o Jeyapal</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Level Head</span></td>
-    <td class="tg-lnwz">Mrs Azry - Nurul Hayati Binte Abdul Rahman</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">Mathematics Department</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Lim Shu Hui Jasmine </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Level Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Geraldine Chua Shan Shan</span></td>
-  </tr>
-  <tr>
-    <td class="tg-biak" colspan="2"><br>Mother Tongue Languages Department</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Carina Chua</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Level Head (CL)</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Joanna Lim</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Subject Head (ML)</span>     </td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Aznahar Bin Baharudin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Subject Head (TL)     </td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Somasundaram Vijaya Rani </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz" colspan="2"><span style="font-weight:bold;text-decoration:underline"> </span><br><span style="font-weight:bold;text-decoration:underline">Science Department</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Bhavani Chandra</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Level Head</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Teo - Ong Puay Hoon</span></td>
-  </tr>
-  <tr>
-    <td class="tg-biak" colspan="2"><br>Information &amp; Communications Technology</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Gavin Lee</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz" colspan="2"><span style="font-weight:normal"> </span><br><span style="font-weight:bold;text-decoration:underline">PE &amp; CCA</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Subject Head (Covering HOD PE/CCA)</td>
-    <td class="tg-lnwz">Mdm Liza Binti Ismail</td>
-  </tr>
-  <tr>
-    <td class="tg-biak" colspan="2"><br>Aesthetics</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Subject Head</td>
-    <td class="tg-lnwz">Mdm Julia Bte Mohd Rahim <span style="font-weight:normal"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">21CC</span><span style="font-weight:bold;text-decoration:underline;background-color:initial"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Head Of Department  </td>
-    <td class="tg-lnwz"><span style="font-weight:400">Mr Huang Weijin Vincent</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Subject Head   </td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Teo Ying Zhi</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sna6" colspan="2"><br><span style="font-weight:bold;text-decoration:underline">Special Education Needs</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Feroz Muhamad </span></td>
-  </tr>
-  <tr>
-    <td class="tg-biak" colspan="2"><br>Character &amp; Citizenship Education </td>
-  </tr>
-  <tr>
-    
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Head Of Department </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Jaron Yap Jie Han</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal;background-color:initial">Subject Head </span></td>
-    <td class="tg-lnwz">Mr Goh Si Qian</td>
-  </tr>
-	<tr>
-    <td class="tg-biak" colspan="2"><br>Lead Teachers </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Malay Language</td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Roslie Bin Buang Sidik</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Mathematics</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Lee Bee Leng </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400;color:#000">Special Education Needs</span><br></td>
-    <td class="tg-lnwz">Mrs Jacquelin Yeo Chien Ling</td>
-  </tr>
-  <tr>
-    <td class="tg-biak"><br>Senior Teachers</td>
-    <td class="tg-sna6"></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">English</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Eleanor Tham</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">English </td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mrs Kalavathi Selvarajulu </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mathematics  </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mr Clement Song Hwee Tong</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Science    </td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Ang Chye Chen Jackie</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Chinese Language </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Miss Feng Yue </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">PE</td>
-    <td class="tg-lnwz"><span style="font-weight:400;color:#000">Mr Goh Tong Wee</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:400">Education Support</span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Soh Seok Khim</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Lower Primary Learners</span> </td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Ms Tan Hwee Ping Elsie</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-biak" colspan="2"><br>Operations </td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Operations Manager </td>
-    <td class="tg-lnwz">Mr Alvin Chiang </td>
-  </tr>
-  <tr>
-    <td class="tg-biak" colspan="2"><br>Administration</td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Admin Manager </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Miss Diane Tiu On Ki </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz"><span style="font-weight:normal">Admin Manager </span></td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Mdm Tan Mui Leng Catherine </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lnwz">Admin Executive (MK)</td>
-    <td class="tg-lnwz"><span style="font-weight:normal">Miss Chong Li Ping Claudia </span></td>
-  </tr>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jacquelin Yeo Chien Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br><strong><u>Senior Teachers</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Eleanor Tham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kalavathi Selvarajulu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Clement Song Hwee Tong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Chye Chen Jackie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Feng Yue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Tong Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Seok Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Primary Learners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Hwee Ping Elsie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Operations</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Chiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br><strong><u>Administration</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Diane Tiu On Ki</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Mui Leng Catherine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive (MK)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chong Li Ping Claudia</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

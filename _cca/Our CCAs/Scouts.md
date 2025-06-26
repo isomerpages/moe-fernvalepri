@@ -2,7 +2,7 @@
 title: Scouts
 permalink: /cca/CCA-Write-Ups-Photos-and-Videos/scouts/
 description: ""
-third_nav_title: CCA Write Ups, Photos & Videos
+third_nav_title: Our CCAs
 variant: markdown
 ---
 # Scouts
