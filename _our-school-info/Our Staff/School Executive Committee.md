@@ -68,15 +68,6 @@ third_nav_title: Our Staff
 <p>Mrs Mabel Soh-Ong Hui Mei</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong><u>P1 to P2</u></strong>
