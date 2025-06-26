@@ -102,9 +102,13 @@ fun and interactive way.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>Act it out to understand ordinal numbers (LSM)</p>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>Reason and communicate reasoning through whiteboarding</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,15 +118,14 @@ fun and interactive way.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM3.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Reason and communicate reasoning through whiteboarding</strong>
+<p><strong>Purposeful play and exploration during NEP</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,27 +135,6 @@ fun and interactive way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Purposeful play and exploration during NEP</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM6.jpg">
 </div>
@@ -160,7 +142,7 @@ fun and interactive way.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/LSM4.jpg">
 </div>
 </td>
 </tr>
