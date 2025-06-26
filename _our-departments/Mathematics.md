@@ -178,7 +178,7 @@ to problem-solving, fostering deep mathematical thinking and confidence.</p>
 <p>Interactive Play and Exploration (MA E2K)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Collaboative Exploration (MA E2K)</p>
+<p>Collaborative Exploration (MA E2K)</p>
 </th>
 </tr>
 <tr>
@@ -198,36 +198,5 @@ to problem-solving, fostering deep mathematical thinking and confidence.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Professional Learning</h3>
-<p>Our teachers constantly engage themselves in professional development
-and learning opportunities to strengthen their pedagogical skills so as
-to enhance the learning and achievement of the students. Discussions of
-Math pedagogies and assessment strategies are regularly conducted via internal
-platforms such as the weekly Math PETALS and school-based bite-sized sharing
-sessions by the Senior Teachers, as well as expertise &amp; support received
-from external agencies, e.g. North Zone cluster, Academy of Teachers of
-Singapore, (AST), MOE CPDD Math Unit and National Institute of Education
-(NIE)..</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/PL1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/PL2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<h3></h3>
 <p></p>
