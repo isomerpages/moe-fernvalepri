@@ -4,7 +4,6 @@ permalink: /our-departments/english-language/
 description: ""
 variant: tiptap
 ---
-<h1><strong>English Language</strong></h1>
 <p>At our English Department, we strive to nurture students into reflective,
 eloquent, and confident users of the English Language. Beyond mastering
 language skills, students are encouraged to think critically about a wide
@@ -35,7 +34,7 @@ will conduct this programme.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnkj8WVstk7ue_453gGALr8T_iE6fdWhu_nN_E0kVOGH_w_ClAFU-O7LwnFzN0lb7L5-X9zmOu1duM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="400" width="750" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnkj8WVstk7ue_453gGALr8T_iE6fdWhu_nN_E0kVOGH_w_ClAFU-O7LwnFzN0lb7L5-X9zmOu1duM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Extensive Reading</strong>
 </p>
