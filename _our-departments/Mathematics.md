@@ -167,6 +167,3 @@ advanced aptitude in the subject. Through collaborative discussions, students
 actively share their ideas and experiment with various strategies and approaches
 to problem-solving, fostering deep mathematical thinking and confidence.</p>
 <p></p>
-<p></p>
-<h3></h3>
-<p></p>
