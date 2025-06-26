@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CCA Write Ups, Photos & Videos
 variant: markdown
 ---
-# CCA Write-Ups, Photos and Videos
-
 ![](/images/Cca/CCA-Hdr.png)
 
 |                 |                       |                         |                     |
