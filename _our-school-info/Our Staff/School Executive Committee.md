@@ -65,7 +65,7 @@ third_nav_title: Our Staff
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs mabel Soh-Ong Hui Mei</p>
+<p>Mrs Mabel Soh-Ong Hui Mei</p>
 </td>
 </tr>
 </tbody>
