@@ -4,7 +4,6 @@ permalink: /our-departments/mathematics/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Mathematics</strong></h1>
 <h3><strong>Learn Mathematics by Doing</strong></h3>
 <p>We believe in fostering a supportive and engaging learning environment
 where students can truly enjoy and embrace learning. That's why we emphasize
@@ -25,15 +24,30 @@ and materials that align with the Concrete-Pictorial-Abstract (C-P-A) approach.
 This method ensures students grasp concepts by first manipulating physical
 objects, then visualizing them, and finally understanding their abstract
 representations.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/fraction.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/picture_graph.jpg">
 </div>
-<h3><strong>Autheticate learning and application through learning trails</strong></h3>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mathematics/fraction.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3><strong>Authenticate learning and application through learning trails</strong></h3>
 <p><strong>Interactive Learning Trails</strong> help our Primary 1 to 6 students
 discover the relevance of mathematics by exploring its real-world applications.
 These trails provide opportunities for students to apply their conceptual
