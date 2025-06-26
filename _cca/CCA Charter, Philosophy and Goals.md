@@ -4,8 +4,6 @@ permalink: /cca/cca-charter-philosophy-and-goals/
 description: ""
 variant: markdown
 ---
-# CCA Charter, Philosophy and Goals
-
 **Our Philosophy and Goals**
 
 CCA is an integral part of our school’s effort to provide a holistic education for our pupils. At Fernvale Primary School, we believe that:
