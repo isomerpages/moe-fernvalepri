@@ -4,12 +4,11 @@ permalink: /our-departments/mathematics/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Learn Mathematics by Doing</strong></h3>
-<p>We believe in fostering a supportive and engaging learning environment
-where students can truly enjoy and embrace learning. That's why we emphasize
-experiential learning through activity-based lessons and learning trails.
-These opportunities help students grasp mathematical concepts, understand
-their connections, and see their real-world applications.</p>
+<p>At our Mathematics Department, we believe in fostering a supportive and
+engaging learning environment where students can truly enjoy and embrace
+learning. That's why we emphasize experiential learning through activity-based
+lessons and learning trails. These opportunities help students grasp mathematical
+concepts, understand their connections, and see their real-world applications.</p>
 <p>Designed to motivate students both inside and outside the classroom, these
 experiences encourage them to apply their critical, adaptive and inventive
 thinking, collaborative, and problem-solving skills. Students are prompted
