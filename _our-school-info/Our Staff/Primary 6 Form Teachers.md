@@ -18,8 +18,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Si Qian
-<br>Ms Jeyananthini d/o Jeyapal
-<br>Mrs Low - Phua Eileen</p>
+<br>Ms Jeyananthini d/o Jeyapal</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +62,7 @@ third_nav_title: Our Staff
 <p>P6-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Selvi d/o Ramasamy (Mrs Raja)
+<p>Mdm Selvi d/o Ramasamy
 <br>Mr Song Hwee Tong Clement</p>
 </td>
 </tr>
