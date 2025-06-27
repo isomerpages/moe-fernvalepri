@@ -54,7 +54,7 @@ third_nav_title: Our Staff
 <p>P5-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amanda Gallistan - Lee Hui Shan
+<p>Mrs Amanda Galistan - Lee Hui Shan
 <br>Mr Hadrian Chin Chun Kiat</p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Ying Zhi
-<br>Mr Lee Oon Kee, Joe</p>
+<br>Mr Lee Oon Kee Joe</p>
 </td>
 </tr>
 </tbody>
