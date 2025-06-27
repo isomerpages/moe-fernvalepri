@@ -48,15 +48,6 @@ the Olympic spirit of respect, friendship and excellence among our pupils.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="Snow" src="/images/Our departments/Physical Education/interclass01.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="Forest" src="/images/Our departments/Physical Education/interclass02.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="Mountains" src="/images/Our departments/Physical Education/interclass03.jpg">
-</div>
 <p><strong>P1 &amp; P2 Lower Primary Games Day</strong>
 </p>
 <p>This annual event is a milestone activity that our lower primary children
@@ -78,42 +69,70 @@ their emotions and develop resilience. They learn to cope with challenges,
 disappointments, and successes in a natural setting. This is an important
 mental break from structured learning, allowing students to return to the
 classroom refreshed and ready to learn.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" alt="Snow" src="/images/Our departments/Physical Education/play01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/play01.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="Forest" src="/images/Our departments/Physical Education/play02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/play02.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="Mountains" src="/images/Our departments/Physical Education/play03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/play03.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>SwimSafer Programme</strong>
 </p>
 <p>Swimming is part of the MOE new Physical Education Syllabus. As such,
 our school conducts the Swimsafer Programme at Primary 4. The objective
 of the programme is for our pupils to gain confidence and develop independence
 in the water, as well as learn general and deep-end water safety.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" alt="Snow" src="/images/Our departments/Physical Education/swim01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/swim01.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="Forest" src="/images/Our departments/Physical Education/swim02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/swim02.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="Mountains" src="/images/Our departments/Physical Education/swim03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/swim03.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>P5 Outdoor Adventure Camp</strong>
 </p>
 <p>As part of our school’s holistic education programme, the PE department
