@@ -37,7 +37,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Zhong Xiuyuan Diana
 <br>Mr Muhammad Ridzuan Bin Osman
-<br>Mrs Wong Chiew Ming Grace</p>
+<br>Ms Grace Wong</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ third_nav_title: Our Staff
 <p>P1-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm W.K.Vijitha Valerie Brampy
+<p>Mdm W.K. Vijitha Valerie Brampy
 <br>Ms Neo Sian Yin
 <br>Mdm Fang Qiongxia</p>
 </td>
@@ -92,7 +92,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ho - Soh Wei Ying
-<br>Mr Low Deng Neng JIm</p>
+<br>Mr Low Deng Neng Jim</p>
 </td>
 </tr>
 </tbody>
