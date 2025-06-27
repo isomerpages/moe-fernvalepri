@@ -19,18 +19,31 @@ in modified games and sports which are aligned with the PE syllabus to
 showcase their level of learning and understanding. This platform provides
 pupils with the opportunity to display the five school values and foster
 the Olympic spirit of respect, friendship and excellence among our pupils.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/interclass01.jpg">
+</div>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/interclass02.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Physical Education/interclass03.jpg">
+</div>
 </th>
 </tr>
 </tbody>
