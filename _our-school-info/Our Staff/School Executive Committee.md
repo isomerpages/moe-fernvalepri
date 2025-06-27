@@ -166,7 +166,7 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Shu Hui Jasmine</p>
+<p>Mrs Jasmine Lee</p>
 </td>
 </tr>
 <tr>
