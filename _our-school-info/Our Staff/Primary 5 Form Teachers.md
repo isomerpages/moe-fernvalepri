@@ -18,7 +18,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ang Min Xin
-<br>Mrs Audrey Ortega (Till Oct)
+<br>Mrs Audrey Ortega
 <br>Mrs Poon-Liew Siew Hui Eileen</p>
 </td>
 </tr>
