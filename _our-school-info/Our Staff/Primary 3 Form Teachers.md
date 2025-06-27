@@ -27,8 +27,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Hsiang-Chun
-<br>Ms Maninder Kaur
-<br>Mr Vincent Huang</p>
+<br>Ms Maninder Kaur</p>
 </td>
 </tr>
 <tr>
