@@ -46,7 +46,8 @@ third_nav_title: Our Staff
 <p>P3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eleanor Tham - Leong Wei Wei
+<p>Mr Tan Hoe Tsong
+<br>Mrs Eleanor Tham - Leong Wei Wei
 <br>Mrs Chandra - Bhavani d/o Rajagopal</p>
 </td>
 </tr>
@@ -65,9 +66,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Li Ting
-<br>Mr Chen Baolai
-<br>Ms Nur Azlin Binte Mohamed Afendy <strong><em>(Sem 2)</em></strong>
-</p>
+<br>Ms Nur Azlin Binte Mohamed Afendy</p>
 </td>
 </tr>
 </tbody>
