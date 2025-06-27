@@ -18,8 +18,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ma Sen Loo Theresa
-<br>Mrs Khai - Siti Norhana Aris
-<br>Mr Feroz Muhamad Bin Noor Muhamad</p>
+<br>Mrs Khai - Siti Norhana Aris</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +37,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p>Mdm Zhong Xiuyuan Diana
 <br>Mr Muhammad Ridzuan Bin Osman
-<br>Mdm Liza Binti Ismail</p>
+<br>Mrs Wong Chiew Ming Grace</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +46,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm W.K.Vijitha Valerie Brampy
-<br>Ms Neo Sian Yin</p>
+<br>Ms Neo Sian Yin
+<br>Mdm Fang Qiongxia</p>
 </td>
 </tr>
 <tr>
@@ -83,8 +83,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hwee Ping Elsie
-<br>Mr Ng Junhao Gary
-<br>Miss Carina Chua Li Jun</p>
+<br>Mr Ng Junhao Gary</p>
 </td>
 </tr>
 <tr>
@@ -92,10 +91,8 @@ third_nav_title: Our Staff
 <p>P1-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Yuan Lin
-<br>Mr Low Deng Neng JIm
-<br>Mr Jaron Yap Jie Han / Mdm Liza Binti Ismail
-<br>Mrs Ho - Soh Wei Ying</p>
+<p>Mrs Ho - Soh Wei Ying
+<br>Mr Low Deng Neng JIm</p>
 </td>
 </tr>
 </tbody>
