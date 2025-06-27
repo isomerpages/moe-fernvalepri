@@ -410,7 +410,7 @@ third_nav_title: Our Staff
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Feng Yue</p>
+<p>Ms Feng Yue</p>
 </td>
 </tr>
 <tr>
