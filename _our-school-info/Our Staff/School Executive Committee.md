@@ -316,14 +316,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,10 +446,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Managers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Chiang</p>
+<p>Mr Alvin Chiang
+<br>Mr Lim Chee Hoa</p>
 </td>
 </tr>
 <tr>
