@@ -13,12 +13,12 @@ third_nav_title: Our Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Miss Sharlin Mattar</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,14 +66,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gupta</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tang Ser Yun</p>
 </td>
 </tr>
 <tr>
