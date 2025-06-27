@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norzahidah Juhari
-<br>Mrs Ho- Audrey Tan Lee Cheng</p>
+<br>Mrs Ho - Audrey Tan Lee Cheng</p>
 </td>
 </tr>
 <tr>
