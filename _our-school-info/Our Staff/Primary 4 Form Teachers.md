@@ -35,9 +35,8 @@ third_nav_title: Our Staff
 <p>P4-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julia Binte Mohamed Rahim
-<br>Mrs Ho- Audrey Tan Lee Cheng
-<br>Ms Norshahidah</p>
+<p>Ms Norzahidah Juhari
+<br>Mrs Ho - Audrey Tan Lee Cheng</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +72,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Xi Min Shermin
-<br>Mr Iskandar Alamin Bin Salleh
-<br>Mr Elvin Benjamin (April)</p>
+<br>Mr Iskandar Alamin Bin Salleh</p>
 </td>
 </tr>
 </tbody>

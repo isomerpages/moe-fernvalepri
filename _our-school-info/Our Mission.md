@@ -152,46 +152,14 @@ school and community.</p>
 <p>At Fernvale Primary School, we encourage our students to:
 <br>
 </p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Dare</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Aspire</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Courage</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Excel</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>By being brave, taking initiative, and always challenging their own limits.
-We want our students to.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>By setting big goals and dreaming grand dreams for what they want to achieve.
-We guide our students to cultivate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Through confidence and unwavering determination. We motivate our students
-to.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>By consistently seeking improvement, striving to do well in all areas,
-and gaining recognition for their efforts.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Dare to Aspire, Courage to Excel</strong>
+</p>
+<p>Our motto reflects the spirit we seek to nurture in every student — to
+be bold in setting meaningful goals, confident in taking the first step,
+and resilient in overcoming challenges. We believe in empowering our students
+to pursue their aspirations with purpose, to grow through effort and experience,
+and to strive for excellence in all that they do. Through this journey,
+they discover not only their strengths but also who they can become.
+<br>
+</p>
 <p></p>

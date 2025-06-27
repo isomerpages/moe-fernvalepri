@@ -15,7 +15,7 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>School Leaders</strong>
+<p><strong><u>School Leaders</u></strong>
 </p>
 </td>
 </tr>
@@ -134,14 +134,13 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>
-<br><strong>English Department</strong>
+<p><u><br></u><strong><u>English Department</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeyananthini d/o Jeyapal</p>
@@ -164,10 +163,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Shu Hui Jasmine</p>
+<p>Mrs Jasmine Lee</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +186,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Carina Chua</p>
@@ -226,7 +225,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Bhavani Chandra</p>
@@ -249,7 +248,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gavin Lee</p>
@@ -279,7 +278,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Huang Weijin Vincent</p>
@@ -302,7 +301,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Feroz Muhamad</p>
@@ -317,15 +316,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jaron Yap Jie Han</p>
@@ -419,7 +410,7 @@ third_nav_title: Our Staff
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Feng Yue</p>
+<p>Ms Feng Yue</p>
 </td>
 </tr>
 <tr>
@@ -455,10 +446,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Managers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Chiang</p>
+<p>Mr Alvin Chiang
+<br>Mr Lim Chee Hoa</p>
 </td>
 </tr>
 <tr>
