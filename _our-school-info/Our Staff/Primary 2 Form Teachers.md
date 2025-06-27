@@ -36,8 +36,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oliveiro Angeline Alison
-<br>Ms Poon Sook Fong Carolyn
-<br>Mdm Wee Chui Mei</p>
+<br>Ms Poon Sook Fong Carolyn</p>
 </td>
 </tr>
 <tr>
@@ -83,8 +82,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Nien Chern Juliana
-<br>Mdm Nur Hidayah Binte Eser
-<br>Mrs Ho - Soh Wei Ying</p>
+<br>Mdm Nur Hidayah Binte Eser</p>
 </td>
 </tr>
 </tbody>
