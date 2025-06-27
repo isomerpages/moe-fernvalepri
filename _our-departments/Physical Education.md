@@ -58,7 +58,7 @@ in teams, promoting cooperation, communication and teamwork. This games
 day is a valuable extension of PE lesson, providing a holistic approach
 to supporting physical social and emotional development.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2qOd4fV6wntBf8IPaZRiSLAbmIom7DLkAAdPEfmtiMIEoScA34P3YM4pJRgSICktkxDFwalbpuu5q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2qOd4fV6wntBf8IPaZRiSLAbmIom7DLkAAdPEfmtiMIEoScA34P3YM4pJRgSICktkxDFwalbpuu5q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Play @ Recess</strong>
 <br>Unstructured recess play provides students with an opportunity to engage
@@ -143,7 +143,7 @@ Students are provided with many opportunities to put on their thinking
 caps to solve problems and develop their leadership skills. This is one
 programme that everyone looks forward to every year.</p>
 <div class="iframe-wrapper">
-<iframe height="600" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfeQsbhCNg0w8MQkFB2qCidnMPFzKXPZekE2k69xCyl0uxm_bY48AhkVHOR4eyO3pMKxAH4PVNz5tK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfeQsbhCNg0w8MQkFB2qCidnMPFzKXPZekE2k69xCyl0uxm_bY48AhkVHOR4eyO3pMKxAH4PVNz5tK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Learn-To-Play Programme</strong>
 </p>
@@ -158,6 +158,6 @@ that students have a lot of fun and experience the joy of learning in a
 supportive and dynamic environment. Join us and discover the excitement
 of trying something new!</p>
 <div class="iframe-wrapper">
-<iframe height="600" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRltiRQgXK7vV1s7qSudUiUbJIm7c2m2XOlK6d8TgYcc_IW1MUCc9bb8luv6uanXRFWOXCY8_mfWxZo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRltiRQgXK7vV1s7qSudUiUbJIm7c2m2XOlK6d8TgYcc_IW1MUCc9bb8luv6uanXRFWOXCY8_mfWxZo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
