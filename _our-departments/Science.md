@@ -56,9 +56,6 @@ waste and promoting responsible consumption. Together, these opportunities
 nurtured critical thinking, encouraged responsible action, and inspired
 students to play a part in building a more sustainable future.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20departments/Science/food.png">
-</div>
 <h3><strong>Hydroponics Programme</strong></h3>
 <p>The Hydroponics Programme introduces students to sustainable farming by
 growing vegetables without soil. Through hands-on activities, they explore
@@ -79,9 +76,6 @@ to a more sustainable future.
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20departments/Science/energy.png">
-</div>
 <h3><strong>Urban Greening: Positive Impact on our Environment</strong></h3>
 <p>Primary 6 students embarked on learning journeys to Bishan-AMK Park, Pasir-Ris
 Mangrove Boardwalk, and the Singapore Botanic Gardens’ Rainforest to deepen
@@ -94,8 +88,7 @@ connections to Singapore’s future environmental challenges. These experiences
 nurtured environmental responsibility and strengthened students’ critical
 thinking, communication, and collaboration skills.</p>
 <h3><strong>Challenging our Young Inquirers</strong></h3>
-<p><strong>Science Excellence 2000 (E2K) Programme</strong>
-</p>
+<h4><strong>Science Excellence 2000 (E2K) Programme</strong></h4>
 <p>The E2K Science Programme provides selected Primary 4 and 5 students with
 opportunities to explore advanced scientific concepts through inquiry-based
 investigations. Students engage in open-ended tasks that develop critical
