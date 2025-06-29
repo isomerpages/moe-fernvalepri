@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our Approach</strong></h3>
-<p>The Science Department taps on students’ natural curiosity and adopts
+<p>At our Science Department, we tap on students’ natural curiosity and adopts
 an inquiry-based, student-centred approach in line with the Primary Science
 Curriculum Framework. Students construct their understanding of scientific
 concepts and develop process skills through hands-on exploration, guided
@@ -15,7 +15,6 @@ Through this process, they acquire not only scientific knowledge but also
 key process skills, ethics, and attitudes—such as perseverance, responsibility,
 and integrity—which are essential to the Practice of Science and lifelong
 learning.</p>
-<h3><strong>ScienceExperience @ FVPS</strong></h3>
 <h3><strong>Collaborative Inquiry</strong></h3>
 <p>Students take ownership of the inquiry process as they work together to
 plan and investigate ideas respectfully and evaluate their results to make
