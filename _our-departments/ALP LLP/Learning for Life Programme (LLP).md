@@ -9,10 +9,6 @@ variant: tiptap
 <p>The LLP aims to provide students with real-life experiences to develop
 character and values, cultivate positive attitudes, self-expression and
 strengthen their people skills.</p>
-<h2>Greenova - Innovation in our Green Efforts</h2>
-<p>Fernvale Primary’s Learning for Life Programme, Greenova, supports the
-learning of values and develops socio-emotional competencies in our students
-through our green efforts towards environment sustainability.</p>
 <h2>World Water Day Commemoration</h2>
 <p>In Fernvale Primary School, every year, we celebrate World Water Day in
 the month of March, to pledge our national commitment to water conservation.</p>
