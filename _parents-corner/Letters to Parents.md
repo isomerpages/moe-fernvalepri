@@ -81,6 +81,37 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 June 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 ANNOUNCEMENT</p>
+<p>1.1 School Achievement</p>
+<p>1.2 Staff Movement</p>
+<p></p>
+<p>2 SCHOOL CALENDAR, EVENTS AND PROGRAMMES</p>
+<p>2.1 School Events and Public/School Holidays</p>
+<p>2.2 School Programmes</p>
+<p>2.3 Kaleidoscope: Our Singக坡ra</p>
+<p>2.4 Academic Support for Primary 6 Students</p>
+<p></p>
+<p>3 PARTNERSHIP MATTERS</p>
+<p>3.1 Breakfast with School Management</p>
+<p></p>
+<p>4 SAFETY MATTERS</p>
+<p>4.1 Temperature-Taking Exercise</p>
+<p>4.2 School Attire</p>
+<p></p>
+<p>5 OPERATIONS AND ADMINISTRATIVE MATTERS</p>
+<p>5.1 Online Order of Class Photograph</p>
+<p>5.2 Clearance of Items in the Lost and Found Corner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2025_Letter_to_Parents___Term_3.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
