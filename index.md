@@ -34,20 +34,6 @@ sections:
           description: Access the Presentation Slides used at the recent webinar.
           linktext: Learn more
           url: https://docs.google.com/presentation/d/e/2PACX-1vSpdLSTfc-hPAIOwsY0SMouVJ9-Hqozst_92fGXRpj_XMeuI5fWq_YZzQHBY_Qidg/pub?start=true&loop=true&delayms=3000
-  - infopic:
-      title: Our E-Book
-      id: infopic
-      button: Read our students stories
-      url: https://go.gov.sg/sswc-2024
-      image: /images/Library/ourebook.jpg
-      alt: Image alt text
-  - infopic:
-      title: Fernvale Primary Storytelling
-      id: infopic
-      button: Watch our students in action
-      url: https://go.gov.sg/stc-2024
-      image: /images/Library/alaric.jpg
-      alt: Image alt text
   - infobar:
       title: Rays of Appreciation@FVPS
       id: infobar
