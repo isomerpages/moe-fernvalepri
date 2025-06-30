@@ -29,7 +29,7 @@ sections:
         Fernvale Primary School’s Learning for Life Programme and Applied
         Learning Programme.
       button: Find out more
-      url: https://www.fernvalepri.moe.edu.sg/alpllp/
+      url: /alp-llp/
       image: /images/LLP.jpg
       alt: Image alt text
   - textcards:
