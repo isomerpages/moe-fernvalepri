@@ -14,6 +14,16 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: Learning for Life and Applied Learning Programmes
+      id: infopic
+      description: C.A.R.E (Contributing Actively; Reimagining our Environment) is
+        Fernvale Primary School’s Learning for Life Programme and Applied
+        Learning Programme.
+      button: Find out more
+      url: https://www.fernvalepri.moe.edu.sg/alpllp/
+      image: /images/LLP.jpg
+      alt: Image alt text
+  - infopic:
       title: Open House 2025
       id: infopic
       description: Step into Fernvale Primary School's Open House and experience what
