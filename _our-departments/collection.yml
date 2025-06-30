@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - ALP LLP.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -17,6 +16,7 @@ collections:
       - CCE/NESS.md
       - Physical Education.md
       - Information and Communications Technology.md
+      - ALP LLP.md
       - ALP LLP/.keep
       - ALP LLP/Applied Learning and Learning for Life Programmes.md
       - ALP LLP/Learning for Life Programme (LLP).md
