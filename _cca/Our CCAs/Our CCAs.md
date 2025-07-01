@@ -17,44 +17,49 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><a href="/angklungkulintangensemble/" rel="noopener noreferrer nofollow" target="_blank">Angklung &amp; Kulingtang</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/art-club/" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
-</p>
+<th rowspan="1" colspan="4">
+<p>OUR CCAs</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/dance/" rel="noopener noreferrer nofollow" target="_blank">Dance</a>
+<p><a href="/angklungkulintangensemble/" rel="noopener nofollow" target="_blank">Angklung &amp; Kulingtang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/environmental-science/" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/CCA-Write-Ups-Photos-and-Videos/floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/badminton/" rel="noopener nofollow" target="_blank">Badminton</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guzheng/" rel="noopener noreferrer nofollow" target="_blank">Guzheng</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/basketball/" rel="noopener nofollow" target="_blank">Basketball</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guitar-ensemble/" rel="noopener noreferrer nofollow" target="_blank">Guitar Ensemble</a> 
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/dance/" rel="noopener nofollow" target="_blank">Dance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/dance/" rel="noopener nofollow" target="_blank">Environmental Science</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/floorball/" rel="noopener nofollow" target="_blank">Floorball</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guzheng/" rel="noopener nofollow" target="_blank">Guzheng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guitar-ensemble/" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +72,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/robotics/" rel="noopener nofollow" target="_blank">Robotics</a>
-<br>
 </p>
 </td>
 </tr>
