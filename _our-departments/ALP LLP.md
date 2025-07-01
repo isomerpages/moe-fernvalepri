@@ -9,11 +9,11 @@ our <strong>E</strong>nvironment) is Fernvale Primary School’s Learning
 for Life Programme (LLP) and Applied Learning Programme (ALP). It nurtures
 students to <em>C.A.R.E</em> for the community and environment. This is a
 cornerstone to becoming <strong>active citizens</strong>.</p>
-<p>In our LLP, <strong>C.A.R.E. </strong>help students to raise awareness
-on issues in our communities as they develop empathy and the drive in them
-to contribute actively. Their experiences interacting with stakeholders
-will help students demonstrate the school values actively as they serve
-the school &amp; communities. The efforts are:</p>
+<p>In our LLP, <strong>C.A.R.E. </strong>helps students raise their awareness
+on issues in our communities. They develop empathy and the drive in them
+to contribute actively. Their experiences with stakeholders will help students
+demonstrate our school values actively as they serve the school &amp; communities.
+The efforts are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Everyday Responsibilities: N.I.C.E. (Neat and Incredible, Clean and Excellent)</p>
@@ -25,13 +25,11 @@ the school &amp; communities. The efforts are:</p>
 <p>School-Wide VIA: Donation Drive</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Through our ALP,<strong> C.A.R.E.</strong> creates <strong>joyful learners</strong> working
-together. Students collaborate for school initiatives and think critically
-on environmental issues and generate novel ideas to solve them.&nbsp;The
-outreach engagements and Interdisciplinary Project Work programmes will
-enable students to explore ideas on ways to engage communities and eco-partners.
-The programmes include:</p>
+together to drive school initiatives. They think critically on environmental
+issues and generate novel ideas to solve them.&nbsp;The outreach engagements
+and Interdisciplinary Project Work programmes will enable students to engage
+communities and eco-partners. The programmes include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>P4 Interdisciplinary Project Work</p>
@@ -43,14 +41,13 @@ The programmes include:</p>
 <p>Partnership programmes with Social Enterprises</p>
 </li>
 </ul>
-<p></p>
 <p>To support the LLP and ALP, <strong>C.A.R.E.</strong> provides opportunities
 for students to be <strong>confident leaders</strong>. Student leaders display
-leadership qualities as they plan and lead their peers in school/community
-and environmental efforts. Student leaders lead their peers in these discussions
-to provide suggestions, facilitate conversations and plan meaningful activities
-together to connect with our school community and various stakeholders.
-Our leaders provide supports through the following structure:</p>
+leadership qualities through planning and leading their peers in school/community
+and environmental efforts. They facilitate in meaningful discussions, provide
+suggestions, and plan meaningful activities together to connect with our
+school community and various stakeholders. Our student leaders provide
+support through the following structure:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tier 1: Classroom Leaders</p>
