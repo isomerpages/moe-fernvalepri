@@ -49,20 +49,7 @@ over the heart.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>2.1.1
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p>2.1.1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Attendance is compulsory on school days and at all school functions unless
@@ -133,19 +120,7 @@ the student home.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>3.1.1
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p>3.1.1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are to wear the prescribed school uniform and modification to
