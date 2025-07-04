@@ -22,8 +22,6 @@ variant: markdown
 [Primary 6 Assessment Letter - Term 3](/files/Assessment/2025%20T3/2025_P6_Term_3_Assessment_Letter.pdf)
 
 
-
-
 <br>**Semester 1**<br>
 <br>**Term 2**<br>
 
