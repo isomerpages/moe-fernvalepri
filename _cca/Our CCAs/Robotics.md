@@ -5,22 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Our CCAs
 ---
-<h3><strong>Our Mission</strong></h3>
-<p>To inspire and equip students with programming and robotics skills through
-hands-on experience, fostering innovative thinking, teamwork, and problem-solving
-abilities in real-world scenarios.
-<br>
-</p>
-<h3><strong>Our Vision</strong></h3>
-<p>To nurture a community of young robotics enthusiasts who excel in STEM
-disciplines and confidently represent the school in national competitions,
-while developing essential 21st-century skills.</p>
-<h3><strong>Our Aim</strong></h3>
-<p>To provide members with opportunities to deepen their understanding of
-physics, mechanics, and programming beyond the standard curriculum, encouraging
-creativity, critical thinking, and collaboration
-<br>
-</p>
+<p>At Fernvale primary School, we are dedicated to <strong>inspiring and equipping students with essential programming and robotics skills</strong>.
+We believe in learning by doing, offering <strong>hands-on experiences</strong> that
+cultivate innovative thinking, teamwork, and practical problem-solving
+abilities crucial for real-world challenges.</p>
+<p>Our vision is to build a vibrant community of young robotics enthusiasts
+who not only <strong>excel in STEM disciplines</strong> but also confidently
+represent our school in <strong>national competitions</strong>. We're committed
+to developing vital <strong>21st-century skills</strong> that go beyond the
+classroom.</p>
+<p>We aim to provide unique opportunities for our members to <strong>deepen their understanding of physics, mechanics, and programming</strong>,
+extending beyond the standard curriculum. Through these experiences, we
+foster <strong>creativity, critical thinking, and collaboration</strong>,
+empowering students to become the innovators and problem-solvers of tomorrow.
+Join us to explore the exciting world of robotics!</p>
+<p></p>
 <h3><strong>Our Programme</strong></h3>
 <p>
 <br>Over the past many years, the Upper Primary Club members had engaged in
