@@ -5,14 +5,7 @@ description: ""
 third_nav_title: Our CCAs
 variant: markdown
 ---
-# Badminton
-### <b><u>Vision</u></b>
-
-A united team that&nbsp;grows,&nbsp;excels&nbsp;and&nbsp;inspires&nbsp;one another to be a better badminton player, and a better person
-
-### <b><u>Mission</u></b>
-
-“A Better Player, A Better Person”
+Our vision for badminton is to foster a united team where every member grows, excels, and inspires one another. We believe in developing not only better badminton players but also better people. This commitment to holistic growth is encapsulated in our mission: "A Better Player, A Better Person."
 
 ### <b><u>Session</u></b>
 
