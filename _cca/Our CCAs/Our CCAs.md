@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/robotics/" rel="noopener nofollow" target="_blank">Robotics</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/robotics/" rel="noopener nofollow" target="_blank">Robotics</a>
 </p>
 </td>
 </tr>
