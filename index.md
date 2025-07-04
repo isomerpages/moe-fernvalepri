@@ -14,15 +14,6 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: Open House 2025
-      id: infopic
-      description: Step into Fernvale Primary School's Open House and experience what
-        makes our school special!   Register by 27 June 2025!
-      button: Click here to register for the Open House!
-      url: https://go.gov.sg/fvpsopenhouse2025
-      image: /images/Open_Housev2.jpg
-      alt: Image alt text
-  - infopic:
       title: Learning for Life and Applied Learning Programmes
       id: infopic
       description: C.A.R.E (Contributing Actively; Reimagining our Environment) is
