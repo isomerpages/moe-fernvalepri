@@ -18,7 +18,8 @@ classroom.</p>
 extending beyond the standard curriculum. Through these experiences, we
 foster <strong>creativity, critical thinking, and collaboration</strong>,
 empowering students to become the innovators and problem-solvers of tomorrow.
-Join us to explore the exciting world of robotics!</p>
+<br>
+<br>Join us to explore the exciting world of robotics!</p>
 <p></p>
 <h3><strong>Our Programme</strong></h3>
 <p>
