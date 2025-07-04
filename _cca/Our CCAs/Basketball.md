@@ -5,16 +5,9 @@ description: ""
 third_nav_title: Our CCAs
 variant: markdown
 ---
-# Basketball
-### <u>Vision</u>
+Our Basketball CCA strives to be a passionate, dedicated team of unique individuals, committed to lifelong learning. Our mission is to inspire and guide students to achieve high proficiency in basketball skills.
 
-To be a passionate, dedicated and life-long learning team of unique individuals.  
-
-### <u> Mission</u>
-
-To inspire and help pupils to attain a higher level of proficiency of Basketball Skills through understanding and guidance by the coaches. 
-
-FVPS Basketball CCA comprises of school teams and trainees team. Our trainee team is made up of primary 4 to 6 pupils (boys &amp; girls) who are interested and passionate towards the game. The training sessions provide opportunities for pupils to maximize their true potential and promote their moral values of responsibilities, cooperation and resilience. Our school team is made up of players from the trainees group that are selected by the teachers and coaches. It is supported by teachers who emphasize on self-discipline and character development, in alignment to our school Values, for all Basketball CCA members.
+We have Trainee Teams (P4-6, boys &amp; girls) where players develop their potential and learn responsibility, cooperation, and resilience. The School Team, selected from trainees, focuses on strong character and self-discipline, aligned with our school values. Join us to grow as both a player and a person!
 
   
 ### <u><b> Session</b></u>
