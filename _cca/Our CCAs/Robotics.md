@@ -5,19 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Our CCAs
 ---
-<p>At Fernvale primary School, we are dedicated to <strong>inspiring and equipping students with essential programming and robotics skills</strong>.
-We believe in learning by doing, offering <strong>hands-on experiences</strong> that
-cultivate innovative thinking, teamwork, and practical problem-solving
-abilities crucial for real-world challenges.</p>
+<p>At Fernvale primary School, we are dedicated to inspiring and equipping
+students with essential programming and robotics skills. We believe in
+learning by doing, offering hands-on experiences that cultivate innovative
+thinking, teamwork, and practical problem-solving abilities crucial for
+real-world challenges.</p>
 <p>Our vision is to build a vibrant community of young robotics enthusiasts
-who not only <strong>excel in STEM disciplines</strong> but also confidently
-represent our school in <strong>national competitions</strong>. We're committed
-to developing vital <strong>21st-century skills</strong> that go beyond the
-classroom.</p>
-<p>We aim to provide unique opportunities for our members to <strong>deepen their understanding of physics, mechanics, and programming</strong>,
-extending beyond the standard curriculum. Through these experiences, we
-foster <strong>creativity, critical thinking, and collaboration</strong>,
-empowering students to become the innovators and problem-solvers of tomorrow.
+who not only excel in STEM disciplines but also confidently represent our
+school in national competitions. We're committed to developing vital 21st-century
+skills that go beyond the classroom.</p>
+<p>We aim to provide unique opportunities for our members to deepen their
+understanding of physics, mechanics, and programming, extending beyond
+the standard curriculum. Through these experiences, we foster creativity,
+critical thinking, and collaboration, empowering students to become the
+innovators and problem-solvers of tomorrow.
 <br>
 <br>Join us to explore the exciting world of robotics!</p>
 <p></p>
