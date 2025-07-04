@@ -5,24 +5,15 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
-<h1>Wushu</h1>
-<h3><u>Vision</u></h3>
-<p>Every Pupil to be confident and courageous individual</p>
-<h3><u>Mission</u></h3>
-<p>To inspire interested pupils to gain a better understanding and appreciation
-towards Wushu and Chinese culture</p>
-<p>Wushu is considered a “performing sport”, consisting elements that are
-characteristic to both the sports and performing arts. Wushu is derived
-from Chinese martial arts and it teaches “Wu De”（武德）, which is the martial
-code of conduct. Learners and practitioners of Wushu are expected to display
-excellence in their moral character and to uphold integrity and moral courage
-at all times. Wushu improves one’s flexibility, speed, strength, coordination
-and endurance. It also instils discipline and respect for others and for
-oneself. Unlike any other contact sport, Wushu is considered relatively
-safe due to its performance nature. It is gaining popularity nationwide
-as more parents and students are coming to recognize the benefits that
-learning Wushu could reap, be in terms of health or character development.It
-is truly an emerging sport to be enjoyed by all students.</p>
+<p>Our vision for Wushu is for every student to become a confident and courageous
+individual. Our mission is to inspire students to understand and appreciate
+Wushu and Chinese culture.</p>
+<p>Wushu is a "performing sport" rooted in Chinese martial arts, emphasizing
+"Wu De" (martial code of conduct), which promotes integrity and moral courage.
+Learning Wushu enhances physical attributes like flexibility, speed, strength,
+coordination, and endurance, while also instilling discipline and respect.
+It's a safe and emerging sport, offering significant benefits for both
+health and character development.</p>
 <h3><strong><u>Sessions</u></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
