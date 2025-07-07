@@ -201,8 +201,7 @@ are not allowed.</p>
 <td rowspan="1" colspan="1">
 <p>Girls’ hair, if shoulder-length or longer, must be neatly tied up. The
 fringe, if below the eyebrows, must be neatly pinned up. Only black or
-dark green ribbons and hairpins</p>
-<p>are allowed.</p>
+dark green ribbons and hairpins are allowed.</p>
 </td>
 </tr>
 <tr>
@@ -218,8 +217,7 @@ dark green ribbons and hairpins</p>
 <p>3.2.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fingernails must be kept clean and short without any nail</p>
-<p>polish.</p>
+<p>Fingernails must be kept clean and short without any nail polish.</p>
 </td>
 </tr>
 <tr>
@@ -284,8 +282,7 @@ given consent.</p>
 <td rowspan="1" colspan="1">
 <p>All students are not allowed to have in their possession any weapon. They
 are also not allowed to bring any weaponlike item which is used or intended
-to be used to cause</p>
-<p>harm to others.</p>
+to be used to cause harm to others.</p>
 </td>
 </tr>
 <tr>
@@ -296,9 +293,9 @@ to be used to cause</p>
 <p>Students are not allowed to engage in repeated or persistent behaviours
 that have the intention to cause hurt, distress or humiliation towards
 others. This includes posting inappropriate content online that involves
-the school, students or staff of the school, such as derogatory or hurtful</p>
-<p>remarks.Students are to refrain from destroying, removing or in any</p>
-<p>way defacing school property.</p>
+the school, students or staff of the school, such as derogatory or hurtful
+remarks.Students are to refrain from destroying, removing or in any way
+defacing school property.</p>
 </td>
 </tr>
 <tr>
@@ -332,17 +329,17 @@ and accessories.</p>
 <p>4.2.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students are not to use smartphone and/or</p>
-<p>smartwatches^, during school hours including recess, CCA and after-school
-programmes (e.g. supplementary/ enrichment/remedial lessons). Students
-who bring such devices are to switch them off and to put them in lockers
-or school bags before school start time.</p>
+<p>Students are not to use smartphone and/or smartwatches^, during school
+hours including recess, CCA and after-school programmes (e.g. supplementary/
+enrichment/remedial lessons). Students who bring such devices are to switch
+them off and to put them in lockers or school bags before school start
+time.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>^Exclude non-telecommunication devices, e.g. POSB Smart Buddy</p>
-<p>Watch, which allows contactless payment in school.</p>
+<p><em>^Exclude non-telecommunication devices, e.g. POSB Smart Buddy Watch, which allows contactless payment in school.</em>
+</p>
 </td>
 </tr>
 <tr>
