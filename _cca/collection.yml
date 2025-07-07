@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - CCA Schedule 2025.md
       - CCA Charter, Philosophy and Goals.md
+      - CCA Schedule 2025.md
       - Our CCAs/.keep
       - Our CCAs/Our CCAs.md
       - Our CCAs/Angklung and Kulintang Ensemble.md
