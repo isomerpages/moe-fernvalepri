@@ -16,7 +16,6 @@ Singapore and understanding of our nation's realities.</p>
 <p>These experiences are enhanced by cohort learning journeys that provide
 authentic learning opportunities, while classroom discussions and performance
 tasks encourage critical thinking and individual sense-making.</p>
-<p></p>
 <p>This integrated approach nurtures students' sense of hope and will to
 act, transforming them into informed, concerned, and participative citizens
 who understand Singapore's journey and challenges. By connecting academic
