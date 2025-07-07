@@ -8,15 +8,18 @@ third_nav_title: CCE
 <p>Our school's comprehensive approach to Social Studies and National Education
 is designed to cultivate essential citizenship dispositions through meaningful
 integration of commemorative events, learning journeys, and structured
-discussions in both SS and FTGP lessons.</p>
-<p>Through carefully curated experiences during NE Commemorative Days (i.e.,
+discussions in both SS and FTGP lessons.
+<br>
+<br>Through carefully curated experiences during NE Commemorative Days (i.e.,
 Total Defence Day, International Friendship Day, Racial Harmony Day, and
 National Day celebrations, students develop a deep sense of belonging to
-Singapore and understanding of our nation's realities.</p>
-<p>These experiences are enhanced by cohort learning journeys that provide
+Singapore and understanding of our nation's realities.
+<br>
+<br>These experiences are enhanced by cohort learning journeys that provide
 authentic learning opportunities, while classroom discussions and performance
-tasks encourage critical thinking and individual sense-making.</p>
-<p>This integrated approach nurtures students' sense of hope and will to
+tasks encourage critical thinking and individual sense-making.
+<br>
+<br>This integrated approach nurtures students' sense of hope and will to
 act, transforming them into informed, concerned, and participative citizens
 who understand Singapore's journey and challenges. By connecting academic
 learning with real-world experiences, students develop not only the knowledge
