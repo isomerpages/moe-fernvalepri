@@ -4,8 +4,7 @@ permalink: /cca/cca-charter-philosophy-and-goals/
 description: ""
 variant: tiptap
 ---
-<p><strong>Our Philosophy and Goals</strong>
-</p>
+<h4><strong>Our Philosophy and Goals</strong></h4>
 <p>CCA is an integral part of our school’s effort to provide a holistic education
 for our pupils. At Fernvale Primary School, we believe that:
 <br><em>1.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Every Child is Important</em>
@@ -31,8 +30,7 @@ school,</p>
 <p>allow each and every child to maximize their potential.</p>
 </li>
 </ul>
-<p><strong>Approach &amp; Delivery</strong>
-</p>
+<h4><strong>Approach &amp; Delivery</strong></h4>
 <p>Values-education and development of Social-Emotional Competencies remain
 the key focus in our CCA delivery, on top of providing opportunities to
 acquire games and instruments-related skills sets.
@@ -49,8 +47,7 @@ inter-school carnivals and Zonal and National Inter-School competitions.
 for the child to perform or showcase their talents. This could come in
 the form of school assembly sessions, community programmes, representing
 the school in SYF judging or national and international performances.</p>
-<p><strong>Signing up for a CCA</strong>
-</p>
+<h4><strong>Signing up for a CCA</strong></h4>
 <p>At the Primary 3 level, all pupils will be given the opportunity to make
 their top 3 choices for CCA through our annual Online CCA Option Exercise.
 The pupils will then be informed of their allocated CCA through the CCA
@@ -66,12 +63,14 @@ manage and cope with the demands of school work and the physical requirements
 of participating in more than one CCA. The form teacher and CCA teachers-in-charge
 would communicate with the parents to affirm that.</p>
 <p>Once a pupil is allocated a CCA, the child is expected to fulfil their
-CCA commitment for the full academic year.&nbsp;<strong>Changing CCAs is also highly discouraged as commitment and dedication to a CCA is something we want to educate the pupils. Only in cases which warrant special attention will the school look into requests for change of CCAs.</strong>
+CCA commitment for the full academic year.&nbsp;
+<br><strong>Changing CCAs is also highly discouraged as commitment and dedication to a CCA is something we want to educate the pupils. Only in cases which warrant special attention will the school look into requests for change of CCAs.</strong>
 </p>
-<p><strong>Consent Forms</strong>
-</p>
-<p>Consent forms are issued by the CCA teachers on a per term basis.</p>
+<h4><strong>Consent Forms</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>Consent forms are issued by the CCA teachers on a per term basis.</p>
+</li>
 <li>
 <p>Attendance is compulsory at every CCA session.</p>
 </li>
@@ -88,10 +87,7 @@ or a letter from the parent is&nbsp;necessary.</p>
 the teachers-in-charge will call the parents to verify the pupil’s absence.</p>
 </li>
 </ul>
-<p><strong>Change of CCA (in cases which warrant attention)</strong>
-</p>
-<p><strong>Procedures for change of CCA</strong>
-</p>
+<h4><strong>Change of CCA (in cases which warrant attention)</strong><br><strong>Procedures for change of CCA</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Inform teachers from existing CCA. CCA teachers may call the parents to
@@ -115,6 +111,7 @@ year.</p>
 </li>
 </ol>
 <p>If a pupil’s attendance falls below 70% of the total number of sessions
-in a year, participation in the CCA would not be reflected.</p>
-<p>Parents could also notify the school through the General Office @ 6315
+in a year, participation in the CCA would not be reflected.
+<br>Parents could also notify the school through the General Office @ 6315
 3051 in cases of emergencies.</p>
+<p></p>
