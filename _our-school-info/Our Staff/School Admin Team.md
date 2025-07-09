@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<h3><strong>School Admin Team</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,27 +12,21 @@ third_nav_title: Our Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mr Chiang Teng Luan Alvin</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Operations Managers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Diane Tiu On Ki</p>
+<p>Mr Chiang Teng Luan
+<br>Mr Lim Chee Hoa</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administrative Managers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Mui Leng Catherine</p>
+<p>Miss Diane Tiu On Ki
+<br>Mdm Tan Mui Leng Catherine</p>
 </td>
 </tr>
 <tr>
