@@ -4,14 +4,18 @@ permalink: /our-departments/physical-education/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Physical Education</strong></h1>
-<h2><strong>Framework</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20departments/Physical%20Education/pe.png">
-</div>
-<h2><strong>Tagline</strong></h2>
-<p><strong>Better Yourself, Live Life Well!</strong>
-</p>
+<p>In our Physical Education (PE) Department, we aim to help students grow
+into active, confident, and resilient individuals. Through fun and meaningful
+physical activities, students learn important movement skills and are encouraged
+to live healthy, active lives.
+<br>
+<br>Our programme includes a wide range of sports, dance, and outdoor learning
+experiences. These activities help students build not only their physical
+strength, but also important values like teamwork, perseverance, and leadership.
+<br>
+<br>We believe in developing the whole child. Through engaging and well-planned
+lessons, we help students become joyful learners and responsible individuals
+who value health, fitness, and good sportsmanship in their daily lives.</p>
 <h2><strong>Signature Programmes</strong></h2>
 <p><strong>Inter-class Games</strong>
 <br>This annual sports event provide students the opportunity to participate

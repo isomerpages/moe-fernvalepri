@@ -4,7 +4,69 @@ permalink: /parents-corner/letters-to-parents/
 description: ""
 variant: tiptap
 ---
-<h1>Letters to Parents</h1>
+<h1></h1>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Letters to Parents</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Letter</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2025_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter to Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 March 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2025_30_Letter_to_Parents_Term_2.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 June 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2025_Letter_to_Parents___Term_3.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Assessment</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
