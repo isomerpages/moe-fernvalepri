@@ -60,120 +60,50 @@ variant: tiptap
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Semester 2</strong>
+<br>
+<br><strong>Term 3</strong>
+</p>
+<p></p>
+<p><a href="/files/Assessment/2025%20T3/2025_P2_Semester_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Letter - Term 3</a>
+</p>
+<p><a href="/files/Assessment/2025%20T3/2025_P3_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Letter - Term 3</a>
+</p>
+<p><a href="/files/Assessment/2025%20T3/2025_P4_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Letter - Term 3</a>
+</p>
+<p><a href="/files/Assessment/2025%20T3/2025_P5_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Letter - Term 3</a>
+</p>
+<p><a href="/files/Assessment/2025%20T3/2025_P6_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Letter - Term 3</a>
+</p>
+<p>
+<br><strong>Semester 1</strong>
+<br>
+<br><strong>Term 2</strong>
+</p>
+<p><a href="/files/Parents%20Corner/2025_P3_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Letter - Term 2</a>
+</p>
+<p><a href="/files/Parents%20Corner/2025_P4_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Letter - Term 2</a>
+</p>
+<p><a href="/files/Parents%20Corner/2025_P5_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Letter - Term 2</a>
+</p>
+<p><a href="/files/Parents%20Corner/2025_P6_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Letter - Term 2</a>
+</p>
+<p>
+<br><strong>Term 1</strong>
+</p>
+<p><a href="/files/Assessment/2025_P1_Semester_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Assessment Letter - Semester 1</a>
+</p>
+<p><a href="/files/Assessment/2025_P2_Semester_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Letter - Semester 1</a>
+</p>
+<p><a href="/files/Assessment/2025_P3_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Letter - Term 1</a>
+</p>
+<p><a href="/files/Assessment/2025_P4_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Letter - Term 1</a>
+</p>
+<p><a href="/files/Assessment/2025_P5_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Letter - Term 1</a>
+</p>
+<p><a href="/files/Assessment/2025_P6_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Letter - Term 1</a>
+</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Item</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Letter</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.1 Achievements</p>
-<p>1.2 Staff Movement</p>
-<p>2.1 Public/School Holidays</p>
-<p>2.2 School Programmes</p>
-<p>2.3 Start It Right (SIR) Programme</p>
-<p>3.1 Student Attendance</p>
-<p>3.2 School Attire</p>
-<p>3.3 Use of Smartphones / Smartwatches in School</p>
-<p>4.1 Home-School Partnership</p>
-<p>4.2 Communication with Parents</p>
-<p>5.1 School Dismissal Timing</p>
-<p>5.2 School Recess Timing</p>
-<p>5.3 Arrival and Dismissal Arrangements</p>
-<p>5.4 Temperature-Taking Exercise</p>
-<p>6.1 Photograph-Taking Session for School Smart Card (SSC)</p>
-<p>6.2 Annual School Health Visit</p>
-<p>6.3 Updating of Emergency Contact and Medical Information</p>
-<p>6.4 Transport Arrangement for After-School Programmes and CCAs</p>
-<p>6.5 Revision of Canteen Prices</p>
-<p>6.6 Student Protection Plan</p>
-<p>6.7 Use of Videos and Photograph</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter to Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 March 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 ANNOUNCEMENTS</p>
-<p>1.1 Staff Movement</p>
-<p>&nbsp;</p>
-<p>2 SCHOOL CALENDAR, EVENTS AND PROGRAMMES</p>
-<p>2.1 School Events and Public/School Holidays</p>
-<p>2.2 School Programmes</p>
-<p>2.3 Learning for Life Programme (LLP)</p>
-<p>2.4 Applied Learning Programme (ALP)</p>
-<p>2.5 Internationalisation Programme</p>
-<p>&nbsp;</p>
-<p>3 PARTNERSHIP WITH PARENTS</p>
-<p>3.1 Breakfast with School Management</p>
-<p>&nbsp;</p>
-<p>4 ADMINISTRATIVE MATTERS</p>
-<p>4.1 Class Photo-Taking Session (14-15 May 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_30_Letter_to_Parents_Term_2.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 June 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 ANNOUNCEMENT</p>
-<p>1.1 School Achievement</p>
-<p>1.2 Staff Movement</p>
-<p></p>
-<p>2 SCHOOL CALENDAR, EVENTS AND PROGRAMMES</p>
-<p>2.1 School Events and Public/School Holidays</p>
-<p>2.2 School Programmes</p>
-<p>2.3 Kaleidoscope: Our Singக坡ra</p>
-<p>2.4 Academic Support for Primary 6 Students</p>
-<p></p>
-<p>3 PARTNERSHIP MATTERS</p>
-<p>3.1 Breakfast with School Management</p>
-<p></p>
-<p>4 SAFETY MATTERS</p>
-<p>4.1 Temperature-Taking Exercise</p>
-<p>4.2 School Attire</p>
-<p></p>
-<p>5 OPERATIONS AND ADMINISTRATIVE MATTERS</p>
-<p>5.1 Online Order of Class Photograph</p>
-<p>5.2 Clearance of Items in the Lost and Found Corner</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_Letter_to_Parents___Term_3.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
