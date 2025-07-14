@@ -32,6 +32,28 @@ Micro:bit, and others. Guided by experienced trainers, students participate
 in team-based problem-solving tasks and prepare for competitions like the
 National Robotics Programming Competition and other National Hackathon
 competitions.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Robotics/2023_Most_Innovative_and_Creative_Award___Fernvale_Primary_School.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Robotics/Pei_Hwa_Hackathon_2024.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3><strong>Our Training</strong></h3>
 <p><strong>Club training is planned and designed to build students' technical skills, critical thinking, and teamwork progressively across the year, as follows:</strong>
@@ -242,28 +264,6 @@ platforms have provided our students with meaningful opportunities to apply
 their knowledge, sharpen their problem-solving skills, and showcase their
 creativity. Such exposure has helped our members grow in confidence and
 brought out the best in them, beyond the classroom.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Robotics/2023_Most_Innovative_and_Creative_Award___Fernvale_Primary_School.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Robotics/Pei_Hwa_Hackathon_2024.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h3><strong>Achievements</strong></h3>
 <p>The FVPS Robotics Club has consistently performed well in national arenas,
 garnering recognition for its innovation and excellence:</p>
@@ -286,7 +286,4 @@ with medals and <strong>$500 seed funding</strong> in the NTC Finals</p>
 </ul>
 <p>These accolades reflect the hard work, passion, and ingenuity of our students,
 as well as the strong mentorship within the CCA.</p>
-<div class="iframe-wrapper">
-<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6QWe5m332bTX_mXiuyc4_g8lpHO_s2nDKQ6Y6zs0VVvS8dtzz9Ypn2Fgwpzqz_UEoEEhBDKyG7uER/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
