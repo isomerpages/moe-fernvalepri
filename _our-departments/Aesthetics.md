@@ -25,19 +25,59 @@ through music-making</p>
 <h4><strong>Signature Programmes</strong></h4>
 <p>Our Music Department offers a range of engaging and enriching experiences
 to deepen students’ musical journey:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Kaleidoscope </strong>
-<br>A celebration of the arts and languages that showcases our students’ talents
-and creativity.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Let’s Appreciate Ukulele&nbsp;</strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>What it is about?</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kaleidoscope</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A celebration of the arts and languages that showcases our students’ talents
+and creativity.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Let’s Appreciate Ukulele</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>A hands-on programme introducing students to basic ukulele skills and
-performance.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp; Let’s Appreciate Digital Music</strong>&nbsp;
-<br>Encourages exploration of music creation using digital tools and technology.</p>
-<p>●&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp; LEAP Programme (Post-PSLE)</strong>&nbsp;
-<br>A special post-examination programme that extends students’ exposure to
+performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Let’s Appreciate Digital Music</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Encourages exploration of music creation using digital tools and technology.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong> LEAP Programme (Post-PSLE)</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A special post-examination programme that extends students’ exposure to
 music in fun and meaningful ways.</p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Art</strong></h4>
 <p>At Fernvale Primary, every student is an active artist and an informed
 audience. They find joy in creating art and engaging in meaningful conversations
