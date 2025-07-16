@@ -46,9 +46,8 @@ for their Mother Tongue.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -57,13 +56,7 @@ for their Mother Tongue.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our departments/Mother Tongue Language/D2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our departments/Mother Tongue Language/cny3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Mother Tongue Language/tamil4.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -72,28 +65,6 @@ for their Mother Tongue.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our departments/Mother Tongue Language/read3.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
