@@ -69,7 +69,7 @@ performance</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> LEAP Programme (Post-PSLE)</strong>&nbsp;</p>
+<p><strong>LEAP Programme (Post-PSLE)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A special post-examination programme that extends students’ exposure to
