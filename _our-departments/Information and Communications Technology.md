@@ -14,4 +14,3 @@ This is achieved through:
 * **Enhanced Communication and Collaboration:** By leveraging diverse digital platforms, students are enabled to communicate their ideas with clarity and connect meaningfully with their peers, fostering a collaborative learning atmosphere and promoting a deeper understanding of subject matter.
 
 * **Cultivation of Digital Citizenship:** Crucially, our students receive education on positive online behaviors and develop an awareness of how to protect themselves in the digital space.
-
