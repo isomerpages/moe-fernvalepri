@@ -15,8 +15,3 @@ This is achieved through:
 
 * **Cultivation of Digital Citizenship:** Crucially, our students receive education on positive online behaviors and develop an awareness of how to protect themselves in the digital space.
 
-<b>Using Digital Devices for Teaching and Learning</b>
-
-The evolution of Information and Communication Technology(ICT) necessitates new forms of pedagogy in education. Leveraging the myriad affordances of ICT, Fernvale Primary has adopted mobile teaching and learning tools to enhance lessons, language proficiencies. We have equipped our classes with more than 300 iPads and close to 100 brand new laptops. Technology-rich activities can sustain high levels of student engagement and peer collaboration. 
-![](/images/Our%20departments/Website%20ICT.jpg)
-
