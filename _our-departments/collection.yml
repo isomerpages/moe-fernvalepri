@@ -2,8 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - 21CC/ALP LLP.md
-      - 21CC/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -15,3 +13,5 @@ collections:
       - CCE/NESS.md
       - Physical Education.md
       - Information and Communications Technology.md
+      - 21CC/.keep
+      - 21CC/ALP LLP.md
