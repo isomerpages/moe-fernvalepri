@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4-Graciousnesss</p>
+<p>P4-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lau Peng Sheng
