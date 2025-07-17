@@ -19,6 +19,9 @@ learning.</p>
 <p>Students take ownership of the inquiry process as they work together to
 plan and investigate ideas respectfully and evaluate their results to make
 a conclusion.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Science/P4_Light.jpg">
+</div>
 <h3><strong>Joy of Learning</strong></h3>
 <p>The teaching and learning of Science go beyond the classroom, providing
 students with opportunities to engage in authentic, real-world tasks. Learning
@@ -128,4 +131,5 @@ foster a love for science while nurturing teamwork, perseverance, and innovation
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
