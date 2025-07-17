@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1-Graciousnesss</p>
+<p>P1-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm V Sulaja
