@@ -21,4 +21,7 @@ The efforts are:</p>
 <p>School-Wide VIA: Donation Drive</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRekjuHqMDQMHPIVVr-Ys-H1MEBDst2NRui7JxPtSoy1042lac9aWbpSTlX38-QdownMkpXjoyOYxy/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
