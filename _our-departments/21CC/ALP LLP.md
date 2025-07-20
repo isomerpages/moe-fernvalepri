@@ -10,22 +10,7 @@ our <strong>E</strong>nvironment) is Fernvale Primary School’s Learning
 for Life Programme (LLP) and Applied Learning Programme (ALP). It nurtures
 students to <em>C.A.R.E</em> for the community and environment. This is a
 cornerstone to becoming <strong>active citizens</strong>.</p>
-<p>In our LLP, <strong>C.A.R.E. </strong>helps students raise their awareness
-on issues in our communities. They develop empathy and the drive in them
-to contribute actively. Their experiences with stakeholders will help students
-demonstrate our school values actively as they serve the school &amp; communities.
-The efforts are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Everyday Responsibilities: N.I.C.E. (Neat and Incredible, Clean and Excellent)</p>
-</li>
-<li>
-<p>Cohort VIA: Engagement with community</p>
-</li>
-<li>
-<p>School-Wide VIA: Donation Drive</p>
-</li>
-</ul>
+<p></p>
 <p>Through our ALP,<strong> C.A.R.E.</strong> creates <strong>joyful learners</strong> working
 together to drive school initiatives. They think critically on environmental
 issues and generate novel ideas to solve them.&nbsp;The outreach engagements
