@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2-Graciousnesss</p>
+<p>P2-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chong - Loh Swee Ling

@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6-Graciousnesss</p>
+<p>P6-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ang - Choo Sok Ee Eunice

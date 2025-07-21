@@ -5,28 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Our Mission</strong></h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Nurturing passion for learning</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The school's efforts in helping students to develop and be successful.
-<br>Fernvale students having the love and joy of wanting to learn.</p>
 </td>
 </tr>
 <tr>
@@ -34,21 +21,11 @@ variant: tiptap
 <p><strong>Developing diverse talents</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Our Fernvale staff encourages the growth of our students' talents.
-<br>A wide range of special abilities and aptitude of our student.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Fostering hearts to serve</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our Fernvale staff encourage the development of something
-<br>desirable in our students.
-<br>Fernvale collective effort to render help to others who are in need, sharing
-love and developing the Singapore spirit.</p>
 </td>
 </tr>
 </tbody>
@@ -61,22 +38,10 @@ advancements in technology, globalization and emerging societal trends.</p>
 <p>As such, the school seeks to nurture <strong>Global Learners of Tomorrow</strong> (GLT)
 through a future-focused and holistic education that prepares them for
 work and challenges of tomorrow.&nbsp;&nbsp;&nbsp;</p>
-<p>GLT have the:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Knowledge (Head)</strong>
-</p>
-</li>
-<li>
-<p><strong>Values (Heart)</strong>
-</p>
-</li>
-<li>
-<p><strong>Skills (Hands)</strong>
-</p>
-</li>
-</ul>
-<p>To flourish in an increasingly complex and dynamic world.</p>
+<h4><strong>Global Learners of Tomorrow (GLT)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our school info/GLT.png">
+</div>
 <h2><strong>Our Values - GIR<sup>3</sup> C</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
