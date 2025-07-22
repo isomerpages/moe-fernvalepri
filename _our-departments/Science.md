@@ -4,7 +4,6 @@ permalink: /our-departments/science/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Our Approach</strong></h3>
 <p>At our Science Department, we tap on students’ natural curiosity and adopts
 an inquiry-based, student-centred approach in line with the Primary Science
 Curriculum Framework. Students construct their understanding of scientific
