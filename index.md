@@ -20,7 +20,7 @@ sections:
         Fernvale Primary School’s Learning for Life Programme and Applied
         Learning Programme.
       button: Find out more
-      url: /alp-llp/
+      url: /alp/
       image: /images/LLP.jpg
       alt: Image alt text
   - infobar:
