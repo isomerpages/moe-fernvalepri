@@ -2,6 +2,7 @@
 title: Our Crest
 permalink: /our-school-info/our-crest/
 description: ""
+variant: markdown
 ---
 # Our Crest
 
@@ -9,7 +10,7 @@ description: ""
  
 The stylized letters F and V that form the integral part of the school’s logo when put together represent the cross section of a fearless head of a lion.
 
-Courageous, bold and strong being the trademarks of a lion, it also symbolises the spirit of Fernvale Primary – “Daring and Courageous”.
+Courageous, bold and strong being the trademarks of a lion, it also symbolises the spirit of Fernvale Primary –&nbsp;“Daring and Courageous”.
 
 Encircling the stylized letters is a solid ring that signifies an all-round, holistic education that Fernvale Primary offers to every student. Enhancing that holistic feel is the use of the colour green to communicate a “nurturing” feel.
 
@@ -19,10 +20,10 @@ Encircling the stylized letters is a solid ring that signifies an all-round, hol
 At the end of primary school, pupils should:  
 
 * Be able to distinguish right from wrong
-* Have learnt to share and put others first
-* Be able to build friendships with others
-* Have a lively curiosity about things
-* Be able to think for and express themselves
+* Know their strengths and areas for growth
+* Be able to cooperate, share and care for others
+* Have a lively curiosity about their surroundings
+* Be able to think for and express themselves confidently
 * Take pride in their work
-* Have cultivated healthy habits
-* Love Singapore
+* Have healthy habits and an awareness of the arts
+* Know and Love Singapore
