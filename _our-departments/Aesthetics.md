@@ -91,53 +91,9 @@ ownership of their learning, embracing challenges, and expressing their
 ideas through purposeful art making. They develop a deep appreciation for
 local and international artists and artworks, growing in graciousness,
 respect, and care for diverse perspectives, cultures, and communities.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Aesthetics/1.jpg">
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvS6Mgu4xDiU5GNA5-UCSemefAVsUBu7E9zDqTSIRNSwTPLJIgm0Iq8Wzl6AE9IBBGdZ_w_of9Ldzq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Aesthetics/2.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Aesthetics/3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Aesthetics/4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our departments/Aesthetics/5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
