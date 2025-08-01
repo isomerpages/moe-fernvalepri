@@ -78,6 +78,10 @@ music in fun and meaningful ways.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUeW9inew07Ltfv3DsMJonPBA2anQFBcOsOBFlqDbim1Anr0N1k17b3FXlDpJCt_LYHJEMmkyuZEj5/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Art</strong></h4>
 <p>At Fernvale Primary, every student is an active artist and an informed
 audience. They find joy in creating art and engaging in meaningful conversations
@@ -87,6 +91,10 @@ ownership of their learning, embracing challenges, and expressing their
 ideas through purposeful art making. They develop a deep appreciation for
 local and international artists and artworks, growing in graciousness,
 respect, and care for diverse perspectives, cultures, and communities.</p>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvS6Mgu4xDiU5GNA5-UCSemefAVsUBu7E9zDqTSIRNSwTPLJIgm0Iq8Wzl6AE9IBBGdZ_w_of9Ldzq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
