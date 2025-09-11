@@ -32,7 +32,7 @@ The Short Story Writing Competition was launched in 2023 to complete the cycle f
 #### **Level/Class Reading Competition**
 The Level/Class Reading Competition is a vibrant celebration of literacy and imagination, catering to students of all reading abilities. From picture books to chapter novels, every student has the chance to participate and shine, fostering essential skills like comprehension and critical thinking. As students immerse themselves in captivating stories, they not only sharpen their minds but also build camaraderie through shared experiences and a shared love for literature.
 
-Below are the winners for the Level/Class Reading Competition 2024 for Semester 1 and 2.
+Below are the winners for the Level/Class Reading Competition 2025 for Semester 1 and 2.
 
 <div style="text-align: center;">
     <table style="border-collapse: collapse;width:379pt; border-color: black; margin: 0 auto;" width="505" cellspacing="0" cellpadding="0" border="3">
@@ -42,12 +42,12 @@ Below are the winners for the Level/Class Reading Competition 2024 for Semester 
         </colgroup>
         <tbody>
             <tr style="mso-height-source:userset;height:24.95pt; text-align: center; background-color: #add8e6;" height="33">
-                <td style="height:49.9pt;width:161pt; text-align: center; vertical-align: middle; border: 3px solid black; font-weight: bold; background-color: #add8e6;" width="215" height="66" rowspan="2">Level Reading<br>Competition 2024</td>
+                <td style="height:49.9pt;width:161pt; text-align: center; vertical-align: middle; border: 3px solid black; font-weight: bold; background-color: #add8e6;" width="215" height="66" rowspan="2">Level Reading<br>Competition 2025</td>
                 <td style="border-left:none;width:109pt; text-align: center; border: 3px solid black; font-weight: bold; background-color: #add8e6;" width="145">Semester 1</td>
                 <td style="border-left:none;width:109pt; text-align: center; border: 3px solid black; font-weight: bold; background-color: #add8e6;" width="145">Semester 2</td>
             </tr>
             <tr style="mso-height-source:userset;height:24.95pt; text-align: center;" height="33">
-                <td style="height:24.95pt;border-top:none;border-left:none; text-align: center; border: 3px solid black;" height="33">Primary 4</td>
+                <td style="height:24.95pt;border-top:none;border-left:none; text-align: center; border: 3px solid black;" height="33">Primary 2</td>
                 <td style="border-top:none;border-left:none; text-align: center; border: 3px solid black;">Primary 2</td>
             </tr>
         </tbody>
@@ -62,39 +62,39 @@ Below are the winners for the Level/Class Reading Competition 2024 for Semester 
         </colgroup>
         <tbody>
             <tr style="mso-height-source:userset; height:39.95pt; text-align: center; background-color: #add8e6;" height="53">
-                <td style="height:39.95pt; width:161pt; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="53">Class Reading<br>Competition 2024</td>
+                <td style="height:39.95pt; width:161pt; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="53">Class Reading<br>Competition 2025</td>
                 <td style="border-left:none; width:135pt; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="180">Semester 1</td>
                 <td style="border-left:none; width:135pt; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="180">Semester 2</td>
             </tr>
             <tr style="mso-height-source:userset; height:24.95pt; text-align: center;" height="33">
                 <td style="height:24.95pt; width:161pt; border-top:none; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="33">Primary 1</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
                 <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Resilience</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
             </tr>
             <tr style="mso-height-source:userset; height:24.95pt; text-align: center;" height="33">
                 <td style="height:24.95pt; width:161pt; border-top:none; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="33">Primary 2</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Joy</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Joy</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
             </tr>
             <tr style="mso-height-source:userset; height:24.95pt; text-align: center;" height="33">
                 <td style="height:24.95pt; width:161pt; border-top:none; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="33">Primary 3</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Resilience</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Resilience</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Graciousness</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
             </tr>
             <tr style="mso-height-source:userset; height:24.95pt; text-align: center;" height="33">
                 <td style="height:24.95pt; width:161pt; border-top:none; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="33">Primary 4</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Joy</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Joy</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Integrity</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
             </tr>
             <tr style="mso-height-source:userset; height:24.95pt; text-align: center;" height="33">
                 <td style="height:24.95pt; width:161pt; border-top:none; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="33">Primary 5</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Graciousness</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Graciousness</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Resilience</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
             </tr>
             <tr style="mso-height-source:userset; height:24.95pt; text-align: center;" height="33">
                 <td style="height:24.95pt; width:161pt; border-top:none; border: 3px solid black; text-align: center; vertical-align: middle; font-weight: bold; background-color: #add8e6;" width="215" height="33">Primary 6</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Responsibility</td>
-                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Integrity</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Graciousness</td>
+                <td style="border-top:none; border-left:none; border: 3px solid black; text-align: center; vertical-align: middle;">Graciousness</td>
             </tr>
         </tbody>
     </table>
