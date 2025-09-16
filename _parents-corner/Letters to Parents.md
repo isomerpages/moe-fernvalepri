@@ -10,6 +10,7 @@ variant: tiptap
 <summary><strong>Letters to Parents</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
