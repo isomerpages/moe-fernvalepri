@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://heyzine.com/flip-book/856ddd7c08.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025 Fernvale Times 3" src="/images/Parents Corner/FV3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Fernvale Times 3</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click HERE for 2025 Fernvale Times 3</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://heyzine.com/flip-book/856ddd7c08.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025 Fernvale Times 3" src="/images/Parents Corner/FV3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Fernvale Times 3</div><div class="isomer-card-description">The access to 2025 Fernvale Times 3 is in the link below.</div><div class="isomer-card-link">Click HERE for 2025 Fernvale Times 3</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/ft2fvps2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
