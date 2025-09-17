@@ -57,31 +57,43 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/856ddd7c08.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV3.png"></a>
+<p></p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/57174b2a80.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV2_2025.png"></a>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/ba809ef96a.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV1_2025.png"></a>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/897d9ab3f2.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV4_2024.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T4_2024.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/2a5cc5ead3.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV3_2024.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T3_2024.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/e885744808.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV2_2024.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T2_2024.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/897d9ab3f2.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV1_2024.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T1_2024.png">
+</div>
 </td>
 </tr>
 </tbody>
