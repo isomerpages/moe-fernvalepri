@@ -21,11 +21,11 @@ The Short Story Writing Competition was launched in 2023 to complete the cycle f
   
 <div style="display: flex; justify-content: center; gap: 60px;">
   <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2023">
-    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/1a1705e263.jpg">
+    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/795db5fac3.jpg">
   </a>
 
   <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2024">
-    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/6abc7e7e54.jpg">
+    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/38c85661cb.jpg">
   </a>
 </div>
 
