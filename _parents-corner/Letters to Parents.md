@@ -73,11 +73,11 @@ variant: tiptap
 <p><strong>Semester 2</strong>
 <br>
 <br><strong>Term 4</strong>
+<br><a href="/files/Parents Corner/Assessment Matters/2025_Primary_3_End_of_Year_Oral_Examination_.pdf" rel="noopener nofollow" target="_blank">2025 Primary 3 End of Year Oral Examination</a>
+<br><a href="/files/Parents Corner/Assessment Matters/2025_Primary_5_End_of_Year_Oral_examination.pdf" rel="noopener nofollow" target="_blank">2025 Primary 5 End of Year Oral Examination</a>
 <br><a href="/files/Parents Corner/Letters to Parents/2025_P3_Term_4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 3 Assessment Letter - Term 4</a>
 <br><a href="/files/Parents Corner/Letters to Parents/2025_P4_Term_4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 4 Assessment Letter - Term 4</a>
 <br><a href="/files/Parents Corner/Letters to Parents/2025_P5_Term_4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 5 Assessment Letter - Term 4</a>
-<br><a href="/files/Parents Corner/Assessment Matters/2025_Primary_3_End_of_Year_Oral_Examination_.pdf" rel="noopener nofollow" target="_blank">2025 Primary 3 End of Year Oral Examination</a>
-<br><a href="/files/Parents Corner/Assessment Matters/2025_Primary_5_End_of_Year_Oral_examination.pdf" rel="noopener nofollow" target="_blank">2025 Primary 5 End of Year Oral Examination</a>
 <br>
 <br><strong>Term 3</strong>
 </p>
