@@ -18,14 +18,18 @@ Congratulations to all students whose performances were selected last year! Do v
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen ⇨ Read ⇨ Speak ⇨ Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories were selected last year! Do read their creative work in the Flipbook below.
 ![](/images/Library/SSWC_Collage.jpg)
-  
-<div style="display: flex; justify-content: center; gap: 60px;">
-  <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2023">
-    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/795db5fac3.jpg">
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a class="heyzine-link fp-link" target="_blank" href="https://go.gov.sg/sswc-2023">
+    <img style="border: 1px solid lightgray; box-shadow: 0 0 4px 1px lightgray; width: 250px;" alt="SSWC 2023" src="https://cdnc.heyzine.com/flip-book/cover/795db5fac3.jpg">
   </a>
 
-  <a class="heyzine-link fp-link" target="_BLANK" href="https://go.gov.sg/sswc-2024">
-    <img style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; width: 250px;" class="fp-thumb-play" src="https://cdnc.heyzine.com/flip-book/cover/38c85661cb.jpg">
+  <a class="heyzine-link fp-link" target="_blank" href="https://go.gov.sg/sswc-2024">
+    <img style="border: 1px solid lightgray; box-shadow: 0 0 4px 1px lightgray; width: 250px;" alt="SSWC 2024" src="https://cdnc.heyzine.com/flip-book/cover/38c85661cb.jpg">
+  </a>
+	
+  <a class="heyzine-link fp-link" target="_blank" href="https://go.gov.sg/sswc-2025">
+    <img style="border: 1px solid lightgray; box-shadow: 0 0 4px 1px lightgray; width: 250px;" alt="SSWC 2025" src="https://cdnc.heyzine.com/flip-book/cover/40d6c32f7013.jpg">
   </a>
 </div>
 
