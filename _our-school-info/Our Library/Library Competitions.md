@@ -24,7 +24,7 @@ This year our students had more exciting stories to tell. Congratulations to all
 </div>
 
 #### **Short Story Writing Competition**
-The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen ⇨ Read ⇨ Speak ⇨ Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories were selected last year! Do read their creative work in the Flipbook below.
+The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen ⇨ Read ⇨ Speak ⇨ Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories were selected this year! Do read their creative work in the Flipbooks below.
 ![](/images/Library/SSWC_Collage.jpg)
 
 <div style="display: flex; justify-content: center; gap: 20px;">
