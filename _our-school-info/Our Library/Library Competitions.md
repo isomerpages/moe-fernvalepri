@@ -10,10 +10,18 @@ The Storytelling Competition launched in 2024 for Primary 1 and Primary 2 studen
 
 Throughout the competition, students are encouraged to craft engaging narratives, captivate their audience, and effectively convey their stories. Emphasis is placed not only on the content of the stories but also on the delivery and presentation skills demonstrated by the students. 
 
-Congratulations to all students whose performances were selected last year! Do view their creative work in our YouTube channel through the link below.
+This year our students had more exciting stories to tell. Congratulations to all students whose performances have been selected this year! Do view their creative work in our YouTube channel through the links below.
 ![](/images/Library/STC_Collage.jpg)
 
-<title>Storytelling Competition 2024</title>   <a target="_blank" href="https://go.gov.sg/stc-2024"> <img style="width:auto;height:auto;" alt="STC 2024" src="/images/Library/STC_2024.jpg"> </a>  
+<div style="display: flex; justify-content: center; gap: 60px; align-items: center;">
+  <a target="_blank" href="https://go.gov.sg/stc-2024">
+    <img style="width:200px;height:auto;" alt="STC 2024" src="/images/Library/YT2024.png">
+  </a>
+
+  <a target="_blank" href="https://go.gov.sg/stc-2025">
+    <img style="width:200px;height:auto;" alt="STC 2025" src="/images/Library/YT2025.png">
+  </a>
+</div>
 
 #### **Short Story Writing Competition**
 The Short Story Writing Competition was launched in 2023 to complete the cycle from listening to publishing. (Listen ⇨ Read ⇨ Speak ⇨ Write). For this competition, students submit their stories online (SLS) after working on them. Selected stories are published in our annual "Our Stories" E-book. Congratulations to all students whose stories were selected last year! Do read their creative work in the Flipbook below.
