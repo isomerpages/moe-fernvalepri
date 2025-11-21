@@ -66,7 +66,7 @@ sections:
       title: Find out more about our MOE Kindergarten!
       subtitle: WHAT'S HAPPENING
       button: Click here to find out more
-      alt: Moe Kindergarten @ Fernvale
+      alt: MOE Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/MOE Kindergarten @ Fernvale/1.png
 ---
