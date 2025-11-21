@@ -68,5 +68,5 @@ sections:
       button: Click here to find out more
       alt: MOE Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
-      image: /images/MOE Kindergarten @ Fernvale/1.png
+      image: /images/MOE Kindergarten @ Fernvale/3.png
 ---
