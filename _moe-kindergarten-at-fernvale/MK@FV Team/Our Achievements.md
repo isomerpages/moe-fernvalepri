@@ -6,6 +6,12 @@ description: ""
 third_nav_title: MK@FV Team
 ---
 <h1>Our Achievements</h1>
+<h4>ECDA Scholarships 2025</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Value_able_Experience__Endless_Dicovery_.png">
+</div>
+<p>Celebrating Ms Ash! Congratulations on receiving the ECDA Scholarship
+- a well-deserved achievement for your inspiring work with young learners.</p>
 <h4>MOE Service Excellence Award (MSEA)</h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
