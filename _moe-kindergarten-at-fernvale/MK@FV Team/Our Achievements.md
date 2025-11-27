@@ -12,7 +12,9 @@ third_nav_title: MK@FV Team
 </div>
 <p>Celebrating Ms Ash! Congratulations on receiving the ECDA Scholarship
 - a well-deserved achievement for your inspiring work with young learners.</p>
-<p></p>
+<p>Get to know Ms Ash - one of our passionate ECDA Scholarship recipients!
+Hear what she has to say about shaping young minds and why early childhood
+education means so much to her.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2wLek2Rit5w?si=0J27qXZW4GVIxgg1"></iframe>
 </div>
