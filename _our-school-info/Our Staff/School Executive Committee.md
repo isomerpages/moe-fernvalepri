@@ -32,7 +32,7 @@ third_nav_title: Our Staff
 <p>Vice - Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yap Ai Li</p>
+<p>Ms Ong Sim Hwee Michelle</p>
 </td>
 </tr>
 <tr>
@@ -65,18 +65,12 @@ third_nav_title: Our Staff
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mabel Soh-Ong Hui Mei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong><u>P1 to P2</u></strong>
-</p>
+<p>Mr Matthew Chua Cheng Qian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (P1 / P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Puah Puay Koon Eileen</p>
@@ -84,41 +78,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>P3 to P4</u></strong>
-</p>
+<p>Assistant Year Head (P3 / P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Elvin Benjamin</p>
+<p>Mrs Mark Phillida Rabini</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Phillida Rabini</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>P5 to P6</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Low - Phua Eileen</p>
@@ -126,7 +94,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Amanda Galistan</p>
@@ -144,14 +112,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeyananthini d/o Jeyapal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Azry - Nurul Hayati Binte Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +149,7 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Carina Chua</p>
+<p>Mdm Ong Siew Lee</p>
 </td>
 </tr>
 <tr>
@@ -206,14 +166,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aznahar Bin Baharudin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (TL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Somasundaram Vijaya Rani</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +215,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Covering HOD PE/CCA)</p>
+<p>Subject Head PE / CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liza Binti Ismail</p>
@@ -286,7 +238,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Subject Head Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Ying Zhi</p>
@@ -339,18 +291,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Roslie Bin Buang Sidik</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Bee Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roslie Bin Buang Sidik</p>
 </td>
 </tr>
 <tr>
@@ -449,8 +401,7 @@ third_nav_title: Our Staff
 <p>Operations Managers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Chiang
-<br>Mr Lim Chee Hoa</p>
+<p>Mr Lim Chee Hoa Zac</p>
 </td>
 </tr>
 <tr>
@@ -458,14 +409,6 @@ third_nav_title: Our Staff
 <p>
 <br><strong><u>Administration</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Diane Tiu On Ki</p>
 </td>
 </tr>
 <tr>
