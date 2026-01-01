@@ -17,8 +17,8 @@ third_nav_title: Our Staff
 <p>P1-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ma Sen Loo Theresa
-<br>Mrs Khai - Siti Norhana Aris</p>
+<p>Mrs Huang-Soh Chin Yi Germaine
+<br>Ms Lim Nien Chem Julianna</p>
 </td>
 </tr>
 <tr>
@@ -26,8 +26,8 @@ third_nav_title: Our Staff
 <p>P1-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm V Sulaja
-<br>Mr Goh Tong Wee</p>
+<p>Mdm Siti Erliasari Binte Haroon
+<br>Ms Teoh Hai Wei</p>
 </td>
 </tr>
 <tr>
@@ -35,9 +35,8 @@ third_nav_title: Our Staff
 <p>P1-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhong Xiuyuan Diana
-<br>Mr Muhammad Ridzuan Bin Osman
-<br>Ms Grace Wong</p>
+<p>Ms Feng Yue
+<br>Mr Tan Siow Meng</p>
 </td>
 </tr>
 <tr>
@@ -45,9 +44,8 @@ third_nav_title: Our Staff
 <p>P1-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm W.K. Vijitha Valerie Brampy
-<br>Ms Neo Sian Yin
-<br>Mdm Fang Qiongxia</p>
+<p>Mrs Lee-Teo Khim Hoong Carol
+<br>Ms Ting Wan Sin</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +53,8 @@ third_nav_title: Our Staff
 <p>P1-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor A'shikin Bte Osman
-<br>Mdm Puvaneswary d/o Balakrishnan</p>
+<p>Mdm Oliveriro Angeline Alison
+<br>Mdm Nur Hidayah Binte Eser</p>
 </td>
 </tr>
 <tr>
@@ -64,8 +62,8 @@ third_nav_title: Our Staff
 <p>P1-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Ching Whee
-<br>Mrs Azry - Nurul Hayati Binte Abdul Rahman</p>
+<p>Mrs Chong-Loh Swee Ling
+<br>Mr Fariz Husna Bin Sajani</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +71,8 @@ third_nav_title: Our Staff
 <p>P1-Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Heng - Cheong Soke Hwa
-<br>Mrs Jacquelin Yeo Chien Ling</p>
+<p>Mrs Andrea Tee
+<br>Ms Zubaidah Bte Sheik Mohamed Ishak</p>
 </td>
 </tr>
 <tr>
@@ -82,17 +80,8 @@ third_nav_title: Our Staff
 <p>P1-Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hwee Ping Elsie
-<br>Mr Ng Junhao Gary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1-Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ho - Soh Wei Ying
-<br>Mr Low Deng Neng Jim</p>
+<p>Mdm Khalidah Goh
+<br>Ms Poh Hui Qin</p>
 </td>
 </tr>
 </tbody>
