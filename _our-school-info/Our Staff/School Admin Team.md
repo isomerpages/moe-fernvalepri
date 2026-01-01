@@ -13,20 +13,18 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Managers</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chiang Teng Luan
-<br>Mr Lim Chee Hoa</p>
+<p>Mr Lim Chee Hoa Zac</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Managers</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Diane Tiu On Ki
-<br>Mdm Tan Mui Leng Catherine</p>
+<p>Mdm Tan Mui Leng Catherine</p>
 </td>
 </tr>
 <tr>
