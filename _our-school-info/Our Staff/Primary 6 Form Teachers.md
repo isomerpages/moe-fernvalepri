@@ -17,8 +17,7 @@ third_nav_title: Our Staff
 <p>P6-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Si Qian
-<br>Ms Jeyananthini d/o Jeyapal</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -26,8 +25,7 @@ third_nav_title: Our Staff
 <p>P6-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang - Choo Sok Ee Eunice
-<br>Mr Roslie Bin Buang Sidik</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -35,8 +33,7 @@ third_nav_title: Our Staff
 <p>P6-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vimala Devi d/o P Kanaran
-<br>Mdm Ang Chye Chen Jackie</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -44,8 +41,7 @@ third_nav_title: Our Staff
 <p>P6-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zachary Ng Eu Goi
-<br>Mdm Geraldine Chua Shan Shan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,8 +49,7 @@ third_nav_title: Our Staff
 <p>P6-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Seok Khim
-<br>Mdm Nurhayati Binte Ra'ai</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -62,8 +57,15 @@ third_nav_title: Our Staff
 <p>P6-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Selvi d/o Ramasamy
-<br>Mr Song Hwee Tong Clement</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
