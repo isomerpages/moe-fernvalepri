@@ -13,12 +13,12 @@ third_nav_title: Our Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Amira Fazeera Binti Ataman</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
