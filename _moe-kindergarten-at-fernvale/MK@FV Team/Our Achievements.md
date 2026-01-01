@@ -12,6 +12,12 @@ third_nav_title: MK@FV Team
 </div>
 <p>Celebrating Ms Ash! Congratulations on receiving the ECDA Scholarship
 - a well-deserved achievement for your inspiring work with young learners.</p>
+<p>Get to know Ms Ash - one of our passionate ECDA Scholarship recipients!
+Hear what she has to say about shaping young minds and why early childhood
+education means so much to her.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2wLek2Rit5w?si=0J27qXZW4GVIxgg1"></iframe>
+</div>
 <h4>MOE Service Excellence Award (MSEA)</h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
@@ -75,5 +81,4 @@ educators in their professional development journey.</p>
 the commendation award for the 2022 MOE Innergy and Outstanding Innovator
 Awards. The teachers worked on strategies to enhance children's numeracy
 experience through motor skills activities.</p>
-<p></p>
 <p></p>

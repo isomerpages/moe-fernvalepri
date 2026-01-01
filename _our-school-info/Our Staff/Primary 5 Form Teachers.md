@@ -17,9 +17,7 @@ third_nav_title: Our Staff
 <p>P5-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ang Min Xin
-<br>Mrs Audrey Ortega
-<br>Mrs Poon-Liew Siew Hui Eileen</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -27,8 +25,7 @@ third_nav_title: Our Staff
 <p>P5-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ting Wan Xin
-<br>Mdm Lee Bee Leng</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -36,8 +33,7 @@ third_nav_title: Our Staff
 <p>P5-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo - Ong Puay Hoon
-<br>Mr Rakesh Kishin Aswani</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -45,8 +41,7 @@ third_nav_title: Our Staff
 <p>P5-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hng Jun Xun Grayson
-<br>Ms Nuraini Binte Hamzah</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -54,8 +49,7 @@ third_nav_title: Our Staff
 <p>P5-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amanda Galistan - Lee Hui Shan
-<br>Mr Hadrian Chin Chun Kiat</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,9 +57,7 @@ third_nav_title: Our Staff
 <p>P5-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Huey Tyng Joanna
-<br>Mrs Neo - Ho Yik Ying
-<br>Mdm Nurul 'Ain Binte Norazman</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,8 +65,7 @@ third_nav_title: Our Staff
 <p>P5-Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Ying Zhi
-<br>Mr Lee Oon Kee Joe</p>
+<p></p>
 </td>
 </tr>
 </tbody>

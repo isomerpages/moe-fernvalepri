@@ -17,8 +17,7 @@ third_nav_title: Our Staff
 <p>P2-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jayne Anne Jayanthi Krishnamurthi
-<br>Ms Wang Shuhui Ashley</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -26,8 +25,7 @@ third_nav_title: Our Staff
 <p>P2-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong - Loh Swee Ling
-<br>Mdm Lim Siew Fang</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -35,8 +33,7 @@ third_nav_title: Our Staff
 <p>P2-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Oliveiro Angeline Alison
-<br>Ms Poon Sook Fong Carolyn</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -44,8 +41,7 @@ third_nav_title: Our Staff
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mabel Soh - Ong Hui Mei
-<br>Mr Tong Hock Chuan Alan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,9 +49,7 @@ third_nav_title: Our Staff
 <p>P2-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Huang - Soh Chin Yi Germaine
-<br>Mrs Andrea Tee
-<br>Mr Tan Siow Meng</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,8 +57,7 @@ third_nav_title: Our Staff
 <p>P2-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee - Teo Khim Hoong Carol
-<br>Mdm Khalidah Goh d/o Shafie Goh</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,8 +65,7 @@ third_nav_title: Our Staff
 <p>P2-Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Erliasari Binte Haroon
-<br>Ms Feng Yue</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -81,8 +73,15 @@ third_nav_title: Our Staff
 <p>P2-Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Nien Chern Juliana
-<br>Mdm Nur Hidayah Binte Eser</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2-Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

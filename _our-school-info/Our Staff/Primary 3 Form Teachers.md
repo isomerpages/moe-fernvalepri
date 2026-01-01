@@ -17,8 +17,7 @@ third_nav_title: Our Staff
 <p>P3-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm A R Shanthi
-<br>Mdm Ng Peng Yong</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -26,8 +25,7 @@ third_nav_title: Our Staff
 <p>P3-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Hsiang-Chun
-<br>Ms Maninder Kaur</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -35,9 +33,7 @@ third_nav_title: Our Staff
 <p>P3-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorhafidah Bte Mohammad Hanafi
-<br>Ms Ong Shi Hui
-<br>Mdm Tan Li Shin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -45,9 +41,7 @@ third_nav_title: Our Staff
 <p>P3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hoe Tsong
-<br>Mrs Eleanor Tham - Leong Wei Wei
-<br>Mrs Chandra - Bhavani d/o Rajagopal</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -55,8 +49,7 @@ third_nav_title: Our Staff
 <p>P3-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalavathi Selvarajulu
-<br>Mr Aznahar Bin Baharudin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -64,8 +57,7 @@ third_nav_title: Our Staff
 <p>P3-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Li Ting
-<br>Ms Nur Azlin Binte Mohamed Afendy</p>
+<p></p>
 </td>
 </tr>
 </tbody>
