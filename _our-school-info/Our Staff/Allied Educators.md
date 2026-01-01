@@ -30,7 +30,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED SEN Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hui Soh Wai</p>
@@ -38,7 +38,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED SEN Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurliyana Binte Suhaimi</p>
@@ -46,7 +46,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED SEN Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms June Tan</p>
@@ -54,7 +54,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED SEN Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khow Wei Shuen</p>
@@ -62,18 +62,26 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED (T&amp;L)</p>
+<p>SWO (Untrained)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gupta</p>
+<p>Ms Nur Syazwani Binte Mohamed Salim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adj School Counsellor</p>
+<p>FAJT School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Maryati Binte M Dahim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT SENO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Sharon</p>
 </td>
 </tr>
 </tbody>
