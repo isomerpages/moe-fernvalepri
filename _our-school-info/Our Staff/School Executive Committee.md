@@ -406,7 +406,8 @@ third_nav_title: Our Staff
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Feng Yue</p>
+<p><a href="feng_yue@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Feng Yue</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +415,8 @@ third_nav_title: Our Staff
 <p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Tong Wee</p>
+<p><a href="goh_tong_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Goh Tong Wee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -422,7 +424,8 @@ third_nav_title: Our Staff
 <p>Education Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Seok Khim</p>
+<p><a href="soh_seok_khim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Soh Seok Khim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +433,8 @@ third_nav_title: Our Staff
 <p>Lower Primary Learners</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hwee Ping Elsie</p>
+<p><a href="tan_hwee_ping_elsie@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Hwee Ping Elsie</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -445,7 +449,8 @@ third_nav_title: Our Staff
 <p>Operations Managers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chee Hoa Zac</p>
+<p><a href="lim_chee_hoa@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Chee Hoa Zac</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -460,7 +465,8 @@ third_nav_title: Our Staff
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Mui Leng Catherine</p>
+<p><a href="tan_mui_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Mui Leng Catherine</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -468,7 +474,8 @@ third_nav_title: Our Staff
 <p>Admin Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chong Li Ping Claudia</p>
+<p><a href="chong_li_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chong Li Ping Claudia</a>
+</p>
 </td>
 </tr>
 </tbody>
