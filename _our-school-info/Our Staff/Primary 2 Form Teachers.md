@@ -27,8 +27,9 @@ third_nav_title: Our Staff
 <p>P2-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm V Sulaja
-<br>Mr Goh Tong Wee</p>
+<p><a href="v_sulaja@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm V Sulaja</a> 
+<br><a href="goh_tong_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Goh Tong Wee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -36,9 +37,10 @@ third_nav_title: Our Staff
 <p>P2-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhong Xiuyuan Diana
-<br>Mr Muhammad Ridzuan Bin Osman
-<br>Mdm Jasmine See Hui Min</p>
+<p><a href="zhong_xiuyuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhong Xiuyuan Diana </a>
+<br><a href="muhammad_ridzuan_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Ridzuan Bin Osman </a>
+<br><a href="See_Hui_Min@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jasmine See Hui Min</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,8 +48,9 @@ third_nav_title: Our Staff
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm W.K.Vijitha Valerie Brampy
-<br>Ms Neo Sian Yin</p>
+<p><a href="w_k_vijitha_valerie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm W.K.Vijitha Valerie Brampy </a>
+<br><a href="neo_sian_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Neo Sian Yin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +58,9 @@ third_nav_title: Our Staff
 <p>P2-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor A'shikin Bte Osman
-<br>Mdm Puvaneswary D/o Balakrishnan</p>
+<p><a href="noor_ashikin_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Noor A'shikin Bte Osman </a>
+<br><a href="puvaneswary_balakrishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Puvaneswary D/o Balakrishnan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,8 +68,9 @@ third_nav_title: Our Staff
 <p>P2-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Ching Whee
-<br>Mdm Nurhayati Binte Ra'ai</p>
+<p><a href="teo_ching_whee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Ching Whee </a>
+<br><a href="nurhayati_raai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurhayati Binte Ra'ai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +78,9 @@ third_nav_title: Our Staff
 <p>P2-Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Heng - Cheong Soke Hwa
-<br>Mrs Jacquelin Yeo Chien Ling</p>
+<p><a href="cheong_soke_hwa@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Heng - Cheong Soke Hwa </a>
+<br><a href="yeo_chien_ling_jacquelin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jacquelin Yeo Chien Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,8 +88,9 @@ third_nav_title: Our Staff
 <p>P2-Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hwee Ping Elsie
-<br>Mr Ng Junhao Gary</p>
+<p><a href="tan_hwee_ping_elsie@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Hwee Ping Elsie </a>
+<br><a href="ng_junhao@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ng Junhao Gary</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,8 +98,9 @@ third_nav_title: Our Staff
 <p>P2-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ho - Soh Wei Ying
-<br>Mr Low Dong Neng Jim</p>
+<p><a href="soh_weiying@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ho - Soh Wei Ying </a>
+<br><a href="low_dong_neng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Low Dong Neng Jim</a>
+</p>
 </td>
 </tr>
 </tbody>
