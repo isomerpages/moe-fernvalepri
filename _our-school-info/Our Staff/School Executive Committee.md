@@ -170,7 +170,7 @@ third_nav_title: Our Staff
 <p>Level Head (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_huey_tyng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joanna Lim</a>
+<p><a href="lim_huey_tyng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Huey Tyng Joanna</a>
 </p>
 </td>
 </tr>
