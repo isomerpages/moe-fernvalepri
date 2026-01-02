@@ -7,14 +7,15 @@ third_nav_title: Our Staff
 ---
 <h2><strong>School Executive Committee</strong></h2>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong><u>School Leaders</u></strong>
 </p>
 </td>
@@ -26,6 +27,10 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p>Mr Enoch Lau</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,6 +38,10 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Sim Hwee Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +51,10 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p>Mr Ramesh Mukundhan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,6 +62,10 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kevin Patt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -65,7 +82,8 @@ third_nav_title: Our Staff
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Chua Cheng Qian</p>
+<p><a href="matthew_chua_cheng_qian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Matthew Chua Cheng Qian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +91,8 @@ third_nav_title: Our Staff
 <p>Year Head (P1 / P2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Puah Puay Koon Eileen</p>
+<p><a href="puah_puay_koon_eileen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Puah Puay Koon Eileen</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +100,8 @@ third_nav_title: Our Staff
 <p>Assistant Year Head (P3 / P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mark Phillida Rabini</p>
+<p><a href="phillida_rabini@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Mark Phillida Rabini</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +109,8 @@ third_nav_title: Our Staff
 <p>Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Low - Phua Eileen</p>
+<p><a href="phua_eileen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Low - Phua Eileen</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +118,8 @@ third_nav_title: Our Staff
 <p>Assistant Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amanda Galistan</p>
+<p><a href="amanda_lee_hui_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Amanda Galistan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +133,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jeyananthini d/o Jeyapal</p>
+<p><a href="jeyananthini_jeyapal@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jeyananthini d/o Jeyapal</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +149,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Lee</p>
+<p><a href="lim_shu_hui_jasmine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +158,8 @@ third_nav_title: Our Staff
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Geraldine Chua Shan Shan</p>
+<p><a href="geraldine_chua_shan_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Geraldine Chua Shan Shan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +174,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Lee</p>
+<p><a href="ong_siew_lee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ong Siew Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +183,8 @@ third_nav_title: Our Staff
 <p>Level Head (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Lim</p>
+<p><a href="lim_huey_tyng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joanna Lim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +192,8 @@ third_nav_title: Our Staff
 <p>Subject Head (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aznahar Bin Baharudin</p>
+<p><a href="aznahar_baharudin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Aznahar Bin Baharudin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +208,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bhavani Chandra</p>
+<p><a href="bhavani_rajagopal@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Bhavani Chandra</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +217,8 @@ third_nav_title: Our Staff
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo - Ong Puay Hoon</p>
+<p><a href="ong_puay_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Teo - Ong Puay Hoon</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +233,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gavin Lee</p>
+<p><a href="lee_yong_soon_gavin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +249,8 @@ third_nav_title: Our Staff
 <p>Subject Head PE / CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liza Binti Ismail</p>
+<p><a href="liza_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Liza Binti Ismail</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +265,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Weijin Vincent</p>
+<p><a href="huang_weijin_vincent@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Huang Weijin Vincent</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +274,8 @@ third_nav_title: Our Staff
 <p>Subject Head Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Ying Zhi</p>
+<p><a href="teo_ying_zhi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Ying Zhi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +290,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Feroz Muhamad</p>
+<p><a href="feroz_muhamad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +306,8 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jaron Yap Jie Han</p>
+<p><a href="yap_jie_han_jaron@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jaron Yap Jie Han</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +315,8 @@ third_nav_title: Our Staff
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Si Qian</p>
+<p><a href="goh_si_qian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Goh Si Qian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +331,8 @@ third_nav_title: Our Staff
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Bee Leng</p>
+<p><a href="lee_bee_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Bee Leng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -302,7 +340,8 @@ third_nav_title: Our Staff
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Roslie Bin Buang Sidik</p>
+<p><a href="roslie_buang_sidik@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Roslie Bin Buang Sidik</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +351,8 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jacquelin Yeo Chien Ling</p>
+<p><a href="yeo_chien_ling_jacquelin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jacquelin Yeo Chien Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +370,8 @@ third_nav_title: Our Staff
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eleanor Tham</p>
+<p><a href="leong_wei_wei_eleanor@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Eleanor Tham</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -338,7 +379,8 @@ third_nav_title: Our Staff
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalavathi Selvarajulu</p>
+<p><a href="kalavathi_selvarajulu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Kalavathi Selvarajulu</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +388,8 @@ third_nav_title: Our Staff
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Clement Song Hwee Tong</p>
+<p><a href="song_hwee_tong_clement@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Clement Song Hwee Tong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +397,8 @@ third_nav_title: Our Staff
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Chye Chen Jackie</p>
+<p><a href="ang_chye_chen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ang Chye Chen Jackie</a>
+</p>
 </td>
 </tr>
 <tr>
