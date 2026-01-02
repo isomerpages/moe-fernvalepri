@@ -12,4 +12,4 @@ variant: markdown
 
 **School Canteen**
 
-[Canteen Menu 2025](/files/Our%20school%20info/Menu__Price_List_2025.pdf)
+[Canteen Menu 2026](/files/Our%20school%20info/List_of_food_for_School_Website_2026.pdf)
