@@ -17,7 +17,8 @@ third_nav_title: Our Staff
 <p>P4-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm A R Shanthi
+<br>Mdm Ng Peng Yong</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +26,8 @@ third_nav_title: Our Staff
 <p>P4-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Hsiang-Chun
+<br>Ms Maninder Kaur</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +35,9 @@ third_nav_title: Our Staff
 <p>P4-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Noorhafidah Bte Mohammad Hanafi
+<br>Mr Huang Weijin,Vincent
+<br>Mr Vivek Vijaikumar</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +45,8 @@ third_nav_title: Our Staff
 <p>P4-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Eleanor Tham - Leong Wei Wei
+<br>Mr Tan Hoe Tsong</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +54,8 @@ third_nav_title: Our Staff
 <p>P4-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Kalavathi Selvarajulu
+<br>Mr Aznahar Bin Baharudin</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +63,8 @@ third_nav_title: Our Staff
 <p>P4-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Li Ting
+<br>Ms Nur Azlin Binte Mohamed Afendy</p>
 </td>
 </tr>
 </tbody>
