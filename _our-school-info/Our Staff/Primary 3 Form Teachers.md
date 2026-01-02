@@ -17,7 +17,8 @@ third_nav_title: Our Staff
 <p>P3-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lim Siew Fang
+<br>Mrs Mark Phillida Rabini</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +26,8 @@ third_nav_title: Our Staff
 <p>P3-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tong Hock Chuan Alan
+<br>Mdm Grace Wong</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +35,8 @@ third_nav_title: Our Staff
 <p>P3-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Jayne Anne Jayanthi Krishnamurthi
+<br>Ms Poon Sook Fong Carolyn</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +44,8 @@ third_nav_title: Our Staff
 <p>P3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ansar Mohamed Sali
+<br>Ms Lim Xi Min, Shermin</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +53,8 @@ third_nav_title: Our Staff
 <p>P3-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Toh Lee See Chloe
+<br>Mrs Ho - Audrey Tan Lee Cheng</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +62,9 @@ third_nav_title: Our Staff
 <p>P3-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hajjah Marlina Bte Kumar
+<br>Mrs Kelly Thong - Hau Luo Ting
+<br>Ms Megan Chua Sze Ying</p>
 </td>
 </tr>
 </tbody>
