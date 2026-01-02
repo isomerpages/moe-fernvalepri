@@ -7,15 +7,14 @@ third_nav_title: Our Staff
 ---
 <h2><strong>School Executive Committee</strong></h2>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p><strong><u>School Leaders</u></strong>
 </p>
 </td>
@@ -25,10 +24,7 @@ third_nav_title: Our Staff
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Enoch Lau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+<p><a href="fernvale_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Enoch Lau</a>
 </p>
 </td>
 </tr>
@@ -37,10 +33,7 @@ third_nav_title: Our Staff
 <p>Vice - Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Sim Hwee Michelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+<p><a href="fernvale_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ong Sim Hwee Michelle</a>
 </p>
 </td>
 </tr>
@@ -49,10 +42,7 @@ third_nav_title: Our Staff
 <p>Vice - Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramesh Mukundhan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+<p><a href="fernvale_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ramesh Mukundhan</a>
 </p>
 </td>
 </tr>
@@ -61,10 +51,7 @@ third_nav_title: Our Staff
 <p>Vice - Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Patt</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fernvale_ps@moe.edu.sg</u></a>
+<p><a href="fernvale_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kevin Patt</a>
 </p>
 </td>
 </tr>
