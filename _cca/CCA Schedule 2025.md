@@ -4,7 +4,7 @@ permalink: /cca/cca-schedule-2025/
 description: ""
 variant: markdown
 ---
-# CCA Schedule 2025
+# CCA Schedule
 <br>
 
 <table style="border-collapse:
