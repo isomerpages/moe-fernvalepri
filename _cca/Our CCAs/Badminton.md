@@ -73,15 +73,17 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mr Goh Tong Wee (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_tong_wee@moe.edu.sg</p>
+<p><a href="goh_tong_wee@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_tong_wee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hadrian Chin Chun Kiat</p>
+<p>Mr Hadrian Chin Chun Kiat (asst)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hadrian_chin_chun_kiat@moe.edu.sg</p>
+<p><a href="hadrian_chin_chun_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">hadrian_chin_chun_kiat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +91,8 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Ms Liu Hisang-Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu_hisang-chun@moe.edu.sg</p>
+<p><a href="liu_hisang-chun@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_hisang-chun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +100,8 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mdm Ng Peng Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_peng_yong@moe.edu.sg</p>
+<p><a href="ng_peng_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_peng_yong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +109,8 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Ms Jayne Anne Jayathi Krishnamurthi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jayne_anne_jayanthi_krishnamuthi@moe.edu.sg</p>
+<p><a href="jayne_anne_jayanthi_krishnamuthi@moe.edu.sg" rel="noopener nofollow" target="_blank">jayne_anne_jayanthi_krishnamuthi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +118,8 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mdm Sokku Umaiyal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sokku_umaiyal@moe.edu.sg</p>
+<p><a href="sokku_umaiyal@moe.edu.sg" rel="noopener nofollow" target="_blank">sokku_umaiyal@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
