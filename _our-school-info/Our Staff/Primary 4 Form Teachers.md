@@ -17,8 +17,9 @@ third_nav_title: Our Staff
 <p>P4-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm A R Shanthi
-<br>Mdm Ng Peng Yong</p>
+<p><a href="a_r_shanthi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm A R Shanthi</a> 
+<br><a href="ng_peng_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Peng Yong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -26,8 +27,9 @@ third_nav_title: Our Staff
 <p>P4-Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Hsiang-Chun
-<br>Ms Maninder Kaur</p>
+<p><a href="liu_hsiang-chun@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Liu Hsiang-Chun </a>
+<br><a href="maninder_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maninder Kaur</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -35,9 +37,10 @@ third_nav_title: Our Staff
 <p>P4-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorhafidah Bte Mohammad Hanafi
-<br>Mr Huang Weijin,Vincent
-<br>Mr Vivek Vijaikumar</p>
+<p><a href="noorhafidah_mohammd_hanafi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Noorhafidah Bte Mohammad Hanaf</a>i
+<br><a href="huang_weijin_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Huang Weijin,Vincent </a>
+<br><a href="vivek_vijaikumar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vivek Vijaikumar</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +48,9 @@ third_nav_title: Our Staff
 <p>P4-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eleanor Tham - Leong Wei Wei
-<br>Mr Tan Hoe Tsong</p>
+<p><a href="leong_wei_wei_eleanor@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Eleanor Tham - Leong Wei Wei </a>
+<br><a href="tan_hoe_tsong_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Hoe Tsong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +58,9 @@ third_nav_title: Our Staff
 <p>P4-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalavathi Selvarajulu
-<br>Mr Aznahar Bin Baharudin</p>
+<p><a href="kalavathi_selvarajulu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Kalavathi Selvarajulu </a>
+<br><a href="aznahar_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Aznahar Bin Baharudin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +68,9 @@ third_nav_title: Our Staff
 <p>P4-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Li Ting
-<br>Ms Nur Azlin Binte Mohamed Afendy</p>
+<p><a href="ong_li_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ong Li Ting </a>
+<br><a href="nur_azlin_mohamed_afendy@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Azlin Binte Mohamed Afendy</a>
+</p>
 </td>
 </tr>
 </tbody>
