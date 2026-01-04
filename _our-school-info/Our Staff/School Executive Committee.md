@@ -325,19 +325,19 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_bee_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lee Bee Leng</a>
+<p><a href="roslie_buang_sidik@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Roslie Bin Buang Sidik</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="roslie_buang_sidik@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Roslie Bin Buang Sidik</a>
+<p><a href="lee_bee_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lee Bee Leng</a>
 </p>
 </td>
 </tr>
@@ -382,10 +382,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="song_hwee_tong_clement@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Clement Song Hwee Tong</a>
+<p><a href="feng_yue@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Feng Yue</a>
 </p>
 </td>
 </tr>
@@ -400,10 +400,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="feng_yue@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Feng Yue</a>
+<p><a href="song_hwee_tong_clement@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Clement Song Hwee Tong</a>
 </p>
 </td>
 </tr>
