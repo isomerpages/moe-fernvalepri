@@ -312,7 +312,8 @@ third_nav_title: Our Staff
 <p>Subject Head Student Leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Yik Ying</p>
+<p><a href="ho_yik_ying@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mrs Neo - Ho Yik Ying</u></a>
+</p>
 </td>
 </tr>
 <tr>
