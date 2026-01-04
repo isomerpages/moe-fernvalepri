@@ -84,7 +84,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3 / P4)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="phillida_rabini@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Mark Phillida Rabini</a>
@@ -274,7 +274,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
+<p>Head of Department Special Educational Needs &amp; Asst Year Head P4 (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
@@ -290,7 +290,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
+<p>Head of Department Character and Citizenship Education &amp; Aesthetic
+(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="yap_jie_han_jaron@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jaron Yap Jie Han</a>
@@ -304,6 +305,14 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="goh_si_qian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Goh Si Qian</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Leadership (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Yik Ying</p>
 </td>
 </tr>
 <tr>
