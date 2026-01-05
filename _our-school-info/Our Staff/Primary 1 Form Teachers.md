@@ -18,6 +18,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="soh_chin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Huang-Soh Chin Yi Germaine </a>
+<br>
+<br><a href="soh_chin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Huang-Soh Chin Yi Germaine </a>
 <br><a href="lim_nien_chern_juliana@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Nien Chern Juliana</a>
 </p>
 </td>
