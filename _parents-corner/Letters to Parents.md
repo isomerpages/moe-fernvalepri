@@ -10,13 +10,52 @@ variant: tiptap
 <summary><strong>Letters to Parents</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Letter</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2025_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">Term 1 Lette</a>
+<a href="/files/Parents Corner/Letters to Parents/2026_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">r to Parents</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Date</p>
