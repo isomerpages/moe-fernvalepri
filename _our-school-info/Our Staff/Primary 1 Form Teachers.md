@@ -22,7 +22,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="soh_chin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Huang-Soh Chin Yi Germaine </a>
 <br>
-<br><a href="mailto:soh_chin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">contact@example.com</a>
+<br><a href="mailto:soh_chin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chin_yi@moe.edu.sg</a>
 </p>
 <p>
 <br>
