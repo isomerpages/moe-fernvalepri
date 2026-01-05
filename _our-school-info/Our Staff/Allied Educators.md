@@ -17,7 +17,8 @@ third_nav_title: Our Staff
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sharlin Mattar</p>
+<p><a href="sharlin_mahmood_mattar@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Sharlin Mattar</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +26,8 @@ third_nav_title: Our Staff
 <p>Lead AED SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Fei Lin</p>
+<p><a href="chia_fei_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chia Fei Lin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +35,8 @@ third_nav_title: Our Staff
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hui Soh Wai</p>
+<p><a href="hui_soh_wai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hui Soh Wai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +44,8 @@ third_nav_title: Our Staff
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurliyana Binte Suhaimi</p>
+<p><a href="nurliyana_suhaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nurliyana Binte Suhaimi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +53,8 @@ third_nav_title: Our Staff
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms June Tan</p>
+<p><a href="tan_hooi_wan_june@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms June Tan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +62,8 @@ third_nav_title: Our Staff
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khow Wei Shuen</p>
+<p><a href="khow_wei_shuen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Khow Wei Shuen</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +71,8 @@ third_nav_title: Our Staff
 <p>SWO (Untrained)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syazwani Binte Mohamed Salim</p>
+<p><a href="nur_syazwani_mohamed_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Syazwani Binte Mohamed Salim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +80,8 @@ third_nav_title: Our Staff
 <p>FAJT School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maryati Binte M Dahim</p>
+<p><a href="maryati_m_dahim_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Maryati Binte M Dahim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +89,8 @@ third_nav_title: Our Staff
 <p>FAJT SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Sharon</p>
+<p><a href="soh_sharon_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Soh Sharon</a>
+</p>
 </td>
 </tr>
 </tbody>

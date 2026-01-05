@@ -16,7 +16,8 @@ third_nav_title: Our Staff
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chee Hoa Zac</p>
+<p><a href="lim_chee_hoa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Chee Hoa Zac</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -24,7 +25,8 @@ third_nav_title: Our Staff
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Mui Leng Catherine</p>
+<p><a href="tan_mui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Mui Leng Catherine</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +34,8 @@ third_nav_title: Our Staff
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Sim</p>
+<p><a href="sim_teck_hee_jason@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jason Sim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +43,8 @@ third_nav_title: Our Staff
 <p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chong Li Ping Claudia</p>
+<p><a href="chong_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chong Li Ping Claudia</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +52,8 @@ third_nav_title: Our Staff
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chuah Poh Ling Penny</p>
+<p><a href="chuah_poh_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chuah Poh Ling Penny</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +61,8 @@ third_nav_title: Our Staff
 <p>Customer Service Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saniah Bte Nadin</p>
+<p><a href="saniah_nadin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Saniah Bte Nadin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +70,8 @@ third_nav_title: Our Staff
 <p>Customer Service Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen Goh Guan Chew</p>
+<p><a href="goh_guan_chew@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Eileen Goh Guan Chew</a>
+</p>
 </td>
 </tr>
 <tr>
