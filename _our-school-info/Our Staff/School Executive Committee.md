@@ -201,7 +201,7 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee</a>
+<p><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee Yong Soon</a>
 </p>
 </td>
 </tr>
