@@ -92,6 +92,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Asst Year Head P4 (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,7 +282,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department Special Educational Needs &amp; Asst Year Head P4 (Covering)</p>
+<p>Head of Department
+<br>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
