@@ -35,8 +35,7 @@ variant: tiptap
 <p>5 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">Term 1 Lette</a>
-<a href="/files/Parents Corner/Letters to Parents/2026_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">r to Parents</a>
+<p><a href="/files/Parents Corner/Letters to Parents/2026_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter to Parents</a>
 </p>
 </td>
 </tr>

@@ -64,11 +64,8 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:matthew_chua_cheng_qian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Chua Cheng Qian</a>
+<td rowspan="1" colspan="2">
+<p><strong><u>Year Heads</u></strong>
 </p>
 </td>
 </tr>
@@ -92,6 +89,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Asst Year Head P4 (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,44 +110,20 @@ third_nav_title: Our Staff
 <p>Assistant Year Head (P5 / P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_lee_hui_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Amanda Galistan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><u><br></u><strong><u>English Department</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jeyananthini_jeyapal@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeyananthini d/o Jeyapal</a>
+<p><a href="mailto:amanda_lee_hui_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Amanda Galistan Lee Hui Shan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>
-<br><strong><u>Mathematics Department</u></strong>
+<br><strong><u>School Staff Developer</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shu_hui_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:geraldine_chua_shan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Geraldine Chua Shan Shan</a>
@@ -219,7 +201,7 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee</a>
+<p><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee Yong Soon</a>
 </p>
 </td>
 </tr>
@@ -273,7 +255,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department Special Educational Needs &amp; Asst Year Head P4 (Covering)</p>
+<p>Head of Department
+<br>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
@@ -342,9 +325,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs
-<br>
-</p>
+<p>Special Education Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_chien_ling_jacquelin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jacquelin Yeo Chien Ling</a>
@@ -433,7 +414,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Managers</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_hoa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Chee Hoa Zac</a>
@@ -449,7 +430,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_mui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Mui Leng Catherine</a>
