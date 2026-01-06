@@ -126,7 +126,7 @@ third_nav_title: Our Staff
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_chua_shan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Geraldine Chua Shan Shan</a>
+<p><a href="mailto:matthew_chua_cheng_qian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Chua Cheng Qian</a>
 </p>
 </td>
 </tr>
