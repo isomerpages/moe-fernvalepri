@@ -162,44 +162,4 @@ hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).</p>
 </tbody>
 </table>
 <hr>
-<h3><strong><u>School Library</u></strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mondays To Friday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7:40 am to 3:00 pm</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Schools Holidays</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>8:00 am to 12:00 pm</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Closed on Sat, Sun and Public Holidays</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>

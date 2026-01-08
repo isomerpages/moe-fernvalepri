@@ -133,6 +133,22 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="2">
 <p>
+<br><strong><u>English Language</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jeyananthini_jeyapal@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeyananthini Jeyapal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
 <br><strong><u>Mother Tongue Languages Department</u></strong>
 </p>
 </td>
