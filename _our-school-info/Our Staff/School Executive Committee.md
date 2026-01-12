@@ -149,6 +149,31 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="2">
 <p>
+<br><strong><u>Mathematics Department</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_shu_hui_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:geraldine_chua_shan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Geraldine Chua Shan Shan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
 <br><strong><u>Mother Tongue Languages Department</u></strong>
 </p>
 </td>
@@ -288,8 +313,9 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department Character and Citizenship Education &amp; Aesthetic
-(Covering)</p>
+<p>Head of Department Character and
+<br>Citizenship Education(CCE) &amp;
+<br>Aesthetic (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_jie_han_jaron@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jaron Yap Jie Han</a>
