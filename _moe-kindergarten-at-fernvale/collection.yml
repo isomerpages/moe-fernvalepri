@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
+      - MK@FV Open House 2026.md
       - About Us.md
       - MK@FV Team/.keep
       - MK@FV Team/Our Team.md
