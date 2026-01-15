@@ -20,5 +20,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Book list/P6.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
 </p>
-<p><a href="/files/Book list/P6.pdf" rel="noopener nofollow" target="_blank">2026 P6 Foundation Booklist</a>
+<p><a href="/files/Book list/P6F.pdf" rel="noopener nofollow" target="_blank">2026 P6 Foundation Booklist</a>
 </p>
