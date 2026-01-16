@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our CCAs
 ---
-<h3><strong>Angklung and Kulintang Ensemble</strong></h3>
+<h3><strong>Angklung </strong></h3>
 <p>The Angklung and Kulintang Ensemble offers pupils a unique opportunity
 to explore traditional Southeast Asian musical heritage through hands-on
 experience with the angklung and kulintang. These instruments, made of
