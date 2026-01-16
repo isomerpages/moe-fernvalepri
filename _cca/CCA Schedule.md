@@ -2,16 +2,323 @@
 title: CCA Schedule
 permalink: /cca/cca-schedule-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# CCA Schedule
+<h1>CCA Schedule</h1>
+<p>
 <br>
-
-<table style="border-collapse:
- collapse;width:750pt" width="998" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7978;width:187pt" width="249"> <col style="mso-width-source:userset;mso-width-alt:6250;width:147pt" width="195"> <col style="mso-width-source:userset;mso-width-alt:6933;width:163pt" width="217"> <col style="mso-width-source:userset;mso-width-alt:10794;width:253pt" width="337"></colgroup><tbody><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;width:187pt" width="249" class="xl63" height="53">CCA</td><td style="width:147pt" width="195" class="xl64">Day</td><td style="width:163pt" width="217" class="xl64">Time</td><td style="width:253pt" width="337" class="xl65">Venue</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl66" height="53">Art CCA</td><td class="xl67">Friday</td><td class="xl67">2.00pm to 4.30pm</td><td class="xl68">Art Rooms</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Angklung</td><td style="border-top:none" class="xl70">Monday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">Dance Studio</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="border-bottom:.5pt solid black;
-  height:80.0pt;border-top:none;width:187pt" width="249" class="xl79" height="106" rowspan="2">Badminton<br>(School Team both days)<br>(Devt Team on Thurs)</td><td style="border-top:none" class="xl72">Tuesday</td><td style="border-top:none" class="xl72">2.00pm to 5.00pm</td><td style="border-top:none" class="xl73">School Hall</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl67" height="53">Thursday</td><td class="xl67">2.00pm to 5.00pm</td><td class="xl68">School Hall and ISH</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="border-bottom:.5pt solid black;
-  height:80.0pt;border-top:none" class="xl77" height="106" rowspan="2">Basketball (School Team)</td><td style="border-top:none" class="xl72">Monday</td><td style="border-top:none" class="xl72">2.00pm to 5.00pm</td><td style="border-top:none" class="xl73">School Hall</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl67" height="53">Friday</td><td class="xl67">2.00pm to 5.00pm</td><td class="xl68">School Hall</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Basketball (Trainees)</td><td style="border-top:none" class="xl70">Tuesday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">ISH</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="border-bottom:.5pt solid black;
-  height:80.0pt;border-top:none" class="xl77" height="106" rowspan="2">Dance</td><td style="border-top:none" class="xl72">Monday</td><td style="border-top:none" class="xl72">2.00pm to 4.30pm</td><td style="border-top:none" class="xl73">Band Room</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl67" height="53">Thursday</td><td class="xl67">2.00pm to 4.30pm</td><td class="xl68">Band Room</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="border-bottom:.5pt solid black;
-  height:80.0pt;border-top:none" class="xl77" height="106" rowspan="2">Floorball</td><td style="border-top:none" class="xl72">Monday</td><td style="border-top:none" class="xl72">2.00pm to 5.00pm</td><td style="border-top:none" class="xl73">ISH</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl67" height="53">Friday</td><td class="xl67">2.00pm to 5.00pm</td><td class="xl68">ISH</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Environmental Science</td><td style="border-top:none" class="xl70">Monday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">Computer Lab 3</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="border-bottom:.5pt solid black;
-  height:80.0pt;border-top:none;width:187pt" width="249" class="xl79" height="106" rowspan="2">Guitar<br>(School Team both days)<br>(Rec Team on Friday only)</td><td style="border-top:none" class="xl72">Monday</td><td style="border-top:none" class="xl72">2.00pm to 4.30pm</td><td style="border-top:none" class="xl73">Music Room 1 and 2</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl67" height="53">Friday</td><td class="xl67">2.00pm to 4.30pm</td><td class="xl68">Music Room 1 and 2</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="border-bottom:.5pt solid black;
-  height:80.0pt;border-top:none" class="xl77" height="106" rowspan="2">Guzheng</td><td style="border-top:none" class="xl72">Monday</td><td style="border-top:none" class="xl72">2.00pm to 4.30pm</td><td style="border-top:none" class="xl73">PAL Room 1 and 2</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt" class="xl67" height="53">Friday</td><td class="xl67">2.00pm to 4.30pm</td><td class="xl68">PAL Room 1 and 2</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Infocomm Media</td><td style="border-top:none" class="xl70">Monday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">Teaching Lab</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Percussion</td><td style="border-top:none" class="xl70">Friday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">Dance Studio</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Robotics</td><td style="border-top:none" class="xl70">Monday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">Computer Lab 1 &amp; 2</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl69" height="53">Scouts</td><td style="border-top:none" class="xl70">Friday</td><td style="border-top:none" class="xl70">2.00pm to 4.30pm</td><td style="border-top:none" class="xl71">Teaching Lab and CCA Room</td></tr><tr style="mso-height-source:userset;height:40.0pt" height="53"><td style="height:40.0pt;border-top:none" class="xl74" height="53">Wushu</td><td style="border-top:none" class="xl75">Monday</td><td style="border-top:none" class="xl75">2.00pm to 4.30pm</td><td style="border-top:none" class="xl76">Level 3 and Level 4 Corridors</td></tr></tbody></table>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angklung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Studio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Rooms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Badminton
+<br>(School Team both days)
+<br>(Devt Team on Thurs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall &amp;
+<br>Indoor Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall &amp;
+<br>Indoor Sports Hall
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Basketball (School Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Trainees)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall /
+<br>Parade Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environmental Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Guitar
+<br>(School Team both days)
+<br>(Rec Team on Friday only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room 1 and 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room 1 and 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Guzheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL Room 1 and 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL Room 1 and 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club (Media)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media Resource Library (MRL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Percussion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1 &amp; 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level 3 and Level 4 Corridors</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
