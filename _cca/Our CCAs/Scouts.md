@@ -16,8 +16,9 @@ intellectual, emotional, social and spiritual capacities as individuals
 and as members of society, and thus contribute to the development of a
 better world.</p>
 <h3><strong>Sessions</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -29,6 +30,9 @@ better world.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,6 +40,9 @@ better world.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching Lab</p>
 </td>
 </tr>
 </tbody>
