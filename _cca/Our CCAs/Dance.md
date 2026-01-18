@@ -22,8 +22,9 @@ on the strong friendships forged and rapport between the dancers and teachers.</
 each dancer with the qualities that would carry them through their dance,
 academic and non-academic pursuits.</p>
 <h3><strong><u>Sessions</u></strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -35,6 +36,9 @@ academic and non-academic pursuits.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,6 +47,9 @@ academic and non-academic pursuits.</p>
 <td rowspan="1" colspan="1">
 <p>2:00pm - 4:30pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Band Room</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -50,6 +57,9 @@ academic and non-academic pursuits.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm - 4:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room</p>
 </td>
 </tr>
 </tbody>
