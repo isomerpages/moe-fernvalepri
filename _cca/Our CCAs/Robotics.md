@@ -23,8 +23,9 @@ innovators and problem-solvers of tomorrow.
 <br>Join us to explore the exciting world of robotics!</p>
 <p></p>
 <h3><strong>Session</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -36,6 +37,9 @@ innovators and problem-solvers of tomorrow.
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,6 +47,9 @@ innovators and problem-solvers of tomorrow.
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1</p>
 </td>
 </tr>
 </tbody>
