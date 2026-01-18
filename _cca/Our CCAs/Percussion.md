@@ -18,8 +18,9 @@ fun and creative.</p>
 <p>We aim to develop the students to acquire strong foundation in Percussion
 and cultivate appreciation of the samba percussion.</p>
 <h3><strong><u>Sessions</u></strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -31,6 +32,9 @@ and cultivate appreciation of the samba percussion.</p>
 <th rowspan="1" colspan="1">
 <p>Timing</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,6 +42,9 @@ and cultivate appreciation of the samba percussion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
 </td>
 </tr>
 </tbody>
