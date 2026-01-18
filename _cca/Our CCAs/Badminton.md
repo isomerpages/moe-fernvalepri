@@ -18,8 +18,9 @@ as a leader by taking up roles of organising and facilitating in warm-ups,
 trainings, intra-CCA and intra-school badminton competitions. More importantly,
 our shuttlers strives to inspire all Fernvalions by living to our mission
 of becoming not just “A Better Player”, but also “A Better Person”.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -31,6 +32,9 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,6 +42,9 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:30pm (Competition Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall &amp; Indoor Sports Hall</p>
 </td>
 </tr>
 <tr>
@@ -47,6 +54,9 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4.30pm (Competition Team)
 <br>2:00pm to 4:30pm (Developmental Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall &amp; Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
