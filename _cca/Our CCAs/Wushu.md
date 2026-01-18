@@ -15,8 +15,9 @@ coordination, and endurance, while also instilling discipline and respect.
 It's a safe and emerging sport, offering significant benefits for both
 health and character development.</p>
 <h3><strong><u>Sessions</u></strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -28,6 +29,9 @@ health and character development.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,6 +39,10 @@ health and character development.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:30pm (School Team &amp; Learning Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level 3 Foyer /
+<br>Level 4 Foyer</p>
 </td>
 </tr>
 </tbody>
