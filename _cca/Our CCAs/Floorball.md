@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
-<h1>Floorball</h1>
 <p>At Fernvale Primary School, we aim to encourage and develop the love for
 sports including Floorball. It is an exciting and a fast-paced game played
 indoors. Our up-and-rising team has achieved a lot since we first started.
@@ -33,12 +32,83 @@ greater victories with continuous parents’ support.</p>
 <p>Monday and Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm to 4:00pm (P3, P4)
-<br>2:00pm to 5:00pm (P4 School Team, P5 &amp; P6)</p>
+<p>2:00pm to 5:00pm</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong><u>Teachers</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fariz Husna Bin Sajani (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fariz_husna_sajani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fariz_husna_sajani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kelly Thong-Huo Luo Ting (Asst Sem 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kelly_thong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelly_thong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Iskandar Alamin Bin Salleh (Asst Sem 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:iskandar_alamin_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iskandar_alamin_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Seok Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_seok_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_seok_khim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Puvaneswary D/o Balakrishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:puvaneswary_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puvaneswary_balakrishnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teoh Hai Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teoh_hai_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">teoh_hai_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h1>Basketball</h1>
 <h3><u>Vision</u></h3>
 <p>To be a passionate, dedicated and life-long learning team of unique individuals.</p>
