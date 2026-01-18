@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
-<h1>Guitar Ensemble</h1>
 <p>The guitar is a string instrument of the chordophone family constructed
 from wood and strung with either nylon or steel strings.&nbsp;The modern
 guitar was preceded by the lute, vihuela, four-course renaissance guitar
