@@ -14,8 +14,9 @@ Team, selected from trainees, focuses on strong character and self-discipline,
 aligned with our school values. Join us to grow as both a player and a
 person!</p>
 <h3><strong><u>Session</u></strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -27,6 +28,9 @@ person!</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,6 +39,9 @@ person!</p>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 5:00pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>School Hall, Indoor Sports Hall, Parade Square</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,6 +49,9 @@ person!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall, Indoor Sports Hall, Parade Square</p>
 </td>
 </tr>
 </tbody>
