@@ -24,8 +24,9 @@ for all students with a love for music and guitar to learn and play together.</p
 <p>Students of any skill levels are encouraged to come and share their techniques
 with other members.</p>
 <h2><strong><u>Sessions</u></strong></h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -37,6 +38,9 @@ with other members.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,6 +49,9 @@ with other members.</p>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,6 +59,9 @@ with other members.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
 </td>
 </tr>
 </tbody>
