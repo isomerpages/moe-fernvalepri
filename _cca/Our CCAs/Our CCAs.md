@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/angklungkulintangensemble/" rel="noopener nofollow" target="_blank">Angklung &amp; Kulingtang</a>
+<p><a href="/angklung/" rel="noopener nofollow" target="_blank">Angklung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
