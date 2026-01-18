@@ -13,8 +13,9 @@ We have competed in the</p>
 up to attain the following achievements. We will continue to grow to achieve
 greater victories with continuous parents’ support.</p>
 <h4><strong><u>Sessions</u></strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -26,6 +27,9 @@ greater victories with continuous parents’ support.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,6 +37,9 @@ greater victories with continuous parents’ support.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
