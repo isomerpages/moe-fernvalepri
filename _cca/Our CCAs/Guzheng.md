@@ -23,8 +23,9 @@ the Certificate of Distinction&nbsp; according to the new award system.
 Our Guzheng pupils practised very hard for this presentation, and it has
 been a wonderful experience for them as well.</p>
 <h3><strong><u>Sessions</u></strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -36,6 +37,9 @@ been a wonderful experience for them as well.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,6 +48,9 @@ been a wonderful experience for them as well.</p>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4.30pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>PAL Room</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,6 +58,9 @@ been a wonderful experience for them as well.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL Room</p>
 </td>
 </tr>
 </tbody>
