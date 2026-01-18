@@ -44,7 +44,7 @@ are involved in most major school events.</p>
 <p>2pm - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching Lab</p>
+<p>Teaching Lab / MRL</p>
 </td>
 </tr>
 </tbody>
