@@ -15,8 +15,9 @@ coordination, and endurance, while also instilling discipline and respect.
 It's a safe and emerging sport, offering significant benefits for both
 health and character development.</p>
 <h3><strong><u>Sessions</u></strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -28,6 +29,9 @@ health and character development.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,6 +39,10 @@ health and character development.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:30pm (School Team &amp; Learning Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level 3 Foyer /
+<br>Level 4 Foyer</p>
 </td>
 </tr>
 </tbody>
@@ -61,23 +69,17 @@ health and character development.</p>
 <p>Mdm Teo Ching Whee (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_ching_whee@moe.edu.sg</p>
+<p><a href="mailto:teo_ching_whee@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_ching_whee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Xi Min Shermin</p>
+<p>Ms Lim Xi Min Shermin (Asst)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_xi_min_shermin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm V Sulaja</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>v_sulaja@moe.edu.sg</p>
+<p><a href="mailto:lim_xi_min_shermin@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_xi_min_shermin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +87,17 @@ health and character development.</p>
 <p>Mrs Chong-Loh Swee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_swee_ling@moe.edu.sg</p>
+<p><a href="mailto:loh_swee_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_swee_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Huang-Soh Chin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_chin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chin_yi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

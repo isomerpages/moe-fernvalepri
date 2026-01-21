@@ -18,8 +18,9 @@ as a leader by taking up roles of organising and facilitating in warm-ups,
 trainings, intra-CCA and intra-school badminton competitions. More importantly,
 our shuttlers strives to inspire all Fernvalions by living to our mission
 of becoming not just “A Better Player”, but also “A Better Person”.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -31,6 +32,9 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,6 +42,9 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:30pm (Competition Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall &amp; Indoor Sports Hall</p>
 </td>
 </tr>
 <tr>
@@ -47,6 +54,9 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4.30pm (Competition Team)
 <br>2:00pm to 4:30pm (Developmental Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall &amp; Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
@@ -73,7 +83,7 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mr Goh Tong Wee (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_tong_wee@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_tong_wee@moe.edu.sg</a>
+<p><a href="mailto:goh_tong_wee@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_tong_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +92,7 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mr Hadrian Chin Chun Kiat (asst)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="hadrian_chin_chun_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">hadrian_chin_chun_kiat@moe.edu.sg</a>
+<p><a href="mailto:hadrian_chin_chun_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">hadrian_chin_chun_kiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +101,7 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Ms Liu Hisang-Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="liu_hisang-chun@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_hisang-chun@moe.edu.sg</a>
+<p><a href="mailto:liu_hisang-chun@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_hisang-chun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -100,7 +110,7 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mdm Ng Peng Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_peng_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_peng_yong@moe.edu.sg</a>
+<p><a href="mailto:ng_peng_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_peng_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -109,7 +119,7 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Ms Jayne Anne Jayathi Krishnamurthi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jayne_anne_jayanthi_krishnamuthi@moe.edu.sg" rel="noopener nofollow" target="_blank">jayne_anne_jayanthi_krishnamuthi@moe.edu.sg</a>
+<p><a href="mailto:jayne_anne_jayanthi_krishnamuthi@moe.edu.sg" rel="noopener nofollow" target="_blank">jayne_anne_jayanthi_krishnamuthi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -118,7 +128,7 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 <p>Mdm Sokku Umaiyal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sokku_umaiyal@moe.edu.sg" rel="noopener nofollow" target="_blank">sokku_umaiyal@moe.edu.sg</a>
+<p><a href="mailto:sokku_umaiyal@moe.edu.sg" rel="noopener nofollow" target="_blank">sokku_umaiyal@moe.edu.sg</a>
 </p>
 </td>
 </tr>

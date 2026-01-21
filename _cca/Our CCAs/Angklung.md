@@ -1,11 +1,11 @@
 ---
-title: Angklung and Kulintang Ensemble
-permalink: /angklungkulintangensemble/
+title: Angklung
+permalink: /angklung/
 variant: tiptap
 description: ""
 third_nav_title: Our CCAs
 ---
-<h3><strong>Angklung and Kulintang Ensemble</strong></h3>
+<h3><strong>Angklung</strong></h3>
 <p>The Angklung and Kulintang Ensemble offers pupils a unique opportunity
 to explore traditional Southeast Asian musical heritage through hands-on
 experience with the angklung and kulintang. These instruments, made of
@@ -47,7 +47,73 @@ in public performance.</p>
 </div>
 </li>
 </ul>
-<p></p>
+<h3><strong>Session</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 4.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Teachers</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nuraini Binte Hamzah (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuraini_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraini_hamzah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Nien Chern Julianna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_nien_chern_juliana@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_nien_chern_juliana@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Performances</strong></h3>
 <p>Since its inception, the ensemble has showcased their talents in several
 school-wide events, including:</p>

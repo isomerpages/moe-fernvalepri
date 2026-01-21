@@ -83,7 +83,8 @@ peer support for their teams and showcase their artworks in the school.</p>
 <p>Ms Carolyn Poon Sook Fong (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poon_sook_fong@moe.edu.sg</p>
+<p><a href="mailto:poon_sook_fong@moe.edu.sg" rel="noopener nofollow" target="_blank">poon_sook_fong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +92,8 @@ peer support for their teams and showcase their artworks in the school.</p>
 <p>Mr Zachary Ng Eu Goi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zachary_ng_eu_goi@moe.edu.sg</p>
+<p><a href="mailto:zachary_ng_eu_goi@moe.edu.sg" rel="noopener nofollow" target="_blank">zachary_ng_eu_goi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,15 +101,17 @@ peer support for their teams and showcase their artworks in the school.</p>
 <p>Ms Wang Shuhui Ashley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wang_shuhui_a@moe.edu.sg</p>
+<p><a href="mailto:wang_shuhui_a@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_shuhui_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Li Shin</p>
+<p>Mdm Zubaidah Bte Sheik Mohammed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_li_shin@moe.edu.sg</p>
+<p><a href="mailto:zubaidah_sheik mohammed@moe.edu.sg" rel="noopener nofollow" target="_blank">zubaidah_sheik mohammed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

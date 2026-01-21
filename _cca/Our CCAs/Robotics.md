@@ -22,6 +22,73 @@ innovators and problem-solvers of tomorrow.
 <br>
 <br>Join us to explore the exciting world of robotics!</p>
 <p></p>
+<h3><strong>Session</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Teachers</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ansar Mohamed Sali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ansar_mohamed_sali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ansar_mohamed_sali@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Au Jun Duan Reuben</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:au_jun_duan_reuben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">au_jun_duan_reuben@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Our Programme</strong></h3>
 <p>
 <br>Over the past many years, the Upper Primary Club members had engaged in

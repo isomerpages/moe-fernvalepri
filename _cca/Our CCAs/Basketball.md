@@ -26,60 +26,21 @@ person!</p>
 <p>Day</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Team</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys
-<br>Junior Girls</p>
+<p>2:00pm to 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm to 3:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Boys
-<br>Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00pm to 4.30pm
-<br>2:00pm to 5:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Boys
-<br>Junior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00pm to 3:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Boys
-<br>Senior Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00pm to 4.30pm
-<br>2:00pm to 5:30pm</p>
+<p>School Hall, Indoor Sports Hall, Parade Square</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +48,10 @@ person!</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls</p>
+<p>2:00pm to 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm to 4:30pm</p>
+<p>School Hall, Indoor Sports Hall, Parade Square</p>
 </td>
 </tr>
 </tbody>
@@ -117,7 +78,7 @@ person!</p>
 <p>Mr Low Dong Neng (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="low_dong_neng@moe.edu.sg" rel="noopener nofollow" target="_blank">low_dong_neng@moe.edu.sg</a>
+<p><a href="mailto:low_dong_neng@moe.edu.sg" rel="noopener nofollow" target="_blank">low_dong_neng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -126,7 +87,7 @@ person!</p>
 <p>Mr Hng Jun Xun Grayson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="hng_jun_xun_grayson@moe.edu.sg" rel="noopener nofollow" target="_blank">hng_jun_xun_grayson@moe.edu.sg</a>
+<p><a href="mailto:hng_jun_xun_grayson@moe.edu.sg" rel="noopener nofollow" target="_blank">hng_jun_xun_grayson@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -135,7 +96,7 @@ person!</p>
 <p>Mr Rakesh Kishin Aswani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="rakesh_kishin_aswani@moe.edu.sg" rel="noopener nofollow" target="_blank">rakesh_kishin_aswani@moe.edu.sg</a>
+<p><a href="mailto:rakesh_kishin_aswani@moe.edu.sg" rel="noopener nofollow" target="_blank">rakesh_kishin_aswani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -144,7 +105,7 @@ person!</p>
 <p>Mdm Lim Siew Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_siew_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_siew_fang@moe.edu.sg</a>
+<p><a href="mailto:lim_siew_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_siew_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -153,7 +114,7 @@ person!</p>
 <p>Mdm Selvi d/o Ramasamy (Mrs Raja)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="selvi_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">selvi_ramasamy@moe.edu.sg</a>
+<p><a href="mailto:selvi_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">selvi_ramasamy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -162,7 +123,7 @@ person!</p>
 <p>Mr Aznahar Bin Baharudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="aznahar_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">aznahar_baharudin@moe.edu.sg</a>
+<p><a href="mailto:aznahar_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">aznahar_baharudin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
