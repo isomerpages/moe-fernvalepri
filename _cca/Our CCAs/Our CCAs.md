@@ -77,7 +77,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scouts</p>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/scouts/" rel="noopener nofollow" target="_blank">Scouts</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
