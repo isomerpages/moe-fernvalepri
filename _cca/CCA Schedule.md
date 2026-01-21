@@ -8,9 +8,8 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -29,10 +28,6 @@ variant: tiptap
 <p><strong>Time</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,9 +39,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,9 +49,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Rooms</p>
 </td>
 </tr>
 <tr>
@@ -74,10 +63,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 5.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>School Hall &amp;
-<br>Indoor Sports Hall</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,12 +70,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall &amp;
-<br>Indoor Sports Hall
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -103,9 +82,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 5.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,9 +89,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +101,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall /
-<br>Parade Square</p>
-</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -143,9 +112,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Band Room</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -153,9 +119,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Band Room</p>
 </td>
 </tr>
 <tr>
@@ -168,9 +131,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 5.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -178,9 +138,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall</p>
 </td>
 </tr>
 <tr>
@@ -192,9 +149,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 1</p>
 </td>
 </tr>
 <tr>
@@ -209,9 +163,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Music Room 1 and 2</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -219,9 +170,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Room 1 and 2</p>
 </td>
 </tr>
 <tr>
@@ -234,9 +182,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>PAL Room 1 and 2</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -244,9 +189,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PAL Room 1 and 2</p>
 </td>
 </tr>
 <tr>
@@ -259,9 +201,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Media Resource Library (MRL)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -272,9 +211,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Room</p>
 </td>
 </tr>
 <tr>
@@ -287,9 +223,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 1 &amp; 2</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -301,9 +234,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Teaching Lab</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -314,9 +244,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm to 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level 3 and Level 4 Corridors</p>
 </td>
 </tr>
 </tbody>
