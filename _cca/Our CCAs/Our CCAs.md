@@ -53,13 +53,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guzheng/" rel="noopener nofollow" target="_blank">Guzheng</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guitar-ensemble/" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guitar-ensemble/" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/guzheng/" rel="noopener nofollow" target="_blank">Guzheng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,11 +77,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
-</p>
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
