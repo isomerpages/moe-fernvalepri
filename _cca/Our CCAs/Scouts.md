@@ -102,12 +102,12 @@ better world.</p>
 </tr>
 </tbody>
 </table>
-<h2><strong><u>Programme Highlights</u></strong></h2>
-<h3><strong><u>Cub Scout Photos 2022</u></strong></h3>
-<h3><strong><u>Exploring Nature, Reliving History</u></strong></h3>
+<h2><strong>Programme Highlights</strong></h2>
+<h3><strong>Cub Scout Photos 2022</strong></h3>
+<h3><strong>Exploring Nature, Reliving History</strong></h3>
 <p>The cubs hiked through Fort Canning Park, where they learnt various historical
 fun facts, amidst lush greenery and artefacts from Singapore’s past.</p>
-<h3><strong><u>Exploring Nature, Reliving History</u></strong></h3>
+<h3><strong>Exploring Nature, Reliving History</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -136,7 +136,7 @@ fun facts, amidst lush greenery and artefacts from Singapore’s past.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong><u>Cooking up a storm</u></strong></h3>
+<h3><strong>Cooking up a storm</strong></h3>
 <p>A Scout is adept at surviving outdoors. Our cubs learn useful skills,
 such as outdoor cooking and tent pitching, which they get to put into practice
 during camp.</p>
@@ -146,7 +146,7 @@ during camp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Scouts/Picture4.png">
 </div>
-<h3><strong><u>Sharpening our minds</u></strong></h3>
+<h3><strong>Sharpening our minds</strong></h3>
 <p>When we are not having fun outdoors, our cubs also spend time exploring
 the sciences. Astrology, chemical reactions, and life cycles of animals
 are just about some of the things we learn about.</p>
@@ -178,7 +178,7 @@ are just about some of the things we learn about.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong><u>Activities</u></strong></h3>
+<h3><strong>Activities</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Scouts/2.jpg">
 </div>
