@@ -4,7 +4,7 @@ permalink: /our-departments/science/
 description: ""
 variant: tiptap
 ---
-<p>At our Science Department, we tap on students’ natural curiosity and adopts
+<p>At our Science Department, we tap on students’ natural curiosity and adopt
 an inquiry-based, student-centred approach in line with the Primary Science
 Curriculum Framework. Students construct their understanding of scientific
 concepts and develop process skills through hands-on exploration, guided
@@ -109,7 +109,7 @@ foster a love for science while nurturing teamwork, perseverance, and innovation
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQfQfteXsFZTbLjlTJx3boISU8igUdgRvsguCXFYY6q0QvIbiLa5xl97Uw7uQNLYkojc2Qv0Wjvujv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQfQfteXsFZTbLjlTJx3boISU8igUdgRvsguCXFYY6q0QvIbiLa5xl97Uw7uQNLYkojc2Qv0Wjvujv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3><strong>Useful Links</strong></h3>
 <ul data-tight="true" class="tight">
