@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<h3><strong>Primary 5 </strong></h3>
+<h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,7 +17,7 @@ third_nav_title: Our Staff
 <p>P5-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_shuhui_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Wang Shuhui Ashley </a>
+<p><a href="mailto:wang_shuhui_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Wang Shuhui Ashley </a>
 <br><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee Yong Soon</a>
 <br><a href="mailto:jin_zi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jin Zi</a>
 </p>
