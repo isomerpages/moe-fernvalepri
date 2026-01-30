@@ -73,6 +73,10 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
+<p>
+<br>At Fernvale Primary School, the following Sexuality Education lessons
+will be taught in 2026:</p>
+<h3><strong>2026 Sexuality Education Lessons in CCE</strong></h3>
 <h2>Primary 5</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/P5.jpg">
