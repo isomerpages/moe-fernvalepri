@@ -93,8 +93,8 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated&nbsp; to parents at the start of the year
-and is also downloadable <a href="https://form.gov.sg/6732c2c7bcfacbcd1ddd31da" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by <strong>20 February 2026</strong>.</p>
+and is also downloadable <strong><a href="https://form.gov.sg/6732c2c7bcfacbcd1ddd31da" rel="noopener nofollow" target="_blank">HERE</a></strong>.
+The completed opt-out form is to be submitted by <strong>20 February 2026</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong><em><a href="mailto:fernvale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fernvale_ps@moe.edu.sg</a></em></strong> or
 callus at <strong><em>63153051</em></strong> for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
