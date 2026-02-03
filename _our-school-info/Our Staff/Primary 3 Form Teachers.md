@@ -28,7 +28,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tong_hock_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tong Hock Chuan Alan </a>
-<br><a href="mailto:grace_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Grace Wong</a>
+<br><a href="mailto:wong_hui_li_victoria_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Wong Hui Li Victoria</a>
 </p>
 </td>
 </tr>
