@@ -108,55 +108,16 @@ variant: tiptap
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Semester 2</strong>
+<p><strong>Semester 1</strong>
 <br>
-<br><strong>Term 4</strong>
-<br><a href="/files/Parents Corner/Assessment Matters/2025_Primary_3_End_of_Year_Oral_Examination_.pdf" rel="noopener nofollow" target="_blank">2025 Primary 3 End of Year Oral Examination</a>
-<br><a href="/files/Parents Corner/Assessment Matters/2025_Primary_5_End_of_Year_Oral_examination.pdf" rel="noopener nofollow" target="_blank">2025 Primary 5 End of Year Oral Examination</a>
-<br><a href="/files/Parents Corner/Letters to Parents/2025_P3_Term_4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 3 Assessment Letter - Term 4</a>
-<br><a href="/files/Parents Corner/Letters to Parents/2025_P4_Term_4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 4 Assessment Letter - Term 4</a>
-<br><a href="/files/Parents Corner/Letters to Parents/2025_P5_Term_4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 5 Assessment Letter - Term 4</a>
-<br>
-<br><strong>Term 3</strong>
-</p>
-<p></p>
-<p><a href="/files/Assessment/2025%20T3/2025_P2_Semester_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Letter - Term 3</a>
-</p>
-<p><a href="/files/Assessment/2025%20T3/2025_P3_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Letter - Term 3</a>
-</p>
-<p><a href="/files/Assessment/2025%20T3/2025_P4_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Letter - Term 3</a>
-</p>
-<p><a href="/files/Assessment/2025%20T3/2025_P5_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Letter - Term 3</a>
-</p>
-<p><a href="/files/Assessment/2025%20T3/2025_P6_Term_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Letter - Term 3</a>
-</p>
-<p>
-<br><strong>Semester 1</strong>
-<br>
-<br><strong>Term 2</strong>
-</p>
-<p><a href="/files/Parents%20Corner/2025_P3_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Letter - Term 2</a>
-</p>
-<p><a href="/files/Parents%20Corner/2025_P4_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Letter - Term 2</a>
-</p>
-<p><a href="/files/Parents%20Corner/2025_P5_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Letter - Term 2</a>
-</p>
-<p><a href="/files/Parents%20Corner/2025_P6_Term_2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Letter - Term 2</a>
-</p>
-<p>
 <br><strong>Term 1</strong>
 </p>
-<p><a href="/files/Assessment/2025_P1_Semester_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Assessment Letter - Semester 1</a>
-</p>
-<p><a href="/files/Assessment/2025_P2_Semester_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Assessment Letter - Semester 1</a>
-</p>
-<p><a href="/files/Assessment/2025_P3_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment Letter - Term 1</a>
-</p>
-<p><a href="/files/Assessment/2025_P4_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment Letter - Term 1</a>
-</p>
-<p><a href="/files/Assessment/2025_P5_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Assessment Letter - Term 1</a>
-</p>
-<p><a href="/files/Assessment/2025_P6_Term_1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Assessment Letter - Term 1</a>
+<p><a href="/files/Assessment/2026/2026_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P2_Semester_1_Assessment_Letter_.pdf" rel="noopener nofollow" target="_blank">2026 P2 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P3_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P3 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P4_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P4 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P5_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P5 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P6_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P6 Semester 1 Assessment Letter</a>
 </p>
 </div>
 </details>
