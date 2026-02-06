@@ -74,14 +74,12 @@ variant: tiptap
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
+<p><a href="/files/Assessment/2026/2026_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
 <br><a href="/files/Assessment/2026/2026_P2_Semester_1_Assessment_Letter_.pdf" rel="noopener nofollow" target="_blank">2026 P2 Semester 1 Assessment Letter</a>
-<br><a href="/files/Assessment/2025_P3_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P3 Semester 1 Assessment Letter</a>
-<br><a href="/files/Assessment/2025_P4_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P4 Semester 1 Assessment Letter</a>
-<br><a href="/files/Assessment/2025_P5_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P5 Semester 1 Assessment Letter</a>
-<br><a href="/files/Assessment/2025_P6_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P6 Semester 1 Assessment Letter</a>
-<br>
-<br>
+<br><a href="/files/Assessment/2026/2026_P3_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P3 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P4_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P4 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P5_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P5 Semester 1 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P6_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P6 Semester 1 Assessment Letter</a>
 </p>
 </td>
 </tr>
