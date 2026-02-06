@@ -43,6 +43,12 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Assessment</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -50,67 +56,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>2025</strong>
-</p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p>Term 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Letter</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_001_Letter_to_Parents_Term_1_Final.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter to Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 March 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_30_Letter_to_Parents_Term_2.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 June 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_Letter_to_Parents___Term_3.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 September 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents Corner/Letters to Parents/2025_086_Letter_to_Parents___Term_4.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Assessment</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Semester 1</strong>
-<br><strong>Term 1</strong>
-</p>
 <p><a href="/files/Assessment/2026/2026_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
 <br><a href="/files/Assessment/2026/2026_P2_Semester_1_Assessment_Letter_.pdf" rel="noopener nofollow" target="_blank">2026 P2 Semester 1 Assessment Letter</a>
 <br><a href="/files/Assessment/2026/2026_P3_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P3 Semester 1 Assessment Letter</a>
@@ -118,6 +67,11 @@ variant: tiptap
 <br><a href="/files/Assessment/2026/2026_P5_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P5 Semester 1 Assessment Letter</a>
 <br><a href="/files/Assessment/2026/2026_P6_Term_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P6 Semester 1 Assessment Letter</a>
 </p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 </div>
 </details>
 </div>
