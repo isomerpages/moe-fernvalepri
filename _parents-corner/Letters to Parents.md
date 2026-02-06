@@ -49,6 +49,7 @@ variant: tiptap
 <summary><strong>Assessment</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p>Term</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Letter</p>
@@ -71,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan 2026</p>
+<p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
