@@ -109,7 +109,6 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Semester 1</strong>
-<br>
 <br><strong>Term 1</strong>
 </p>
 <p><a href="/files/Assessment/2026/2026_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
