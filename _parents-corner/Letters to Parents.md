@@ -49,7 +49,6 @@ variant: tiptap
 <summary><strong>Assessment</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
