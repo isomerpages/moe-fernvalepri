@@ -57,8 +57,16 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Assessment Letter</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+</td>
 <th rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2026/2026_P1_Semester_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P1 Semester 1 Assessment Letter</a>
 <br><a href="/files/Assessment/2026/2026_P2_Semester_1_Assessment_Letter_.pdf" rel="noopener nofollow" target="_blank">2026 P2 Semester 1 Assessment Letter</a>
