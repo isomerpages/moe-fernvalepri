@@ -2,7 +2,6 @@ collections:
   moe-kindergarten-at-fernvale:
     output: true
     order:
-      - EYC Partnership.md
       - MK@FV Open House 2026.md
       - About Us.md
       - MK@FV Team/.keep
@@ -20,4 +19,5 @@ collections:
       - Happenings in MK@FV/Ministers' Visits.md
       - Our Learning Environment.md
       - About KCare.md
+      - EYC Partnership.md
       - Contact Us.md
