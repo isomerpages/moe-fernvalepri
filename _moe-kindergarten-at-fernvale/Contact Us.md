@@ -4,7 +4,7 @@ permalink: /moe-kindergarten-at-fernvale/contactus/
 description: ""
 variant: markdown
 ---
-# Contact Us
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Contact_us.png)
 
 For more information on MOE Kindergarten Fernvale, <br>contact us at&nbsp;**63153051**,&nbsp;email&nbsp;us at&nbsp;[mk\_fernvale@moe.edu.sg](mailto:mk_fernvale@moe.edu.sg)&nbsp;
 <br>You can find us on our&nbsp;[Instagram](https://www.instagram.com/mk_fernvale/)&nbsp;and&nbsp;[Facebook](https://www.facebook.com/mkfernvale).
@@ -18,7 +18,7 @@ Alternatively, you can visit&nbsp;[www.moe.gov.sg/moekindergarten](http://www.mo
 
 
 # Locate Us
-![](/images/Fernvale_Slide1.jpg)
+![](/images/MOE%20Kindergarten%20@%20Fernvale/POSTER_MAP.png)
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.642490745356!2d103.87226277310043!3d1.3910538114459146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da166482272811%3A0x25b7545aeed23d59!2sMOE%20Kindergarten%20%40%20Fernvale!5e0!3m2!1sen!2ssg!4v1721726063543!5m2!1sen!2ssg"></iframe>
 
@@ -34,6 +34,3 @@ Singapore 790402
 
 **Operating Hours:**              
 Monday to Friday: 7:00am - 7:00pm
-
-
-![](/images/MOE%20Kindergarten%20@%20Fernvale/MOE_sticker_2023_for_MKs_04.jpg)
