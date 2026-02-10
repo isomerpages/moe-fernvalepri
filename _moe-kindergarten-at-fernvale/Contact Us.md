@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/MOE%20Kindergarten%20@%20Fernvale/Contact_us.png)
-![](/images/MOE%20Kindergarten%20@%20Fernvale/Contact_us_info.png)
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Contact_us_info_4.png)
 
 
 # Locate Us
