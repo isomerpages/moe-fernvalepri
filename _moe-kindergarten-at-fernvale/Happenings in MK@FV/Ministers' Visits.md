@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Happenings in MK@FV
 ---
-<h3>MK @ Fernvale collaboration with NIEC</h3>
+<h3>MK@Fernvale collaboration with NIEC</h3>
 <p>Watch this video to find out more as he shares about his preschool days
 and the importance of early childhood education!</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/miNYFfaSEA0?si=58QCQasYTuUlQboV"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/miNYFfaSEA0?si=58QCQasYTuUlQboV"></iframe>
 </div>
 <h3>Then-Minister Lawrence Wong for Ministry of Education</h3>
 <p>Our then-Minister Lawrence Wong for Ministry of Education came to visit
