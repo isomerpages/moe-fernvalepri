@@ -14,6 +14,15 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: MK@FV Open House 2026
+      subtitle: COME VISIT OUR HAPPY PLACE!
+      id: infopic
+      button: Click for more info
+      url: https://www.fernvalepri.moe.edu.sg/mk-fv-open-house-2026/
+      image: /images/MOE Kindergarten @
+        Fernvale/Staff_WP_MOE_Kindergarten___Fernvale_Siti_Raudhah_Binte_Haidir_9.jpg
+      alt: Image alt text
+  - infopic:
       title: Learning for Life and Applied Learning Programmes
       id: infopic
       description: C.A.R.E (Contributing Actively; Reimagining our Environment) is
