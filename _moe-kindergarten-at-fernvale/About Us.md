@@ -5,19 +5,7 @@ description: ""
 variant: markdown
 image: /images/MOE Kindergarten @ Fernvale/PIC 7.jpg
 ---
-![](/images/MOE%20Kindergarten%20@%20Fernvale/MK_Vision__On_to_a_strong_start_.jpg)
-# About Us
-![](/images/MOE%20Kindergarten%20@%20Fernvale/2.png)
-## Our Vision and Mission  
-To provide A Strong Start for Every Child, by providing a quality pre-school education that is affordable to Singaporeans and catalyzing quality improvements in the sector.  
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Welcome.png)
+![](/images/MOE%20Kindergarten%20@%20Fernvale/Values_2.png)
 
-In line with our beliefs that young children are curious, active and competent learners, we aim to nurture children holistically, so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.
-
-## Our Values 
-
-|       |                                   |
-|----------------|--------------------------------------------------------------------------|
-| Honesty        |  Be truthful and know what is right                                      |
-| Care           |  Be caring and attentive to own and others’ needs                        |
-| Responsibility |  Be able to take ownership of own learning, develop greater independence |
-| Respect        |  Be appreciative and respectful to own self and others                   |
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GdNOma2TxPw?si=5mSb9gAx4gpfFczL" height="315" width="560"></iframe>
