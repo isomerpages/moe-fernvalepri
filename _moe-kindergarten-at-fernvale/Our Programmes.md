@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Our_programme_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Overview.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/Overview_4.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten @ Fernvale/EL_Starlight.png">
