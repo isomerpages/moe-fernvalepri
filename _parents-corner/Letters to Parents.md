@@ -71,6 +71,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2026/2026_P3_Term_2_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P3 Term 2 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P4_Term_2_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P4 Term 2 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P5_Term_2_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P5 Term 2 Assessment Letter</a>
+<br><a href="/files/Assessment/2026/2026_P6_Term_2_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2026 P6 Term 2 Assessment Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
