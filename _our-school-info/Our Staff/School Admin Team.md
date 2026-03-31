@@ -58,19 +58,19 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Customer Service Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:saniah_nadin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Saniah Bte Nadin</a>
+<p><a href="mailto:goh_guan_chew@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Eileen Goh Guan Chew</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Customer Service Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_guan_chew@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Eileen Goh Guan Chew</a>
+<p><a href="mailto:teo_mui_woon_stephanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Teo Mui Woon Stephanie</a>
 </p>
 </td>
 </tr>
@@ -88,6 +88,22 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Makasvery D/O Periakaruppan C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khoo Cheng Khing Sally</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tunggamah Amah</p>
 </td>
 </tr>
 <tr>
