@@ -49,7 +49,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wei_wei_eleanor@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Eleanor Tham - Leong Wei Wei </a>
-<br><a href="mailto:tan_hoe_tsong_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Hoe Tsong</a>
+<br><a href="mailto:chong_chia_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chong Chia Yee</a>
+<br><a href="mailto:li_ziheng_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Li Ziheng</a>
 </p>
 </td>
 </tr>
