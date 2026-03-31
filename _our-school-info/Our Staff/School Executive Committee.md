@@ -479,15 +479,6 @@ third_nav_title: Our Staff
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive (MK)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chong Li Ping Claudia</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
