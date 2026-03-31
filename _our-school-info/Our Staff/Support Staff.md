@@ -33,7 +33,7 @@ third_nav_title: Our Staff
 <p>Science Lab Technician</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Lay Hwee Aiice</p>
+<p>Mdm Pang Lay Hwee Alice</p>
 </td>
 </tr>
 <tr>
