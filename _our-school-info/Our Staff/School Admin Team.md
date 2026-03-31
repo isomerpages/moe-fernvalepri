@@ -61,7 +61,7 @@ third_nav_title: Our Staff
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_mui_woon_stephanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Teo Mui Woon Stephanie</a>
+<p><a href="mailto:goh_guan_chew@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Eileen Goh Guan Chew</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ third_nav_title: Our Staff
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_guan_chew@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Eileen Goh Guan Chew</a>
+<p><a href="mailto:teo_mui_woon_stephanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Teo Mui Woon Stephanie</a>
 </p>
 </td>
 </tr>
