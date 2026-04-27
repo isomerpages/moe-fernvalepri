@@ -78,4 +78,12 @@ sections:
       alt: MOE Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/MOE Kindergarten @ Fernvale/3.png
+  - infopic:
+      title: Open House and CCA Showcase
+      id: infopic
+      description: We warmly invite you our Open House and CCA Showcase on 22 May 2026.
+      button: More information
+      url: x
+      image: /images/Open House/2026_FVPS_Open_House.jpg
+      alt: Image alt text
 ---
