@@ -2,10 +2,10 @@ collections:
   parents-corner:
     output: true
     order:
-      - Open House & CCA Showcase.md
       - MOE Sexuality Education Information for Parents.md
       - Letters to Parents.md
       - Fernvale Times.md
+      - Open House & CCA Showcase.md
       - Information Technology (ICT) Matters.md
       - Parents Support Group/.keep
       - Parents Support Group/About Us.md
