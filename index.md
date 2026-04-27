@@ -14,13 +14,12 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: MK@FV Open House 2026
-      subtitle: COME VISIT OUR HAPPY PLACE!
+      title: Open House and CCA Showcase
       id: infopic
-      button: Click for more info
-      url: https://www.fernvalepri.moe.edu.sg/mk-fv-open-house-2026/
-      image: /images/MOE Kindergarten @
-        Fernvale/Staff_WP_MOE_Kindergarten___Fernvale_Siti_Raudhah_Binte_Haidir_9.jpg
+      description: We warmly invite you our Open House and CCA Showcase on 22 May 2026.
+      button: More information
+      url: /open-house-cca-showcase/
+      image: /images/Open House/2026_FVPS_Open_House.jpg
       alt: Image alt text
   - infopic:
       title: Learning for Life and Applied Learning Programmes
@@ -71,6 +70,15 @@ sections:
           url: /yellow-flame-award/
   - resources:
       title: Student Calendar & Media
+  - infopic:
+      title: MK@FV Open House 2026
+      subtitle: COME VISIT OUR HAPPY PLACE!
+      id: infopic
+      button: Click for more info
+      url: https://www.fernvalepri.moe.edu.sg/mk-fv-open-house-2026/
+      image: /images/MOE Kindergarten @
+        Fernvale/Staff_WP_MOE_Kindergarten___Fernvale_Siti_Raudhah_Binte_Haidir_9.jpg
+      alt: Image alt text
   - infopic:
       title: Find out more about our MOE Kindergarten!
       subtitle: WHAT'S HAPPENING
