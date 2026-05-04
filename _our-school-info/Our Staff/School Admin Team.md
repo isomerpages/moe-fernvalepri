@@ -26,6 +26,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_mui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Mui Leng Catherine</a>
+<br><a href="mailto:loh_wan_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Loh Wan Leng</a>
 </p>
 </td>
 </tr>
