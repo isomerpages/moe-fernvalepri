@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2024_03_28_at_6_59_11_AM.jpg
+      background: /images/bannerv3.jpg
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
       variant: center
