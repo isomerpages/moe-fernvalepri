@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2024_03_28_at_6_59_11_AM.jpg
+      background: /images/bannerv3.jpg
       title: Fernvale Primary School
       subtitle: Dare to Aspire, Courage to Excel
       variant: center
@@ -30,22 +30,6 @@ sections:
       button: Find out more
       url: /alp/
       image: /images/LLP.jpg
-      alt: Image alt text
-  - infopic:
-      title: Our Short Stories
-      id: infopic
-      description: Short story ebook
-      button: Click to view short stories
-      url: http://go.gov.sg/sswc-2025
-      image: /images/storybook.jpg
-      alt: Image alt text
-  - infopic:
-      title: ⁠Storytelling Playlist
-      id: infopic
-      description: ⁠Storytelling Playlist
-      button: Click to view storytelling
-      url: http://go.gov.sg/stc-2025
-      image: /images/Storytelling.jpg
       alt: Image alt text
   - infobar:
       title: Rays of Appreciation@FVPS
