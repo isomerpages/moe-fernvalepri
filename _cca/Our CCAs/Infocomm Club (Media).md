@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
+<h1><strong>Infocomm Club (Media)</strong></h1>
 <h2><strong><u>Our Vision</u></strong></h2>
 <p>To enable a community that is constantly learning about digital media
 literacy.</p>
@@ -91,7 +92,7 @@ are involved in most major school events.</p>
 <p><strong>How Far Reel it Move? (Cotton Reel Tank)<br></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q6isjlh9f9w?si=DbqpbGo1QAJsnmuq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q6isjlh9f9w?si=DbqpbGo1QAJsnmuq"></iframe>
 </div>
 <p>
 <br>Credits: FVPS Media Club
@@ -112,7 +113,7 @@ officer, Mdm Lee Geok Lan, is always vigilant and helps to create a safe
 environment for us. Together, we build a strong school community in Fernvale
 Primary.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL1V__KpUrQgpFL9e0HjDffU21zMMP1cz6ZLqSsHPhN5RI03c5QaE5WqJx6DGOkjQtUZKCU7Zck8G3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL1V__KpUrQgpFL9e0HjDffU21zMMP1cz6ZLqSsHPhN5RI03c5QaE5WqJx6DGOkjQtUZKCU7Zck8G3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Credits to:</strong> Ng Ray Hong, Alexis Tan Le Xin, Lee Ci Ling
 Chloe</p>
@@ -131,7 +132,7 @@ as Care, Joy, Responsibility, Integrity, Graciousness, and Resilience.
 Our goal is to realize the values, make them our virtues, by living them
 in our daily lives on a regular basis.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZhowzLG3wljJ_gbB2iS-9UYid2MNj0sm4rpin-FUn6okktjzJU2Am7fR6hpIyjBoqTW0EtuzbIn5p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZhowzLG3wljJ_gbB2iS-9UYid2MNj0sm4rpin-FUn6okktjzJU2Am7fR6hpIyjBoqTW0EtuzbIn5p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Credits to:</strong> Teo Qiao Tian, Musfirah Binti Md Idrus, Jasmeera
 Farveen Binte Abdul Wahid</p>
@@ -141,7 +142,7 @@ Farveen Binte Abdul Wahid</p>
 <br>Credits to -&nbsp;Pek Qian Sheng,&nbsp;Charlotte M Tang Pei Ling,&nbsp;Nur
 Elly Marlisya Binte Syarul Askin</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w3cqfiFUWpM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w3cqfiFUWpM"></iframe>
 </div>
 <p>
 <br>
@@ -194,7 +195,7 @@ now must! Keeping our distance helps us stay safe and healthy.</p>
 daily lives, forcing us to adjust to our new normal. Wearing a mask is
 now must! Keeping our distance helps us stay safe and healthy.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOyJIXRdZFWEcRFhaDTcprc9lQvR4KdpgzD-5Ba-DFl2vBtLrZDFT5YbV9z76E8OnnFmyieNgpphku/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOyJIXRdZFWEcRFhaDTcprc9lQvR4KdpgzD-5Ba-DFl2vBtLrZDFT5YbV9z76E8OnnFmyieNgpphku/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Credits to:</strong> Tirunagari Visisht, Charlene Goh Wei Fang,
 Koh Kai Xin Alicia</p>
@@ -206,13 +207,13 @@ Koh Kai Xin Alicia</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3VfG69_SikU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3VfG69_SikU"></iframe>
 </div>
 <h2><strong>2020: MOE OSOS – Best Photo Story</strong></h2>
 <p>Theme: Priceless Moments
 <br>From Old Wooden Pallets to New Furniture</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQG-VCUDsq8EIwlUHWN8dPY-mWyD33wn7cPHe1oDoCt-Wy04M3QQ2hyhfiTOBMBkKxr6fzcio_8lWja/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQG-VCUDsq8EIwlUHWN8dPY-mWyD33wn7cPHe1oDoCt-Wy04M3QQ2hyhfiTOBMBkKxr6fzcio_8lWja/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Credits to:</strong> Cruz John Davidson Pascua, Carmen Liew Kai
 Xin, Hridik Paldiwal</p>
