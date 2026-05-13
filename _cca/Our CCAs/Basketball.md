@@ -5,9 +5,12 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
+<h1><strong>Basketball</strong></h1>
 <p>Our Basketball CCA strives to be a passionate, dedicated team of unique
 individuals, committed to lifelong learning. Our mission is to inspire
-and guide students to achieve high proficiency in basketball skills.</p>
+and guide students to achieve high proficiency in basketball skills.
+<br>
+</p>
 <p>We have Trainee Teams (P4-6, boys &amp; girls) where players develop their
 potential and learn responsibility, cooperation, and resilience. The School
 Team, selected from trainees, focuses on strong character and self-discipline,
