@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
-<h1>Dance</h1>
+<h1><strong>Dance</strong></h1>
 <p>The Dance CCA was one of the first CCAs to be set up when the school started.
 Through the years, we have brought pride and honour to the school, clinching
 four Gold with Honours Award in the Singapore Youth Festival Central Judging
