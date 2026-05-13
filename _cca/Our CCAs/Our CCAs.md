@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/dance/" rel="noopener nofollow" target="_blank">Environmental Science</a>
+<p><a href="https://www.fernvalepri.moe.edu.sg/cca/CCA-Write-Ups-Photos-and-Videos/environmental-science/" rel="noopener nofollow" target="_blank">Environmental Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
