@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
+<h1>Wushu</h1>
 <p>Our vision for Wushu is for every student to become a confident and courageous
 individual. Our mission is to inspire students to understand and appreciate
 Wushu and Chinese culture.</p>
