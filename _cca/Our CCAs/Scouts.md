@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
-<h3><strong>Introduction</strong></h3>
+<h1><strong>Scouts</strong><br><br><strong>Introduction</strong></h1>
 <p>Scouting is a international movement of self-education for young people.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Scouts/1.jpg">
