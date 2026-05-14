@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our CCAs
 ---
-<h3><strong>Angklung</strong></h3>
+<h1><strong>Angklung</strong></h1>
 <p>The Angklung and Kulintang Ensemble offers pupils a unique opportunity
 to explore traditional Southeast Asian musical heritage through hands-on
 experience with the angklung and kulintang. These instruments, made of
@@ -131,7 +131,7 @@ the very first time — a significant milestone in our musical journey.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpsVxpwtCcGPsEnJsy2ih8V47J6KBwZRJaKcjIZpm0CSb8aNeDVwGwx0u-6jgQeN4MukmHzUh7Qa4m/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpsVxpwtCcGPsEnJsy2ih8V47J6KBwZRJaKcjIZpm0CSb8aNeDVwGwx0u-6jgQeN4MukmHzUh7Qa4m/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>

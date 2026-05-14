@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
-<p>The Guzheng is one of the oldest chinese musical instruments known. There
+<h1>Guzheng</h1>
+<p>
+<br>The Guzheng is one of the oldest chinese musical instruments known. There
 are many techniques used in the playing of the guzheng, including basic
 plucking actions (right or both hands) at the right portion and pressing
 actions at the left portion (by the left hand to produce pitch ornamentations

@@ -1,10 +1,11 @@
 ---
 title: Environmental Science
-permalink: /cca/CCA-Write-Ups-Photos-and-Videos/environmental-science/
+permalink: /environmental-science/
 description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
+<h1><strong>Environmental Science</strong></h1>
 <h3><strong><u>Green Club 2019</u></strong></h3>
 <p>Members contributed actively to the environment and community through
 simple acts of green. Pupils will be the ambassadors for a number of initiatives

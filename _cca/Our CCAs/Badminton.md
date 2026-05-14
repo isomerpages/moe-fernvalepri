@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
+<h1><strong>Badminton</strong></h1>
 <p>Our vision for badminton is to foster a united team where every member
 grows, excels, and inspires one another. We believe in developing not only
 better badminton players but also better people. This commitment to holistic

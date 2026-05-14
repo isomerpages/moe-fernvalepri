@@ -1,10 +1,11 @@
 ---
 title: Percussion
-permalink: /cca/CCA-Write-Ups-Photos-and-Videos/percussion/
+permalink: /percussion/
 description: ""
 third_nav_title: Our CCAs
 variant: tiptap
 ---
+<h1><strong>Percussion</strong></h1>
 <p>A percussion instrument is a musical instrument that is sounded by being
 struck or scraped by a beater; struck, scraped or rubbed by hand or struck
 against another similar instrument.</p>
