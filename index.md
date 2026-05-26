@@ -70,4 +70,11 @@ sections:
       alt: MOE Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/MOE Kindergarten @ Fernvale/3.png
+  - infopic:
+      title: P6 Support Webinar 2026
+      id: infopic
+      button: Click to watch
+      url: https://www.youtube.com/watch?v=aQTLbkvP7JQ
+      image: /images/Parents Corner/p6.png
+      alt: Image alt text
 ---
