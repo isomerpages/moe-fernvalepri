@@ -18,6 +18,8 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_hoa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Chee Hoa Zac</a>
 </p>
+<p><a href="mailto:azli_othman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Azli Bin Othman</a>
+</p>
 </td>
 </tr>
 <tr>
