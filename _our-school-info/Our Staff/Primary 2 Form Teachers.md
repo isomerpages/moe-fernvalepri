@@ -89,7 +89,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hwee_ping_elsie@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Hwee Ping Elsie </a>
-<br><a href="mailto:ng_junhao@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Junhao Gary</a>
+<br><a href="mailto:nurul_murny_jubir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Murny Binte Jubir</a>
 </p>
 </td>
 </tr>
