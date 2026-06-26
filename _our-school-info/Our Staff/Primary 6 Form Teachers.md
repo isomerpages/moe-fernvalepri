@@ -18,7 +18,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_seok_khim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Soh Seok Khim</a> 
-<br><a href="mailto:tan_siew_lian_audrey@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Audrey Ortega - Tan Siew Lian</a> 
 <br><a href="mailto:iskandar_alamin_salleh@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Iskandar Alamin Bin Salleh</a>
 </p>
 </td>
@@ -60,7 +59,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amanda_lee_hui_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Amanda Galistan </a>
 <br><a href="mailto:hadrian_chin_chun_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Hadrian Chin Chun Kiat </a>
-<br><a href="mailto:woon_kai_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Woon Kai Ching</a>
+<br><a href="mailto:woon_kai_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Woon Kai Ching</a>
 </p>
 </td>
 </tr>
