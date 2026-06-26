@@ -14,18 +14,11 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p>Desktop Engineers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amira Fazeera Binti Ataman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Idham Bin Jasia</p>
+<p>Mdm Amira Fazeera Binti Ataman
+<br>Mr Muhammad Idham Bin Jasia</p>
 </td>
 </tr>
 <tr>
