@@ -233,6 +233,22 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="2">
 <p>
+<br><strong><u>Student Management</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_hwee_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Hwee Kiat</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
 <br><strong><u>Information &amp; Communications Technology</u></strong>
 </p>
 </td>
@@ -431,7 +447,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_tong_wee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Goh Tong Wee</a>
@@ -456,10 +472,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Managers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_hoa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Chee Hoa Zac</a>
+<br><a href="mailto: azil_othman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Azli Bin Othman</a>
 </p>
 </td>
 </tr>

@@ -67,8 +67,7 @@ third_nav_title: Our Staff
 <p>P3-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hajjah_marlina_kumar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hajjah Marlina Bte Kumar </a>
-<br><a href="mailto:kelly_thong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Kelly Thong - Hau Luo Ting</a> 
+<p><a href="mailto:hajjah_marlina_kumar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hajjah Marlina Bte Kumar </a> 
 <br><a href="mailto:megan_chua_sze_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Megan Chua Sze Ying</a>
 </p>
 </td>
