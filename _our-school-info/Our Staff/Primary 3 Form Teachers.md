@@ -49,6 +49,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ansar_mohamed_sali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ansar Mohamed Sali </a>
 <br><a href="mailto:lim_xi_min_shermin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Xi Min Shermin</a>
+<br><a href="mailto: li_ziheng_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Li Ziheng</a>
 </p>
 </td>
 </tr>
@@ -67,7 +68,7 @@ third_nav_title: Our Staff
 <p>P3-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hajjah_marlina_kumar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hajjah Marlina Bte Kumar </a> 
+<p><a href="mailto:hajjah_marlina_kumar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hajjah Marlina Bte Kumar </a>
 <br><a href="mailto:megan_chua_sze_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Megan Chua Sze Ying</a>
 </p>
 </td>
