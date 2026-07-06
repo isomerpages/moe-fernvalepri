@@ -38,7 +38,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noorhafidah_mohammd_hanafi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Noorhafidah Bte Mohammad Hanaf</a>i
-<br><a href="mailto:huang_weijin_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Huang Weijin,Vincent </a>
+<br><a href="mailto:vanessa_caneda_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Vanessa Caneda </a>
 <br><a href="mailto:vivek_vijaikumar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vivek Vijaikumar</a>
 </p>
 </td>
