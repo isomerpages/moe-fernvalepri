@@ -57,10 +57,173 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>English Language</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jeyananthini_jeyapal@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeyananthini Jeyapal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Mother Tongue </u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_siew_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ong Siew Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_huey_tyng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Huey Tyng Joanna</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aznahar_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Aznahar Bin Baharudin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Mathematics</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_shu_hui_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:geraldine_chua_shan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Geraldine Chua Shan Shan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Science</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bhavani_rajagopal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Bhavani Chandra</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_puay_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Teo - Ong Puay Hoon</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>PE &amp; CCA</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head PE / CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liza_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liza Binti Ismail</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information &amp; Communications Technology</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>21CC</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_weijin_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Huang Weijin Vincent</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Project Work</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_ying_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Teo Ying Zhi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -115,126 +278,12 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>School Staff Developer</u></strong>
+<td rowspan="1" colspan="1">
+<p><strong><u>Student Management</u></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:matthew_chua_cheng_qian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Chua Cheng Qian</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>English Language</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jeyananthini_jeyapal@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeyananthini Jeyapal</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Mathematics Department</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shu_hui_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_chua_shan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Geraldine Chua Shan Shan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Mother Tongue Languages Department</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_siew_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ong Siew Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_huey_tyng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Huey Tyng Joanna</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:aznahar_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Aznahar Bin Baharudin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Science Department</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bhavani_rajagopal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Bhavani Chandra</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_puay_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Teo - Ong Puay Hoon</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Student Management</u></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -247,84 +296,12 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Information &amp; Communications Technology</u></strong>
+<td rowspan="1" colspan="1">
+<p><strong><u>Character &amp; Citizenship Education</u></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_soon_gavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Gavin Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>PE &amp; CCA</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head PE / CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liza_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liza Binti Ismail</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>21CC</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:huang_weijin_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Huang Weijin Vincent</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head Project Work</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_ying_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Teo Ying Zhi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Special Education Needs</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>Special Educational Needs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Character &amp; Citizenship Education</u></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -357,9 +334,53 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Special Education Needs</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>Special Educational Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feroz_muhamad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Feroz Muhamad</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>School Staff Developer</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:matthew_chua_cheng_qian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Chua Cheng Qian</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Lead Teachers</u></strong>
+<p><strong><u>Lead Teachers</u></strong>
 </p>
 </td>
 </tr>
@@ -392,8 +413,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br><strong><u>Senior Teachers</u></strong>
+<p><strong><u>Senior Teachers</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -465,8 +485,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Operations</u></strong>
+<p><strong><u>Operations</u></strong>
 </p>
 </td>
 </tr>
@@ -482,8 +501,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>
-<br><strong><u>Administration</u></strong>
+<p><strong><u>Administration</u></strong>
 </p>
 </td>
 </tr>
