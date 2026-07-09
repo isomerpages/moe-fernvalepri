@@ -92,7 +92,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Assessment/2026/2026_P3_Term_3_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">P3 Term 3 Assessment Letter</a>
+<p><a href="/files/Assessment/2026/Updated_2026_P3_Term_3_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">P3 Term 3 Assessment Letter</a>
 </p>
 </li>
 <li>
