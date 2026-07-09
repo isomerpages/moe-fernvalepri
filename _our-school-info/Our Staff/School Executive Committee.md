@@ -75,7 +75,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mother Tongue </u></strong>
+<p><strong><u>Mother Tongue</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
