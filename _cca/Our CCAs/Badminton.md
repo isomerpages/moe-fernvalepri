@@ -55,7 +55,6 @@ of becoming not just “A Better Player”, but also “A Better Person”.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 5.00pm (Competition Team)
-<br>
 <br>2:00pm to 5:00pm (Developmental Team)</p>
 </td>
 <td rowspan="1" colspan="1">
