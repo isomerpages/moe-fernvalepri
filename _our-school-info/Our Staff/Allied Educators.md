@@ -84,15 +84,6 @@ third_nav_title: Our Staff
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT SENO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soh_sharon_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Soh Sharon</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
