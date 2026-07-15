@@ -5,12 +5,20 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://heyzine.com/flip-book/1265178c02.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/FT_sem_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026 Fernvale Times Semester 1</div><div class="isomer-card-link">Access to 2026 Fernvale Times Semester 1 Here</div></div></a>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -27,22 +35,6 @@ variant: tiptap
 <h4><strong>2025 Fernvale Times 1</strong></h4><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/ba809ef96a.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV1_2025.png"></a>
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>2024 Fernvale Times 4</strong></h4><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/897d9ab3f2.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T4_2024.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>2024 Fernvale Times 3</strong></h4><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/2a5cc5ead3.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T3_2024.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>2024 Fernvale Times 2</strong></h4><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/e885744808.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T2_2024.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<h4><strong>2025 Fernvale Times 1</strong></h4><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a249819d34.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Corner/Fernvale Times/FV_T1_2024.png"></a>
-</td>
 </tr>
 </tbody>
 </table>
