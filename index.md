@@ -13,6 +13,8 @@ sections:
       variant: center
       size: sm
       alignment: right
+      button: My School Through My Eyes
+      url: https://youtu.be/YpVpaYA-foQ?si=cI_zskKu3BIncSB3
   - infopic:
       title: Learning for Life and Applied Learning Programmes
       id: infopic
