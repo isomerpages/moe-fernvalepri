@@ -55,4 +55,10 @@ sections:
       alt: MOE Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/MOE Kindergarten @ Fernvale/3.png
+  - infobar:
+      title: My School Through My Eyes
+      id: infobar
+      description: Take a Look at Our Corporate Video
+      button: Look here
+      url: https://www.youtube.com/watch?v=YpVpaYA-foQ
 ---
