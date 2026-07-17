@@ -13,8 +13,12 @@ sections:
       variant: center
       size: sm
       alignment: right
-      button: My School Through My Eyes
-      url: https://youtu.be/YpVpaYA-foQ?si=cI_zskKu3BIncSB3
+  - infobar:
+      title: My School Through My Eyes
+      id: infobar
+      description: Take a Look at Our Corporate Video
+      button: Look here
+      url: https://www.youtube.com/watch?v=YpVpaYA-foQ
   - infopic:
       title: Learning for Life and Applied Learning Programmes
       id: infopic
@@ -55,10 +59,4 @@ sections:
       alt: MOE Kindergarten @ Fernvale
       url: https://www.fernvalepri.moe.edu.sg/moe-kindergarten-at-fernvale/about-us/
       image: /images/MOE Kindergarten @ Fernvale/3.png
-  - infobar:
-      title: My School Through My Eyes
-      id: infobar
-      description: Take a Look at Our Corporate Video
-      button: Look here
-      url: https://www.youtube.com/watch?v=YpVpaYA-foQ
 ---
