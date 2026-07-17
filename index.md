@@ -14,10 +14,9 @@ sections:
       size: sm
       alignment: right
   - infobar:
-      title: My School Through My Eyes
+      title: My School, Through My Eyes
       id: infobar
-      description: Take a Look at Our Corporate Video
-      button: Look here
+      button: Click here for video
       url: https://www.youtube.com/watch?v=YpVpaYA-foQ
   - infopic:
       title: Learning for Life and Applied Learning Programmes
