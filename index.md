@@ -13,6 +13,11 @@ sections:
       variant: center
       size: sm
       alignment: right
+  - infobar:
+      title: My School, Through My Eyes
+      id: infobar
+      button: Click here for video
+      url: https://www.youtube.com/watch?v=YpVpaYA-foQ
   - infopic:
       title: Learning for Life and Applied Learning Programmes
       id: infopic
