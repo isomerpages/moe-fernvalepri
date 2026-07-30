@@ -132,7 +132,10 @@ bookshop.</p>
 <p>The School uniform, PE attire and name tag are supplied by:
 <br><strong>Chop Kong Chong</strong>
 <br>604 Sembawang Road #02-12 Sembawang Shopping Centre S758459
-<br>Website: <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a>
+<br><strong><br>Click </strong><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/fps/" rel="noopener nofollow" target="_blank">HERE</a><strong> for Ordering of school uniform and PE attire</strong>
+<br>
+<br><strong>Click </strong><a href="https://www.euniforms.com.sg/nametag/product/name-tags-fernvale-primary-school-set-of-5/" rel="noopener nofollow" target="_blank">HERE</a><strong> for Ordering of name tags</strong>
+<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -175,15 +178,10 @@ bookshop.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><a href="/files/Our school info/Dates_for_bookshop_and_uniform_2024.pdf" rel="noopener nofollow" target="_blank">Dates for Bookshop and Uniform 2024</a>
-</p>
-<p></p>
 <h2>School Dentist</h2>
 <p>The School Dentist is located on Level 1, next to the school foyer.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -191,9 +189,6 @@ bookshop.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Operating Hours</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -206,9 +201,6 @@ bookshop.</p>
 <td rowspan="1" colspan="1">
 <p>8.00am to 5.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,9 +209,6 @@ bookshop.</p>
 <td rowspan="1" colspan="1">
 <p>1.00pm to 2.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -227,9 +216,6 @@ bookshop.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>85224156</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
