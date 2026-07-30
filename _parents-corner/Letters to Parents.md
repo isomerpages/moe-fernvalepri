@@ -41,10 +41,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents Corner/Letters to Parents/2026_Letter_to_Parents_Term_2.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents Corner/Letters to Parents/2026_Letter_to_Parents_Term_3.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter to Parents</a>
+</p>
 </td>
 </tr>
 </tbody>
