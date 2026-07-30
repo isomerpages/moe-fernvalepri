@@ -132,11 +132,9 @@ bookshop.</p>
 <p>The School uniform, PE attire and name tag are supplied by:
 <br><strong>Chop Kong Chong</strong>
 <br>604 Sembawang Road #02-12 Sembawang Shopping Centre S758459
-<br><strong><br>Ordering of school uniform and PE attire: </strong>
-<br><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/fps/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/product-category/primary-schools/fps/</a>
-</p>
-<p><strong>Ordering of name tags:  </strong>
-<br><a href="https://www.euniforms.com.sg/nametag/product/name-tags-fernvale-primary-school-set-of-5/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/nametag/product/name-tags-fernvale-primary-school-set-of-5/</a>
+<br><strong><br>Click </strong><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/fps/" rel="noopener nofollow" target="_blank">HERE</a><strong> for Ordering of school uniform and PE attire</strong>
+<br>
+<br><strong>Click </strong><a href="https://www.euniforms.com.sg/nametag/product/name-tags-fernvale-primary-school-set-of-5/" rel="noopener nofollow" target="_blank">HERE</a><strong> for Ordering of name tags</strong>
 <br>
 </p>
 <table style="minWidth: 50px">
