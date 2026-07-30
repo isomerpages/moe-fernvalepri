@@ -68,7 +68,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SWO (Untrained)</p>
+<p>SWO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_syazwani_mohamed_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Syazwani Binte Mohamed Salim</a>
