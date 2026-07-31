@@ -174,7 +174,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head PE / CCA</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liza_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liza Binti Ismail</a>
@@ -288,7 +288,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_hwee_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Hwee Kiat</a>
